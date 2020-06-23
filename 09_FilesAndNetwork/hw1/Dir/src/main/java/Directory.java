@@ -17,7 +17,6 @@ public class Directory {
             FileVizitor fileVizitor = new FileVizitor();
             if (!path.toFile().isDirectory()) {
                 System.out.println("ИЗВИНИТЕ, " + path.toAbsolutePath() + " - не папка");
-
             } else {
                 String GetFileSize;
 
@@ -28,7 +27,8 @@ public class Directory {
                 long SizeInByte = fileVizitor.getSize();
                 System.out.println("Общий размер - " + SizeInByte + " байт");
 
-                System.out.println(humanReadableByteCountBin(SizeInByte));
+                GetFileSize = humanReadableByteCountBin(SizeInByte);
+                System.out.println(GetFileSize);
             }
 
         } catch (Exception e) {
@@ -38,7 +38,6 @@ public class Directory {
             for (var info : methods)
                 System.out.println(info);
             System.out.println(e);
-
         }
     }
 
@@ -60,7 +59,7 @@ public class Directory {
     static class FileVizitor extends SimpleFileVisitor<Path> {
         private int foldersCount = 0;
         private int filesCount = 0;
-        private int size = 0;
+        private long size = 0;
 
         public int getFilesCount() {
             return filesCount;
@@ -70,7 +69,7 @@ public class Directory {
             return foldersCount;
         }
 
-        public int getSize() {
+        public long getSize() {
             return size;
         }
 
