@@ -24,7 +24,8 @@ public class Directory {
                 Files.walkFileTree(path, fileVizitor);
                 System.out.println("Всего папок - " + (fileVizitor.getFoldersCount() - 1));
                 System.out.println("Всего файлов - " + fileVizitor.getFilesCount());
-                Integer SizeInByte = fileVizitor.getSize();
+
+                long SizeInByte = fileVizitor.getSize();
                 System.out.println("Общий размер - " + SizeInByte + " байт");
 
                 System.out.println(humanReadableByteCountBin(SizeInByte));
