@@ -1,5 +1,7 @@
+import java.io.BufferedReader;
 import java.io.File;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -9,17 +11,25 @@ import java.util.ArrayList;
 public class Copying {
 
     public static void main(String[] args) throws InterruptedException, IOException {
-        ArrayList<String> selectFiles = new ArrayList<>();
-        File folder = new File("путь");
-        File[] listOfFiles = folder.listFiles();
+        try (BufferedReader reader = new BufferedReader(new InputStreamReader(System.in))) {
 
-        for (File f : listOfFiles) {
-            selectFiles.add(f + "");
+            System.out.println("Введите путь до папки: ");
+            Path path = Paths.get(reader.readLine());
+
+            ArrayList<String> selectFiles = new ArrayList<>();
+            File folder = new File("путь");
+            File[] listOfFiles = folder.listFiles();
+
+            for (File f : listOfFiles) {
+                selectFiles.add(f + "");
+            }
+
+            File source = new File(" " + selectFiles);// ПОЛУЧАЮ СПИСОК ФАЙЛОВ ПРИСВАИВАЮ ПЕРЕМЕННУЮ С ФАЙЛАМИ
+            File dest = new File("путь");// ПРОПИСЫВАЮ ПУТЬ КУДА КОПИРОВАТЬ
+            copy(source, dest);
+        }catch (Exception ex){
+            System.out.println(ex);
         }
-
-        File source = new File(" " + selectFiles);// ПОЛУЧАЮ СПИСОК ФАЙЛОВ ПРИСВАИВАЮ ПЕРЕМЕННУЮ С ФАЙЛАМИ
-        File dest = new File("путь");// ПРОПИСЫВАЮ ПУТЬ КУДА КОПИРОВАТЬ
-        copy(source, dest);
     }
 
     public static void copy(File source, File dest) throws IOException {

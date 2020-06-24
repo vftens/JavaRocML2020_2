@@ -18,17 +18,18 @@ public class Directory {
             if (!path.toFile().isDirectory()) {
                 System.out.println("ИЗВИНИТЕ, " + path.toAbsolutePath() + " - не папка");
             } else {
-                String GetFileSize;
+                String getFileSize;
+                long sizeInByte;
 
                 Files.walkFileTree(path, fileVizitor);
                 System.out.println("Всего папок - " + (fileVizitor.getFoldersCount() - 1));
                 System.out.println("Всего файлов - " + fileVizitor.getFilesCount());
 
-                long SizeInByte = fileVizitor.getSize();
-                System.out.println("Общий размер - " + SizeInByte + " байт");
+                sizeInByte = fileVizitor.getSize();
+                System.out.println("Общий размер - " + sizeInByte + " байт");
 
-                GetFileSize = humanReadableByteCountBin(SizeInByte);
-                System.out.println(GetFileSize);
+                getFileSize = humanReadableByteCountBin(sizeInByte);
+                System.out.println(getFileSize);
             }
 
         } catch (Exception e) {
@@ -47,10 +48,15 @@ public class Directory {
             return bytes + " B";
         }
         long value = absB;
-        CharacterIterator ci = new StringCharacterIterator("KMGTPE");
+        CharacterIterator ci = new StringCharacterIterator("KMGTPE");  // countable letter of bytes power
         for (int i = 40; i >= 0 && absB > 0xfffccccccccccccL >> i; i -= 10) {
-            value >>= 10;
-            ci.next();
+            // while absB > сдвинутого вправо на 10*(0..5) бит
+            // а 0xfffccccccccccccL это то что Билл Гейтс или Путин назвали Ясно Формулировать -
+            // это близкое к максимальному значение которое мы сдвигаем на 40..30..20..10..0 бит, пока
+            // не найдем подходящую Букву обозначающую нашу размерность множителя байт.
+            // for i = 40 downto 0 step -10
+            value >>= 10;  // сдвиг вправо на 10 бит значения в байтах
+            ci.next();  // считаем следующую букву множителя байт
         }
         value *= Long.signum(bytes);
         return String.format("%.1f %ciB", value / 1024.0, ci.current());

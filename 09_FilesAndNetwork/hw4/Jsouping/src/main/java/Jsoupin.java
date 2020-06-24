@@ -1,4 +1,4 @@
-//import java.sql.Connection;
+import java.sql.Connection;
 
 public class Jsoupin {
     public boolean crawl(String url){
@@ -36,5 +36,20 @@ public class Jsoupin {
                 Log.d("TITLE", contents.text());
             }
         } //...\\\
+        catch (Exception ex){
+            System.out.println(ex);
+        }
+    }
+
+    public void get_attr(){
+        Elements imgTags = docTxt.select("img");
+        //или
+        //Elements imgTags = docTxt.getElementsByTag("img");
+        for (Element img : imgTags)
+        {
+            String url = img.attr("abs:src");
+            urlList.add( url );
+            Log.d("URL", url );
+        }
     }
 }
