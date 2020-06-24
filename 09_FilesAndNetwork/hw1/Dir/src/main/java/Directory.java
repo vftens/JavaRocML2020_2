@@ -38,7 +38,9 @@ public class Directory {
 
             for (var info : methods)
                 System.out.println(info);
-            System.out.println(e);
+
+            e.printStackTrace();
+            System.out.println("Ошибка ");
         }
     }
 
