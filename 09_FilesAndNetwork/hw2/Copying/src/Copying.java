@@ -81,7 +81,8 @@ public class Copying {
 
         @Override
         public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
-
+            size += attrs.size();
+            ++filesCount;
             return super.visitFile(file, attrs);
         }
 
