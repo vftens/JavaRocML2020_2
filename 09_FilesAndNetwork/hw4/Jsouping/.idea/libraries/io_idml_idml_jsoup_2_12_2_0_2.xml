@@ -1,0 +1,43 @@
+<component name="libraryTable">
+  <library name="io.idml:idml-jsoup_2.12:2.0.2" type="repository">
+    <properties maven-id="io.idml:idml-jsoup_2.12:2.0.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/idml-jsoup_2.12-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.12.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/idml-core_2.12-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/idml-datanodes_2.12-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joda-time-2.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joda-convert-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mail-1.5.0-b01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/activation-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-27.0-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/failureaccess-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsr305-3.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/checker-qual-2.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/error_prone_annotations-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/j2objc-annotations-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/animal-sniffer-annotations-1.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spire_2.12-0.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spire-macros_2.12-0.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spire-platform_2.12-0.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spire-util_2.12-0.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/machinist_2.12-0.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-reflect-2.12.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/algebra_2.12-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cats-core_2.12-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cats-macros_2.12-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cats-kernel_2.12-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/re2j-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/idml-lang_2.12-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/antlr4-4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/antlr4-runtime-4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.abego.treelayout.core-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/atto-core_2.12-0.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsoup-1.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
