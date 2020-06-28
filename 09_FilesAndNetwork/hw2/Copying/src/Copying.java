@@ -4,7 +4,6 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.nio.file.*;
 import java.nio.file.attribute.BasicFileAttributes;
-import java.util.ArrayList;
 
 import static java.nio.file.Files.createDirectory;
 
@@ -22,44 +21,24 @@ public class Copying {
             if (!path.toFile().isDirectory()) {
                 System.out.println("ИЗВИНИТЕ, " + path.toAbsolutePath() + " - не папка");
             } else {
-                if (!pathB.toFile().isDirectory()) {
-                    createDirectory(pathB);  // создаем отсутствующую директорию
-                    //System.out.println("ИЗВИНИТЕ, " + path.toAbsolutePath() + " - не папка");
-                }
                 long sizeInByte;
 
+                if (!pathB.toFile().isDirectory()) {
+                    createDirectory(pathB);  // создаем отсутствующую директорию
+                }
+
                 Files.walkFileTree(path, fileVizitor);
+                copyDir(String.valueOf(path), String.valueOf(pathB)); // dest;
                 System.out.println("Всего папок - " + (fileVizitor.getFoldersCount() - 1));
-                System.out.println("Всего файлов - " + fileVizitor.getFilesCount());
+                System.out.println("Всего скопировано файлов - " + fileVizitor.getFilesCount());
 
                 sizeInByte = fileVizitor.getSize();
                 System.out.println("Общий размер - " + sizeInByte + " байт");
-
-
             }
-
-            /*
-            ArrayList<String> selectFiles = new ArrayList<>();
-            File folder = new File(String.valueOf(pathB));
-            File[] listOfFiles = folder.listFiles();
-
-            for (File f : listOfFiles) {
-                selectFiles.add(f + "");
-            }
-
-            File source = new File(" " + selectFiles);// ПОЛУЧАЮ СПИСОК ФАЙЛОВ ПРИСВАИВАЮ ПЕРЕМЕННУЮ С ФАЙЛАМИ
-            File dest = new File(String.valueOf(pathB));// ПРОПИСЫВАЮ ПУТЬ КУДА КОПИРОВАТЬ
-
-             */
-            copyDir(String.valueOf(path), String.valueOf(pathB)); // dest;
         } catch (Exception ex) {
             System.out.println(ex);
             ex.printStackTrace();
         }
-    }
-
-    public static void copy(File source, File dest) throws IOException {
-        Files.copy(source.toPath(), dest.toPath());
     }
 
     static class FileVizitor extends SimpleFileVisitor<Path> {
@@ -103,13 +82,5 @@ public class Copying {
             for (File file : listOfFiles)
                 Files.copy(file.toPath(), destDir.resolve(file.getName()), StandardCopyOption.REPLACE_EXISTING);
         }
-
     }
-
-    private static void copyFiles(File[] listOfFiles) throws IOException {
-        for (File f : listOfFiles) {
-            Files.copy(f.toPath(), new File("путь" + File.separator + f.getName()).toPath());
-        }
-    }
-
 }
