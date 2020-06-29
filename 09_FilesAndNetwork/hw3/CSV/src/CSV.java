@@ -12,7 +12,7 @@ import au.com.bytecode.opencsv.CSVReader;
 public class CSV {
     @SuppressWarnings("resource")
     private static final String FILE = "movementList.csv";
-    private static final boolean Debug = false; //false; //true;
+    private static final boolean Debug = false;
 
     public static List<SpendNote> spendsList = new ArrayList<>();
     public static List<ProfitNote> profitsList = new ArrayList<>();
@@ -22,7 +22,7 @@ public class CSV {
         //Build reader instance
         List<String[]> allRows;
         String line = "";
-        String cvsSplitBy = ",;";
+
 
         try (CSVReader reader = new CSVReader(new FileReader(FILE), ',', '"', 1)) {
             //Read all rows at once
@@ -30,20 +30,16 @@ public class CSV {
         }
         //Read CSV line by line and use the string array as you want
         for (String[] row : allRows) {
-
             if (Debug) for (String r : row) {
                 System.out.println(r);
             }
             line = Arrays.toString(row);
             if (Debug) System.out.println(line);
-            String[] splitDoc = line.split(cvsSplitBy);
-            if (Debug) System.out.println(Arrays.toString(splitDoc));
-            //splitDoc.group
+
             Pattern SPENDING_PATTERN = Pattern.compile("([/|\\\\]\\s?\\w+\\s?\\w+?\\s?>?\\w+\\s{4})");
-            Matcher spendMatch = SPENDING_PATTERN.matcher(line); //splitDoc[0]); // 5
+            Matcher spendMatch = SPENDING_PATTERN.matcher(line);
             if (spendMatch.find()) {
-                String spendType = spendMatch.group(1).substring(1).trim();
-                spendType = row[4];
+                String spendType = row[4];
                 if (Debug) System.out.println("spendType = " + spendType);
                 if (Debug) System.out.println(spendMatch.groupCount());
                 SpendNote spendNote = new SpendNote(spendType,
@@ -56,13 +52,6 @@ public class CSV {
                         Double.parseDouble(row[6].replaceAll(",", ".")),
                         Double.parseDouble(row[7].replaceAll(",", ".")));  // splitDoc
                 transactions.add(transaction);
-
-                /*if (Debug && spendNote.getMoney() > 0)
-                    System.out.printf("%s %.2f\n", spendNote.getSpendCase(),
-                            //spendType,
-                            spendNote.getMoney());
-
-                 */
             }
         }
 
