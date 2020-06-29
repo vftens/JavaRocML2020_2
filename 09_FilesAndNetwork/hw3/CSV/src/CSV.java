@@ -23,7 +23,6 @@ public class CSV {
         List<String[]> allRows;
         String line = "";
 
-
         try (CSVReader reader = new CSVReader(new FileReader(FILE), ',', '"', 1)) {
             //Read all rows at once
             allRows = reader.readAll();
