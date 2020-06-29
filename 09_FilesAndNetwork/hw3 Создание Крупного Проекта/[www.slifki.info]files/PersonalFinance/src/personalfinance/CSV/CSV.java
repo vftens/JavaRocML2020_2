@@ -32,6 +32,7 @@ public class CSV {
         }
         //Read CSV line by line and use the string array as you want
         for (String[] row : allRows) {
+            
             if (Debug) for (String r : row) {
                 System.out.println(r);
             }
