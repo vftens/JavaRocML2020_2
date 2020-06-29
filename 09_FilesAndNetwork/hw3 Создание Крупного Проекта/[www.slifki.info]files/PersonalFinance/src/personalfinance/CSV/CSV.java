@@ -9,7 +9,6 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
-import personalfinance.CSV.*;
 import au.com.bytecode.opencsv.CSVReader;
 
 public class CSV {
@@ -32,7 +31,7 @@ public class CSV {
         }
         //Read CSV line by line and use the string array as you want
         for (String[] row : allRows) {
-            
+
             if (Debug) for (String r : row) {
                 System.out.println(r);
             }
