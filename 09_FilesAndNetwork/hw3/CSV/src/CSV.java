@@ -67,8 +67,9 @@ public class CSV {
 
         System.out.println("Суммы расходов по организациям:");
         for (SpendNote s : spendsList) {
-            if (s.getMoney() > 0) {
-                System.out.printf("%s %.2f руб. \n", s.getSpendCase(), s.getMoney());
+            double sum = s.getMoney();
+            if (sum > 0) {
+                System.out.printf("%s %.2f руб. \n", s.getSpendCase(), sum);
             }
         }
     }

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PersonalFinance">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/[www.slifki.info]files/PersonalFinance/dist/PersonalFinance.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
