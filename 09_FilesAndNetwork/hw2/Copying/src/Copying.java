@@ -9,6 +9,8 @@ import static java.nio.file.Files.createDirectory;
 
 public class Copying {
 
+    static String target;
+
     public static void main(String[] args) throws InterruptedException, IOException {
         try (BufferedReader reader = new BufferedReader(new InputStreamReader(System.in))) {
 
@@ -17,6 +19,7 @@ public class Copying {
             System.out.println("Введите путь до конечной папки Б");
             Path pathB = Paths.get(reader.readLine());
 
+            target = String.valueOf(pathB);
             FileVizitor fileVizitor = new FileVizitor();
             if (!path.toFile().isDirectory()) {
                 System.out.println("ИЗВИНИТЕ, " + path.toAbsolutePath() + " - не папка");
@@ -28,7 +31,7 @@ public class Copying {
                 }
 
                 Files.walkFileTree(path, fileVizitor);
-                copyDir(String.valueOf(path), String.valueOf(pathB)); // dest;
+                //copyDir(String.valueOf(path), String.valueOf(pathB)); // dest;
                 System.out.println("Всего папок - " + (fileVizitor.getFoldersCount() - 1));
                 System.out.println("Всего скопировано файлов - " + fileVizitor.getFilesCount());
 
@@ -68,6 +71,8 @@ public class Copying {
         @Override
         public FileVisitResult postVisitDirectory(Path dir, IOException exc) throws IOException {
             ++foldersCount;
+
+            copyDir(String.valueOf(dir), target);
             return super.postVisitDirectory(dir, exc);
         }
     }
