@@ -10,5 +10,6 @@
     <orderEntry type="library" name="Java EE 6-Java EE 6" level="project" />
     <orderEntry type="library" name="org.hibernate:hibernate-annotations:3.5.6-Final" level="project" />
     <orderEntry type="library" name="eu.fraho.spring:security-jwt-hibernate-spring-boot-starter:4.2.0" level="project" />
+    <orderEntry type="library" name="mysql-connector-java-8.0.20" level="project" />
   </component>
 </module>

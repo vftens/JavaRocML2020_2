@@ -22,18 +22,18 @@ public class Main {
                     "GROUP BY c.name  " +
                     "ORDER BY c.name";
 
-                ResultSet resultSet =
-                        statement.executeQuery(SQLstr);
-                System.out.println("Название курса\t\tСреднее количество покупок в месяц");
+            ResultSet resultSet =
+                    statement.executeQuery(SQLstr);
+            System.out.println("Название курса\t\tСреднее количество покупок в месяц");
 
-                while (resultSet.next()) {
-                    String nameString = resultSet.getString("Course name");
-                    String monthSubString = resultSet.getString("AVG buy course per month");
-                    System.out.printf("%s \t-\t %s\n", nameString, monthSubString);
-                }
-        }
-        catch(Exception ex){
+            while (resultSet.next()) {
+                String nameString = resultSet.getString("Course name");
+                String monthSubString = resultSet.getString("AVG buy course per month");
+                System.out.printf("%s \t-\t %s\n", nameString, monthSubString);
+            }
+        } catch (Exception ex) {
             ex.getStackTrace();
+            ex.printStackTrace();
         }
     }
 }

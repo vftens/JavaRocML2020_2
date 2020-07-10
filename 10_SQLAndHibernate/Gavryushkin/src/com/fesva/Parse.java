@@ -128,7 +128,7 @@ public class Parse {
 
                          */
                     } catch (Exception e) {
-                        
+
                         e.printStackTrace();
                         text.setText("Ошибка парсинга цены и наполнение карты");
                         continue;
