@@ -89,10 +89,12 @@ public class Parse {
 
                     Document doc = null;
                     Document doc_2 = null;
+                    Document doc_3 = null;
                     try {
                         //doc = Jsoup.connect("https://smart-lab.ru/").get();
                         doc = Jsoup.connect("https://www.finam.ru/quotes/futures/moex/").get();
                         doc_2 = Jsoup.connect("https://www.finam.ru/profile/mosbirzha-fyuchersy/sbrf").get();
+                        doc_3 = Jsoup.connect("https://www.finam.ru/quotes/currencies").get();
                     } catch (IOException e) {
                         e.printStackTrace();
                         test.sendSignal("ERROR", "Нет соединения с сервером для запроса текущей цены инструмента, " +
@@ -102,10 +104,14 @@ public class Parse {
 
                     StringBuffer buffer = new StringBuffer(doc.text());
                     StringBuffer buffer_2 = new StringBuffer(doc_2.text());
-                     System.out.println(buffer);  //
+                    StringBuffer buffer_3 = new StringBuffer(doc_3.text());
+                     System.out.println(buffer_3);  //
                     //Наполнение карты*****************//
                     Map<String, String> map = new HashMap<>();
                     try {
+                        map.put(elements[1], buffer_3.substring(buffer_3.indexOf("Aud/Usd "), buffer_3.indexOf("Aud/Usd ") + 12).split("Aud/Usd ")[1]);
+
+                        /*
                         map.put(elements[1], buffer.substring(buffer.indexOf("Si RUB "), buffer.indexOf("Si RUB ") + 12).split("Si RUB ")[1]);
                         map.put(elements[2], buffer.substring(buffer.indexOf("RTS RUB "), buffer.indexOf("RTS RUB ") + 14).split("RTS RUB ")[1]);
                         map.put(elements[3], buffer.substring(buffer.indexOf("LKOH RUB "), buffer.indexOf("LKOH RUB ") + 14).split("LKOH RUB ")[1]);
@@ -115,8 +121,12 @@ public class Parse {
                         map.put(elements[7], buffer.substring(buffer.indexOf("MOEX RUB "), buffer.indexOf("MOEX RUB ") + 14).split("MOEX RUB ")[1]);
                         map.put(elements[8], buffer.substring(buffer.indexOf("MIX RUB "), buffer.indexOf("MIX RUB ") + 14).split("MIX RUB ")[1]);
                         map.put(elements[9], "0");
+
+
                         map.put(elements[10], buffer_2.substring(buffer_2.indexOf("Последняя сделка "), buffer_2.indexOf("Последняя сделка ") + 23).split(" ")[2] +
                                 buffer_2.substring(buffer_2.indexOf("Последняя сделка "), buffer_2.indexOf("Последняя сделка ") + 23).split(" ")[3]);
+
+                         */
                     } catch (Exception e) {
                         //System.out.println(
                         e.printStackTrace();
@@ -181,7 +191,7 @@ public class Parse {
     Thread mythread;
 
 
-    public static void main(String[] args) {
+    public static void mymain(String args) { // []
         int j = 0;
         while (j != 1) {
             try {

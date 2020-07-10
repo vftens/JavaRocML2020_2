@@ -6,6 +6,6 @@ public class Main {
         // write your code here
         Parse pa = new Parse();
         //System.out.println(
-        pa.getPrice();
+        pa.mymain(""); //getPrice();
     }
 }
