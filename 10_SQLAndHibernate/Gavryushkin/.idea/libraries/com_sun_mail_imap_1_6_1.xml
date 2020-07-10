@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.sun.mail:imap:1.6.1" type="repository">
+    <properties maven-id="com.sun.mail:imap:1.6.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/imap-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mailapi-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/activation-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

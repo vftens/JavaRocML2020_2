@@ -16,9 +16,9 @@ public class CSV {
     private static final String FILE = "movementList.csv";
     private static final boolean Debug = false;
 
-    public static List<SpendNote> spendsList = new ArrayList<>();
-    public static List<ProfitNote> profitsList = new ArrayList<>();
-    public static List<Transaction> transactions = new ArrayList<>();
+    public static List<SpendingNote> spendsList = new ArrayList<>();
+    public static List<ProfitingNote> profitsList = new ArrayList<>();
+    public static List<Transactioning> transactionings = new ArrayList<>();
 
     public static void mymain() throws Exception {
         //Build reader instance
@@ -44,32 +44,32 @@ public class CSV {
                 String spendType = row[4];
                 if (Debug) System.out.println("spendType = " + spendType);
                 if (Debug) System.out.println(spendMatch.groupCount());
-                SpendNote spendNote = new SpendNote(spendType,
+                SpendingNote spendingNote = new SpendingNote(spendType,
                         Double.parseDouble(row[7].replaceAll(",", ".")));
-                ProfitNote profitNote = new ProfitNote(spendType,
+                ProfitingNote profitingNote = new ProfitingNote(spendType,
                         Double.parseDouble(row[6].replaceAll(",", ".")));
-                spendsList.add(spendNote);
-                profitsList.add(profitNote);
-                Transaction transaction = new Transaction(spendType,
+                spendsList.add(spendingNote);
+                profitsList.add(profitingNote);
+                Transactioning transactioning = new Transactioning(spendType,
                         Double.parseDouble(row[6].replaceAll(",", ".")),
                         Double.parseDouble(row[7].replaceAll(",", ".")));
-                transactions.add(transaction);
+                transactionings.add(transactioning);
             }
         }
 
-        double totalSpend = spendsList.stream().mapToDouble(SpendNote::getMoney).sum();
-        double totalProfit = profitsList.stream().mapToDouble(ProfitNote::getMoney).sum();
+        double totalSpend = spendsList.stream().mapToDouble(SpendingNote::getMoney).sum();
+        double totalProfit = profitsList.stream().mapToDouble(ProfitingNote::getMoney).sum();
 
-        if (Debug) transactions.stream()
-                .collect(Collectors.groupingBy(Transaction::getDescription,
-                        Collectors.mapping(Summary::fromTransaction,
-                                Collectors.reducing(new Summary(0.0, 0.0), Summary::merge))))
+        if (Debug) transactionings.stream()
+                .collect(Collectors.groupingBy(Transactioning::getDescription,
+                        Collectors.mapping(Summa::fromTransaction,
+                                Collectors.reducing(new Summa(0.0, 0.0), Summa::merge))))
                 .forEach((s, summ) -> System.out.println(s + "\t" + summ.income + "\t" + summ.withdraw));
-        System.out.printf("Сумма расходов: %.2f руб. \n", totalSpend);
+        System.out.printf("\nСумма расходов: %.2f руб. \n", totalSpend);
         System.out.printf("Сумма доходов: %.2f руб. \n\n", totalProfit);
 
         System.out.println("Суммы расходов по организациям:");
-        for (SpendNote s : spendsList) {
+        for (SpendingNote s : spendsList) {
             double sum = s.getMoney();
             if (sum > 0) {
                 System.out.printf("%s %.2f руб. \n", s.getSpendCase(), sum);
@@ -77,23 +77,23 @@ public class CSV {
         }
     }
 
-    private static class Summary {
+    private static class Summa {
         double income;
         double withdraw;
 
-        Summary(double income, double withdraw) {
+        Summa(double income, double withdraw) {
             this.income = income;
             this.withdraw = withdraw;
         }
 
         // сложение сумм
-        static Summary merge(Summary s1, Summary s2) {
-            return new Summary(s1.income + s2.income, s1.withdraw + s2.withdraw);
+        static Summa merge(Summa s1, Summa s2) {
+            return new Summa(s1.income + s2.income, s1.withdraw + s2.withdraw);
         }
 
-        // mapper - конвертация из Transaction
-        static Summary fromTransaction(Transaction t) {
-            return new Summary(t.getIncome(), t.getWithdraw());
+        // mapper - конвертация из Transactioning
+        static Summa fromTransaction(Transactioning t) {
+            return new Summa(t.getIncome(), t.getWithdraw());
         }
     }
 }

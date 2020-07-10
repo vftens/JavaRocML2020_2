@@ -38,13 +38,15 @@ public class PersonalFinance {
         init();
         MainFrame frame = new MainFrame();
 
+        frame.setVisible(true);
+        testModel();  //
+        SaveData sd = SaveData.getInstance(); //
+        sd.updateCurrencies(); //
+
+        System.out.println(sd); //
+
         CSV.mymain(); // запускаем отчет по дз3
 
-        frame.setVisible(true);
-        //testModel();
-        //SaveData sd = SaveData.getInstance();
-        //sd.updateCurrencies();
-        //System.out.println(sd);
     }
     
     private static void init() {
