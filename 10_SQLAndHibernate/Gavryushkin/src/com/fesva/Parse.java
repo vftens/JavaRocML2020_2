@@ -102,7 +102,7 @@ public class Parse {
 
                     StringBuffer buffer = new StringBuffer(doc.text());
                     StringBuffer buffer_2 = new StringBuffer(doc_2.text());
-                    //System.out.println(buffer);
+                     System.out.println(buffer);  //
                     //Наполнение карты*****************//
                     Map<String, String> map = new HashMap<>();
                     try {
