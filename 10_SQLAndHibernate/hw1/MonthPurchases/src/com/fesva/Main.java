@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
 
         String url = "jdbc:mysql://localhost:3307/skillbox1?useUnicode=true&serverTimezone=Europe/Moscow&characterEncoding=UTF-8";
-        //
+        //  :3306/skillbox
         String user = "root";
         String password = "testtest";
 
@@ -30,7 +30,7 @@ public class Main {
             while (resultSet.next()) {
                 String nameString = resultSet.getString("Course name");
                 String monthSubString = resultSet.getString("AVG buy course per month");
-                System.out.printf("%s \t-\t %s\n", nameString, monthSubString);
+                System.out.printf("%s \t\t\t-\t %s\n", nameString, monthSubString);
             }
         } catch (Exception ex) {
             ex.getStackTrace();

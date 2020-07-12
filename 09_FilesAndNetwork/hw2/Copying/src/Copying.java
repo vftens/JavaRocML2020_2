@@ -9,16 +9,17 @@ import static java.nio.file.Files.createDirectory;
 
 public class Copying {
 
-    static String target;
+    static String source, target;
 
     public static void main(String[] args) throws InterruptedException, IOException {
         try (BufferedReader reader = new BufferedReader(new InputStreamReader(System.in))) {
 
             System.out.println("Введите путь до исходной папки А :");
             Path path = Paths.get(reader.readLine());
-            System.out.println("Введите путь до конечной папки Б");
+            System.out.println("Введите путь до конечной папки Б :");
             Path pathB = Paths.get(reader.readLine());
 
+            source = String.valueOf(path);
             target = String.valueOf(pathB);
             FileVizitor fileVizitor = new FileVizitor();
             if (!path.toFile().isDirectory()) {
@@ -30,7 +31,15 @@ public class Copying {
                     createDirectory(pathB);  // создаем отсутствующую директорию
                 }
 
+                Copy cp = new Copy();
+                cp.mycopy();
+
+                //Filewalker fw = new Filewalker();
+                //fw.walk(String.valueOf(path));
+
                 Files.walkFileTree(path, fileVizitor);
+                //Deeper dp = new Deeper();
+                //dp.FileTree(path);
                 //copyDir(String.valueOf(path), String.valueOf(pathB)); // dest;
                 System.out.println("Всего папок - " + (fileVizitor.getFoldersCount() - 1));
                 System.out.println("Всего скопировано файлов - " + fileVizitor.getFilesCount());
@@ -72,12 +81,12 @@ public class Copying {
         public FileVisitResult postVisitDirectory(Path dir, IOException exc) throws IOException {
             ++foldersCount;
 
-            copyDir(String.valueOf(dir), target);
+            //copyDir(String.valueOf(dir), target);
             return super.postVisitDirectory(dir, exc);
         }
     }
 
-    private static void copyDir(String sourceDirName, String targetSourceDir) throws IOException {
+    public static void copyDir(String sourceDirName, String targetSourceDir) throws IOException {
         File folder = new File(sourceDirName);
 
         File[] listOfFiles = folder.listFiles();
