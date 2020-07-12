@@ -4,22 +4,14 @@ import java.nio.file.attribute.*;
 import static java.nio.file.FileVisitResult.*;
 import java.io.IOException;
 import java.util.*;
-
 /**
- * Sample code that copies files in a similar manner to the cp(1) program.
+ * Код который копирует похоже на программу cp
  */
-
 public class Copy {
-    /**
-     * Copy source file to target location. If {@code prompt} is true then
-     * prompt user to overwrite target if it exists. The {@code preserve}
-     * parameter determines if file attributes should be copied/preserved.
-     */
-    static void copyFile(Path source, Path target, boolean prompt, boolean preserve) {
-        CopyOption[] options = (preserve) ?
-                new CopyOption[]{COPY_ATTRIBUTES, REPLACE_EXISTING} :
+    static void copyFile(Path source, Path target) {
+        CopyOption[] options =
                 new CopyOption[]{REPLACE_EXISTING};
-        if (!prompt || Files.notExists(target)) {
+        if (Files.notExists(target)) {
             try {
                 Files.copy(source, target, options);
             } catch (IOException x) {
@@ -29,27 +21,23 @@ public class Copy {
     }
 
     /**
-     * A {@code FileVisitor} that copies a file-tree ("cp -r")
+     * A  FileVisitor который копирует дерево
      */
     static class TreeCopier implements FileVisitor<Path> {
         private final Path source;
         private final Path target;
-        private final boolean prompt;
-        private final boolean preserve;
 
-        TreeCopier(Path source, Path target, boolean prompt, boolean preserve) {
+        TreeCopier(Path source, Path target) {
             this.source = source;
             this.target = target;
-            this.prompt = prompt;
-            this.preserve = preserve;
+
         }
 
         @Override
         public FileVisitResult preVisitDirectory(Path dir, BasicFileAttributes attrs) {
             // before visiting entries in a directory we copy the directory
             // (okay if directory already exists).
-            CopyOption[] options = (preserve) ?
-                    new CopyOption[]{COPY_ATTRIBUTES} : new CopyOption[0];
+            CopyOption[] options =  new CopyOption[0];
 
             Path newdir = target.resolve(source.relativize(dir));
             try {
@@ -65,15 +53,15 @@ public class Copy {
 
         @Override
         public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) {
-            copyFile(file, target.resolve(source.relativize(file)),
-                    prompt, preserve);
+            copyFile(file, target.resolve(source.relativize(file)));
+
             return CONTINUE;
         }
 
         @Override
         public FileVisitResult postVisitDirectory(Path dir, IOException exc) {
-            // fix up modification time of directory when done
-            if (exc == null && preserve) {
+            // фикс время модификации директории
+            if (exc == null) {
                 Path newdir = target.resolve(source.relativize(dir));
                 try {
                     FileTime time = Files.getLastModifiedTime(dir);
@@ -97,21 +85,16 @@ public class Copy {
     }
 
     public static void mycopy() throws IOException {
-        // check if target is a directory
+        // проверить target это директория
         Path target = Paths.get(Copying.target);
         Path source = Paths.get(Copying.source);
         boolean isDir = Files.isDirectory(target);
-        boolean recursive = true;
-        boolean prompt = false;
-        boolean preserve = false;
-
-        int i = 0;
 
         Path dest = (isDir) ? target.resolve(source.getFileName()) : target;
 
-        // follow links when copying files
+        // follow по ссылкам когда копируешь файлы
         EnumSet<FileVisitOption> opts = EnumSet.of(FileVisitOption.FOLLOW_LINKS);
-        TreeCopier tc = new TreeCopier(source, dest, prompt, preserve);
+        TreeCopier tc = new TreeCopier(source, dest);
         Files.walkFileTree(source, opts, Integer.MAX_VALUE, tc);
     }
 }
