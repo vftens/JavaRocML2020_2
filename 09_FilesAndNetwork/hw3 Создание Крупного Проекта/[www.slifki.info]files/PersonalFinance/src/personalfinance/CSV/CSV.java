@@ -72,7 +72,7 @@ public class CSV {
         for (SpendingNote s : spendsList) {
             double sum = s.getMoney();
             if (sum > 0) {
-                System.out.printf("%s %.2f руб. \n", s.getSpendCase(), sum);
+                System.out.printf("%s %.2f руб. \n", s.getSpendingCase(), sum);
             }
         }
     }
@@ -93,7 +93,7 @@ public class CSV {
 
         // mapper - конвертация из Transactioning
         static Summa fromTransaction(Transactioning t) {
-            return new Summa(t.getIncome(), t.getWithdraw());
+            return new Summa(t.getIncome(), t.getWith_draw());
         }
     }
 }

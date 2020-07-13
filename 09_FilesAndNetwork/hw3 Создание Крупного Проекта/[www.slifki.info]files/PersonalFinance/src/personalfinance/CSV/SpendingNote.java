@@ -3,16 +3,16 @@ package personalfinance.CSV;
 public class SpendingNote {
     private static double count;
 
-    private String spendCase;
+    private String spendingCase;
     private double money;
 
-    public SpendingNote(String spendCase, double money) {
-        this.spendCase = spendCase;
+    public SpendingNote(String spendingCase, double money) {
+        this.spendingCase = spendingCase;
         this.money = money;
     }
 
-    public String getSpendCase() {
-        return spendCase;
+    public String getSpendingCase() {
+        return spendingCase;
     }
 
     public double getMoney() {
@@ -21,6 +21,6 @@ public class SpendingNote {
 
     @Override
     public String toString() {
-        return spendCase + " " + money;
+        return spendingCase + " " + money;
     }
 }

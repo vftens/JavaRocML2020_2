@@ -4,17 +4,17 @@ public class ProfitingNote {
 
     private static double count;
 
-    private String spendCase;
+    private String spendingCase;
     private double money;
 
 
     public ProfitingNote(String spendSource, double money) {
-        this.spendCase = spendSource;
+        this.spendingCase = spendSource;
         this.money = money;
     }
 
-    public String getSpendCase() {
-        return spendCase;
+    public String getSpendingCase() {
+        return spendingCase;
     }
 
     public double getMoney() {

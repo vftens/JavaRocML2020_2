@@ -4,12 +4,12 @@ public class Transactioning {
 
     private String description;
     private double income;
-    private double withdraw;
+    private double with_draw;
 
-    public Transactioning(String description, double income, double withdraw) {
+    public Transactioning(String description, double income, double with_draw) {
         this.description = description;
         this.income = income;
-        this.withdraw = withdraw;
+        this.with_draw = with_draw;
     }
 
     public String getDescription() {
@@ -20,8 +20,8 @@ public class Transactioning {
         return income;
     }
 
-    public double getWithdraw() {
-        return withdraw;
+    public double getWith_draw() {
+        return with_draw;
     }
 
 }
