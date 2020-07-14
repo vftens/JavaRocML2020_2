@@ -15,14 +15,14 @@ public class Images {
 
     public static void main(String[] args) throws IOException {
 
-        String strURL = "https://lenta.ru";
+        String strURL = "https://lenta.ru";  // с главной страницы
 
         Document document = Jsoup
                 .connect(strURL)
                 .maxBodySize(0)
-                .get();
+                .get();  // любой размер скачиваемого
 
-        Elements imageElements = document.select("img");
+        Elements imageElements = document.select("img"); //
 
         for (Element imageElement : imageElements) {
             String strImageURL = imageElement.attr("abs:src");
@@ -37,8 +37,8 @@ public class Images {
                 strImageURL.substring(strImageURL.lastIndexOf("/") + 1);
         // Если есть расширения .jpg или .png - сохраняем
         if (strImageName.contains(".jpg") || strImageName.contains(".png")) {
-
-            System.out.println("Saving: " + strImageName + ", from: " + strImageURL);
+            // только картинки
+            System.out.println("Saving picture: " + strImageName + ", from: " + strImageURL);
 
             try (InputStream in = new URL(strImageURL).openStream()) {
 
