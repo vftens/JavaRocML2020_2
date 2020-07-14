@@ -12,6 +12,7 @@ import org.jsoup.select.Elements;
 public class Images {
 
     private static String IMAGE_DESTINATION_FOLDER = "Images";
+
     public static void main(String[] args) throws IOException {
 
         String strURL = "https://lenta.ru";

@@ -15,6 +15,8 @@ public class CSV {
     @SuppressWarnings("resource")
     private static final String FILE = "movementList.csv";
     private static final boolean Debug = false;
+    private static final Pattern SPENDING_PATTERN =
+            Pattern.compile("([/|\\\\]\\s?\\w+\\s?\\w+?\\s?>?\\w+\\s{4})");
 
     public static List<SpendingNote> spendsList = new ArrayList<>();
     public static List<ProfitingNote> profitsList = new ArrayList<>();
@@ -25,46 +27,43 @@ public class CSV {
         List<String[]> allRows;
         String line = "";
 
-        try (CSVReader reader = new CSVReader(new FileReader(FILE), ',', '"', 1)) {
+        try (FileReader fileReader = new FileReader(FILE);
+             CSVReader reader = new CSVReader(fileReader, ',', '"', 1)) {
             //Read all rows at once
             allRows = reader.readAll();
-        }
-        //Read CSV line by line and use the string array as you want
-        for (String[] row : allRows) {
 
-            if (Debug) for (String r : row) {
-                System.out.println(r);
-            }
-            line = Arrays.toString(row);
-            if (Debug) System.out.println(line);
+            fileReader.close();  // FileReader тоже надо закрывать:
+            //Read CSV line by line and use the string array as you want
+            for (String[] row : allRows) {
 
-            Pattern SPENDING_PATTERN = Pattern.compile("([/|\\\\]\\s?\\w+\\s?\\w+?\\s?>?\\w+\\s{4})");
-            Matcher spendMatch = SPENDING_PATTERN.matcher(line);
-            if (spendMatch.find()) {
-                String spendType = row[4];
-                if (Debug) System.out.println("spendType = " + spendType);
-                if (Debug) System.out.println(spendMatch.groupCount());
-                SpendingNote spendingNote = new SpendingNote(spendType,
-                        Double.parseDouble(row[7].replaceAll(",", ".")));
-                ProfitingNote profitingNote = new ProfitingNote(spendType,
-                        Double.parseDouble(row[6].replaceAll(",", ".")));
-                spendsList.add(spendingNote);
-                profitsList.add(profitingNote);
-                Transactioning transactioning = new Transactioning(spendType,
-                        Double.parseDouble(row[6].replaceAll(",", ".")),
-                        Double.parseDouble(row[7].replaceAll(",", ".")));
-                transactionings.add(transactioning);
+                if (Debug) for (String r : row) {
+                    System.out.println(r);
+                }
+                line = Arrays.toString(row);
+                if (Debug) System.out.println(line);
+
+                Matcher spendMatch = SPENDING_PATTERN.matcher(line);
+                if (spendMatch.find()) {
+                    String spendType = row[4];
+                    if (Debug) System.out.println("spendType = " + spendType);
+                    if (Debug) System.out.println(spendMatch.groupCount());
+                    SpendingNote spendingNote = new SpendingNote(spendType,
+                            Double.parseDouble(row[7].replaceAll(",", ".")));
+                    ProfitingNote profitingNote = new ProfitingNote(spendType,
+                            Double.parseDouble(row[6].replaceAll(",", ".")));
+                    spendsList.add(spendingNote);
+                    profitsList.add(profitingNote);
+                    Transactioning transactioning = new Transactioning(spendType,
+                            Double.parseDouble(row[6].replaceAll(",", ".")),
+                            Double.parseDouble(row[7].replaceAll(",", ".")));
+                    transactionings.add(transactioning);
+                }
             }
         }
 
         double totalSpend = spendsList.stream().mapToDouble(SpendingNote::getMoney).sum();
         double totalProfit = profitsList.stream().mapToDouble(ProfitingNote::getMoney).sum();
 
-        if (Debug) transactionings.stream()
-                .collect(Collectors.groupingBy(Transactioning::getDescription,
-                        Collectors.mapping(Summa::fromTransaction,
-                                Collectors.reducing(new Summa(0.0, 0.0), Summa::merge))))
-                .forEach((s, summ) -> System.out.println(s + "\t" + summ.income + "\t" + summ.withdraw));
         System.out.printf("\nСумма расходов: %.2f руб. \n", totalSpend);
         System.out.printf("Сумма доходов: %.2f руб. \n\n", totalProfit);
 

@@ -1,9 +1,9 @@
 package json;
 
 import com.google.gson.*;
-import core.Line;
-import core.Station;
-import core.StationIndex;
+import fesva.core.Line;
+import fesva.core.Station;
+import fesva.core.StationIndex;
 
 import java.lang.reflect.Type;
 import java.time.format.DateTimeFormatter;

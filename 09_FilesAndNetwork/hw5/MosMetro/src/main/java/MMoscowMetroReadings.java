@@ -1,8 +1,9 @@
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import core.Line;
-import core.Station;
-import core.StationIndex;
+import fesva.core.Interconnections;
+import fesva.core.Line;
+import fesva.core.Station;
+import fesva.core.StationIndex;
 import json.StationIndexSerializer;
 
 import org.json.simple.JSONArray;
