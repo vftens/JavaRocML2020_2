@@ -4,7 +4,7 @@ import fesva.core.Interconnections;
 import fesva.core.Line;
 import fesva.core.Station;
 import fesva.core.StationIndex;
-import json.StationIndexSerializer;
+import fesva.core.json.StationIndexSerializer;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;

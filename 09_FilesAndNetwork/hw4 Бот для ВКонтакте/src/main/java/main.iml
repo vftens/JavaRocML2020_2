@@ -11,5 +11,6 @@
     <orderEntry type="library" name="jsoup-1.12.2 2" level="project" />
     <orderEntry type="library" name="jsoup-1.12.2" level="project" />
     <orderEntry type="library" name="Maven: com.vk.api:sdk:0.5.12" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
   </component>
 </module>

@@ -1,4 +1,4 @@
-package json;
+package fesva.core.json;
 
 import com.google.gson.*;
 import fesva.core.Line;

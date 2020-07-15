@@ -11,6 +11,7 @@ import com.vk.api.sdk.queries.messages.MessagesGetLongPollHistoryQuery;
 
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Properties;
 
@@ -25,15 +26,17 @@ public class VKCore {
         try {
             TransportClient transportClient = HttpTransportClient.getInstance();
             vk = new VkApiClient(transportClient);
-        }catch(Exception ex){
+        } catch (Exception ex) {
             Thread current = Thread.currentThread();
             StackTraceElement[] methods = current.getStackTrace();
 
-            for (var info : methods)
-                System.out.println(info);
+            //var info = "";
+            //for (info: methods) {
+              //  System.out.println(info);
+            //}
 
             ex.printStackTrace();
-            System.out.println("Ошибка HttpClientConnection");
+            System.out.println("Ошибка HttpClientConnection" + Arrays.toString(methods));
         }
 
         // Загрузка конфигураций
