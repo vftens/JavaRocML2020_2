@@ -7,7 +7,7 @@ import org.jsoup.select.Elements;
 
 public class Images {
 
-    private static String IMAGE_DESTINATION_FOLDER = "Images";
+    private static String IMAGE_DESTINATION_FOLDER = "images";
 
     public static void main(String[] args) throws IOException {
 
