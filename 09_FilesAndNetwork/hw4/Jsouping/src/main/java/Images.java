@@ -1,8 +1,4 @@
-import java.io.FileOutputStream;
 import java.io.IOException;
-import java.io.InputStream;
-import java.io.OutputStream;
-import java.net.URL;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -22,42 +18,17 @@ public class Images {
                 .maxBodySize(0)
                 .get();  // любой размер скачиваемого
 
-        Elements imageElements = document.select("img"); //
+        Elements imageElements = document.select("img"); // выбираем с тегом
+
+        Download dd = new Download();
 
         for (Element imageElement : imageElements) {
             String strImageURL = imageElement.attr("abs:src");
-            downloadImage(strImageURL);
+            dd.downloadImage(strImageURL);
         }
-
     }
 
-    private static void downloadImage(String strImageURL) {
-
-        String strImageName =
-                strImageURL.substring(strImageURL.lastIndexOf("/") + 1);
-        // Если есть расширения .jpg или .png - сохраняем
-        if (strImageName.contains(".jpg") || strImageName.contains(".png")) {
-            // только картинки
-            System.out.println("Saving picture: " + strImageName + ", from: " + strImageURL);
-
-            try (InputStream in = new URL(strImageURL).openStream()) {
-
-                byte[] buffer = new byte[4096];
-                int n = -1;
-
-                OutputStream os =
-                        new FileOutputStream(IMAGE_DESTINATION_FOLDER + "/" + strImageName);
-
-                while ((n = in.read(buffer)) != -1) {
-                    os.write(buffer, 0, n);
-                }
-                os.close();
-                System.out.println("Image saved");
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-        } else {
-            System.out.println("Skipping: " + strImageName);
-        }
+    public static String getImageDestinationFolder() {
+        return IMAGE_DESTINATION_FOLDER;
     }
 }
