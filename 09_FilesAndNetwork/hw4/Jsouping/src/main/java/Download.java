@@ -28,7 +28,7 @@ public class Download {
                 while ((n = in.read(buffer)) != EOF) {
                     os.write(buffer, 0, n);
                 }
-                os.close();
+                os.close();  // закрываем буфер
                 System.out.println("Picture Image Saved");
             } catch (IOException e) {
                 e.printStackTrace();
