@@ -22,7 +22,7 @@ public class Images {
 
         Download dd = new Download();
 
-        for (Element imageElement : imageElements) {
+        for (Element imageElement : imageElements) { // https://jsoup.org/cookbook/extracting-data/working-with-urls
             String strImageURL = imageElement.attr("abs:src");
             dd.downloadImage(strImageURL);
         }
