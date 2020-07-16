@@ -21,13 +21,13 @@ import java.nio.file.Paths;
 import java.time.LocalDate;
 import java.util.List;
 
-public class MMoscowMetroReadings {
+public class MyMoscowMetroReadings {
 
     public static void main(String[] args) {
 
         try {
             final String LINK = "https://ru.wikipedia.org/wiki/Список_станций_Московского_метрополитена";
-            final String LINKmy = "https://www.moscowmap.ru/metro.html#lines";
+            final String LINKnew = "https://www.moscowmap.ru/metro.html#lines";
             final String PATH = "src/main/resources/mosmetro.json";
             final File file = new File(PATH);
 
@@ -46,6 +46,7 @@ public class MMoscowMetroReadings {
                     System.out.printf("%-36s \t - %2s станций\n", line, line.getStations().size()));
 
             Interconnections ic = new Interconnections();
+            // ic
 
         } catch (IOException | ParseException e) {
             e.printStackTrace();

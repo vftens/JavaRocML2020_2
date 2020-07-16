@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="httpclient-4.3-beta1">
+  <library name="sdk-1.0.6">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.3-beta1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sdk-1.0.6.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
