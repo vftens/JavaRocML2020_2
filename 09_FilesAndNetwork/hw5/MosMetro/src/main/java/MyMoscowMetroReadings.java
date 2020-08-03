@@ -37,11 +37,11 @@ public class MyMoscowMetroReadings {
             StationIndex mosMetroNEW = new StationIndex();
             stationIndexFromJSON(PATH, mosMetroNEW);
 
-            System.out.println("БЫЛО:");
+            System.out.println("БЫЛО СТАНЦИЙ:");
             mosMetro.getLines().forEach((s, line) ->
                     System.out.printf("%-36s \t - %2s станций\n", line, line.getStations().size()));
 
-            System.out.println("\nСТАЛО:");
+            System.out.println("\nСТАЛО СТАНЦИЙ:");
             mosMetroNEW.getLines().forEach((s, line) ->
                     System.out.printf("%-36s \t - %2s станций\n", line, line.getStations().size()));
 

@@ -8,7 +8,7 @@ import java.sql.Statement;
 public class Main {
     public static void main(String[] args) {
 
-        String url = "jdbc:mysql://localhost:3307/skillbox1?useUnicode=true&serverTimezone=Europe/Moscow&characterEncoding=UTF-8";
+        String url = "jdbc:mysql://localhost:3306/skillbox?useUnicode=true&serverTimezone=Europe/Moscow&characterEncoding=UTF-8";
         //  :3306/skillbox
         String user = "root";
         String password = "testtest";

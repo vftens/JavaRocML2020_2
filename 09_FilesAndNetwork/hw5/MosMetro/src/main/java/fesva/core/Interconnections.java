@@ -52,3 +52,7 @@ public class Interconnections {  // доп задание
         return builder.toString();
     }
 }
+//
+//アルゴリズム投資
+//        Arugorizumu tōshi AT-1985
+//        социализм с 中-спецификой - ДЭН Сяопин, июнь 1984
