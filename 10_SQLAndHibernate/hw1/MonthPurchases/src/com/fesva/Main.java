@@ -23,13 +23,26 @@ public class Main {
                     "GROUP BY c.name  " +
                     "ORDER BY c.name";
 
+            /*
+            String SQLstr2 = "SELECT c.subscription_date AS 'Course name'," +
+                    "COUNT(sub.subscription_date)/12 AS 'AVG buy course per month'  " +
+                    "FROM Courses c " +
+                    "JOIN Subscriptions sub ON c.id=sub.course_id " +
+                    "GROUP BY c.name  " +
+                    "ORDER BY c.name";
+
+             */
             ResultSet resultSet =
                     statement.executeQuery(SQLstr);
+            //ResultSet resultSet2 =
+                    //statement.executeQuery(SQLstr2);
             System.out.println("Название курса\t\tСреднее количество покупок в месяц");
 
             while (resultSet.next()) {
                 String nameString = resultSet.getString("Course name");
                 String monthSubString = resultSet.getString("AVG buy course per month");
+                //if(resultSet2)
+                //String nameString2 = resultSet2.getString("Course name");
                 System.out.printf("%s \t\t\t-\t %s\n", nameString, monthSubString);
             }
         } catch (Exception ex) {
