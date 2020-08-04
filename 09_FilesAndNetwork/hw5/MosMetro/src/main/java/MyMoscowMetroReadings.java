@@ -45,7 +45,7 @@ public class MyMoscowMetroReadings {
             mosMetroNEW.getLines().forEach((s, line) ->
                     System.out.printf("%-36s \t - %2s станций\n", line, line.getStations().size()));
 
-            Interconnections ic = new Interconnections();
+            Interconnections ic = new Interconnections();  // переходы
             // ic
 
         } catch (IOException | ParseException e) {

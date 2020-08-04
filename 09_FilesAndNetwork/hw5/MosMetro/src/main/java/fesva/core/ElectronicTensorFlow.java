@@ -1,5 +1,6 @@
 package fesva.core;
-/*  Илья Суцкевер - OpenAI
+/* Здесь будет коннектор к GPT API - Нейросеть
+  Илья Суцкевер - OpenAI
 OpenAI API Waitlist
         We're offering free access to the API through mid-August for our private beta, while we determine our longer-term pricing. Describe your use case or product below to join the waitlist.
 
