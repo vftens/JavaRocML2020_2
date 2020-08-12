@@ -1,5 +1,4 @@
 package com.fesva;
-//requires net.bytebuddy;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
@@ -7,12 +6,13 @@ import org.hibernate.boot.*;
 import org.hibernate.boot.registry.StandardServiceRegistry;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.ResultSet;
-import java.sql.Statement;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 
 public class Main {
+    private static BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+
     public static void main(String[] args) {
         // write your code here
         StandardServiceRegistry registry = new
@@ -21,42 +21,28 @@ public class Main {
         SessionFactory sessionFactory = metadata.getSessionFactoryBuilder().build();
 
         Session session = sessionFactory.openSession();
-        CourseMy course = session.get(CourseMy.class, 1);
-        System.out.println(course.getName());
-        System.out.println(course.getStudentsCount() );
 
-
-        
-        /*
-        String url = "jdbc:mysql://localhost:3306/skillbox?useUnicode=true&serverTimezone=Europe/Moscow&characterEncoding=UTF-8";
-        //  :3306/skillbox
-        String user = "root";
-        String password = "testtest";
+        int num = 1;
+        System.out.print("Введите номер Ид искомого курса:");
+        try {
+            num = Integer.parseInt(reader.readLine().trim());
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        CourseMy course = session.get(CourseMy.class, num);
 
         try {
-            Connection connection = DriverManager.getConnection(url, user, password);
-            Statement statement = connection.createStatement();
-
-            ResultSet resultSet = statement.executeQuery("SELECT * FROM Courses");
-            while (resultSet.next()) {
-                CourseMy courseMy = new CourseMy();
-                //courseMy.setId();
-                String courseName = resultSet.getString("Course name");
-                System.out.println(courseName);
-
-            }
-            resultSet.close();
-            statement.close();
-            connection.close();
+            System.out.println("Курс " + course.getId());
+            System.out.println(course.getName());
+            System.out.println("Type = " + course.getType());
+            System.out.println("Студентов = " + course.getStudentsCount());
+            System.out.println(course.getDescription());
         } catch (Exception ex) {
             ex.printStackTrace();
+            System.out.println("Sorry, no such Course.");
         }
-
-
-         */
         sessionFactory.close();
     }
-
 }
 
 /*
