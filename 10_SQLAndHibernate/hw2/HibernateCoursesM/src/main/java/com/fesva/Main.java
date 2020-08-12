@@ -21,12 +21,13 @@ public class Main {
         SessionFactory sessionFactory = metadata.getSessionFactoryBuilder().build();
 
         Session session = sessionFactory.openSession();
-        Course course = session.get(Course.class, 1);
+        CourseMy course = session.get(CourseMy.class, 1);
         System.out.println(course.getName());
+        System.out.println(course.getStudentsCount() );
 
 
-
-
+        
+        /*
         String url = "jdbc:mysql://localhost:3306/skillbox?useUnicode=true&serverTimezone=Europe/Moscow&characterEncoding=UTF-8";
         //  :3306/skillbox
         String user = "root";
@@ -51,6 +52,8 @@ public class Main {
             ex.printStackTrace();
         }
 
+
+         */
         sessionFactory.close();
     }
 
