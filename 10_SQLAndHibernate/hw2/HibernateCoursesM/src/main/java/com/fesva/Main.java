@@ -8,12 +8,15 @@ import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 
 import java.io.BufferedReader;
 import java.io.IOException;
+
 import java.io.InputStreamReader;
+import java.util.Scanner;
 
 public class Main {
     private static BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+    static Scanner scanner = new Scanner(System.in);
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         // write your code here
         StandardServiceRegistry registry = new
                 StandardServiceRegistryBuilder().configure("hibernate.cfg.xml").build();
@@ -24,11 +27,8 @@ public class Main {
 
         int num = 1;
         System.out.print("Введите номер Ид искомого курса:");
-        try {
-            num = Integer.parseInt(reader.readLine().trim());
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+        //num = scanner.nextInt(); //
+        num = Integer.parseInt(reader.readLine().trim());
         CourseMy course = session.get(CourseMy.class, num);
 
         try {

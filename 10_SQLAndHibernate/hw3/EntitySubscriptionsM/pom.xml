@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>HibernateCoursesM</artifactId>
+    <artifactId>EntitySubscriptionsM</artifactId>
     <version>1.0-SNAPSHOT</version>
 
 
@@ -24,7 +24,7 @@
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-core</artifactId>
-            <version>5.4.18.Final</version>
+            <version>5.3.0.Final</version>
         </dependency>
         <dependency>
             <groupId>org.jboss.logging</groupId>
@@ -50,7 +50,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.21</version>
+            <version>8.0.20</version>
         </dependency>
         <dependency>
             <groupId>org.hibernate.javax.persistence</groupId>
@@ -75,4 +75,5 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
+
 </project>
