@@ -27,8 +27,8 @@ public class Main {
 
         int num = 1;
         System.out.print("Введите номер Ид искомого курса:");
-        //num = scanner.nextInt(); //
-        num = Integer.parseInt(reader.readLine().trim());
+        num = scanner.nextInt(); //
+        //num = Integer.parseInt(reader.readLine().trim());
         CourseMy course = session.get(CourseMy.class, num);
 
         try {
