@@ -5,16 +5,11 @@ import org.hibernate.SessionFactory;
 import org.hibernate.boot.*;
 import org.hibernate.boot.registry.StandardServiceRegistry;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
-
-import java.io.BufferedReader;
 import java.io.IOException;
-
-import java.io.InputStreamReader;
 import java.util.Scanner;
 
 public class Main {
-    private static BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-    static Scanner scanner = new Scanner(System.in);
+    private static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) throws IOException {
         // write your code here
@@ -28,7 +23,7 @@ public class Main {
         int num = 1;
         System.out.print("Введите номер Ид искомого курса:");
         num = scanner.nextInt(); //
-        //num = Integer.parseInt(reader.readLine().trim());
+
         CourseMy course = session.get(CourseMy.class, num);
 
         try {

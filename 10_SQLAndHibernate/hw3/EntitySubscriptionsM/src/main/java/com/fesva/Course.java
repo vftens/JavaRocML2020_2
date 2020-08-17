@@ -25,7 +25,7 @@ public class Course
     private Teacher teacher;
 
     @OneToMany(mappedBy = "course", fetch=FetchType.EAGER)
-    //private List<Subscriptions> subscriptions;
+    private List<Subscriptions> subscriptions;
 
     @Column(name = "students_count")
     private int studentsCount;
@@ -39,7 +39,7 @@ public class Course
     @JoinTable(name = "Subscriptions",
         joinColumns = {@JoinColumn(name = "course_id")},
             inverseJoinColumns = {@JoinColumn(name = "student_id")})
-    //private List<Student> students;
+    private List<Student> students;
 
 
     public int getId() {
@@ -114,7 +114,7 @@ public class Course
         this.pricePerHour = pricePerHour;
     }
 
-    /*
+
     public List<Student> getStudents() {
         return students;
     }
@@ -132,7 +132,7 @@ public class Course
     }
 
 
-     */
+
     @Override
     public String toString() {
         return  "id=" + id +
