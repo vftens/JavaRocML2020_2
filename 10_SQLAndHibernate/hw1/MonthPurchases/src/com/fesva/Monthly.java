@@ -12,3 +12,8 @@ public class Monthly {
     }
 
 }
+/*
+select course_name, count(*) / (max(month (purchaselist.subscription_date) -
+min(month (purchaselist.subscription_date)
+from purchaselist group by course_name;
+ */
