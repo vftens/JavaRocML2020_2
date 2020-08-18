@@ -8,12 +8,17 @@
     <artifactId>HibernateCoursesM</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
-
         <!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-core -->
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-core</artifactId>
             <version>5.4.18.Final</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.jboss.logging/jboss-logging -->
+        <dependency>
+            <groupId>org.jboss.logging</groupId>
+            <artifactId>jboss-logging</artifactId>
+            <version>3.4.1.Final</version>
         </dependency>
         <!-- Thanks for using https://jar-download.com -->
         <dependency>

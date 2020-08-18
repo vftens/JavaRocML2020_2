@@ -8,6 +8,8 @@ import org.hibernate.boot.MetadataSources;
 import org.hibernate.boot.registry.StandardServiceRegistry;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 
+import java.util.List;
+
 public class Loader
 {
     public static void main(String args) {
@@ -19,11 +21,11 @@ public class Loader
         Session session = sessionFactory.openSession();
         Transaction transaction = session.beginTransaction();
 
-//        Course course = session.get(Course.class, 1);
-//        List<Student> studentList = course.getStudents();
-//        studentList.forEach(student -> {
-//            System.out.println(student.getName() + " " + student.getRegistrationDate());
-//        });
+        Course course = session.get(Course.class, 1);
+        List<Student> studentList = course.getStudents();
+        studentList.forEach(student -> {
+            System.out.println(student.getName() + " " + student.getRegistrationDate());
+        });
 
         Teacher teacher = (Teacher) session.get(Teacher.class,
                 1);
