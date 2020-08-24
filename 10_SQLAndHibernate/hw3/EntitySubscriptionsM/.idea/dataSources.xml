@@ -13,5 +13,15 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="hibernate.cfg.xml/Hibernate" uuid="eba16fb3-2a27-498e-af5e-053760bfdc41">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/G/1/Downloads/GitHub/JavaRocML2020_2/10_SQLAndHibernate/hw3/EntitySubscriptionsM/src/main/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/skillbox?allowPublicKeyRetrieval=true&amp;useSSL=false&amp;useUnicode=true&amp;serverTimezone=Europe/Moscow</jdbc-url>
+    </data-source>
   </component>
 </project>
