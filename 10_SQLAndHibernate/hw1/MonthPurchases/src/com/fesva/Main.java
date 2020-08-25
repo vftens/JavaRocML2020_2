@@ -4,6 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
+import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
@@ -52,11 +53,28 @@ public class Main {
             System.out.println();
             ResultSet resultSet2 =
                     statement.executeQuery(SQLstr2);
-            while (resultSet2.next()){
+            System.out.println("Название курса\tДата подписки");
+
+            List<String> result = null;
+            while (resultSet2.next()) {
                 String nameString2 = resultSet2.getString("Course name");
                 String subscriptionDate = resultSet2.getString("Subscr date");
                 System.out.printf("%s \t %s\n", nameString2, subscriptionDate);
+
+                result.add(nameString2);  // запоминаем название курса
             }
+            //String res = null;
+            for (String res: result) {
+                //while (result.get()next()) {
+                String SQLstr3 = String.format("SELECT pl.course_name, pl.subscription_date FROM PurchaseList pl WHERE pl.course_name = \"%s\" ORDER BY pl.subscription_date", res); // .nameString2);
+                ResultSet resultSet3 =
+                        statement.executeQuery(SQLstr3);
+                while (resultSet3.next()) {
+                    String nameString3 = resultSet3.getString("");
+                    System.out.println(nameString3);
+                }
+            }
+
         } catch (Exception ex) {
             ex.getStackTrace();
             ex.printStackTrace();
