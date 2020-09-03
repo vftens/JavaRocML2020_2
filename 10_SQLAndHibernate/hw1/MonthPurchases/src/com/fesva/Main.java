@@ -19,14 +19,14 @@ public class Main {
         try (Connection connection = DriverManager.getConnection(url, user, password);
              Statement statement = connection.createStatement()) {
 
-            String SQLstr = "SELECT c.name AS 'Course name'," +
+            String mySQLstr = "SELECT c.name AS 'Course name'," +
                     "COUNT(sub.subscription_date)/8 AS 'AVG buy course per month'  " +
                     "FROM Courses c " +
                     "JOIN Subscriptions sub ON c.id=sub.course_id " +
                     "GROUP BY c.name  " +
                     "ORDER BY c.name";
 
-            String SQLstr2 =
+            String mySQLstr2 =
                     "SELECT c.name AS 'Course name', sub.subscription_date AS 'Subscr date', " +
                             "COUNT(sub.subscription_date) AS 'AVG buy course per month'  " +
                             "FROM Courses c " +
@@ -35,7 +35,7 @@ public class Main {
                             "ORDER BY c.name";
 
             ResultSet resultSet =
-                    statement.executeQuery(SQLstr);
+                    statement.executeQuery(mySQLstr);
 
             if (DEBUG) {
                 System.out.println("Название курса\t\tСреднее количество покупок в месяц");
@@ -52,7 +52,7 @@ public class Main {
 
             System.out.println();
             ResultSet resultSet2 =
-                    statement.executeQuery(SQLstr2);
+                    statement.executeQuery(mySQLstr2);
             if (DEBUG) {
                 System.out.println("Название курса\tДата подписки");
             }
@@ -69,41 +69,69 @@ public class Main {
             }
 
             for (String res : result) {
-                String SQLstr3 = String.format(
+                String mySQLstr3 = String.format(
                         "SELECT pl.course_name AS 'Course name', pl.subscription_date AS 'Subscr date' " +
                                 "FROM PurchaseList pl WHERE pl.course_name = \"%s\" ORDER BY pl.subscription_date",
                         res);
 
                 ResultSet resultSet3 =
-                        statement.executeQuery(SQLstr3);
+                        statement.executeQuery(mySQLstr3);
                 int resultCount = 0;
-                String FirstDate = "", LastDate = "";
-                boolean FirstFlag = true;
+                String firstDate = "", lastDate = "";
+                boolean firstFlag = true;
                 while (resultSet3.next()) {
                     String nameString3 = resultSet3.getString("Course name");
                     String subscriptionDate = resultSet3.getString("Subscr date");
-                    System.out.printf("%s \t %s \n", nameString3, subscriptionDate);
+                    if (DEBUG) System.out.printf("%s \t %s \n", nameString3, subscriptionDate);
                     resultCount++;
-                    if (FirstFlag) {
-                        FirstDate = subscriptionDate;
-                        FirstFlag = false;
+                    if (firstFlag) {
+                        firstDate = subscriptionDate;
+                        firstFlag = false;
                     } else {
-                        LastDate = subscriptionDate;
+                        lastDate = subscriptionDate;
                     }
                 }
                 Calendar c1 = Calendar.getInstance();
                 Calendar c2 = Calendar.getInstance();
-                Date date1 = new SimpleDateFormat("yyyy-MM-dd").parse(FirstDate);
-                Date date2 = new SimpleDateFormat("yyyy-MM-dd").parse(LastDate);
+                Date date1 = new SimpleDateFormat("yyyy-MM-dd").parse(firstDate);
+                Date date2 = new SimpleDateFormat("yyyy-MM-dd").parse(lastDate);
 
                 c1.setTime(date1);
                 c2.setTime(date2);
-                int monthDiff = c2.get(Calendar.MONTH) - c1.get((Calendar.MONTH));
-                System.out.printf("Number of Purchases per Month: %1.3f \n", ((float) resultCount) / (float) monthDiff);
+                int monthDiff = c2.get(Calendar.MONTH) - c1.get((Calendar.MONTH)) + 1;
+                System.out.printf("%s Number of Purchases per Month: %1.3f \n", res, ((float) resultCount) / (float) monthDiff);
             }
+
+            for (String res : result) {
+                String mySQLstr4 = String.format(
+                        "SELECT COUNT(MONTH(pl.subscription_date)) AS 'avgMon'," +
+                                "TIMESTAMPDIFF(MONTH,MIN(pl.subscription_date)," +
+                                " MAX(pl.subscription_date) )  AS 'avgMonth'," +
+                                " pl.course_name AS 'Course name', " +
+                                "pl.subscription_date AS 'Subscr date' " +
+                                " FROM PurchaseList pl " +
+                                "WHERE pl.course_name = \"%s\" GROUP BY pl.subscription_date", res);
+                ResultSet resultSet4 =
+                        statement.executeQuery(mySQLstr4);
+                while (resultSet4.next()) {
+                    String nameString4 = resultSet4.getString("Course name");
+                    String subscriptionDate = resultSet4.getString("Subscr date");
+                    String avgMon = resultSet4.getString("avgMon");
+                    int resultCount = Integer.parseInt(avgMon);
+                    String avgMonth = resultSet4.getString("avgMonth");
+                    int monthDiff = Integer.parseInt(avgMonth);
+                    System.out.printf("%s \t %s \n", nameString4, subscriptionDate);
+                    System.out.printf(" %1.3f %1.3f \n",  (float) resultCount,  (float) monthDiff);
+
+                }
+            }
+
         } catch (Exception ex) {
             ex.getStackTrace();
             ex.printStackTrace();
         }
     }
 }
+
+
+//JOIN subscriptions s ON pl.id = s.course_id " +
