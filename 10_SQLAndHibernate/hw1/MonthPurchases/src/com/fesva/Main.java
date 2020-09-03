@@ -104,7 +104,7 @@ public class Main {
             }
 
             System.out.println("");
-            
+
             for (String res : result) {
                 String mySQLstr4 = String.format(
                         "SELECT COUNT(MONTH(pl.subscription_date)) AS 'avgM'," +
@@ -123,8 +123,8 @@ public class Main {
                     int resultCount = Integer.parseInt(avgMon);
                     String avgMonth = resultSet4.getString("avgMonth");
                     int monthDiff = Integer.parseInt(avgMonth) + 1;
-                    System.out.printf("%s \t %s \n", nameString4, subscriptionDate);
-                    System.out.printf("Results Count %1.3f Months %1.3f %s Number of Purchases per Month: %1.3f \n",
+                    System.out.printf("Course %s \t %s \n", nameString4, subscriptionDate);
+                    System.out.printf("Results Count %1.0f Months %1.0f for %s Number of Purchases per Month: %1.3f \n",
                             (float) resultCount, (float) monthDiff,
                             res, ((float) resultCount) / (float) monthDiff);
                 }
