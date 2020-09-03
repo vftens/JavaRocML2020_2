@@ -99,9 +99,12 @@ public class Main {
                 c1.setTime(date1);
                 c2.setTime(date2);
                 int monthDiff = c2.get(Calendar.MONTH) - c1.get((Calendar.MONTH)) + 1;
-                System.out.printf("%s Number of Purchases per Month: %1.3f \n", res, ((float) resultCount) / (float) monthDiff);
+                System.out.printf("%s Number of Purchases per Month: %1.3f \n", res,
+                        ((float) resultCount) / (float) monthDiff);
             }
 
+            System.out.println("");
+            
             for (String res : result) {
                 String mySQLstr4 = String.format(
                         "SELECT COUNT(MONTH(pl.subscription_date)) AS 'avgM'," +
@@ -110,7 +113,6 @@ public class Main {
                                 " pl.course_name AS 'Course name', " +
                                 "pl.subscription_date AS 'Subscr date' " +
                                 " FROM PurchaseList pl " +
-                                //"WHERE pl.course_name = \"%s\" GROUP BY pl.subscription_date", res);
                                 " GROUP BY pl.course_name = \"%s\"", res);
                 ResultSet resultSet4 =
                         statement.executeQuery(mySQLstr4);
@@ -120,13 +122,13 @@ public class Main {
                     String avgMon = resultSet4.getString("avgM");
                     int resultCount = Integer.parseInt(avgMon);
                     String avgMonth = resultSet4.getString("avgMonth");
-                    int monthDiff = Integer.parseInt(avgMonth);
+                    int monthDiff = Integer.parseInt(avgMonth) + 1;
                     System.out.printf("%s \t %s \n", nameString4, subscriptionDate);
-                    System.out.printf("Results Count %1.3f Months %1.3f \n",  (float) resultCount,  (float) monthDiff);
-
+                    System.out.printf("Results Count %1.3f Months %1.3f %s Number of Purchases per Month: %1.3f \n",
+                            (float) resultCount, (float) monthDiff,
+                            res, ((float) resultCount) / (float) monthDiff);
                 }
             }
-
         } catch (Exception ex) {
             ex.getStackTrace();
             ex.printStackTrace();
@@ -135,4 +137,3 @@ public class Main {
 }
 
 
-//JOIN subscriptions s ON pl.id = s.course_id " +
