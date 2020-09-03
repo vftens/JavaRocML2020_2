@@ -104,24 +104,25 @@ public class Main {
 
             for (String res : result) {
                 String mySQLstr4 = String.format(
-                        "SELECT COUNT(MONTH(pl.subscription_date)) AS 'avgMon'," +
+                        "SELECT COUNT(MONTH(pl.subscription_date)) AS 'avgM'," +
                                 "TIMESTAMPDIFF(MONTH,MIN(pl.subscription_date)," +
-                                " MAX(pl.subscription_date) )  AS 'avgMonth'," +
+                                "MAX(pl.subscription_date) )  AS 'avgMonth'," +
                                 " pl.course_name AS 'Course name', " +
                                 "pl.subscription_date AS 'Subscr date' " +
                                 " FROM PurchaseList pl " +
-                                "WHERE pl.course_name = \"%s\" GROUP BY pl.subscription_date", res);
+                                //"WHERE pl.course_name = \"%s\" GROUP BY pl.subscription_date", res);
+                                " GROUP BY pl.course_name = \"%s\"", res);
                 ResultSet resultSet4 =
                         statement.executeQuery(mySQLstr4);
                 while (resultSet4.next()) {
                     String nameString4 = resultSet4.getString("Course name");
                     String subscriptionDate = resultSet4.getString("Subscr date");
-                    String avgMon = resultSet4.getString("avgMon");
+                    String avgMon = resultSet4.getString("avgM");
                     int resultCount = Integer.parseInt(avgMon);
                     String avgMonth = resultSet4.getString("avgMonth");
                     int monthDiff = Integer.parseInt(avgMonth);
                     System.out.printf("%s \t %s \n", nameString4, subscriptionDate);
-                    System.out.printf(" %1.3f %1.3f \n",  (float) resultCount,  (float) monthDiff);
+                    System.out.printf("Results Count %1.3f Months %1.3f \n",  (float) resultCount,  (float) monthDiff);
 
                 }
             }
