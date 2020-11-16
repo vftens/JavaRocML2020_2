@@ -107,9 +107,11 @@ public class Main {
 
             for (String res : result) {
                 String mySQLstr4 = String.format(
-                        "SELECT COUNT(MONTH(pl.subscription_date)) AS 'avgM'," +
+                        "SELECT pl.course_name," +
+                                " COUNT(MONTH(pl.subscription_date)) AS 'avgM'," +
                                 "TIMESTAMPDIFF(MONTH,MIN(pl.subscription_date)," +
-                                "MAX(pl.subscription_date) )  AS 'avgMonth'," +
+                                "MAX(pl.subscription_date) ) " +
+                                " AS 'avgMonth'," +
                                 " pl.course_name AS 'Course name', " +
                                 "pl.subscription_date AS 'Subscr date' " +
                                 " FROM PurchaseList pl " +
@@ -137,3 +139,15 @@ public class Main {
 }
 
 
+
+/*
+"SELECT pl.course_name," +
+                                "( COUNT(MONTH(pl.subscription_date)) AS 'avgM'," +
+                                "TIMESTAMPDIFF(MONTH,MIN(pl.subscription_date)," +
+                                "MAX(pl.subscription_date) ) " +
+                                ") AS 'avgMonth'," +
+                                " pl.course_name AS 'Course name', " +
+                                "pl.subscription_date AS 'Subscr date' " +
+                                " FROM PurchaseList pl " +
+                                " GROUP BY pl.course_name = \"%s\"", res);
+ */
