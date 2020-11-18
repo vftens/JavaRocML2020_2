@@ -115,7 +115,7 @@ public class Main {
                                 " pl.course_name AS 'Course name', " +
                                 "pl.subscription_date AS 'Subscr date' " +
                                 " FROM PurchaseList pl " +
-                                " GROUP BY pl.course_name = \"%s\"", res);
+                                " WHERE pl.course_name = \"%s\" GROUP BY pl.course_name", res);
                 ResultSet resultSet4 =
                         statement.executeQuery(mySQLstr4);
                 while (resultSet4.next()) {
@@ -140,14 +140,3 @@ public class Main {
 
 
 
-/*
-"SELECT pl.course_name," +
-                                "( COUNT(MONTH(pl.subscription_date)) AS 'avgM'," +
-                                "TIMESTAMPDIFF(MONTH,MIN(pl.subscription_date)," +
-                                "MAX(pl.subscription_date) ) " +
-                                ") AS 'avgMonth'," +
-                                " pl.course_name AS 'Course name', " +
-                                "pl.subscription_date AS 'Subscr date' " +
-                                " FROM PurchaseList pl " +
-                                " GROUP BY pl.course_name = \"%s\"", res);
- */
