@@ -7,6 +7,5 @@ public class Main {
         Loader ld=new Loader();
         ld.main("");
 
-
     }
 }
