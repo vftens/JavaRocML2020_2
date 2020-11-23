@@ -9,7 +9,7 @@ import java.util.Date;
 @Table(name = "Subscriptions")
 public class Subscriptions implements Serializable
 {
-    @Id
+    @Id//EmbeddedId
     @Column(name = "student_id")
     private int studentId;
     @Id    @Column(name = "course_id")
