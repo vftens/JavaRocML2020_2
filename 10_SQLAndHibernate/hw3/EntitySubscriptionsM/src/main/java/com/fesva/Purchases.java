@@ -6,6 +6,8 @@ import javax.persistence.*;
 @Table(name = "PurchaseList")
 public class Purchases {
 
+    public Purchases(){}
+
     @Column(name = "course_name")
     private String courseName;
 

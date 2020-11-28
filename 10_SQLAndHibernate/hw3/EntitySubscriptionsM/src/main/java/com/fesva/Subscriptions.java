@@ -9,6 +9,12 @@ import java.util.Date;
 @Table(name = "Subscriptions")
 public class Subscriptions implements Serializable
 {
+    @EmbeddedId
+    SubscriptionsMy SubscriptionsMy;
+
+    public Subscriptions(){}
+
+
     @Id//EmbeddedId
     @Column(name = "student_id")
     private int studentId;
@@ -62,5 +68,18 @@ public class Subscriptions implements Serializable
 
     public void setCourse(Course course) {
         this.course = course;
+    }
+
+    //private class SubscriptionsMy {
+
+    //}
+    @Embeddable
+    public class SubscriptionsMy implements Serializable {
+        @Column(name = "id_empl")
+        private int id_empl;
+
+        //@NotBlank
+        @Column(name = "attr_name")
+        private String attrName;
     }
 }

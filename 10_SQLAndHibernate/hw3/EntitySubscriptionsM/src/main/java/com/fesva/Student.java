@@ -8,6 +8,8 @@ import java.util.List;
 @Table(name="Students")
 public class Student
 {
+    public Student(){}
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
