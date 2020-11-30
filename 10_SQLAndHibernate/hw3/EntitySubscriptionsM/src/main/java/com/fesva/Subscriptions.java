@@ -15,7 +15,7 @@ public class Subscriptions implements Serializable
     public Subscriptions(){}
 
 
-    @Id//EmbeddedId
+    @Id //EmbeddedId
     @Column(name = "student_id")
     private int studentId;
     @Id    @Column(name = "course_id")
