@@ -9,8 +9,8 @@ import java.util.Date;
 @Table(name = "Subscriptions")
 public class Subscriptions implements Serializable
 {
-    //@EmbeddedId
-    //SubscriptionsMy SubscriptionsMy;
+    @EmbeddedId
+    SubscriptionsMy SubscriptionsMy;
 
     public Subscriptions(){}
 
