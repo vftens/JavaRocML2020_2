@@ -24,6 +24,7 @@
         <mapping class="com.fesva.Teacher"></mapping>
         <mapping class="com.fesva.Student"></mapping>
         <mapping class="com.fesva.Subscriptions"></mapping>
+        <mapping class="com.fesva.SubscriptionsId"></mapping>
 
     </session-factory>
 </hibernate-configuration>

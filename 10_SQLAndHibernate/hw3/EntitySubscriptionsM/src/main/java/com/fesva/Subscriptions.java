@@ -10,7 +10,7 @@ import java.util.Date;
 public class Subscriptions implements Serializable
 {
     @EmbeddedId
-    SubscriptionsMy SubscriptionsMy;
+    SubscriptionsId id; //SubscriptionId; //SubscriptionsMy SubscriptionsMy;
 
     public Subscriptions(){}
 
@@ -18,7 +18,8 @@ public class Subscriptions implements Serializable
     @Id //EmbeddedId
     @Column(name = "student_id")
     private int studentId;
-    @Id    @Column(name = "course_id")
+    @Id
+    @Column(name = "course_id")
     private int courseId;
 
     @ManyToOne(optional = false, cascade = CascadeType.ALL)
@@ -83,3 +84,12 @@ public class Subscriptions implements Serializable
         private String attrName;
     }
 }
+
+/*
+How do you make a composite primary key in an entity?
+In order to define the composite primary keys, we should follow some rules:
+The composite primary key class must be public.
+It must have a no-arg constructor.
+It must define equals() and hashCode() methods.
+It must be Serializable.
+ */
