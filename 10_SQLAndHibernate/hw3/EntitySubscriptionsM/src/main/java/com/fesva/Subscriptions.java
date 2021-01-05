@@ -2,24 +2,26 @@ package com.fesva;
 
 import javax.persistence.*;
 import java.io.Serializable;
-import java.time.LocalDate;
+//import java.time.LocalDate;
 import java.util.Date;
 
 @Entity
 @Table(name = "Subscriptions")
+@Inheritance(strategy = InheritanceType.TABLE_PER_CLASS)
 public class Subscriptions implements Serializable
 {
     @EmbeddedId
     SubscriptionsId id; //SubscriptionId; //SubscriptionsMy SubscriptionsMy;
-
     public Subscriptions(){}
 
+    public Subscriptions(int studentId){
+        this.studentId = studentId;
+    }
 
-    @Id //EmbeddedId
-    @Column(name = "student_id")
+    @Column(name = "student_id", insertable=false, updatable=false)
     private int studentId;
-    @Id
-    @Column(name = "course_id")
+
+    @Column(name = "course_id", insertable=false, updatable=false)
     private int courseId;
 
     @ManyToOne(optional = false, cascade = CascadeType.ALL)
@@ -39,6 +41,7 @@ public class Subscriptions implements Serializable
         this.subscriptionDate = subscriptionDate;
     }
 
+    /*
     public int getStudentId() {
         return studentId;
     }
@@ -71,9 +74,13 @@ public class Subscriptions implements Serializable
         this.course = course;
     }
 
+
+     */
     //private class SubscriptionsMy {
 
     //}
+
+    /*
     @Embeddable
     public class SubscriptionsMy implements Serializable {
         @Column(name = "id_empl")
@@ -83,6 +90,8 @@ public class Subscriptions implements Serializable
         @Column(name = "attr_name")
         private String attrName;
     }
+
+     */
 }
 
 /*
