@@ -11,10 +11,12 @@ import java.util.List;
 
 public class Program {
     public static void main(String args) { //
+
         Student student = (Student)DAO.getObjectById(11L, Student.class);
         System.out.println(student);
         Teacher teacher = (Teacher) DAO.getObjectById(1L, Teacher.class);
         System.out.println(teacher);
+
         List<Course> courses = teacher.getCourses();
         Hibernate.initialize(courses);
         System.out.println(courses);

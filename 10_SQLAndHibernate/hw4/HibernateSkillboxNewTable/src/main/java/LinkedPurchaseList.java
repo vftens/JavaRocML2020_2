@@ -5,7 +5,7 @@ import javax.persistence.Embeddable;
 public class LinkedPurchaseList implements Serializable {
     public LinkedPurchaseList() {
 
-    }  //protected
+    }
 
     private int student_id;
     private int course_id;
