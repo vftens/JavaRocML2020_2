@@ -8,6 +8,8 @@ import java.util.List;
 @Entity
 @Table(name="Students")
 public class Student { // <mapping class="model.Student"></mapping> ???
+    // org.hibernate.AnnotationException: Use of @OneToMany or @ManyToMany targeting an unmapped class: model.Student.coursesList[model.Course]
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
