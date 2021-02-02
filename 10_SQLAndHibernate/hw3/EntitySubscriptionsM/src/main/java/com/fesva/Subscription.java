@@ -21,6 +21,8 @@ public class Subscription {
     @JoinColumn(name = "student_id", insertable = false, updatable = false)
     protected Student student;
 
+    public Subscription(){}
+
     public SubscriptionPK getKey() {
         return key;
     }

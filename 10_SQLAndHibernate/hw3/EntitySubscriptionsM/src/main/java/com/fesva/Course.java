@@ -27,7 +27,7 @@ public class Course
     private Teacher teacher;
 
     @OneToMany(mappedBy = "course", fetch=FetchType.EAGER)
-    private List<Subscriptions> subscriptions;
+    private List<Subscription> subscriptions;
 
     @Column(name = "students_count")
     private int studentsCount;
@@ -125,11 +125,11 @@ public class Course
         this.students = students;
     }
 
-    public List<Subscriptions> getSubscriptions() {
+    public List<Subscription> getSubscriptions() {
         return subscriptions;
     }
 
-    public void setSubscriptions(List<Subscriptions> subscriptions) {
+    public void setSubscriptions(List<Subscription> subscriptions) {
         this.subscriptions = subscriptions;
     }
 
