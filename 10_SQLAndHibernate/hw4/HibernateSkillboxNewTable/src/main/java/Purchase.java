@@ -1,3 +1,5 @@
+import model.Course;
+import model.Student;
 import org.hibernate.annotations.Subselect;
 import org.hibernate.annotations.Synchronize;
 
@@ -21,6 +23,10 @@ public class Purchase {
 
 	@Column(name = "subscription_date")
 	private Date subscriptionDate;
+
+	public Purchase(Student student, Course course, float price, Date subscriptionsDate) {
+
+	}
 
 	public PurchaseID getId() {
 		return id;
