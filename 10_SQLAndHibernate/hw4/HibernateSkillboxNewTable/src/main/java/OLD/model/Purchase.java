@@ -33,6 +33,12 @@ public class Purchase {
         this.subscriptionDate = subscriptionDate;
     }
 
+    public Purchase(Student student, Course course, float price, Date subscriptionsDate) {
+
+    }
+
+
+
     public PurchaseKey getKey() {
         return key;
     }

@@ -1,8 +1,12 @@
 import java.io.Serializable;
-import javax.persistence.Embeddable;
+import java.util.Date;
+import javax.persistence.*;
 
-@Embeddable
+@Entity
+@Table(name = "Subscriptions")
+//@Embeddable
 public class LinkedPurchaseList implements Serializable {
+
     public LinkedPurchaseList() {
 
     }
@@ -31,6 +35,64 @@ public class LinkedPurchaseList implements Serializable {
     public void setcourse_id(int course_id) {
         this.course_id = course_id;
     }
+
+    @EmbeddedId
+    private Subscription.SubscriptionPK key;
+
+    @Column(name = "subscription_date")
+    private Date subscriptionsDate;
+
+    @ManyToOne(cascade = CascadeType.ALL)
+    @JoinColumn(name = "course_id", insertable = false, updatable = false)
+    protected Course course; // model.
+
+    @ManyToOne(cascade = CascadeType.ALL)
+    @JoinColumn(name = "student_id", insertable = false, updatable = false)
+    protected Student student; // model.
+
+    public Subscription.SubscriptionPK getKey() {
+        return key;
+    }
+
+    public Date getSubscriptionsDate() {
+        return subscriptionsDate;
+    }
+
+    public void setSubscriptionsDate(Date subscriptionsDate) {
+        this.subscriptionsDate = subscriptionsDate;
+    }
+
+    public Course getCourse() {
+        return course;
+    } // model.
+
+    public Student getStudent() {
+        return student;
+    } // model.
+
+
+
+    /*
+    public Date getSubscriptionsDate() {
+        return subscriptionsDate;
+    }
+
+    public void setSubscriptionsDate(Date subscriptionsDate) {
+        this.subscriptionsDate = subscriptionsDate;
+    }
+
+
+
+    public Course getCourse() {
+        return course;
+    } // model.
+
+    public Student getStudent() {
+        return student;
+    } // model.
+
+
+     */
 
     @Override
     public int hashCode() {

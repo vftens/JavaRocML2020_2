@@ -8,6 +8,7 @@ import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 //import program.Program;
 
 import model.Purchase;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -42,14 +43,15 @@ public class Main {
                                 " join fetch sub.student s",
                         Subscription.class).getResultList();
 
-                List<LinkedPurchaseList> linkedPurchaseLists=session.createQuery(
-                        " from LinkedPurchaseList pl"+
-                                " join fetch pl.course c"+
+                List<LinkedPurchaseList> linkedPurchaseLists = session.createQuery(
+                        " from LinkedPurchaseList pl" +
+                                " join fetch pl.course c" +
                                 " join fetch pl.student s",
                         LinkedPurchaseList.class).getResultList();
 
                 List<Purchase> purchaseList = new ArrayList<>();
-                subscriptions.forEach(subscription -> {
+                //subscriptions.forEach(subscription -> {
+                linkedPurchaseLists.forEach(subscription -> {
                     purchaseList.add(new Purchase(
                             subscription.getStudent(),
                             subscription.getCourse(),

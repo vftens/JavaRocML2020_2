@@ -24,9 +24,7 @@ public class Purchase {
 	@Column(name = "subscription_date")
 	private Date subscriptionDate;
 
-	public Purchase(Student student, Course course, float price, Date subscriptionsDate) {
-
-	}
+	public Purchase(Student student, Course course, float price, Date subscriptionsDate) {	}
 
 	public PurchaseID getId() {
 		return id;
