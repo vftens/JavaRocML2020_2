@@ -8,10 +8,12 @@ import javax.persistence.*;
 public class LinkedPurchaseList implements Serializable {
 
     public LinkedPurchaseList() {
-
     }
 
+    @Column(name = "student_id", insertable = false, updatable = false)
     private int student_id;
+
+    @Column(name = "course_id", insertable = false, updatable = false)
     private int course_id;
 
     public LinkedPurchaseList(int student_id, int course_id) {

@@ -1,19 +1,20 @@
-import model.Course;
-import model.Student;
+//import model.Course;
+//port model.Student;
 import org.hibernate.annotations.Subselect;
 import org.hibernate.annotations.Synchronize;
 
 import javax.persistence.Column;
 import javax.persistence.EmbeddedId;
 import javax.persistence.Entity;
+//import javax.persistence.EntityListeners;
 import java.util.Date;
 
-@Entity
+@Entity //@EntityListeners(LinkedPurchaseList.class)
 @Subselect("SELECT s.id student_id, c.id course_id, pu.price price, subscription_date " +
 		"FROM PurchaseList pu " +
 		"JOIN Students s ON student_name = s.name " +
 		"JOIN Courses c ON course_name = c.name")
-@Synchronize({"PurchaseList", "Students", "Courses"})
+@Synchronize({"LinkedPurchaseList", "Students", "Courses"})
 public class Purchase {
     @EmbeddedId
 	private PurchaseID id;

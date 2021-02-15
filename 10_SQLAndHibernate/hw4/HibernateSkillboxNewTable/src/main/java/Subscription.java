@@ -1,5 +1,5 @@
-import model.Course;
-import model.Student;
+//import model.Course;
+//import model.Student;
 
 import javax.persistence.*;
 import java.io.Serializable;
