@@ -1,43 +1,44 @@
 //import model.Course;
 //port model.Student;
+
 import org.hibernate.annotations.Subselect;
 import org.hibernate.annotations.Synchronize;
 
 import javax.persistence.Column;
 import javax.persistence.EmbeddedId;
 import javax.persistence.Entity;
-//import javax.persistence.EntityListeners;
 import java.util.Date;
 
-@Entity //@EntityListeners(LinkedPurchaseList.class)
+@Entity
 @Subselect("SELECT s.id student_id, c.id course_id, pu.price price, subscription_date " +
-		"FROM PurchaseList pu " +
-		"JOIN Students s ON student_name = s.name " +
-		"JOIN Courses c ON course_name = c.name")
+        "FROM PurchaseList pu " +
+        "JOIN Students s ON student_name = s.name " +
+        "JOIN Courses c ON course_name = c.name")
 @Synchronize({"LinkedPurchaseList", "Students", "Courses"})
 public class Purchase {
     @EmbeddedId
-	private PurchaseID id;
+    private PurchaseID id;
 
-	@Column(name = "price")
-	private int price;
+    @Column(name = "price")
+    private int price;
 
-	@Column(name = "subscription_date")
-	private Date subscriptionDate;
+    @Column(name = "subscription_date")
+    private Date subscriptionDate;
 
-	public Purchase(Student student, Course course, float price, Date subscriptionsDate) {	}
+    public Purchase(Student student, Course course, float price, Date subscriptionsDate) {
+    }
 
-	public PurchaseID getId() {
-		return id;
-	}
+    public PurchaseID getId() {
+        return id;
+    }
 
-	public int getPrice() {
-		return price;
-	}
+    public int getPrice() {
+        return price;
+    }
 
-	public Date getSubscriptionDate() {
-		return subscriptionDate;
-	}
+    public Date getSubscriptionDate() {
+        return subscriptionDate;
+    }
 }
 
 //  SELECT Students.id student_id,
