@@ -13,10 +13,10 @@ public class Main {
         Banko bank = new fesva.com.Banko();
 
         HashMap<String, fesva.com.Accounti> accounts = new HashMap<>();
-        fesva.com.Accounti acc1 = new fesva.com.Accounti("111", 500000);
-        fesva.com.Accounti acc2 = new fesva.com.Accounti("222", 500000);
-        fesva.com.Accounti acc3 = new fesva.com.Accounti("333", 1000000);
-        fesva.com.Accounti acc4 = new fesva.com.Accounti("444", 0);
+        fesva.com.Accounti acc1 = new fesva.com.Accounti("1111", 500000);
+        fesva.com.Accounti acc2 = new fesva.com.Accounti("2222", 500000);
+        fesva.com.Accounti acc3 = new fesva.com.Accounti("3333", 1000000);
+        fesva.com.Accounti acc4 = new fesva.com.Accounti("4444", 0);
 
         accounts.put(acc1.getAccNumber(), acc1);
         accounts.put(acc2.getAccNumber(), acc2);
@@ -51,10 +51,10 @@ public class Main {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        System.out.println("111: " + bank.getBalance("111") + " статус: " + !acc1.isBlock());
-        System.out.println("222: " + bank.getBalance("222") + " статус: " + !acc2.isBlock());
-        System.out.println("333: " + bank.getBalance("333") + " статус: " + !acc3.isBlock());
-        System.out.println("444: " + bank.getBalance("444") + " статус: " + !acc4.isBlock());
+        System.out.println("1111: " + bank.getBalance("1111") + " статус: " + !acc1.isBlock());
+        System.out.println("2222: " + bank.getBalance("2222") + " статус: " + !acc2.isBlock());
+        System.out.println("3333: " + bank.getBalance("3333") + " статус: " + !acc3.isBlock());
+        System.out.println("4444: " + bank.getBalance("4444") + " статус: " + !acc4.isBlock());
     }
 
     private static void doTransactionRun(fesva.com.Accounti account) {
