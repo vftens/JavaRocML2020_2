@@ -2,20 +2,22 @@ package com.fesva;
 
 import java.util.ArrayList;
 import java.util.HashMap;
-import fesva.com.Banko;
+
+import fesva.com.Accounti;
+import fesva.com.Bank;
 
 public class Main {
 
     public static void main(String[] args) {
 
-//        HashMap<String, Accounti> accounts = generateAccounts();
-        Banko bank = new fesva.com.Banko();
+//
+        Bank bank = new fesva.com.Bank();
 
-        HashMap<String, fesva.com.Accounti> accounts = new HashMap<>();
-        fesva.com.Accounti acc1 = new fesva.com.Accounti("1111", 500000);
-        fesva.com.Accounti acc2 = new fesva.com.Accounti("2222", 500000);
-        fesva.com.Accounti acc3 = new fesva.com.Accounti("3333", 1000000);
-        fesva.com.Accounti acc4 = new fesva.com.Accounti("4444", 0);
+        HashMap<String, Accounti> accounts = new HashMap<>();
+        fesva.com.Account acc1 = new fesva.com.Account("1111", 500000);
+        fesva.com.Account acc2 = new fesva.com.Account("2222", 500000);
+        fesva.com.Account acc3 = new fesva.com.Account("3333", 1000000);
+        fesva.com.Account acc4 = new fesva.com.Account("4444", 0);
 
         accounts.put(acc1.getAccNumber(), acc1);
         accounts.put(acc2.getAccNumber(), acc2);

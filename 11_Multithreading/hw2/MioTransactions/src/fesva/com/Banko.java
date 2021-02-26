@@ -7,7 +7,7 @@ public class Banko {
     private HashMap<String, Accounti> accounts;
     private final Random random = new Random();
 
-    public HashMap<String, Accounti> getAccounts() {
+    public Object getAccounts() {
         return accounts;
     }
 
@@ -18,7 +18,7 @@ public class Banko {
     public synchronized boolean isFraud(String fromAccountNum, String toAccountNum, long amount)
             throws InterruptedException {
         System.out.printf("...Идет проверка (%s -> %s, %d)", fromAccountNum, toAccountNum, amount);
-        Thread.sleep(1001);
+        Thread.sleep(1001); // more than 1000
         return random.nextBoolean();
     }
 

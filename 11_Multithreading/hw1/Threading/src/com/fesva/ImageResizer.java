@@ -5,7 +5,6 @@ import net.coobird.thumbnailator.Thumbnails;
 import net.coobird.thumbnailator.resizers.configurations.ScalingMode;
 
 import javax.imageio.ImageIO;
-//import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.File;
 
