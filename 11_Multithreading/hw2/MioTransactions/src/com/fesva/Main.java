@@ -2,7 +2,6 @@ package com.fesva;
 
 import java.util.ArrayList;
 import java.util.HashMap;
-//import java.util.Random;
 import fesva.com.Banko;
 
 public class Main {
