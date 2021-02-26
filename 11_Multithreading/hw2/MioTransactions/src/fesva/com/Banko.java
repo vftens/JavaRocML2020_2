@@ -18,7 +18,7 @@ public class Banko {
     public synchronized boolean isFraud(String fromAccountNum, String toAccountNum, long amount)
             throws InterruptedException {
         System.out.printf("...Идет проверка (%s -> %s, %d)", fromAccountNum, toAccountNum, amount);
-        Thread.sleep(1500);
+        Thread.sleep(1001);
         return random.nextBoolean();
     }
 
