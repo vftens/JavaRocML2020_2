@@ -1,10 +1,13 @@
 import java.io.File;
+import java.util.Scanner;
 
 public class Main {
 
     public static final boolean ENRU = true;
 
     public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
 
         File file = new File("./output.txt");
 
@@ -16,7 +19,13 @@ public class Main {
         }
 
         System.out.println("Введите Сайт для анализа: ");
+        String url = sc.nextLine();
 
-        SiteMap siteMap = new SiteMap("");
+        System.out.println("Давайте сканируем наш сайт.");
+
+        long start = System.currentTimeMillis();
+
+        SiteMap siteMap = new SiteMap(url);
+
     }
 }
