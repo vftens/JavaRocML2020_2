@@ -26,6 +26,7 @@ public class Main {
         long start = System.currentTimeMillis();
 
         SiteMap siteMap = new SiteMap(url);
+        siteMap.solve(countOfCores);
 
     }
 }
