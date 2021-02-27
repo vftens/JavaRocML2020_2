@@ -14,6 +14,8 @@ import static java.lang.Math.random;
 
 public class SiteMap extends RecursiveTask<String> {
 
+    static final boolean debug=true;
+
     private String url;
     private static String startUrl;
     private static CopyOnWriteArraySet<String> allLinks = new CopyOnWriteArraySet<>();
@@ -63,15 +65,17 @@ public class SiteMap extends RecursiveTask<String> {
         return true;//(MioResult) boolresult;
     }
 
-
     @Override
     protected String compute() {
         StringBuffer sb = new StringBuffer(url + "\n");
         Set<SiteMap> subTask = new HashSet<>();
 
         getManyChildren(subTask);
+        for (SiteMap link : subTask) {
+            sb.append(link.join());
+        }
 
-        return null;
+        return sb.toString();
     }
 
     private void getManyChildren(Set<SiteMap> subTask) {
@@ -79,6 +83,7 @@ public class SiteMap extends RecursiveTask<String> {
         Elements elements;
         try {
             Thread.sleep(pause());
+            if (debug) System.out.println(url);
             doc = Jsoup.connect(url).get();
             elements = doc.select("a");
             for (Element el : elements) {
@@ -89,17 +94,12 @@ public class SiteMap extends RecursiveTask<String> {
                     mysiteMap.fork();
                     subTask.add(mysiteMap);
                     allLinks.add(atribut);
-
                 }
-
             }
-
         } catch (InterruptedException e) {
             e.printStackTrace();
         } catch (IOException ignored) {
-
+            ignored.printStackTrace();
         }
-
-
     }
 }

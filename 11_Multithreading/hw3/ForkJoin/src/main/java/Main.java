@@ -1,11 +1,12 @@
-import java.io.File;
+//import java.io.File;
+
 import java.util.Scanner;
 import java.util.concurrent.ForkJoinPool;
-import java.util.concurrent.ForkJoinTask;
+//import java.util.concurrent.ForkJoinTask;
 
 public class Main {
 
-    public static final boolean ENRU = true;
+    public static final boolean ENRU = false;
 
     public static void main(String[] args) {
 
@@ -20,17 +21,26 @@ public class Main {
 
         System.out.println("Введите Сайт для анализа: ");
         String url = sc.nextLine();
+        System.out.println("Введите количество создаваемых потоков - 0 установит значение по умолчанию.");
+        int numThreads=sc.nextInt();
+
+        url = url.trim();
 
         System.out.println("Давайте сканируем наш сайт.");
 
         long start = System.currentTimeMillis();
 
         SiteMap siteMap = new SiteMap(url, url);
+        String siteMap1 = numThreads == 0 ? new ForkJoinPool().invoke(siteMap)
+                : new ForkJoinPool(numThreads).invoke(siteMap);
+
         String msMap = frk(countOfCores, siteMap);
         //siteMap.solve(countOfCores);
         System.out.println("Завершено.");
-        System.out.println("Время сканирования Сайта " + ((System.currentTimeMillis() - start) / 1000) + "секунд.");
+        System.out.println("Время сканирования Сайта " + ((System.currentTimeMillis() - start) / 1000.0) + " секунд.");
 
+        MioResult mioResult = new MioResult();
+        mioResult.write(msMap);
     }
 
     public static String frk(int numThreads, SiteMap siteMap) {
