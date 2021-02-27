@@ -1,5 +1,7 @@
 import java.io.File;
 import java.util.Scanner;
+import java.util.concurrent.ForkJoinPool;
+import java.util.concurrent.ForkJoinTask;
 
 public class Main {
 
@@ -8,8 +10,6 @@ public class Main {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-
-        File file = new File("./output.txt");
 
         int countOfCores = Runtime.getRuntime().availableProcessors();
         if (ENRU) {
@@ -25,8 +25,19 @@ public class Main {
 
         long start = System.currentTimeMillis();
 
-        SiteMap siteMap = new SiteMap(url);
-        siteMap.solve(countOfCores);
+        SiteMap siteMap = new SiteMap(url, url);
+        String msMap = frk(countOfCores, siteMap);
+        //siteMap.solve(countOfCores);
+        System.out.println("Завершено.");
+        System.out.println("Время сканирования Сайта " + ((System.currentTimeMillis() - start) / 1000) + "секунд.");
 
+    }
+
+    public static String frk(int numThreads, SiteMap siteMap) {
+        if (numThreads == 0) {
+            return new ForkJoinPool().invoke(siteMap);
+        } else {
+            return new ForkJoinPool(numThreads).invoke(siteMap);
+        }
     }
 }

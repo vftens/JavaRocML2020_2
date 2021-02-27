@@ -1,9 +1,13 @@
-import javax.lang.model.util.Elements;
-import javax.swing.text.Document;
+import org.jsoup.Jsoup;
+import org.jsoup.select.Elements;
+import org.jsoup.nodes.Element;
+import org.jsoup.nodes.Document;
+
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Set;
+import java.util.concurrent.CopyOnWriteArraySet;
 import java.util.concurrent.RecursiveTask;
 
 import static java.lang.Math.random;
@@ -12,6 +16,7 @@ public class SiteMap extends RecursiveTask<String> {
 
     private String url;
     private static String startUrl;
+    private static CopyOnWriteArraySet<String> allLinks = new CopyOnWriteArraySet<>();
 
     HashMap<String, SiteMap> mymap;
     int numCores = 0;
@@ -30,16 +35,18 @@ public class SiteMap extends RecursiveTask<String> {
     }
 
     boolean problem_is_small() {
-        if (numCores <= 1) {
+        if (numCores == 0) {
             return true;
         } else return false;
     }
 
-    public MioResult solve(int problem) {
+
+    public boolean solve(int problem) {
         boolean boolresult;
         numCores = problem;
         if (problem_is_small()) {
             //directly solve problem
+            //Main.frk();//new ForkJoinPool().invoke();
 
         } else {
 	    /*
@@ -47,11 +54,15 @@ public class SiteMap extends RecursiveTask<String> {
             fork new subtasks to solve each part
             join all subtasks
             compose result from subresults
-	     */
+	     */ //
+            //new ForkJoinPool(numThreads).invoke(SiteMap);
 
         }
-        return boolresult;
+        boolresult = true;
+
+        return true;//(MioResult) boolresult;
     }
+
 
     @Override
     protected String compute() {

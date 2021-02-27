@@ -1,3 +1,3 @@
-public class MioProblem extends String {
+public class MioProblem /*extends String */ {
 
 }
