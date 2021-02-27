@@ -1,5 +1,7 @@
 import java.util.HashMap;
 
+import static java.lang.Math.random;
+
 public class SiteMap {
 
     HashMap<String, SiteMap> mymap;
@@ -8,16 +10,19 @@ public class SiteMap {
 
     }
 
-    boolean problem_is_small(){
-        return ;
+    int pause(){
+        return (int) (100+(50*random()));
+    }
+
+    boolean problem_is_small() {
+        return;
     }
 
     MioResult solve(MioProblem problem) {
         boolean boolresult;
         if (problem_is_small()) {
             //directly solve problem
-        }
-	else {
+        } else {
 	    /*
             split problem into independent parts
             fork new subtasks to solve each part
@@ -25,7 +30,7 @@ public class SiteMap {
             compose result from subresults
 	     */
         }
-	    return boolresult;
+        return boolresult;
     }
 
 }
