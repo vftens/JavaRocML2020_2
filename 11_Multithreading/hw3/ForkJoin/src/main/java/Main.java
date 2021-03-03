@@ -35,11 +35,12 @@ public class Main {
                 : new ForkJoinPool(numThreads).invoke(siteMap);
 
         String msMap = frk(countOfCores, siteMap);
-        //siteMap.solve(countOfCores);
+        siteMap.solve(countOfCores);
         System.out.println("Завершено.");
         System.out.println("Время сканирования Сайта " + ((System.currentTimeMillis() - start) / 1000.0) + " секунд.");
 
         MioResult mioResult = new MioResult();
+        mioResult.write(siteMap1);
         mioResult.write(msMap);
     }
 

@@ -14,7 +14,7 @@ import static java.lang.Math.random;
 
 public class SiteMap extends RecursiveTask<String> {
 
-    static final boolean debug=true;
+    static final boolean debug = true;
 
     private String url;
     private static String startUrl;
@@ -41,7 +41,6 @@ public class SiteMap extends RecursiveTask<String> {
             return true;
         } else return false;
     }
-
 
     public boolean solve(int problem) {
         boolean boolresult;
@@ -72,7 +71,11 @@ public class SiteMap extends RecursiveTask<String> {
 
         getManyChildren(subTask);
         for (SiteMap link : subTask) {
-            sb.append(link.join());
+            try {
+                sb.append(link.join());
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         }
 
         return sb.toString();
@@ -83,9 +86,10 @@ public class SiteMap extends RecursiveTask<String> {
         Elements elements;
         try {
             Thread.sleep(pause());
-            if (debug) System.out.println(url);
+
             doc = Jsoup.connect(url).get();
             elements = doc.select("a");
+
             for (Element el : elements) {
                 String atribut = el.attr("abs:href");
                 if (!atribut.isEmpty() && atribut.startsWith(startUrl) && !atribut.contains("#") &&
