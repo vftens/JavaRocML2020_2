@@ -82,4 +82,7 @@ public class Banko {
     private void decreaseMoney(Accounti account, long amount) {
         account.setMoney(account.getMoney() - amount);
     }
+
+    protected void setAccounts() {
+    }
 }
