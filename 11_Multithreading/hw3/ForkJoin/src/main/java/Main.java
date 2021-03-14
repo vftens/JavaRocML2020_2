@@ -34,14 +34,14 @@ public class Main {
         String siteMap1 = numThreads == 0 ? new ForkJoinPool().invoke(siteMap)
                 : new ForkJoinPool(numThreads).invoke(siteMap);
 
-        String msMap = frk(countOfCores, siteMap);
-        siteMap.solve(countOfCores);
+        //String msMap = frk(countOfCores, siteMap);
+        //siteMap.solve(countOfCores);
         System.out.println("Завершено.");
         System.out.println("Время сканирования Сайта " + ((System.currentTimeMillis() - start) / 1000.0) + " секунд.");
 
         MioResult mioResult = new MioResult();
         mioResult.write(siteMap1);
-        mioResult.write(msMap);
+        //mioResult.write(msMap);
     }
 
     public static String frk(int numThreads, SiteMap siteMap) {

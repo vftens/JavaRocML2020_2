@@ -21,7 +21,7 @@ public class SiteMap extends RecursiveTask<String> {
     private static CopyOnWriteArraySet<String> allLinks = new CopyOnWriteArraySet<>();
 
     HashMap<String, SiteMap> mymap;
-    int numCores = 0;
+    int numCores = 8;
 
     public SiteMap(String url) {
         this.url = url.trim();
