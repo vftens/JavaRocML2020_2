@@ -87,6 +87,8 @@ public class SiteMap extends RecursiveTask<String> {
         try {
             Thread.sleep(pause());
 
+            if (debug) System.out.println(url);
+
             doc = Jsoup.connect(url).get();
             elements = doc.select("a");
 
