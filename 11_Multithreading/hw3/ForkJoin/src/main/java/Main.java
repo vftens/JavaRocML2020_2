@@ -1,11 +1,7 @@
-//import java.io.File;
-
 import java.util.Scanner;
 import java.util.concurrent.ForkJoinPool;
-//import java.util.concurrent.ForkJoinTask;
 
 public class Main {
-
     public static final boolean ENRU = false;
 
     public static void main(String[] args) {
@@ -24,7 +20,7 @@ public class Main {
         System.out.println("Введите количество создаваемых потоков - 0 установит значение по умолчанию.");
         int numThreads = sc.nextInt();
 
-        url = url.trim();
+        //url = url.trim();
 
         System.out.println("Давайте сканируем наш сайт.");
 
@@ -43,12 +39,11 @@ public class Main {
         String siteMap2 = numThreads == 0 ? new ForkJoinPool().invoke(linkExecutor)
                 : new ForkJoinPool(numThreads).invoke(linkExecutor);
 
-
         System.out.println("Сканирование завершено...");
         System.out
                 .println("Время сканирования " + ((System.currentTimeMillis() - start2) / 1000.0) + " сек.");
         MioResult myresult = new MioResult();
-        //myresult.write(siteMap2);
+        myresult.write(siteMap2);
 
         System.out.println("Завершено.");
         System.out.println("Время двойного сканирования Сайта " + ((System.currentTimeMillis() - start) / 1000.0) + " секунд.");

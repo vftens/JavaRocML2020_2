@@ -32,7 +32,7 @@ public class SiteMap extends RecursiveTask<String> {
         SiteMap.startUrl = startUrl.trim();
     }
 
-    int pause() {
+    static int pause() {
         return (int) (100 + (50 * random()));
     }
 

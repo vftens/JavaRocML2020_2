@@ -42,7 +42,7 @@ public class LinkExecutor extends RecursiveTask<String> {
     Document doc;
     Elements elements;
     try {
-      Thread.sleep(200);
+      Thread.sleep(SiteMap.pause());
       if (debug) System.out.println(url);
       doc = Jsoup.connect(url).get();
       elements = doc.select("a");
