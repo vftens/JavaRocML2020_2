@@ -17,8 +17,10 @@ public class Banko {
 
     public synchronized boolean isFraud(String fromAccountNum, String toAccountNum, long amount)
             throws InterruptedException {
-        System.out.printf("...Идет проверка (%s -> %s, %d)", fromAccountNum, toAccountNum, amount);
-        Thread.sleep(1001); // more than 1000
+
+                System.out.printf("...Идет проверка (%s -> %s, %d)", fromAccountNum, toAccountNum, amount);
+                Thread.sleep(1001); // more than 1000
+
         return random.nextBoolean();
     }
 
@@ -37,21 +39,28 @@ public class Banko {
             return;
         }
 
-        decreaseMoney(from, amount);
-        increaseMoney(to, amount);
+        synchronized (accounts.get(fromAccountNum)) {
+            synchronized (accounts.get(toAccountNum)) {
 
-        try {
-            if (amount > 50000 && isFraud(fromAccountNum, toAccountNum, amount)) {
-                from.setBlock(true);
-                to.setBlock(true);
-                System.out.printf("...Неудача!" +
-                        "\nСчета %s и %s заблокированы службой безопасности\n", from.getAccNumber(), to.getAccNumber());
-            } else {
-                System.out.println("...Успешно");
+                decreaseMoney(from, amount);
+                increaseMoney(to, amount);
+
+                try {
+                    if (amount > 50000 && isFraud(fromAccountNum, toAccountNum, amount)) {
+                        from.setBlock(true);
+                        to.setBlock(true);
+                        System.out.printf("...Неудача!" +
+                                "\nСчета %s и %s заблокированы службой безопасности\n", from.getAccNumber(), to.getAccNumber());
+                    } else {
+                        System.out.println("...Успешно");
+                    }
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+
             }
-        } catch (InterruptedException e) {
-            e.printStackTrace();
         }
+
     }
 
     /**

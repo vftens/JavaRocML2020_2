@@ -12,15 +12,6 @@ public class Bank extends Banko{
 
     public Bank(Object accounts) {
         Object lock = new Object();
-
-        synchronized(lock) {
-            synchronized(lock) {
-                synchronized(lock) {
-                    // ad nauseam and within method calls
-                }
-            }
-        }
-
     }
 
     @Override

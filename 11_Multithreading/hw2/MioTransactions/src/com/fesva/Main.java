@@ -46,7 +46,7 @@ public class Main {
             }
         }));
 
-        threads.forEach(Thread::start);
+        threads.forEach(Thread::start);  // START!
 
         try {
             Thread.sleep(4000);
