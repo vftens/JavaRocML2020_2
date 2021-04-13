@@ -43,13 +43,13 @@ public class Main {
         System.out
                 .println("Время сканирования " + ((System.currentTimeMillis() - start2) / 1000.0) + " сек.");
         MioResult myresult = new MioResult();
-        myresult.write(siteMap2);
+        myresult.write(siteMap2, false);
 
         System.out.println("Завершено.");
         System.out.println("Время двойного сканирования Сайта " + ((System.currentTimeMillis() - start) / 1000.0) + " секунд.");
 
         MioResult mioResult = new MioResult();
-        mioResult.write(siteMap1);
+        mioResult.write(siteMap1, true);
         //mioResult.write(msMap);
     }
 

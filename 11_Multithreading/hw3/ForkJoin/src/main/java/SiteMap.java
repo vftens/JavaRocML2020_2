@@ -4,7 +4,6 @@ import org.jsoup.nodes.Element;
 import org.jsoup.nodes.Document;
 
 import java.io.IOException;
-import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Set;
 import java.util.concurrent.CopyOnWriteArraySet;
@@ -20,7 +19,7 @@ public class SiteMap extends RecursiveTask<String> {
     private static String startUrl;
     private static CopyOnWriteArraySet<String> allLinks = new CopyOnWriteArraySet<>();
 
-    HashMap<String, SiteMap> mymap;
+    //HashMap<String, SiteMap> mymap;
     int numCores = 8;
 
     public SiteMap(String url) {
@@ -71,14 +70,24 @@ public class SiteMap extends RecursiveTask<String> {
 
         getManyChildren(subTask);
         for (SiteMap link : subTask) {
+            int Otst = 0;
             try {
-                sb.append(link.join());
+                String lnk = link.join();
+                //if(debug) System.out.println(lnk);
+                sb.append(createOtst(Otst) + lnk);
             } catch (Exception e) {
                 e.printStackTrace();
             }
+            Otst += 1;
+
         }
 
         return sb.toString();
+    }
+
+    static String createOtst(int Otst) { // Создать отступы
+        String myotst = "    ";
+        return myotst.repeat(Otst);
     }
 
     private void getManyChildren(Set<SiteMap> subTask) {

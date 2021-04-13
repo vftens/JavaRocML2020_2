@@ -1,1 +1,2 @@
-HTTPS://WWW.LENTA.RU
+http://www.lenta.ru
+http://www.lenta.ru

@@ -1,16 +1,16 @@
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.PrintWriter;
+import java.io.*;
 
 public class MioResult {
 
-    public static void write(String msMap) {
+    public static void write(String msMap, boolean append) {
         File file = new File("./output.txt");
         System.out.println("Записываем файл...");
 
-        try (PrintWriter writer = new PrintWriter(file)) {
+        try (FileWriter writer = new FileWriter(file, append)) {
             writer.write(msMap);
         } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
             e.printStackTrace();
         }
     }

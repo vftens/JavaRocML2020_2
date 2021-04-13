@@ -25,7 +25,6 @@ public class LinkExecutor extends RecursiveTask<String> {
         LinkExecutor.startUrl = startUrl.trim();
     }
 
-
     @Override
     protected String compute() {
         StringBuffer sb = new StringBuffer(url + "\n");
@@ -34,7 +33,17 @@ public class LinkExecutor extends RecursiveTask<String> {
         getChildren(subTask);
 
         for (LinkExecutor link : subTask) {
-            sb.append(link.join());
+            int Otst = 0;
+            
+            try {
+                String lnk = link.join();
+                //if(debug) System.out.println(lnk);
+                sb.append(SiteMap.createOtst(Otst) + lnk);
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+            Otst += 1;
+
         }
         return sb.toString();
     }
@@ -58,6 +67,7 @@ public class LinkExecutor extends RecursiveTask<String> {
                 }
             }
         } catch (InterruptedException | IOException ignored) {
+            ignored.printStackTrace();
         }
     }
 }
