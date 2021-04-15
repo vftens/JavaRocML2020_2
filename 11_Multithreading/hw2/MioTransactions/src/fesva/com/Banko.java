@@ -31,7 +31,7 @@ public class Banko {
      * метод isFraud. Если возвращается true, то делается блокировка
      * счетов (как – на ваше усмотрение)
      */
-    public synchronized void transfer(String fromAccountNum, String toAccountNum, long amount) {
+    public void transfer(String fromAccountNum, String toAccountNum, long amount) {
         Accounti from = accounts.get(fromAccountNum);
         Accounti to = accounts.get(toAccountNum);
         System.out.printf("%s >> %s (%d)", from.getAccNumber(), to.getAccNumber(), amount);

@@ -10,9 +10,14 @@ import java.util.Date;
 public class DefaultController {
 
     @RequestMapping("/")
-    public String index()
-    {
-        return (new Date()).toString();
+    public String index() {
+        Random rnd = new fesva.com.Random();
+
+        if (rnd.nextBoolean()) {
+            return (new Date()).toString();
+        } else {
+            return String.valueOf((new Random().nextInt())); //random()));
+        }
     }
 
     @RequestMapping(method = {RequestMethod.OPTIONS,

@@ -26,6 +26,7 @@ public class Bank extends Banko{
 
     @Override
     public synchronized void transfer(String fromAccountNum, String toAccountNum, long amount) {
+        //sort(queue(in));
         super.transfer(fromAccountNum, toAccountNum, amount);
     }
 

@@ -2,13 +2,18 @@ package fesva.com;
 
 import java.util.concurrent.atomic.AtomicLong;
 
+import static java.lang.Integer.parseInt;
+
 public class Accounti {
     private AtomicLong money = new AtomicLong();
     private String accNumber;
+    private int accIntNumber;
+
     private boolean isBlock;
 
     public Accounti(String accNumber, long money) {
         this.accNumber = accNumber;
+        this.accIntNumber = parseInt(accNumber);
         this.money.set(money);
         isBlock = false;
     }
@@ -23,6 +28,10 @@ public class Accounti {
 
     public String getAccNumber() {
         return accNumber;
+    }
+
+    public int getAccIntNumber() {
+        return accIntNumber;
     }
 
     public void setAccNumber(String accNumber) {
