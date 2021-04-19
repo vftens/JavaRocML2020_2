@@ -1,15 +1,14 @@
 package fesva.com;
 
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Date;
 
 @RestController
-public class DefaultController {
+public class LaborController {
 
-    @RequestMapping("/")
+    @RequestMapping("/labor")
     public String index() {
         Random rnd = new fesva.com.Random();
 
@@ -20,9 +19,6 @@ public class DefaultController {
         }
     }
 
-    @RequestMapping(method = {RequestMethod.OPTIONS,
-            RequestMethod.GET}, value = "/**/{path:[^\\\\.]*}")
-    public String redirectToIndex() {
-        return "forward:/";
-    }
 }
+
+

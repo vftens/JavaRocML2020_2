@@ -16,7 +16,7 @@ public class DefaultController {
         if (rnd.nextBoolean()) {
             return (new Date()).toString();
         } else {
-            return String.valueOf((new Random().nextInt()));
+            return String.valueOf((new Random().nextInt())); //random()));
         }
     }
 
