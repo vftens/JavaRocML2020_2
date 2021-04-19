@@ -39,8 +39,6 @@ public class CoursesController {
             return ResponseEntity.status(HttpStatus.NOT_FOUND).body(null);
         }
         return new ResponseEntity(course, HttpStatus.OK);
-
     }
-
 
 }
