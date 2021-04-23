@@ -30,13 +30,15 @@ public class Bank extends Banko {
         return super.isFraud(fromAccountNum, toAccountNum, amount);
     }
 
-    private synchronized void inPair(String fromAccountNum, String toAccountNum) {
-        //Pair<String, String> elem = Pair.pair(fromAccountNum, toAccountNum);
+    private synchronized void inPair(String fromAccountNum, String toAccountNum) throws NullPointerException {
+
+        Pair<String, String> elem = Pair.pair(fromAccountNum, toAccountNum);
         try {
-            while (!queue.offer(Pair.pair(fromAccountNum, toAccountNum))) {
+            while (!queue.offer(elem)) {
                 try {
                     wait();
                 } catch (InterruptedException e) {
+                    System.out.println("36 currentStack=" + currentStack);
                     e.printStackTrace();
                 }
             }
@@ -49,22 +51,29 @@ public class Bank extends Banko {
         notify();
     }
 
-    private synchronized Pair outPair1() {
+    private synchronized Pair outPair1() throws NullPointerException {
         while (currentStack == 0) {
             try {
                 wait();
             } catch (InterruptedException e) {
+                System.out.println("currentStack==" + currentStack);
                 e.printStackTrace();
             }
         }
-        Pair el1 = (Pair) queue.peek(); // элемент не удаляется
+        Pair el1 = null;
+        try {
+            el1 = (Pair) queue.peek(); // элемент не удаляется
+        } catch (Exception e1) {
+            System.out.println("64 currentStack=" + currentStack);
+            e1.printStackTrace();
+        }
         currentStack--;
 
         notify();
         return el1;
     }
 
-    private synchronized Pair outPair2() {
+    private synchronized Pair outPair2() throws NullPointerException {
         while (currentStack == 0) {
             try {
                 wait();
@@ -72,7 +81,7 @@ public class Bank extends Banko {
                 e.printStackTrace();
             }
         }
-        Pair el2 = (Pair) queue.poll();
+        Pair el2 = (Pair) queue.poll(); //peek();
         currentStack--;
         notify();
 
@@ -80,17 +89,28 @@ public class Bank extends Banko {
     }
 
     @Override
-    public void transfer(String fromAccountNum, String toAccountNum, long amount) {
+    public synchronized void transfer(String fromAccountNum, String toAccountNum, long amount) {
         //sort(queue(in));
-        //synchronized {
-        inPair(fromAccountNum, toAccountNum);
-        Pair el1 = outPair1();
+        //synchronized
+        //Object frAccNumber = super.getAccounts();//.getClass(); //getAccIntNumber();
 
-        Pair el2 = outPair2();
+        //Class<? extends String> toAccNumber = toAccountNum.getClass();
+        try {
+            inPair(fromAccountNum, toAccountNum);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
 
-        sort(el1, el2);
-        fromAccountNum = (String) el1.first;
-        toAccountNum = (String) el1.second;
+        try {
+            Pair el1 = outPair1();
+            Pair el2 = outPair2();
+            sort(el1, el2);
+            fromAccountNum = (String) el1.first;
+            toAccountNum = (String) el1.second;
+
+        } catch (Exception e2) {
+            e2.printStackTrace();
+        }
 
         currentStack++;
         super.transfer(fromAccountNum, toAccountNum, amount);
@@ -106,5 +126,4 @@ public class Bank extends Banko {
     protected void setAccounts() {
         super.setAccounts();
     }
-
 }
