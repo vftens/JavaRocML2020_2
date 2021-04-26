@@ -6,6 +6,7 @@ import java.util.Random;
 public class Banko {
     private HashMap<String, Accounti> accounts;
     private final Random random = new Random();
+    private int from;
 
     public Object getAccounts() {
         return accounts;
@@ -18,8 +19,8 @@ public class Banko {
     public synchronized boolean isFraud(String fromAccountNum, String toAccountNum, long amount)
             throws InterruptedException {
 
-                System.out.printf("...Идет проверка (%s -> %s, %d)", fromAccountNum, toAccountNum, amount);
-                Thread.sleep(1001); // more than 1000
+        System.out.printf("...Идет проверка (%s -> %s, %d)", fromAccountNum, toAccountNum, amount);
+        Thread.sleep(1001); // more than 1000
 
         return random.nextBoolean();
     }
@@ -39,8 +40,30 @@ public class Banko {
             return;
         }
 
-        synchronized (accounts.get(fromAccountNum)) {
-            synchronized (accounts.get(toAccountNum)) {
+        if (compare(from.getAccIntNumber(), to.getAccIntNumber()))
+            synchronized (from) {
+                synchronized (to) {
+
+                    decreaseMoney(from, amount);
+                    increaseMoney(to, amount);
+
+                    try {
+                        if (amount > 50000 && isFraud(fromAccountNum, toAccountNum, amount)) {
+                            from.setBlock(true);
+                            to.setBlock(true);
+                            System.out.printf("...Неудача!" +
+                                    "\nСчета %s и %s заблокированы службой безопасности\n", from.getAccNumber(), to.getAccNumber());
+                        } else {
+                            System.out.println("...Успешно");
+                        }
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
+
+                }
+            }
+        else synchronized (to) {
+            synchronized (from) {
 
                 decreaseMoney(from, amount);
                 increaseMoney(to, amount);
@@ -61,6 +84,10 @@ public class Banko {
             }
         }
 
+    }
+
+    private synchronized boolean compare(int from, int to) {
+        return (java.lang.Integer.compare(from, to)) > 0 ? true : false;
     }
 
     /**

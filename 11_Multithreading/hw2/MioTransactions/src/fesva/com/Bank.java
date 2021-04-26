@@ -1,7 +1,5 @@
 package fesva.com;
 
-//import jdk.internal.net.http.common.Pair;
-
 import java.util.HashMap;
 
 //import static jdk.nashorn.internal.objects.NativeArray.sort;
@@ -117,7 +115,7 @@ public class Bank extends Banko {
 
          */
         super.transfer(fromAccountNum, toAccountNum, amount);
-        notify();
+        //notify();
     }
 
     @Override
