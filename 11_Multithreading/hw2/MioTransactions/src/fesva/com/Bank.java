@@ -4,7 +4,7 @@ package fesva.com;
 
 import java.util.HashMap;
 
-import static jdk.nashorn.internal.objects.NativeArray.sort;
+//import static jdk.nashorn.internal.objects.NativeArray.sort;
 
 public class Bank extends Banko {
     private static int currentStack = 0;
@@ -91,10 +91,11 @@ public class Bank extends Banko {
     @Override
     public synchronized void transfer(String fromAccountNum, String toAccountNum, long amount) {
         //sort(queue(in));
-        //synchronized
+
         //Object frAccNumber = super.getAccounts();//.getClass(); //getAccIntNumber();
 
         //Class<? extends String> toAccNumber = toAccountNum.getClass();
+        /*
         try {
             inPair(fromAccountNum, toAccountNum);
         } catch (Exception e) {
@@ -113,6 +114,8 @@ public class Bank extends Banko {
         }
 
         currentStack++;
+
+         */
         super.transfer(fromAccountNum, toAccountNum, amount);
         notify();
     }
