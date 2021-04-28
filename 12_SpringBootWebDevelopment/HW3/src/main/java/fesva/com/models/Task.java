@@ -16,6 +16,8 @@ public class Task {
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private Integer id;
+	private String name;
+	private String details;
 
 	public Integer getId() {
 		return id;
@@ -65,8 +67,6 @@ public class Task {
 		this.lastUpdateTime = lastUpdateTime;
 	}
 
-	private String name;
-	private String details;
 
 	@Enumerated(EnumType.STRING)
 	private Priority priority;
