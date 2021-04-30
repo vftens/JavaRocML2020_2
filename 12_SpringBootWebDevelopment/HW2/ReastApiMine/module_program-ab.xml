@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_program-ab" default="compile.module.program-ab">
+  <dirname property="module.program-ab.basedir" file="${ant.file.module_program-ab}"/>
+  
+  <property name="module.jdk.home.program-ab" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.program-ab" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.program-ab" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.program-ab" value="-encoding UTF-8 -source 13 -target 13 ${compiler.args}"/>
+  
+  <property name="program-ab.output.dir" value="${module.program-ab.basedir}/out/production/program-ab"/>
+  <property name="program-ab.testoutput.dir" value="${module.program-ab.basedir}/out/test/program-ab"/>
+  
+  <path id="program-ab.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="program-ab.module.production.classpath">
+    <path refid="${module.jdk.classpath.program-ab}"/>
+    <path refid="library.org.slf4j:slf4j-ext:1.7.12.classpath"/>
+    <path refid="library.com.bluecatcode.time:joda-time-2.3-extended:1.1.0.classpath"/>
+    <path refid="library.sanmoku-0.0.6.classpath"/>
+    <path refid="library.com.hp.hpl.jena:json-jena:1.0.classpath"/>
+    <path refid="library.org.apache.skywalking:apm-httpclient-4.x-plugin:6.6.0.classpath"/>
+    <path refid="library.org.apache.skywalking:apm-httpclient-4.x-plugin:6.0.0-ga.classpath"/>
+    <path refid="library.apm-httpclient-4.x-plugin-6.6.0.classpath"/>
+  </path>
+  
+  <path id="program-ab.runtime.production.module.classpath">
+    <pathelement location="${program-ab.output.dir}"/>
+    <path refid="library.org.slf4j:slf4j-ext:1.7.12.classpath"/>
+    <path refid="library.com.bluecatcode.time:joda-time-2.3-extended:1.1.0.classpath"/>
+    <path refid="library.sanmoku-0.0.6.classpath"/>
+    <path refid="library.com.hp.hpl.jena:json-jena:1.0.classpath"/>
+    <path refid="library.org.apache.skywalking:apm-httpclient-4.x-plugin:6.6.0.classpath"/>
+    <path refid="library.org.apache.skywalking:apm-httpclient-4.x-plugin:6.0.0-ga.classpath"/>
+    <path refid="library.apm-httpclient-4.x-plugin-6.6.0.classpath"/>
+  </path>
+  
+  <path id="program-ab.module.classpath">
+    <path refid="${module.jdk.classpath.program-ab}"/>
+    <pathelement location="${program-ab.output.dir}"/>
+    <path refid="library.org.slf4j:slf4j-ext:1.7.12.classpath"/>
+    <path refid="library.com.bluecatcode.time:joda-time-2.3-extended:1.1.0.classpath"/>
+    <path refid="library.sanmoku-0.0.6.classpath"/>
+    <path refid="library.com.hp.hpl.jena:json-jena:1.0.classpath"/>
+    <path refid="library.org.apache.skywalking:apm-httpclient-4.x-plugin:6.6.0.classpath"/>
+    <path refid="library.org.apache.skywalking:apm-httpclient-4.x-plugin:6.0.0-ga.classpath"/>
+    <path refid="library.apm-httpclient-4.x-plugin-6.6.0.classpath"/>
+  </path>
+  
+  <path id="program-ab.runtime.module.classpath">
+    <pathelement location="${program-ab.testoutput.dir}"/>
+    <pathelement location="${program-ab.output.dir}"/>
+    <path refid="library.org.slf4j:slf4j-ext:1.7.12.classpath"/>
+    <path refid="library.com.bluecatcode.time:joda-time-2.3-extended:1.1.0.classpath"/>
+    <path refid="library.sanmoku-0.0.6.classpath"/>
+    <path refid="library.com.hp.hpl.jena:json-jena:1.0.classpath"/>
+    <path refid="library.org.apache.skywalking:apm-httpclient-4.x-plugin:6.6.0.classpath"/>
+    <path refid="library.org.apache.skywalking:apm-httpclient-4.x-plugin:6.0.0-ga.classpath"/>
+    <path refid="library.apm-httpclient-4.x-plugin-6.6.0.classpath"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.program-ab">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.program-ab">
+    <patternset refid="excluded.from.module.program-ab"/>
+  </patternset>
+  
+  <path id="program-ab.module.sourcepath">
+    <dirset dir="${module.program-ab.basedir}">
+      <include name="src/main/java"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.program-ab" depends="compile.module.program-ab.production,compile.module.program-ab.tests" description="Compile module program-ab"/>
+  
+  <target name="compile.module.program-ab.production" depends="register.custom.compilers" description="Compile module program-ab; production classes">
+    <mkdir dir="${program-ab.output.dir}"/>
+    <javac2 destdir="${program-ab.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.program-ab}/javac">
+      <compilerarg line="${compiler.args.program-ab}"/>
+      <bootclasspath refid="program-ab.module.bootclasspath"/>
+      <classpath refid="program-ab.module.production.classpath"/>
+      <src refid="program-ab.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.program-ab"/>
+    </javac2>
+    
+    <copy todir="${program-ab.output.dir}">
+      <fileset dir="${module.program-ab.basedir}/src/main/java">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.program-ab.tests" depends="register.custom.compilers,compile.module.program-ab.production" description="compile module program-ab; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.program-ab" description="cleanup module">
+    <delete dir="${program-ab.output.dir}"/>
+    <delete dir="${program-ab.testoutput.dir}"/>
+  </target>
+</project>

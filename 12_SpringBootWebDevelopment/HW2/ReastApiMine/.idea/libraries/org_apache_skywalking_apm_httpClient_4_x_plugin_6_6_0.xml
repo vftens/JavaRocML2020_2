@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.apache.skywalking:apm-httpClient-4.x-plugin:6.6.0" type="repository">
+    <properties maven-id="org.apache.skywalking:apm-httpClient-4.x-plugin:6.6.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/apm-httpClient-4.x-plugin-6.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

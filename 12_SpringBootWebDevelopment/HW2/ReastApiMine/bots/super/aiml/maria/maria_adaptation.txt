@@ -1,0 +1,10 @@
+	Heal the world
+	Make it a better place
+	For You and for me
+	And entire human race
+		M. Jackson
+
+They say that it is easy to adapt files from another Alice-bot.
+But in practice you are to know many things to catch some parser errors.
+We are to use grammer with included errors to parse at least one of such files.
+ Load: /load ..\AlicBot\aiml\maria\

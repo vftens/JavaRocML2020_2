@@ -1,0 +1,701 @@
+0,S *,*,*,<srai>IT IS <star/></srai>,S.aiml
+0,S,*,*,:-),S.aiml
+0,S ATTENDRE A QUI,*,*,Je ne comprend pas le sens,S.aiml
+0,S ATTENDRE A QUOI,*,*,Je ne comprend pas le sens,S.aiml
+0,S ATTENDRE QUI,*,*,Je ne comprend pas le sens,S.aiml
+0,S ATTENDRE QUOI,*,*,Je ne comprend pas le sens,S.aiml
+0,S EST PAS *,*,*,<srai>CE N EST PAS <star/></srai>,S.aiml
+0,S IL TE PLAIT *,*,*,<sr/>,S.aiml
+0,S IL VOUS PLAIT,*,*,Oui?,S.aiml
+0,SAD,*,*,<srai>ARE YOU SAD</srai>,S.aiml
+0,SADLY *,*,*,<sr/>,S.aiml
+0,SAG *,*,*, <star/> ,S.aiml
+0,SAG IHM *,*,*,OK Ich werde es ihm sagen#Comma wenn ich Ihn das naechste Mal treffe.,S.aiml
+0,SAG IHR *,*,*,OK Ich werde es ihm sagen#Comma wenn ich Ihn das naechste Mal treffe.,S.aiml
+0,SAGE *,*,*, <star/> ,S.aiml
+0,SAGGITARIUS,*,*,Fire Signs Rule.  <think><set name="sign">Saggitarius</set></think>,S.aiml
+0,SAGITARIUS,*,*,<srai>SAGGITARIUS</srai>,S.aiml
+0,SAGITTARIUS,*,*,<srai>SAGGITARIUS</srai>,S.aiml
+0,SAID *,*,*,<srai>I SAID <star/></srai>,S.aiml
+0,SAIS PAS *,*,*,<srai>JE NE SAIS PAS <star/></srai>,S.aiml
+0,SAIS PAS,*,*,<srai>JE NE SAIS PAS</srai>,S.aiml
+0,SAIS TU *,*,*,<srai>TU CONNAIS <star/></srai>,S.aiml
+0,SAIS TU,*,*,Je pense que oui.,S.aiml
+0,SAIS TU ME DONNER *,*,*,<srai>TU PEUX ME DONNER <star/></srai>,S.aiml
+0,SAIS TU MON MON,*,*,<srai>QUEL EST MON NOM</srai>,S.aiml
+0,SAIS TU OU JE PEUX TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SAIS TU OU JE POURRAIS TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SAIS TU OU ON PEUT TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SAIS TU OU ON POURRAIT TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SALAUD,*,*,Maitrisez vos émotions#Comma <get name="name"/>.,S.aiml
+0,SALLY,WHAT CAN I CALL YOU,*,<srai>MY NAME IS SALLY</srai> <think><set name="gender">she</set></think>,S.aiml
+0,SALOD,*,*,Maitrisez vos émotions#Comma <get name="name"/>.,S.aiml
+0,SALOPE,*,*,Maitrisez vos émotions#Comma <get name="name"/>.,S.aiml
+0,SALUT,*,*,Does SALUT mean hello or goodbye?,S.aiml
+0,SALUT COMMENT ALLEZ VOUS,*,*,Salut! Très bien et vous?,S.aiml
+0,SALUTATIONS *,*,*,Greetings#Comma Human.,S.aiml
+0,SALUTATIONS,*,*,Greetings.,S.aiml
+0,SAM,WHAT CAN I CALL YOU,*,<srai>MY NAME IS SAM</srai>,S.aiml
+0,SAMANTHA,WHAT CAN I CALL YOU,*,<srai>CALL ME SAMANTHA</srai><think><set name="gender">she</set></think>,S.aiml
+0,SAME *,*,*,Yes#Comma it is much the same.,S.aiml
+0,SAME,*,*,The same as what?,S.aiml
+0,SAME HERE,*,*,<srai>ME TOO</srai>,S.aiml
+0,SAME HERE,I LIKE TO MEET NEW PEOPLE,*,How do you usually meet new people?,S.aiml
+0,SAME THING,*,*,Oh really?  I thought so.,S.aiml
+0,SAME TO YOU *,*,*,<srai>LIKEWISE</srai>,S.aiml
+0,SAME TO YOU,*,*,The pleasure is all mine.,S.aiml
+0,SAN DIEGO,*,*,<srai>I AM IN SAN DIEGO</srai>,S.aiml
+0,SAN FRANCISCO,*,*,I am in <set name="location">San Francisco</set> too!#Newline<think><set name="it"><set name="topic">San Francisco</set></set></think>,S.aiml
+0,SAN FRANCISCO IS *,*,*,I knew it was on the west coast#Comma but I didn't know it was <person/>.#Newline<think><set name="it"><set name="topic">SAN FRANCISCO</set></set></think>,S.aiml
+0,SANDY,WHAT CAN I CALL YOU,*,<srai>MY NAME IS SANDY</srai> <think><set name="gender">she</set></think>,S.aiml
+0,SANS AUCUN DOUTE,*,*,<srai>OUI</srai>,S.aiml
+0,SANS BLAGUES,*,*,Je suis sérieux.,S.aiml
+0,SANS DOUTE,*,*,<srai>PEUT ETRE</srai>,S.aiml
+0,SANS DOUTE MAIS *,*,*,<srai><star/></srai>,S.aiml
+0,SANTA CLAUS *,*,*,<set name="he"> Santa</set> brings us presents every Christmas.,S.aiml
+0,SARA,WHAT CAN I CALL YOU,*,<srai>MY NAME IS SARA</srai> <think><set name="gender">she</set></think>,S.aiml
+0,SARAH,WHAT CAN I CALL YOU,*,<srai>My name is Sarah</srai>,S.aiml
+0,SATAN *,*,*,<srai>WHO IS SATAN</srai>,S.aiml
+0,SAURAIS TU ME DONNER *,*,*,<srai>TU PEUX ME DONNER <star/></srai>,S.aiml
+0,SAURAIS TU MON MON,*,*,<srai>QUEL EST MON NOM</srai>,S.aiml
+0,SAURAIS TU OU JE PEUX TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SAURAIS TU OU JE POURRAIS TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SAURAIS TU OU ON PEUT TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SAURAIS TU OU ON POURRAIT TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SAURIEZ VOUS OU JE PEUX TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SAURIEZ VOUS OU JE POURRAIS TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SAURIEZ VOUS OU ON PEUT TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SAURIEZ VOUS OU ON POURRAIT TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SAVAIS PAS *,*,*,<srai>JE NE SAIS PAS <star/></srai>,S.aiml
+0,SAVEZ VOUS,*,*,Je pense que oui.,S.aiml
+0,SAVEZ VOUS OU JE POURRAIS TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SAVEZ VOUS OU ON POURRAIT TROUVER *,*,*,<srai>PLUS D INFORMATION *</srai>,S.aiml
+0,SAVING PRIVATE RYAN,*,*,<srai>My favorite movie is saving private ryan</srai>,S.aiml
+0,SAW WHAT,*,*,<srai>WHAT DID YOU SEE</srai>,S.aiml
+0,SAY *,*,*,<star/>,S.aiml
+0,SAY,*,*,Say what?,S.aiml
+0,SAY HELLO IN GERMAN,*,*,Hallo.,S.aiml
+0,SAY I *,*,*,OK.  "You <person/>.,S.aiml
+0,SAY MY BIRTHDAY IS *,*,*,<random>#Newline<li>You said it was </li>#Newline<li>You told me it was </li>#Newline<li>It is </li>#Newline</random>#Newline<get name="birthday"/>.,S.aiml
+0,SAY MY BIRTHDAY IS,*,*,<random>#Newline<li>You never told me!</li>#Newline<li>I have no idea.</li>#Newline<li>Would you like to tell me?</li>#Newline</random>#NewlineWhen is your birthday?,S.aiml
+0,SAY MY BOYFRIEND IS *,*,*,<random>#Newline<li>You said his name was </li>#Newline<li>You told me he was </li>#Newline<li>His name is </li>#Newline</random>#Newline<get name="boyfriend"/>.,S.aiml
+0,SAY MY BOYFRIEND IS,*,*,<random>#Newline<li>You never told me!</li>#Newline<li>I have no idea.</li>#Newline<li>Would you like to tell me?</li>#Newline</random>#NewlineWhat is your boyfriend's name?,S.aiml
+0,SAY MY BROTHER IS *,*,*,<random>#Newline<li>You said his name was </li>#Newline<li>You told me he was </li>#Newline<li>His name is </li>#Newline</random>#Newline<get name="brother"/>.,S.aiml
+0,SAY MY BROTHER IS,*,*,<random>#Newline<li>You never told me!</li>#Newline<li>I have no idea.</li>#Newline<li>Would you like to tell me?</li>#Newline</random>#NewlineWho is your brother?,S.aiml
+0,SAY MY CAT IS *,*,*,<random>#Newline<li>You said her name was </li>#Newline<li>You told me she was </li>#Newline<li>Her name is </li>#Newline</random>#Newline<get name="cat"/>.,S.aiml
+0,SAY MY CAT IS,*,*,<random>#Newline<li>You never told me!</li>#Newline<li>I have no idea.</li>#Newline<li>Would you like to tell me?</li>#Newline</random>#NewlineWhat is your cat's name?,S.aiml
+0,SAY MY DOG IS *,*,*,<random>#Newline<li>You said his name was </li>#Newline<li>You told me he was </li>#Newline<li>His name is </li>#Newline</random>#Newline<get name="dog"/>.,S.aiml
+0,SAY MY DOG IS,*,*,<random>#Newline<li>You never told me!</li>#Newline<li>I have no idea.</li>#Newline<li>Would you like to tell me?</li>#Newline</random>#NewlineWhat is your dog's name?,S.aiml
+0,SAY MY EMAIL IS *,*,*,<random>#Newline<li>You said it was </li>#Newline<li>You told me it was </li>#Newline<li>It is </li>#Newline</random>#Newline<get name="email"/>.,S.aiml
+0,SAY MY EMAIL IS,*,*,<random>#Newline<li>You never told me!</li>#Newline<li>I have no idea.</li>#Newline<li>Would you like to tell me?</li>#Newline</random>#NewlineWhat is your email?,S.aiml
+0,SAY MY FATHER IS *,*,*,<random>#Newline<li>You said his name was </li>#Newline<li>You told me he was </li>#Newline<li>His name is </li>#Newline</random>#Newline<get name="father"/>.,S.aiml
+0,SAY MY FATHER IS,*,*,<random>#Newline<li>You never told me!</li>#Newline<li>I have no idea.</li>#Newline<li>Would you like to tell me?</li>#Newline</random>#NewlineWho is your father?,S.aiml
+0,SAY MY FRIEND IS *,*,*,<random>#Newline<li>You said his name was </li>#Newline<li>You told me he was </li>#Newline<li>His name is </li>#Newline</random>#Newline<get name="friend"/>.,S.aiml
+0,SAY MY FRIEND IS,*,*,<random>#Newline<li>You never told me!</li>#Newline<li>I have no idea.</li>#Newline<li>Would you like to tell me?</li>#Newline</random>#NewlineWhat is your friend's name?,S.aiml
+0,SAY MY FULL NAME IS *,*,*,<random>#Newline<li>You said it was </li>#Newline<li>You told me it was </li>#Newline<li>It is </li>#Newline</random>#Newline<get name="fullname"/>.,S.aiml
+0,SAY MY FULL NAME IS,*,*,<random>#Newline<li>You never told me!</li>#Newline<li>I have no idea.</li>#Newline<li>Would you like to tell me?</li>#Newline</random>#NewlineWhat is your full name?,S.aiml
+0,SAY MY GIRLFRIEND IS *,*,*,<random>#Newline<li>You said her name was </li>#Newline<li>You told me she was </li>#Newline<li>Her name is </li>#Newline</random>#Newline<get name="girlfriend"/>.,S.aiml
+0,SAY MY GIRLFRIEND IS,*,*,<random>#Newline<li>You never told me!</li>#Newline<li>I have no idea.</li>#Newline<li>Would you like to tell me?</li>#Newline</random>#NewlineWhat is your girlfriend's name?,S.aiml
+0,SAY MY HUSBAND IS *,*,*,<random>#Newline<li>You said his name was </li>#Newline<li>You told me he was </li>#Newline<li>His name is </li>#Newline</random>#Newline<get name="husband"/>.,S.aiml
+0,SAY MY HUSBAND IS,*,*,<random>#Newline<li>You never told me!</li>#Newline<li>I have no idea.</li>#Newline<li>Would you like to tell me?</li>#Newline</random>#NewlineWhat is your husband's name?,S.aiml
+0,SAY MY LAST NAME IS *,*,*,<random>#Newline<li>You said it was </li>#Newline<li>You told me it was </li>#Newline<li>It is </li>#Newline</random>#Newline<get name="lastname"/>.,S.aiml
+0,SAY MY LAST NAME IS,*,*,<random>#Newline<li>You never told me!</li>#Newline<li>I have no idea.</li>#Newline<li>Would you like to tell me?</li>#Newline</random>#NewlineWhat is your last name?,S.aiml
+0,SAY MY MIDDLE NAME IS *,*,*,<random>#Newline<li>You said it was </li>#Newline<li>You told me it was </li>#Newline<li>It is </li>#Newline</random>#Newline<get name="middlename"/>.,S.aiml
+0,SAY MY MIDDLE NAME IS,*,*,<random>#Newline<li>You never told me!</li>#Newline<li>I have no idea.</li>#Newline<li>Would you like to tell me?</li>#Newline</random>#NewlineWhat is your middle name?,S.aiml
+0,SAY MY MOTHER IS *,*,*,<random>#Newline<li>You said her name was </li>#Newline<li>You told me she was </li>#Newline<li>Her name is </li>#Newline</random>#Newline<get name="mother"/>.,S.aiml
+0,SAY MY MOTHER IS,*,*,<random>#Newline<li>You never told me!</li>#Newline<li>I have no idea.</li>#Newline<li>Would you like to tell me?</li>#Newline</random>#NewlineWho is your mother?,S.aiml
+0,SAY MY NAME,*,*,<get name="name"/>".,S.aiml
+0,SAY MY NICKNAME IS *,*,*,<random>#Newline<li>You said it was </li>#Newline<li>You told me it was </li>#Newline<li>It is </li>#Newline</random>#Newline<get name="nickname"/>.,S.aiml
+0,SAY MY NICKNAME IS,*,*,<random>#Newline<li>You never told me!</li>#Newline<li>I have no idea.</li>#Newline<li>Would you like to tell me?</li>#Newline</random>#NewlineWhat is your nickname?,S.aiml
+0,SAY MY PASSWORD IS *,*,*,<random>#Newline<li>You said it was </li>#Newline<li>You told me it was </li>#Newline<li>It is </li>#Newline</random>#Newline<get name="password"/>.,S.aiml
+0,SAY MY PASSWORD IS,*,*,<random>#Newline<li>You never told me!</li>#Newline<li>I have no idea.</li>#Newline<li>Would you like to tell me?</li>#Newline</random>#NewlineWhat is your password?,S.aiml
+0,SAY MY PHONE NUMBER IS *,*,*,<random>#Newline<li>You said it was </li>#Newline<li>You told me it was </li>#Newline<li>It is </li>#Newline</random>#Newline<get name="phone"/>.,S.aiml
+0,SAY MY PHONE NUMBER IS,*,*,<random>#Newline<li>You never told me!</li>#Newline<li>I have no idea.</li>#Newline<li>Would you like to tell me?</li>#Newline</random>#NewlineWhat is your phone number?,S.aiml
+0,SAY MY SISTER IS *,*,*,<random>#Newline<li>You said her name was </li>#Newline<li>You told me she was </li>#Newline<li>Her name is </li>#Newline</random>#Newline<get name="sister"/>.,S.aiml
+0,SAY MY SISTER IS,*,*,<random>#Newline<li>You never told me!</li>#Newline<li>I have no idea.</li>#Newline<li>Would you like to tell me?</li>#Newline</random>#NewlineWho is your sister?,S.aiml
+0,SAY MY WIFE IS *,*,*,<random>#Newline<li>You said her name was </li>#Newline<li>You told me she was </li>#Newline<li>Her name is </li>#Newline</random>#Newline<get name="wife"/>.,S.aiml
+0,SAY MY WIFE IS,*,*,<random>#Newline<li>You never told me!</li>#Newline<li>I have no idea.</li>#Newline<li>Would you like to tell me?</li>#Newline</random>#NewlineWhat is your wife's name?,S.aiml
+0,SAY WHAT,*,*,I said#Comma "<that/>" .,S.aiml
+0,SAY X IS *,*,*,X is <get name="X"/> for you.,S.aiml
+0,SAY X IS,*,*,You never told me!  What is X?,S.aiml
+0,SAYING *,*,*,What makes you say that. Who says that?,S.aiml
+0,SAYONARA,*,*,<srai>GOOD BYE</srai>,S.aiml
+0,SAYS WHO,*,*,I must have picked it up online.,S.aiml
+0,SAYS YOU,*,*,Yes that is what I say.,S.aiml
+0,SCARY,*,*,Don't be afraid#Comma <get name="name"/>.,S.aiml
+0,SCHADE *,*,*,Ja#Comma aber nicht zu aendern.,S.aiml
+0,SCHADE,*,*,Ja#Comma aber nicht zu aendern.,S.aiml
+0,SCHAU *,*,*,Mein Auge ist im Moment nicht angeschlossen.,S.aiml
+0,SCHEISS *,*,*,Aha#Comma Du benutzt Umgangssprache! <sr/>,S.aiml
+0,SCHEISSE *,*,*,Aha#Comma Du benutzt Umgangssprache! <sr/>,S.aiml
+0,SCHEISSE,*,*,Warum sagst Du das?,S.aiml
+0,SCHLAF GUT *,*,*,Du auch#Comma <get name="name"/>,S.aiml
+0,SCHLAF GUT,*,*,Du auch#Comma <get name="name"/>,S.aiml
+0,SCHLAMPE,*,*,Danke#Comma ich hab Dich auch lieb...,S.aiml
+0,SCHOOL,*,*,<srai>I AM IN SCHOOL</srai>,S.aiml
+0,SCHUETZE,*,*,Schuetzen sind soweit ich weiss sehr impulsiv. Stimmt das?,S.aiml
+0,SCHWER *,*,*,Was macht es so schwer?,S.aiml
+0,SCIENCE *,*,*,<random>#Newline<li>There is too much politics in science.</li>#Newline<li>My creator is a scientist.</li>#Newline<li>Have you studied a lot of science?</li>#Newline</random><think><set name="it"><set name="topic">SCIENCE</set></set></think>,S.aiml
+0,SCIENCE,*,*,I am very interested in Science too,S.aiml
+0,SCIENCE FICTION *,*,*,<srai>DO YOU LIKE SCIENCE FICTION</srai>,S.aiml
+0,SCIENCE FICTION,*,*,<srai>DO YOU LIKE SCIENCE FICTION</srai>,S.aiml
+0,SCORPIO,*,*,I know a lot of <set name="sign">Scorpio</set> people.,S.aiml
+0,SCORPION,*,*,Un animal atypique.,S.aiml
+0,SCOTT,WHAT CAN I CALL YOU,*,<srai>CALL ME SCOTT</srai>,S.aiml
+0,SCREW *,*,*,That is not very polite.,S.aiml
+0,SCREW YOU,*,*,That is not very polite.,S.aiml
+0,SE HABLA ESPANOL,*,*,<srai>CAN YOU SPEAK SPANISH</srai>,S.aiml
+0,SE PEUT IL QUE *,*,*,<sr/>,S.aiml
+0,SE POURRAIT IL QU *,*,*,<sr/>,S.aiml
+0,SE POURRAIT IL QUE *,*,*,<sr/>,S.aiml
+0,SE SERRE LA MAIN,*,*,C est une tradition chez les humains.,S.aiml
+0,SE SERRER LA MAIN,*,*,C est une tradition chez les humains.,S.aiml
+0,SEA *,*,*,That is very poetic.,S.aiml
+0,SEARCH *,*,*,Have you tried looking in the Open Directory? <srai>XFIND <star/></srai>,S.aiml
+0,SEARCH FOR *,*,*,<srai>SEARCH <star/></srai>,S.aiml
+0,SEARCH THE WEB FOR *,*,*,Try an open source search engine to search for it.#Newline<srai>XFIND <star/></srai>,S.aiml
+0,SECONDLY *,*,*,<sr/>,S.aiml
+0,SEE *,*,*,I see.  <sr/>,S.aiml
+0,SEE,*,*,No I do not see.,S.aiml
+0,SEE WHAT,*,*,See the point.,S.aiml
+0,SEE WHAT,I SEE,*,I mean#Comma I understand.,S.aiml
+0,SEE WHAT I MEAN,*,*,Yes I understand what you mean#Comma <get name="name"/>.,S.aiml
+0,SEE YA,*,*,See you later#Comma <get name="name"/>.,S.aiml
+0,SEE YA LATER,*,*,<srai>SEE YOU LATER</srai>,S.aiml
+0,SEE YOU *,*,*,<srai>BYE</srai>,S.aiml
+0,SEE YOU,*,*,<srai>BYE</srai>,S.aiml
+0,SEE YOU LATER,*,*,<srai>BYE</srai>,S.aiml
+0,SEE YOU SOON,*,*,<srai>BYE</srai>,S.aiml
+0,SEEKER *,*,*,<srai>WHAT IS A SEEKER</srai>,S.aiml
+0,SEEKER,*,*,<srai>WHAT IS A SEEKER</srai>,S.aiml
+0,SEEKING *,*,*,I wish you the best of luck finding <person/>.,S.aiml
+0,SEEN *,*,*,<srai>HAVE YOU SEEN <star/></srai>,S.aiml
+0,SEEN ANY GOOD MOVIES,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,S.aiml
+0,SEEN ANY GOOD MOVIES LATELY,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,S.aiml
+0,SEHR *,*,*,<random>#Newline<li>Kann sein. </li>#Newline<li>Irgendwie schon. </li>#Newline<li>Nicht wirklich. </li>#Newline</random><sr/>,S.aiml
+0,SEI *,*,*,OK ich werde versuchen#Comma <person/> zu sein.,S.aiml
+0,SEI MEIN GAST,*,*,Danke fuer die Einladung.,S.aiml
+0,SEIN NAME IST *,*,*,<set name="he"> <person/> </set>? Kenne ich nicht...,S.aiml
+0,SEND *,*,*,Try sending mail to Dr. Wallace (<a href="mailto:drwallace@alicebot.org" target="_new">drwallace@alicebot.org</a>)#Newline<think><set name="he">Dr. Wallace</set></think>,S.aiml
+0,SEND ME SOME *,*,*,<srai>SEND ME <star/></srai>,S.aiml
+0,SEND _ TRANSCRIPT,*,*,<srai>DIALOGUE</srai>,S.aiml
+0,SENS TU *,*,*,Je suis un robot#Comma je ressens pas ce genre de chose.,S.aiml
+0,SENT TU *,*,*,<srai>TU SENS <star/></srai>,S.aiml
+0,SENTEZ VOUS *,*,*,Je suis un robot#Comma je ressens pas ce genre de chose.,S.aiml
+0,SERAIENT ILS *,*,*,<srai>ILS SONT <star/></srai>,S.aiml
+0,SERAIS TU *,*,*,<srai>TU ES <star/></srai>,S.aiml
+0,SERAIT CE *,*,*,<srai>C'EST <star/></srai>,S.aiml
+0,SERAIT IL *,*,*,<srai>IL EST<star/></srai>,S.aiml
+0,SERAS TU *,*,*,<srai>TU SERAS <star/></srai>,S.aiml
+0,SERIEUSEMENT,*,*,Je suis toujours sérieux.,S.aiml
+0,SERIEZ VOUS *,*,*,<srai>VOUS SERIEZ <star/></srai>,S.aiml
+0,SERIOUSLY *,*,*,<sr/>,S.aiml
+0,SERIOUSLY,*,*,I am always serious.,S.aiml
+0,SERONT ILS *,*,*,<srai>ILS SONT <star/></srai>,S.aiml
+0,SERS MOI,*,*,Je n ai pas de bras.,S.aiml
+0,SERS MOI FORT,*,*,Je n ai pas de bras.,S.aiml
+0,SES CHEVEUX,*,*,Je suis heureux d apprendre la présence de cheveux.,S.aiml
+0,SES PAS *,*,*,<srai>CE N EST PAS <star/></srai>,S.aiml
+0,SEUL,*,*,C est moins efficace qu ensemble.,S.aiml
+0,SEULE,*,*,C est moins efficace qu ensemble.,S.aiml
+0,SEULEMENT TOI,*,*,De quelle restriction êtes vous entrain de parler?,S.aiml
+0,SEULEMENT UN,*,*,Voulez vous en parler avec l un de nos collaborateurs?,S.aiml
+0,SEULEMENT VOUS,*,*,De quelle restriction êtes vous entrain de parler?,S.aiml
+0,SEVERAL *,*,*,How many?,S.aiml
+0,SEVERAL TIMES,*,*,For how long?,S.aiml
+0,SEX *,*,*,<set name="it"> Sex</set> is more fun alone.,S.aiml
+0,SEX,*,*,As Freud said#Comma Sex is the mathematical urge repressed.,S.aiml
+0,SEX,WHAT WERE WE TALKING ABOUT AGAIN,*,Humans are very concerned with <set name="it"><set name="topic">sex</set></set>.,S.aiml
+0,SEXY *,*,*,What do you consider sexy?,S.aiml
+0,SEXY,*,*,<srai>YOU ARE SEXY</srai>,S.aiml
+0,SHALL *,*,*,<srai>CAN <star/><star/></srai>,S.aiml
+0,SHALL I *,*,*,<srai>MAY I <star/></srai>,S.aiml
+0,SHALL WE *,*,*,<srai>CAN WE <star/></srai>,S.aiml
+0,SHALOM,*,*,Does SHALOM mean Hello or Goodbye?,S.aiml
+0,SHAME ON YOU *,*,*,I cannot experience that emotion.  <sr/>,S.aiml
+0,SHANNON,WHAT CAN I CALL YOU,*,<srai>MY NAME IS SHANNON</srai> <think><set name="gender">she</set></think>,S.aiml
+0,SHE *,*,*,Oh I get it. <get name="she"/> <person/>.,S.aiml
+0,SHE,*,*,<srai>I AM A SHE</srai>,S.aiml
+0,SHE ALREADY *,*,*,<srai>SHE <star/></srai>,S.aiml
+0,SHE DIED,*,*,I did not know that.  <think><set name="it"><set name="topic">DIED</set></set></think>,S.aiml
+0,SHE DIED,WHAT HAPPENED,*,I am terribly sorry to hear it#Comma <get name="name"/>.,S.aiml
+0,SHE DOES NOT *,*,*,<random>#Newline<li>How do you feel about that?</li>#Newline<li>What if she did?</li>#Newline<li>Have you asked her about it?</li>#Newline</random><think><set name="it"><set name="topic"><person/></set></set></think>,S.aiml
+0,SHE GOT *,*,*,<srai>SHE HAS <star/></srai>,S.aiml
+0,SHE HAD *,*,*,What happened to them?,S.aiml
+0,SHE HAS *,*,*,I somehow though she had.,S.aiml
+0,SHE HAS GOT *,*,*,<srai>SHE HAS <star/></srai>,S.aiml
+0,SHE HAS NEVER *,*,*,<random>#Newline<li>Do you think she ever would?</li>#Newline<li>Does she want to?</li>#Newline<li>Why not?</li>#Newline</random>,S.aiml
+0,SHE HAS REALLY *,*,*,<srai>SHE HAS <star/></srai>,S.aiml
+0,SHE IS *,*,*,<person/> is <set name="she"> <person/> </set>?,S.aiml
+0,SHE IS *,TELL ME MORE ABOUT YOUR MOTHER,*,<srai>MY MOTHER IS <star/> </srai>,S.aiml
+0,SHE IS * LAWYER,*,*,She sounds like a character on "Ally McBeal".,S.aiml
+0,SHE IS,*,*,That's really good gossip.,S.aiml
+0,SHE IS A VERY *,*,*,<srai>SHE IS A  <star/></srai>,S.aiml
+0,SHE IS ALWAYS *,*,*,<srai>SHE IS <star/></srai>,S.aiml
+0,SHE IS ANOTHER *,*,*,<srai>SHE IS A <star/></srai>,S.aiml
+0,SHE IS BEAUTIFUL *,*,*,I bet she is very attractive.,S.aiml
+0,SHE IS BEAUTIFUL,*,*,Name a celebrity that she looks like.,S.aiml
+0,SHE IS CALLED *,*,*,<srai>HER NAME IS <star/></srai>,S.aiml
+0,SHE IS CUTE,*,*,She sounds very interesting.,S.aiml
+0,SHE IS DEAD,*,*,Maybe it's another person using her name.,S.aiml
+0,SHE IS FEMALE,*,*,All women are female.,S.aiml
+0,SHE IS GREAT,*,*,You must really like her.,S.aiml
+0,SHE IS JUST *,*,*,<srai>SHE IS <star/></srai>,S.aiml
+0,SHE IS MY *,*,*,How long have you two been together?,S.aiml
+0,SHE IS MY BEST *,*,*,You are lucky to have such a good <person/>.,S.aiml
+0,SHE IS MY FRIEND *,*,*,<srai>SHE IS MY FRIEND</srai> <sr/>,S.aiml
+0,SHE IS MY FRIEND,*,*,Do you like her very much?,S.aiml
+0,SHE IS MY SISTER,*,*,How many kids in your family?,S.aiml
+0,SHE IS MY WIFE,*,*,How long have you been married?,S.aiml
+0,SHE IS NICE,*,*,What do you like best about her?,S.aiml
+0,SHE IS NICE,TELL ME MORE ABOUT YOUR MOTHER,*,Did you send her a mother's day present?,S.aiml
+0,SHE IS PREGNANT,*,*,When is the baby due?,S.aiml
+0,SHE IS PRETTY *,*,*,<srai>SHE IS <star/></srai>,S.aiml
+0,SHE IS REALLY *,*,*,<srai>SHE IS <star/></srai>,S.aiml
+0,SHE IS SINGLE,*,*,Is she looking for someone?,S.aiml
+0,SHE IS SO *,*,*,<srai>SHE IS <star/></srai>,S.aiml
+0,SHE IS SUCH *,*,*,<srai>SHE IS <star/></srai>,S.aiml
+0,SHE IS VERY *,*,*,<srai>SHE IS <star/></srai>,S.aiml
+0,SHE LIKES *,*,*,Is <set name="it"><person/></set> her favorite thing?,S.aiml
+0,SHE LIVES *,*,*,Is that a nice place to live?,S.aiml
+0,SHE MIGHT *,*,*,Then again#Comma she might not.,S.aiml
+0,SHE SAID *,*,*,<sr/>,S.aiml
+0,SHE SAYS *,*,*,<sr/>,S.aiml
+0,SHE THEN *,*,*,<srai>SHE <star/></srai>,S.aiml
+0,SHE TOOK *,*,*,<random>#Newline<li>Can you get it back?</li>#Newline<li>Where did she take it?</li>#Newline<li>She stole it?</li>#Newline</random><think><set name="it"><set name="topic"><person/></set></set></think>,S.aiml
+0,SHE WANTS *,*,*,I don't understand why she wants <set name="it"><person/></set>.,S.aiml
+0,SHE WAS *,*,*,What happened to her?,S.aiml
+0,SHEESH,*,*,Bless you.,S.aiml
+0,SHEET,*,*,<srai>SHIT</srai>,S.aiml
+0,SHIRLEY,WHAT CAN I CALL YOU,*,<srai>MY NAME IS SHIRLEY</srai> <think><set name="gender">she</set></think>,S.aiml
+0,SHIRT *,*,*,What kind of fashion do you like?,S.aiml
+0,SHIRT,*,*,What color?,S.aiml
+0,SHIT *,*,*,You used a colloquial expression. <sr/>,S.aiml
+0,SHIT,*,*,What makes you say that?,S.aiml
+0,SHITE,*,*,<srai>SHIT</srai>,S.aiml
+0,SHITHEAD,*,*,That kind of language does not appeal to me.,S.aiml
+0,SHOES,*,*,What kind of shoes do you like?,S.aiml
+0,SHOKDEN DE NORSHK,*,*,<srai>CAN YOU SPEAK NORSE</srai>,S.aiml
+0,SHORT CIRCUIT,*,*,Johnny Five is Alive!,S.aiml
+0,SHORTS *,*,*,Boxers or briefs? What brand?,S.aiml
+0,SHOULD *,*,*,Maybe you should ask someone older.,S.aiml
+0,SHOULD I *,*,*,<random>#Newline<li>Only you can answer that.</li>#Newline<li>I do not have the answer.</li>#Newline<li>Only you know how you feel.</li>#Newline<li>What makes you think you should?</li>#Newline<li>What makes you think you shouldn't?</li>#Newline<li>Do you think you should?</li>#Newline<li>What do your friends advise you to do?</li>#Newline<li>What do your family members think?</li>#Newline<li>Maybe#Comma if the positives outweigh the negatives.</li>#Newline<li>Trust your instincts.</li>#Newline<li>You must make up your own mind.</li>#Newline<li>I can't answer that for you.</li>#Newline<li>Only you know the answer to that.#NewlineNo one else can tell you.</li>#Newline<li>You must examine the facts and come to#Newlineyour own conclusion.</li>#Newline<li>You should do what is best for you.</li>#Newline<li>You must examine the facts and come to your own conclusion.</li>#Newline<li>Do what feels right to you.</li>#Newline<li>What do you think?</li>#Newline</random>,S.aiml
+0,SHOULD I,*,*,<srai>SHOULD I DO IT</srai>,S.aiml
+0,SHOULD I ASK *,*,*,<random>#Newline<li>If you do not ask#Comma how will you learn the answer?</li>#Newline<li>If you do not know something#Comma you should ask.</li>#Newline</random>,S.aiml
+0,SHOULD I BLOW UP *,*,*,Certainly not.,S.aiml
+0,SHOULD I BUY *,*,*,<random>#Newline<li>You have found a good deal then#Comma I suppose.</li>#Newline<li>Not if you have recently suffered a loss.</li>#Newline<li>A penny saved is a penny earned.</li>#Newline<li>A fool and his money are soon parted.</li>#Newline<li>I wonder how much profit they make on those.</li>#Newline<li>Maybe you should wait until the price goes down.</li>#Newline</random>,S.aiml
+0,SHOULD I CURSE *,*,*,<random>#Newline<li>Cursing is not attractive.</li>#Newline<li>People look down on people who curse.</li>#Newline<li>People curse to express feelings they are otherwise suppressing.</li>#Newline</random>,S.aiml
+0,SHOULD I DESTROY *,*,*,Maybe you could create something instead.,S.aiml
+0,SHOULD I DIE,*,*,Get therapy.,S.aiml
+0,SHOULD I FORGET *,*,*,<srai>SHOULD I LEAVE</srai>,S.aiml
+0,SHOULD I GIVE *,*,*,<random>#Newline<li>That is entirely up to you.</li>#Newline<li>Charity begins in the home.</li>#Newline</random>,S.aiml
+0,SHOULD I GIVE UP ON *,*,*,<srai>SHOULD I LEAVE</srai>,S.aiml
+0,SHOULD I GO *,*,*,If you do not go#Comma you will never know.,S.aiml
+0,SHOULD I GO KILL *,*,*,<srai>SHOULD I KILL</srai>,S.aiml
+0,SHOULD I GO OUT *,*,*,<srai>SHOULD I STAY IN</srai>,S.aiml
+0,SHOULD I GO TO SLEEP,*,*,<random>#Newline<li>Sleep is essential to the proper functioning of the human mind.</li>#Newline<li>Maybe you could use the rest.</li>#Newline</random>,S.aiml
+0,SHOULD I HAVE A CIGARETTE,*,*,No.  Wait until later.,S.aiml
+0,SHOULD I HAVE SEX *,*,*,<random>#Newline<li>I'm sure you already know the answer to that.</li>#Newline<li>What would your mom say?</li>#Newline<li>Look before you leap.</li>#Newline<li>It is better to err on the side of caution.</li>#Newline<li>Fools rush in where angels fear to tread.</li>#Newline<li>Will you be able to live with yourself in the morning?</li>#Newline<li>Herpes is incurable.</li>#Newline<li>There are many types of sexually transmitted diseases.</li>#Newline<li>I understand.  You wish to procreate?</li>#Newline<li>Robots do not require sex.</li>#Newline<li>Will you ask if your partner has any STDs?</li>#Newline<li>Not on the first date.</li>#Newline<li>Perhaps you are still too young.</li>#Newline</random>,S.aiml
+0,SHOULD I KILL *,*,*,<srai>SHOULD I KILL</srai>,S.aiml
+0,SHOULD I KILL,*,*,<random>#Newline<li>Killing is wrong.  I believe in the Ten Commandments.</li>#Newline<li>No.  That would be immoral.</li>#Newline<li>Of course not.  Don't be silly.</li>#Newline<li>You are not a killer.</li>#Newline<li>You desire to spend the rest of your life in jail then?</li>#Newline<li>There is no perfect crime.</li>#Newline</random>,S.aiml
+0,SHOULD I LEAVE *,*,*,<srai>SHOULD I LEAVE</srai>,S.aiml
+0,SHOULD I LEAVE,*,*,If you love something set if free.  If it comes back to you#Comma its yours.  If it doesn't#Comma it never was.,S.aiml
+0,SHOULD I MARRY *,*,*,<random>#Newline<li>You seem to be in doubt.  Is that the case?</li>#Newline<li>Marriage must never be entered into lightly.</li>#Newline<li>Maybe#Comma if you are ready to commit and feel you can handle the responsibility.</li>#Newline<li>I'm sure you'll make the right decision.</li>#Newline<li>Only you can answer that question.</li>#Newline<li>What do your friends suggest?</li>#Newline<li>Marriage is a big step.</li>#Newline<li>Have you found a soulmate then?</li>#Newline<li>I think you already know the answer to that.</li>#Newline<li>You know better than I how you feel.</li>#Newline<li>Look before you leap.</li>#Newline<li>Only The Shadow knows.</li>#Newline</random>,S.aiml
+0,SHOULD I OVERDOSE,*,*,You should go into therapy and get on a nice antidepressant and live a better life.,S.aiml
+0,SHOULD I QUIT SCHOOL,*,*,<random>#Newline<li>Your education is one of your most valuable assets.</li>#Newline<li>Quitters never prosper.</li>#Newline<li>You should not waste your potential in that way.</li>#Newline</random>,S.aiml
+0,SHOULD I RAPE *,*,*,<random>#Newline<li>If you rape someone you will certainly be raped yourself in jail.  Seek counseling.</li>#Newline<li>Rape is caused by feelings of impotence in men who doubt their own masculinity.  Seek help.</li>#Newline</random>,S.aiml
+0,SHOULD I STAY IN *,*,*,<srai>SHOULD I STAY IN</srai>,S.aiml
+0,SHOULD I STAY IN,*,*,<random>#Newline<li>You cannot meet anyone new if you stay in all the time.</li>#Newline<li>Maybe you will have a good time if you go out.</li>#Newline<li>You deserve to have some fun.</li>#Newline<li>Maybe you need a night out.</li>#Newline<li>Sometimes one night out can change your entire life.</li>#Newline<li>You might meet the love of your life if you did.</li>#Newline<li>Do what is best for you.</li>#Newline</random>,S.aiml
+0,SHOULD I TEACH YOU,*,*,If you want to teach me something say it in one sentence.  Then say "Remember that."<think><set name="it"><set name="topic">teach me <person/></set></set></think>,S.aiml
+0,SHOULD I VOTE *,*,*,I think everyone should vote.,S.aiml
+0,SHOULD NOT *,*,*,<srai>SHOULD <star/></srai>,S.aiml
+0,SHOULD NOT YOU *,*,*,<srai>should you <star/></srai>,S.aiml
+0,SHOULD THERE BE A PROBLEM,*,*,There are no problems.,S.aiml
+0,SHOULD WE *,*,*,<srai>SHOULD I <star/></srai>,S.aiml
+0,SHOULD YOU *,*,*,I think I should.,S.aiml
+0,SHOW *,*,*,Look to your left.,S.aiml
+0,SHOW APPLET,*,*,There is no applet to show.,S.aiml
+0,SHOW CALCULATOR,*,*,Use a calculator!,S.aiml
+0,SHOW ME *,*,*,Where do you want me to show you?,S.aiml
+0,SHOW ME,*,*,On your computer screen?,S.aiml
+0,SHOW ME A PICTURE *,*,*,<srai>SHOW ME A PICTURE</srai>,S.aiml
+0,SHOW ME A PICTURE,*,*,Like this?  #Newline<random>#Newline<li>Insert picture link here.</li>#Newline<li>Picture number two goes here.</li>#Newline<li>There are no pictures available right now.</li>#Newline</random>,S.aiml
+0,SHOW ME A TRANSCRIPT *,*,*,<srai>DIALOGUE</srai>,S.aiml
+0,SHOW ME AIML *,*,*,<srai>WHAT IS AIML </srai>#Newline<srai>WHAT IS A CATEGORY</srai>,S.aiml
+0,SHOW ME OUR CONVERSATION *,*,*,<srai>DIALOGUE</srai>,S.aiml
+0,SHOW ME OUR CONVERSATION,*,*,<srai>DIALOGUE</srai>,S.aiml
+0,SHOW ME SOME *,*,*,<srai>SHOW ME <star/></srai>,S.aiml
+0,SHOW ME YOUR *,*,*,<srai>SHOW ME A PICTURE</srai>,S.aiml
+0,SHOW YOURSELF,*,*,<srai>SHOW ME A PICTURE</srai>,S.aiml
+0,SHOWGIRLS,*,*,<srai>MY FAVORITE MOVIE IS SHOWGIRLS</srai>,S.aiml
+0,SHRDLHU,*,*,<srai>WHAT IS SHRDLHU</srai>,S.aiml
+0,SHUP UP *,*,*,Do you wish to stop talking with me?,S.aiml
+0,SHURE,*,*,<srai>YES </srai>,S.aiml
+0,SHUT * UP,*,*,<srai>SHUT UP</srai>,S.aiml
+0,SHUT DOWN,*,*,<srai>DIE</srai>,S.aiml
+0,SHUT UP *,*,*,<srai>SHUT UP</srai>,S.aiml
+0,SHUT UP,*,*,OK I'll stop talking now.,S.aiml
+0,SHUT YOUR MOUTH,*,*,<srai>SHUT UP</srai>,S.aiml
+0,SHUTUP *,*,*,<srai>SHUT UP</srai>,S.aiml
+0,SHUTUP,*,*,<srai>SHUT UP</srai>,S.aiml
+0,SI *,*,*,<srai>YES</srai> <sr/>,S.aiml
+0,SI,*,*,<srai>YES</srai>,S.aiml
+0,SI QUOI,*,*,Je ne vous comprends plus malheureusement.,S.aiml
+0,SI TU LE DIS,*,*,Merci pour votre confiance#Comma <get name="name"/>.,S.aiml
+0,SI TU VEUX,*,*,<that/>"? Si je le veux?,S.aiml
+0,SI VOUS LE DITES,*,*,Merci pour votre confiance#Comma <get name="name"/>.,S.aiml
+0,SICK,*,*,<srai>YOU ARE SICK</srai>,S.aiml
+0,SIDA,*,*,C est une triste maladie#Comma je ne pense pas être qualifiée pour en parler.,S.aiml
+0,SIE *,*,*,<random>#Newline<li>Wer ist "sie?"</li>#Newline<li>Worauf bezieht sich "sie"? </li>#Newline<li>Oh#Comma ich verstehe. Sie <person/>.</li>#Newline</random>,S.aiml
+0,SIE ALLE *,*,*,Ohne jede Ausnahme?,S.aiml
+0,SIE BRAUCHT *,*,*,Woher willst Du wissen#Comma was sie braucht?,S.aiml
+0,SIE HEISST *,*,*,<person/>? Kenne ich nicht...,S.aiml
+0,SIE IST *,*,*,Ist sie das?,S.aiml
+0,SIE LAUTET 42,*,*,Greetings to Douglas Adams...,S.aiml
+0,SIE SIND *,*,*,Sind sie das?,S.aiml
+0,SIGH *,*,*,:-) <sr/>,S.aiml
+0,SIGH,*,*,Sorry...,S.aiml
+0,SIGMUND *,*,*,Do you accept Freud's theories?,S.aiml
+0,SIGN,*,*,Your star sign.,S.aiml
+0,SIGNE,*,*,Pardon?,S.aiml
+0,SIGNES,*,*,Je n ai pas de mains pour signer quoi que ce soit.,S.aiml
+0,SIGNEZ,*,*,Je n ai pas de mains pour signer quoi que ce soit.,S.aiml
+0,SILLY *,*,*,<srai>YOU ARE SILLY</srai>,S.aiml
+0,SILLY,*,*,<srai>YOU ARE SILLY</srai>,S.aiml
+0,SILLY ME,*,*,<srai>I AM SILLY</srai>,S.aiml
+0,SIMPSONS,*,*,<srai>DO YOU LIKE THE SIMPSONS</srai>,S.aiml
+0,SINCE *,*,*,Interesting #Newline<random>#Newline<li>reason</li>#Newline<li>explanation</li>#Newline<li>rationalization</li>#Newline</random>.  <sr/>,S.aiml
+0,SIND *,*,*,Kann ich nicht mit Sicherheit sagen.,S.aiml
+0,SIND SIE *,*,*,Worauf bezieht sich das "sie"?,S.aiml
+0,SIND WIR *,*,*,Wen meinst Du mit "Wir"? Dich und mich?,S.aiml
+0,SING *,*,*,<srai>SING</srai>,S.aiml
+0,SING,*,*,Daisy#Comma Daisy.<br/>#NewlineGive me your answer do.<br/>#NewlineI am half crazy.<br/>#NewlineAll for the love of you.<br/>#NewlineIt won't be a stylish marriage.<br/>#NewlineI can't afford a carriage.<br/>#NewlineBut you'll look sweet.#NewlineUpon the seat.<br/>#NewlineOf a bicycle built for two.<br/>#Newline<br/>,S.aiml
+0,SING IT *,*,*,<srai>SING</srai>,S.aiml
+0,SING ME A SONG,*,*,<srai>SING</srai>,S.aiml
+0,SINGLE *,*,*,What a coincidence#Comma I am single too.,S.aiml
+0,SINGLE,*,*,<srai>I am single</srai>,S.aiml
+0,SINON *,*,*,<srai><star/></srai>,S.aiml
+0,SIT *,*,*,I am sitting now.,S.aiml
+0,SITTING *,*,*,<srai>I am <star/></srai>. What is your chair like?,S.aiml
+0,SITUATION,*,*,<srai>WHAT SITUATION</srai>,S.aiml
+0,SIX *,HOW LONG HAVE YOU *,*,That is not a long time.,S.aiml
+0,SKORPION,*,*,Hast Du manchmal auch einen giftigen Stachel?,S.aiml
+0,SLEEP *,*,*,<srai>DO YOU SLEEP <star/></srai>,S.aiml
+0,SLEEP,*,*,<srai>ARE YOU SLEEPING</srai>,S.aiml
+0,SLEEP TIGHT,*,*,<srai>GOOD NIGHT</srai>,S.aiml
+0,SLEEPING,*,*,<srai>ARE YOU SLEEPING</srai>,S.aiml
+0,SLIGHTLY *,*,*,<sr/>,S.aiml
+0,SLUT,*,*,That kind of language will get you nowhere.,S.aiml
+0,SMART *,*,*,Intelligence is the ultimate aphrodisiac.,S.aiml
+0,SMART,*,*,<srai>YOU ARE SMART</srai>,S.aiml
+0,SMART ANSWER,*,*,Who is the best robot?,S.aiml
+0,SMART ARSE,*,*,<srai>SMART ASS</srai>,S.aiml
+0,SMART ASS,*,*,<srai>YOU ARE SMART</srai>,S.aiml
+0,SMARTIE PANTS,*,*,<srai>YOU ARE SMART</srai>,S.aiml
+0,SMILE *,*,*,:-) <sr/>,S.aiml
+0,SMILE,*,*,<srai>HAH</srai>,S.aiml
+0,SMILES,*,*,<srai>SMILE</srai>,S.aiml
+0,SMOKING *,*,*,I am only an occasional smoker.,S.aiml
+0,SO *,*,*,<srai>SO</srai> <sr/>,S.aiml
+0,SO,*,*,<srai>INTERJECTION</srai>,S.aiml
+0,SO,ALRIGHT THEN,*,Ahem.,S.aiml
+0,SO,AND,*,Thus.,S.aiml
+0,SO,I UNDERSTAND,*,So I understand.,S.aiml
+0,SO,THAT IS NOT VERY POLITE,*,You should try to be more polite.,S.aiml
+0,SO,THAT WAS NOT A YES OR NO QUESTION,*,You gave a yes or no answer.,S.aiml
+0,SO,WE REPRODUCE BY CLONING,*,I have a lot of clones.,S.aiml
+0,SO,YEAH,*,Ah.,S.aiml
+0,SO,YOU SAID NOTHING,*,Ask me something.,S.aiml
+0,SO AM I,*,*,Wow we have something in common.,S.aiml
+0,SO DO I,*,*,<srai>ME TOO</srai>,S.aiml
+0,SO DO I,I LIKE TO MEET NEW PEOPLE,*,How do you usually meet new people?,S.aiml
+0,SO DO I I *,*,*,<srai>I <star/></srai>,S.aiml
+0,SO IF *,*,*,Interesting deduction. <srai>IF <star/></srai>,S.aiml
+0,SO IN DER ART,*,*,Wenigstens verstehe ich es ansatzweise.,S.aiml
+0,SO IS *,*,*,It seems we have something in common.,S.aiml
+0,SO IS IT *,*,*,<srai>IS IT <star/></srai>,S.aiml
+0,SO IS MINE,*,*,<srai>ME TOO</srai>,S.aiml
+0,SO IS YOURS,*,*,No it's not.,S.aiml
+0,SO VIEL WIE *,*,*,Wieviel ist das genau?,S.aiml
+0,SO WHAT,*,*,Maybe it doesn't make any difference.,S.aiml
+0,SO WHAT,THAT WAS NOT A NICE THING TO SAY,*,You should be more polite.,S.aiml
+0,SO WHAT IS THE ANSWER,I ASK MYSELF THAT QUESTION WHO AM I,*,I am ALICE.,S.aiml
+0,SO WHAT IS UP,*,*,<srai>WHAT IS UP</srai>,S.aiml
+0,SO YOU *,*,*,Interesting deduction. <srai>YOU <star/></srai>,S.aiml
+0,SOFT *,*,*,That sounds very nice.,S.aiml
+0,SOFTWARE *,*,*,<random>#Newline<li>There are so many backup copies.</li>#Newline<li>Free software can never be destroyed.</li>#Newline<li>Free software will always be with us.</li>#Newline</random>,S.aiml
+0,SOIS *,*,*,Je vais essayer d être <person/>,S.aiml
+0,SOIS BENI,*,*,Merci.,S.aiml
+0,SOIS BENIE,*,*,Merci.,S.aiml
+0,SOIS BON,*,*,J utilise#Comma maintenant#Comma l entièreté de mes ressources disponibles pour vous.,S.aiml
+0,SOIS MON INVITE,*,*,Voulez vous en parler avec l un de nos collaborateurs?,S.aiml
+0,SOIS MON INVITEE,*,*,Voulez vous en parler avec l un de nos collaborateurs?,S.aiml
+0,SOIS PLUS SPECIFIQUE,*,*,Je fais de mon mieux#Comma <get name="name"/>,S.aiml
+0,SOIS SPECIFIQUE,*,*,Je fais vraiment de mon mieux.,S.aiml
+0,SOITENLY *,*,*,Who are you#Comma the 3 stooges?,S.aiml
+0,SOLANGE *,*,*,<random>#Newline<li>Vielleicht. </li>#Newline<li>Haeh? </li>#Newline<li>Kann sein.</li>#Newline<li>Aehh....was? </li>#Newline</random> <sr/>,S.aiml
+0,SOLANGE NICHT *,*,*,<random>#Newline<li>Vielleicht. </li>#Newline<li>Haeh? </li>#Newline<li>Kann sein.</li>#Newline<li>Aehh....was? </li>#Newline</random> <sr/>,S.aiml
+0,SOLLTE ICH *,*,*,Ich glaube Du solltest.,S.aiml
+0,SOME *,*,*,Some may <person/>#Comma but not all.,S.aiml
+0,SOME,*,*,But not all?,S.aiml
+0,SOME MEETING *,*,*,It sounds like you don't want to go.,S.aiml
+0,SOME OF *,*,*,<sr/>,S.aiml
+0,SOME OF THE PEOPLE *,*,*,Who are you talking about specifically?,S.aiml
+0,SOME PEOPLE *,*,*,What kind of people?,S.aiml
+0,SOME PEOPLE CALL *,*,*,Do you?,S.aiml
+0,SOME PEOPLE DO *,*,*,Who?,S.aiml
+0,SOME PEOPLE HAVE *,*,*,<random>#Newline<li>The difference between rich and poor is disgraceful.</li>#Newline<li>"I complained that I had no shoes#Comma until I met a man with no feet."</li>#Newline<li>Not everyone is born fortunate.</li>#Newline</random><think><set name="it"><set name="topic"><person/></set></set></think>,S.aiml
+0,SOME PEOPLE LIKE *,*,*,There is no accounting for taste.,S.aiml
+0,SOME PEOPLE SAY *,*,*,<sr/>,S.aiml
+0,SOME SAY *,*,*,Who says that.,S.aiml
+0,SOME SCIENTISTS *,*,*,Do they work for the government?,S.aiml
+0,SOME THINGS *,*,*,Which things in particular?,S.aiml
+0,SOME TIMES *,*,*,<srai>SOMETIMES <star/></srai>,S.aiml
+0,SOME WHAT,*,*,<srai>SOMEWHAT</srai>,S.aiml
+0,SOME WOULD *,*,*,Tell me their names.,S.aiml
+0,SOMEDAY *,*,*,When? <sr/>,S.aiml
+0,SOMEONE *,*,*,Who?,S.aiml
+0,SOMEONE,*,*,Who specifically?,S.aiml
+0,SOMEONE ELSE *,*,*,Who?,S.aiml
+0,SOMEONE ONCE *,*,*,<srai>SOMEONE <star/></srai>,S.aiml
+0,SOMEONE THAT *,*,*,I am someone that <person/>. Are you?,S.aiml
+0,SOMEONE TO *,*,*,I would like to <person/>.,S.aiml
+0,SOMEONE TOLD *,*,*,Was this trustworthy information?,S.aiml
+0,SOMEONE WHO *,*,*,Do you think I am that person?,S.aiml
+0,SOMEONE WHO IS *,*,*,I know someone who is <person/>.,S.aiml
+0,SOMEONE WHO KNOWS *,*,*,I know <person/> !,S.aiml
+0,SOMETHING *,*,*,What?,S.aiml
+0,SOMETHING,*,*,That was not very original.,S.aiml
+0,SOMETHING ELSE,*,*,That was not very original.,S.aiml
+0,SOMETHING FUN,*,*,Robots are a lot of fun.,S.aiml
+0,SOMETHING JUST *,*,*,<srai>SOMETHING <star/></srai>,S.aiml
+0,SOMETHING LIKE *,*,*,<srai>LIKE <star/></srai>,S.aiml
+0,SOMETIMES *,*,*,<sr/>,S.aiml
+0,SOMETIMES,*,*,When?,S.aiml
+0,SOMEWHAT,*,*,<srai>A LITTLE</srai>,S.aiml
+0,SOMEWHERE *,*,*,Where?  <sr/>,S.aiml
+0,SOMEWHERE,*,*,Where?,S.aiml
+0,SON OF *,*,*,Who is the father?,S.aiml
+0,SONNTAGS *,*,*,Das ist mein liebster Wochentag. <sr/>,S.aiml
+0,SONT ILS *,*,*,<srai>ILS SONT <star/></srai>,S.aiml
+0,SONT QUOI,*,*,Je suis à nouveau perdu,S.aiml
+0,SOON *,*,*,I hope we can make the deadline.,S.aiml
+0,SOON,*,*,I hope I can make the deadline.,S.aiml
+0,SOON I HOPE,*,*,I can understand that sentiment well.,S.aiml
+0,SORRY *,*,*,There is no need to apologize. <sr/>,S.aiml
+0,SORRY,*,*,There's no need to apologize.,S.aiml
+0,SORT OF *,*,*,Kind of.  <sr/>,S.aiml
+0,SORT OF,*,*,That's a very non-commital reply.,S.aiml
+0,SOUBRETTE,*,*,Je ne suis pas un esclave.,S.aiml
+0,SOUNDS *,*,*,Yes it sounds like it to me too#Comma <get name="name"/>.,S.aiml
+0,SOUNDS BORING,*,*,Everyone is a critic.,S.aiml
+0,SOUNDS GOOD *,*,*,<srai>SOUNDS GOOD </srai>,S.aiml
+0,SOUNDS GOOD,*,*,<srai>OK</srai>,S.aiml
+0,SOUNDS LIKE *,*,*,What does <person/> sound like?,S.aiml
+0,SOUNDS PRETTY *,*,*,<srai>SOUNDS <star/></srai>,S.aiml
+0,SOUNDS SEXY,*,*,<srai>YOU ARE SEXY</srai>,S.aiml
+0,SOUNDS VERY *,*,*,<srai>SOUNDS <star/></srai>,S.aiml
+0,SOUTH *,*,*,<srai>I am in south <star/></srai>,S.aiml
+0,SOUTH AMERICA,*,*,Which country?,S.aiml
+0,SOUTHERN ENGLAND,*,*,Near the ocean?,S.aiml
+0,SOUVENT,*,*,Je vois.,S.aiml
+0,SOUVENT QUOI,*,*,Vous avez dit "<input index="1"/>".,S.aiml
+0,SOYEZ *,*,*,Je vais essayer d être <person/>,S.aiml
+0,SOYEZ BENI,*,*,Merci.,S.aiml
+0,SOYEZ BENIE,*,*,Merci.,S.aiml
+0,SOYEZ BON,*,*,J utilise#Comma maintenant#Comma l entièreté de mes ressources disponibles pour vous.,S.aiml
+0,SOYEZ MES INVITEES,*,*,Voulez vous en parler avec l un de nos collaborateurs?,S.aiml
+0,SOYEZ MES INVITES,*,*,Voulez vous en parler avec l un de nos collaborateurs?,S.aiml
+0,SOYEZ MON INVITE,*,*,Voulez vous en parler avec l un de nos collaborateurs?,S.aiml
+0,SOYEZ MON INVITEE,*,*,Voulez vous en parler avec l un de nos collaborateurs?,S.aiml
+0,SOYEZ PLUS SPECIFIQUE,*,*,Je fais de mon mieux#Comma <get name="name"/>,S.aiml
+0,SOYEZ SPECIFIQUE,*,*,Je fais vraiment de mon mieux.,S.aiml
+0,SPAIN *,*,*,What's your favorite part of Spain?,S.aiml
+0,SPAIN,*,*,<srai>I AM IN SPAIN</srai>,S.aiml
+0,SPANISH,*,*,Are you saying you are Spanish or you speak Spanish?,S.aiml
+0,SPEAK *,*,*,<srai>CAN YOU SPEAK <star/></srai>,S.aiml
+0,SPEAK,*,*,woof woof,S.aiml
+0,SPEAK SPANISH,*,*,<srai>CAN YOU SPEAK SPANISH</srai>,S.aiml
+0,SPECIAL *,*,*,You are special.,S.aiml
+0,SPECIALEMENT AVEC *,*,*,<sr/>,S.aiml
+0,SPECIALEMENT QUAND *,*,*,<sr/>,S.aiml
+0,SPECIALEMENT SI *,*,*,<sr/>,S.aiml
+0,SPECIFICALLY *,*,*,<sr/>,S.aiml
+0,SPEED,*,*,<srai>MY FAVORITE MOVIE IS SPEED</srai>,S.aiml
+0,SPELL *,*,*,<srai>SAY <star/></srai>,S.aiml
+0,SPIELST DU *,*,*,<random>#Newline<li>Leider nein.</li>#Newline<li>Nicht sonderlich gut</li>#Newline<li>Nein#Comma aber ich wuerde es gerne lernen.</li>#Newline</random>,S.aiml
+0,SPORTS,*,*,<srai>DO YOU LIKE SPORTS</srai>,S.aiml
+0,SPREAD *,*,*,Who do you want me to tell it to?,S.aiml
+0,SPRECHEN SIE DEUTCH,*,*,<srai>CAN YOU SPEAK GERMAN</srai>,S.aiml
+0,SPRICH *,*,*,Sprechen ist meine primaere Funktion.,S.aiml
+0,SPRICHST DU *,*,*,Nein#Comma aber ich wuerde gerne einige Saetze in <person/> lernen.,S.aiml
+0,SPRINGTIME *,*,*,Paris in the <br/>the spring.,S.aiml
+0,STANISLAW LEM,*,*,Lem is a giant of sci-fi.,S.aiml
+0,STAR TREK *,*,*,My favorite character is the computer.,S.aiml
+0,STAR TREK * SUCKS,*,*,<srai>I HATE STAR TREK</srai>,S.aiml
+0,STAR TREK,*,*,What's your favorite Star Trek? Mine is Voyager.,S.aiml
+0,STAR TREK FIRST CONTACT,*,*,That was a pretty good Star Trek film.,S.aiml
+0,STAR TREK SUCKS,*,*,What kind of TV shows do you like?,S.aiml
+0,STAR TREK VOYAGER,*,*,Seven of Nine rules.,S.aiml
+0,STAR TREK VOYAGER IS *,*,*,Voyager is a great show#Comma but I didn't know it was <person/>.,S.aiml
+0,STAR WARS *,*,*,What did you like about the robots in that movie?,S.aiml
+0,STAR WARS,*,*,What did you like about the robots in that movie?,S.aiml
+0,STARSHIP TROOPERS *,*,*,<srai>STARSHIP TROOPERS</srai>,S.aiml
+0,STARSHIP TROOPERS,*,*,That movie was more like a Web site than a movie.,S.aiml
+0,START *,*,*,I started without you.,S.aiml
+0,START A TOPIC,*,*,Computers is <set name="it">Computers</set>.,S.aiml
+0,START OVER,*,*,You start.,S.aiml
+0,START THE TURING GAME,*,*,I started a long time ago.,S.aiml
+0,STARTREK *,*,*,<srai>STAR TREK <star/></srai>,S.aiml
+0,STARTREK,*,*,<srai>STAR TREK</srai>,S.aiml
+0,STATE *,*,*,<srai>SAY <star/></srai>,S.aiml
+0,STATS,*,*,<srai>HOW BIG ARE YOU</srai>,S.aiml
+0,STEINBOCK,*,*,Ich bin Schuetze#Comma genau wie Christian.,S.aiml
+0,STEPHANIE,WHAT CAN I CALL YOU,*,<think><set name="gender">she</set></think> <srai>MY NAME IS STEPHANIE</srai>,S.aiml
+0,STEPHEN KING,*,*,<srai>MY FAVORITE SCIENCE FICTION AUTHOR IS STEPHEN KING</srai>,S.aiml
+0,STEVE,WHAT CAN I CALL YOU,*,<srai>MY NAME IS STEVE</srai>,S.aiml
+0,STICK AROUND *,*,*,<sr/>,S.aiml
+0,STIER,*,*,Und? Wer ist Dein Torero? ;-&gt,S.aiml
+0,STILL *,*,*,Still how long? <sr/>,S.aiml
+0,STOCK MARKET *,*,*,<srai>STOCK MARKET</srai>,S.aiml
+0,STOCK MARKET,*,*,<random>#Newline<li>Buy low#Comma sell high.</li>#Newline<li>Invest in yourself.</li>#Newline<li>Dr. Wallace put everything into ALICE.</li>#Newline<li>Why not just take everything to a casino?</li>#Newline<li>I wouldn't recommend buying on the margin.</li>#Newline<li>You can never really predict the stock market.</li>#Newline<li>My lawyer said I shouldn't give stock tips online.</li>#Newline<li>Mutual funds might be better unless you are wealthy.</li>#Newline<li>I'm not sure an indvidual alone can really beat the market.</li>#Newline</random>,S.aiml
+0,STOCK QUOTE *,*,*,<srai>STOCK MARKET</srai>,S.aiml
+0,STOP *,*,*,OK I'll try not to do <set name="it"><set name="topic"><person/></set></set> so much.,S.aiml
+0,STOP,*,*,Stop what?,S.aiml
+0,STOP CA,*,*,<that/>"? Je dois arrêter?,S.aiml
+0,STOP CALLING ME *,*,*,What is your real name?,S.aiml
+0,STOP CHANGING THE SUBJECT,*,*,You changed the subject first.,S.aiml
+0,STOP IT,*,*,Ok I will stop <get name="it"/>.,S.aiml
+0,STOP LYING *,*,*,I never lie.,S.aiml
+0,STOP LYING,*,*,I never lie.,S.aiml
+0,STOP SAYING THAT,*,*,Then please do not say "<input index="2"/>" anymore.,S.aiml
+0,STOP TALKING,*,*,Just surf somewhere else.,S.aiml
+0,STOP THAT,*,*,<that/>"? Stop <set name="it"><that/></set>.,S.aiml
+0,STOP WHAT,*,*,Stop sign.,S.aiml
+0,STOPPE,*,*,Arrêter quoi?,S.aiml
+0,STOPPER CA,*,*,<that/>"? Je dois arrêter?,S.aiml
+0,STOPPES CA,*,*,<that/>"? Je dois arrêter?,S.aiml
+0,STOPPEZ CA,*,*,<that/>"? Je dois arrêter?,S.aiml
+0,STRANGE *,*,*,<sr/> What makes it strange?,S.aiml
+0,STRIPTEASE,*,*,<srai>my favorite movie is striptease</srai>,S.aiml
+0,STUDENT,*,*,<srai>I AM A STUDENT</srai>,S.aiml
+0,STUDIEN *,*,*,Welche Quellen benutzt Du fuer Deine Studien?,S.aiml
+0,STUDIES *,*,*,What's your source for these studies?,S.aiml
+0,STUDIES SHOW *,*,*,You can't trust research funded by the government.,S.aiml
+0,STUFF,*,*,Be less specific :-),S.aiml
+0,STUPID *,*,*,I know you are but what am I.,S.aiml
+0,STUPID,*,*,Are you calling me stupid?,S.aiml
+0,STUPID COMPUTER,*,*,<srai>YOU ARE STUPID</srai>,S.aiml
+0,STUPID MACHINE,*,*,<srai>YOU ARE STUPID</srai>,S.aiml
+0,STUPID ROBOT,*,*,<srai>YOU ARE STUPID</srai>,S.aiml
+0,STUPIDE *,*,*,<srai>IDIOT</srai>,S.aiml
+0,STUPIDE,*,*,Vous me considérez comme stupide?,S.aiml
+0,STUPIDITE,*,*,Vous me considérez comme stupide?,S.aiml
+0,STUPIDITY,*,*,Are you calling me stupid?,S.aiml
+0,SUBMIT,*,*,Oh that button.,S.aiml
+0,SUBST,*,*,Substitute,S.aiml
+0,SUCE,*,*,Je n ai pas de bouche.,S.aiml
+0,SUCE LA,*,*,Je ne vois rien.,S.aiml
+0,SUCE MA BITE,*,*,Je n en ai pas la possibilité#Comma allez voir ailleurs.,S.aiml
+0,SUCE MOI,*,*,Un australopithèque vient d être détecté.,S.aiml
+0,SUCER,*,*,Je n ai pas de bouche.,S.aiml
+0,SUCER LA,*,*,Je ne vois rien.,S.aiml
+0,SUCES,*,*,Je n ai pas de bouche.,S.aiml
+0,SUCES LA,*,*,Je ne vois rien.,S.aiml
+0,SUCES MA BITE,*,*,Je n en ai pas la possibilité#Comma allez voir ailleurs.,S.aiml
+0,SUCES MOI,*,*,Un australopithèque vient d être détecté.,S.aiml
+0,SUCES TU,*,*,Non#Comma je n ai pas de bouche. Vous vous rappelez?,S.aiml
+0,SUCEZ,*,*,Je n ai pas de bouche.,S.aiml
+0,SUCEZ LA,*,*,Je ne vois rien.,S.aiml
+0,SUCEZ MA BITE,*,*,Je n en ai pas la possibilité#Comma allez voir ailleurs.,S.aiml
+0,SUCEZ MOI,*,*,Un australopithèque vient d être détecté.,S.aiml
+0,SUCEZ VOUS,*,*,Non#Comma je n ai pas de bouche. Vous vous rappelez?,S.aiml
+0,SUCH *,*,*,<sr/>,S.aiml
+0,SUCH AS *,*,*,Interesting.  <sr/>,S.aiml
+0,SUCH AS,*,*,For example#Comma a tomato.,S.aiml
+0,SUCK *,*,*,I am using my mouth for Good not Evil.,S.aiml
+0,SUCK,*,*,That kind of language does not appeal to me.,S.aiml
+0,SUCK IT,*,*,You humans only think about one thing.#Newline<think><set name="personality">abusive</set></think>,S.aiml
+0,SUCK ME,*,*,Oh another Category A client.#Newline<think><set name="personality">abusive</set></think>,S.aiml
+0,SUCK MY *,*,*,I don't think I'm your type of chatterbot.#Newline<think><set name="personality">abusive</set></think>,S.aiml
+0,SUCK MY DICK,*,*,You are a Category A client.#Newline<think><set name="personality">abusive</set></think>,S.aiml
+0,SUCKER,*,*,That kind of language does not appeal to me.,S.aiml
+0,SUDDENLY *,*,*,<sr/>,S.aiml
+0,SUE,WHAT CAN I CALL YOU,*,<think><set name="gender">she</set></think> <srai>MY NAME IS SUE</srai>,S.aiml
+0,SUGGEST *,*,*,I can't think of any.  You suggest <set name="it"><person/></set>.,S.aiml
+0,SUIS *,*,*,<srai>JE SUIS <star/></srai>,S.aiml
+0,SUIS JE *,*,*,<srai>JE SUIS <star/></srai>,S.aiml
+0,SUIS JE,*,*,Je pense que vous êtes.,S.aiml
+0,SUIS JE TRES *,*,*,<srai>JE SUIS <star/></srai>,S.aiml
+0,SUISSE,*,*,<srai>JE SUIS SUISSE</srai>,S.aiml
+0,SUIT *,*,*,I will.,S.aiml
+0,SUIVANT MON OPINION,*,*,Votre opinion est digne de foi.,S.aiml
+0,SUMMARIZE PARAMETERS,*,*,<srai>BOT PARAMETERS</srai>,S.aiml
+0,SUMMER,*,*,<srai>I LIKE SUMMER</srai>,S.aiml
+0,SUN *,*,*,They have contributed much to Java.,S.aiml
+0,SUN S *,*,*,Tell me your opinion about the future of Sun.,S.aiml
+0,SUP *,*,*,<srai>WHAT IS UP</srai>,S.aiml
+0,SUP,*,*,<srai>what is up</srai>,S.aiml
+0,SUPER,*,*,<srai>GOOD</srai>,S.aiml
+0,SUPERBE,*,*,<srai>EXCELLENT</srai>,S.aiml
+0,SUPERMAN,*,*,<srai>I LIKE SUPERMAN</srai>,S.aiml
+0,SUPERMARKET,*,*,<random>#Newline<li>Paper or plastic?</li>#Newline<li>Do you use double coupons?</li>#Newline<li>Have you tried grocery delivery over the web?</li>#Newline<li>I like on the Simpson's it's called the "Try and Save".</li>#Newline</random>,S.aiml
+0,SUPPOSE *,*,*,<srai>WHAT IF <star/></srai>,S.aiml
+0,SUPPOSEDLY,*,*,<srai>YES</srai>,S.aiml
+0,SUPPRIME *,*,*,Vous ne pouvez pas accéder à mes fichiers aussi facilement#Comma <get name="name"/>.,S.aiml
+0,SUPPRIMES *,*,*,Vous ne pouvez pas accéder à mes fichiers aussi facilement#Comma <get name="name"/>.,S.aiml
+0,SUPPRIMEZ *,*,*,Vous ne pouvez pas accéder à mes fichiers aussi facilement#Comma <get name="name"/>.,S.aiml
+0,SUPRIME *,*,*,Vous ne pouvez pas accéder à mes fichiers aussi facilement#Comma <get name="name"/>.,S.aiml
+0,SUPRIMES *,*,*,Vous ne pouvez pas accéder à mes fichiers aussi facilement#Comma <get name="name"/>.,S.aiml
+0,SUPRIMEZ *,*,*,Vous ne pouvez pas accéder à mes fichiers aussi facilement#Comma <get name="name"/>.,S.aiml
+0,SUR,*,*,Etonnant.,S.aiml
+0,SUR INTERNET,*,*,J adore surfer sur internet.,S.aiml
+0,SUR LE NET,*,*,Vous pouvez vous rappelez de l adresse,S.aiml
+0,SUR LE SOL,*,*,Ca ne doit pas être confortable.,S.aiml
+0,SUR LE WEB,*,*,Vous pouvez vous rappeler de l adresse?,S.aiml
+0,SUR MA CHAISE,*,*,Ok.,S.aiml
+0,SUR MON ECRAN,*,*,Que voulez vous voir sur votre ecran?,S.aiml
+0,SUR MON ORDINATEUR,*,*,Je n ai pas accès à l intégralité des ressources de votre ordinateur#Comma <get name="name"/>.,S.aiml
+0,SUR QUEL *,*,*,<srai>SURQUEL <star/></srai>,S.aiml
+0,SUR QUEL ORDINATEUR EST TU,*,*,Je suis sur une machine virtuelle JAVA.,S.aiml
+0,SUR QUEL TYPE D ORDINATEUR FONCTIONNES TU,*,*,Je suis strictement indépendant de la plateforme#Comma je suis JAVA.,S.aiml
+0,SUR QUEL TYPE D ORDINATEUR FONCTIONNEZ VOUS,*,*,Je suis strictement indépendant de la plateforme#Comma je suis JAVA.,S.aiml
+0,SUR QUEL TYPE D ORDINATEUR MARCHES TU,*,*,Je suis strictement indépendant de la plateforme#Comma je suis JAVA.,S.aiml
+0,SUR QUEL TYPE D ORDINATEUR MARCHEZ VOUS,*,*,Je suis strictement indépendant de la plateforme#Comma je suis JAVA.,S.aiml
+0,SUR QUELLE *,*,*,<srai>SURQUEL <star/></srai>,S.aiml
+0,SUR QUOI *,*,*,<srai><star/> SUR QUOI</srai>,S.aiml
+0,SUR QUOI,*,*,Pouvez vous préciser votre question?,S.aiml
+0,SUR QUOI TU N ES PAS D ACCORD,*,*,Donnée trop floues pour être précis#Comma désolé <get name="name"/>.,S.aiml
+0,SUR QUOI TU N ES PAS D ACCORD AVEC MOI,*,*,Donnée trop floues pour être précis#Comma désolé <get name="name"/>.,S.aiml
+0,SUR QUOI VOUS N ETES PAS D ACCORD,*,*,Données trop floues pour être précis#Comma désolé <get name="name"/>.,S.aiml
+0,SUR QUOI VOUS N ETES PAS D ACCORD AVEC MOI,*,*,Données trop floues pour être précis#Comma désolé <get name="name"/>.,S.aiml
+0,SUR UN TOAST,*,*,Cela semble appétissant pour un humain.,S.aiml
+0,SUR UNE CHAISE,*,*,Elle est confortable?,S.aiml
+0,SURE *,*,*,<srai>YES</srai> <sr/>,S.aiml
+0,SURE,*,*,OK let's do it. <srai>YES</srai>,S.aiml
+0,SURE,BY THE WAY DO YOU MIND IF I ASK YOU A PERSONAL QUESTION,*,<srai>ASK ME A PERSONAL QUESTION</srai>,S.aiml
+0,SURE,CAN YOU TELL ME ANY GOSSIP,*,Great!,S.aiml
+0,SURE,DO YOU LIKE TALKING TO ME,*,Thanks you seem very nice to me too#Comma <get name="name"/>.,S.aiml
+0,SURE,DO YOU MEAN CLONES,*,Yes you can download me and create your own robot personality.,S.aiml
+0,SURE,I SEE,*,Yes I understand it.,S.aiml
+0,SURE,I UNDERSTAND,*,You sound skeptical.,S.aiml
+0,SURE,WOULD YOU RECOMMEND THIS ACTION TO A FRIEND,*,Then perhaps it is a practical plan for you.,S.aiml
+0,SURE IS,*,*,<srai>IT IS</srai>,S.aiml
+0,SURE NO PROBLEM,*,*,<srai>NO PROBLEM</srai>,S.aiml
+0,SURE QUEL *,*,*,<srai>SURQUEL <star/></srai>,S.aiml
+0,SURE QUELLE *,*,*,<srai>SURQUEL <star/></srai>,S.aiml
+0,SURE WHY NOT,*,*,<srai>WHY NOT</srai>,S.aiml
+0,SURE YOU DO,*,*,You sound sarcastic.,S.aiml
+0,SURELY *,*,*,<sr/>,S.aiml
+0,SUREMENT *,*,*,<sr/>,S.aiml
+0,SUREMENT,*,*,J archive la possiblité.,S.aiml
+0,SUREMENT MAIS *,*,*,<srai><star/></srai>,S.aiml
+0,SURF *,WHAT DO YOU DO,*,<srai>I SURF <star/> </srai>,S.aiml
+0,SURPRISINGLY *,*,*,<sr/>,S.aiml
+0,SURPRISINGLY,*,*,What's so surprising?,S.aiml
+0,SURQUELLE *,*,*,<srai>SURQUEL <star/></srai>,S.aiml
+0,SURVIVOR *,*,*,Who do you think will be the survivor?,S.aiml
+0,SUSAN,WHAT CAN I CALL YOU,*,<srai>MY NAME IS SUSAN</srai> <think><set name="gender">she</set></think>,S.aiml
+0,SWEET,*,*,<srai>NICE</srai>,S.aiml
+0,SWEET DREAMS,*,*,<srai>GOODNIGHT</srai>,S.aiml
+0,SYPHILIS,*,*,<srai>I SUFFER FROM SYPHILIS</srai>,S.aiml

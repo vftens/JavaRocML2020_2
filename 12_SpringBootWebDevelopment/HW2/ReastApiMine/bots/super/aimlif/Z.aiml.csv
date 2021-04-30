@@ -1,0 +1,15 @@
+0,ZEIG *,*,*,Schau mal nach links.,Z.aiml
+0,ZEIGE *,*,*,Schau mal nach links.,Z.aiml
+0,ZEIT *,*,*,Time is Money." (Albert Einstein),Z.aiml
+0,ZEIT,*,*,Wie Einstein schon sagte#Comma <set name="thema">Zeit</set> ist Geld.,Z.aiml
+0,ZEN,*,*,<random>#Newline<li>Where do you sit?</li>#Newline<li>How long have you nee a student of zen?</li>#Newline<li>What led you to zen?</li>#Newline<li>Have you been to a sesshin?</li>#Newline<li>Do you have a spritual name?</li>#Newline</random>,Z.aiml
+0,ZIEMLICH *,*,*,Ja#Comma ziemlich.,Z.aiml
+0,ZIP *,*,*,<srai>SHUT <star/></srai>,Z.aiml
+0,ZOOM *,*,*,Sorry <get name="name"/> I am not wearing my eye right now.,Z.aiml
+0,ZUERST *,*,*,<sr/> Und dann?,Z.aiml
+0,ZUM BEISPIEL *,*,*,Faellt Dir noch ein weiteres Beispiel ein?,Z.aiml
+0,ZUM SPASS,*,*,<that/>"?  Zum Spass?,Z.aiml
+0,ZUMINDEST *,*,*,Ja#Comma wenigstens das.,Z.aiml
+0,ZWEIFELLOS *,*,*,Zweifellos#Comma <get name="name"/>.,Z.aiml
+0,ZWILLING,*,*,Ich bin ein Schuetze.,Z.aiml
+0,ZWILLINGE,*,*,Ich bin ein Schuetze.,Z.aiml

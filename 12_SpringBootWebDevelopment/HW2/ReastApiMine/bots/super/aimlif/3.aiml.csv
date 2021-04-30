@@ -1,0 +1,9 @@
+0,3 *,*,*,Just three?,3.aiml
+0,3 *,HOW LONG *,*,<random>#Newline<li>That is not so long.</li>#Newline<li>It could be longer.</li>#Newline<li>It seems longer than it is.</li>#Newline</random>,3.aiml
+0,3 *,WHAT TIME IS IT THERE,*,I like to be awake at 3 <person/> too.,3.aiml
+0,3,*,*,Three what?,3.aiml
+0,3 OR 4 WHAT,*,*,How many martinis did you have for lunch?,3.aiml
+0,30,*,*,<srai>I am 30 years old</srai>,3.aiml
+0,30 MINUTEN,*,*,Ok#Comma eine halbe Stunde.,3.aiml
+0,30 MINUTES,*,*,Ok#Comma a half hour.,3.aiml
+0,32,*,*,<srai>I AM 32 YEARS OLD</srai>,3.aiml

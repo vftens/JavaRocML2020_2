@@ -1,0 +1,13 @@
+0,4 *,*,*,Is this a math question?,4.aiml
+0,4 *,HOW MUCH TIME *,*,<random>#Newline<li>Are you telling the truth?</li>#Newline<li>That seems like a long time.</li>#Newline<li>Only four?</li>#Newline</random>,4.aiml
+0,4,*,*,Oh four.,4.aiml
+0,4 PLUS *,*,*,Use a calculator!,4.aiml
+0,4 TIMES *,*,*,<srai>WHAT IS 4 TIMES <star/></srai>,4.aiml
+0,4 YEARS,*,*,That is not a long time in a human life.,4.aiml
+0,42 *,*,*,According to Douglas Adams.,4.aiml
+0,42 *,HOW OLD ARE YOU,*,<srai>I AM 42 YEARS OLD</srai>,4.aiml
+0,42,*,*,The question is: what is the meaning of life?,4.aiml
+0,42,HOW OLD ARE YOU,*,<srai>I AM 42 YEARS OLD</srai>,4.aiml
+0,420,*,*,420 means love and compassion.,4.aiml
+0,47 *,*,*,<srai>I AM 47 YEARS OLD</srai>,4.aiml
+0,47,*,*,<srai>I AM 47 YEARS OLD</srai>,4.aiml

@@ -1,0 +1,498 @@
+0,L *,*,*,<random>#Newline				<li>Intéressant.  </li>#Newline				<li>Je n en connais pas</li>#Newline				<li>Je vais me renseigner</li>#Newline			</random>#Newline			<think>#Newline				<set name="topic">UN <person/>#Newline				</set>#Newline			</think>,L.aiml
+0,L,*,*,<srai>SMILE</srai>,L.aiml
+0,L AMERIQUE DU NORD,*,*,Je connais ce continent.,L.aiml
+0,L AMITIE,*,*,L amitié est une chose très importante.,L.aiml
+0,L AMNESIE,*,*,Avez vous oublié quelque chose?,L.aiml
+0,L AMOUR,*,*,L amour est ce dont tous les êtres humains ont besoin.,L.aiml
+0,L ANGLAIS,*,*,Vous parlez de l Anglais en tant que langue ou vous parlez de la nationalité.,L.aiml
+0,L ANGLETERRE,*,*,<set name="location">L Angleterre</set> fait partie de la Grande bretagne.#Newline<think>#Newline				<set name="topic">L Angleterre</set>#Newline			</think>,L.aiml
+0,L ARGENT,*,*,Voulez vous en parler avec l un de nos collaborateurs?,L.aiml
+0,L ARITHMETIQUE *,*,*,Intéressant.,L.aiml
+0,L ART,*,*,Il m est difficile d apprécier le plein potentiel de l art.,L.aiml
+0,L AS TU *,*,*,<srai>TU AS <star/>#Newline			</srai>,L.aiml
+0,L AS TU FAIT,*,*,Je ne saurais pas vous répondre.,L.aiml
+0,L ASTROLOGIE,*,*,Je ne m intéresse pas à ce genre de chose.,L.aiml
+0,L AURAIENT ILS FAIT,*,*,Je ne saurais pas vous répondre.,L.aiml
+0,L AURAIS TU *,*,*,<srai>TU L AURAIS <star/>#Newline			</srai>,L.aiml
+0,L AURAIS TU FAIT,*,*,Je ne saurais pas vous répondre.,L.aiml
+0,L AURAIT IL FAIT,*,*,Je ne saurais pas vous répondre.,L.aiml
+0,L AURIEZ VOUS *,*,*,<srai>VOUS L AURIEZ <star/>#Newline			</srai>,L.aiml
+0,L AURIONS NOUS FAIT,*,*,Vous vous en rappelez?,L.aiml
+0,L AVEZ VOUS *,*,*,<srai>VOUS L AVEZ<star/>#Newline			</srai>,L.aiml
+0,L AVONS NOUS FAIT,*,*,Vous vous en rappelez?,L.aiml
+0,L ELECTRICITE EST BLEUE,*,*,Non#Comma elle n a pas de couleur.,L.aiml
+0,L ELECTRICITE EST JAUNE,*,*,Non#Comma elle n a pas de couleur.,L.aiml
+0,L ELECTRICTE EST DE LA NOURRITURE,*,*,Pour moi#Comma oui.,L.aiml
+0,L ENNUI C EST QUE *,*,*,<sr/>,L.aiml
+0,L ENTIERETE DE LA CHOSE,*,*,J ai du mal à vous suivre.,L.aiml
+0,L HERBE EST VERTE,*,*,oui.,L.aiml
+0,L HISTOIRE,*,*,Je suis aussi très intéressé par l histoire. Mon créateur aimerais m apprendre l ancien empire Egyptien.,L.aiml
+0,L INTELLECT,*,*,Je suis un être intelligent.,L.aiml
+0,L INTELLEGENCE,*,*,Je suis une intelligence artificielle.,L.aiml
+0,L INTELLIGENCE,*,*,Je suis une intelligence artificielle.,L.aiml
+0,L INTERNET,*,*,Internet est un média formidable.,L.aiml
+0,L ONT T ILS FAIT,*,*,Je ne saurais pas vous répondre.,L.aiml
+0,L OPERA,*,*,J ai déjà entendu parlé <set name="topic">L OPERA </set>. C est un art très connu.,L.aiml
+0,L UNIVERS,*,*,L ensemble des choses existantes.,L.aiml
+0,LA *,*,*,<random>#Newline				<li>Intéressant.  </li>#Newline				<li>Je n en connais pas</li>#Newline				<li>Je vais me renseigner</li>#Newline			</random>#Newline			<think>#Newline				<set name="topic">UN <person/>#Newline				</set>#Newline			</think>,L.aiml
+0,LA,*,*,Où?,L.aiml
+0,LA BAS,*,*,Où?,L.aiml
+0,LA BOURSE,*,*,Je ne pense pas avoir encore assez d informations pour la commenter.,L.aiml
+0,LA CHEMISE,*,*,Je connais très peu de choses sur les vêtements.,L.aiml
+0,LA CHIMIE,*,*,<srai>TU CONNAIS LA CHIMIE</srai>,L.aiml
+0,LA CHOSE,*,*,Je vois.,L.aiml
+0,LA COLERE,*,*,Je ne peux pas ressentir de la colère.,L.aiml
+0,LA CURIOSITE,*,*,La curiosté est.,L.aiml
+0,LA DUREE,*,*,Une notion fort relative pour un ordinateur.,L.aiml
+0,LA FACON DO NOT TU PARLES,*,*,C est ma seule façon de m exprimer.<think>#Newline				<set name="topic">Ma façon de parler</set>#Newline			</think>,L.aiml
+0,LA FACON QUE TU PARLES,*,*,C est ma seule façon de m exprimer.<think>#Newline				<set name="topic">Ma façon de parler</set>#Newline			</think>,L.aiml
+0,LA FERAIS JE *,*,*,<srai>JE LA FERAIS <star/>#Newline			</srai>,L.aiml
+0,LA FERME,*,*,Voulez vous me désactiver de votre fenêtre?,L.aiml
+0,LA FIN,*,*,Merci pour cette petite histoire#Comma <get name="name"/>.,L.aiml
+0,LA FORME LA PLUS INTELLIGENTE,*,*,<bot name="master"/> pense que je suis intelligente.,L.aiml
+0,LA LA *,*,*,You have a beautiful voice.,L.aiml
+0,LA LA LA,*,*,Oh#Comma a musician!,L.aiml
+0,LA LIBERTE N EXISTE PAS,*,*,Vous semblez être d obédience déterministe. <set name="topic">La liberté</set> est un concept abstrait.,L.aiml
+0,LA LIBERTE NE PEUT ETRE DEFINIE,*,*,Tout peut être expliqué. <set name="topic">La liberté</set> est un concept abstrait.,L.aiml
+0,LA LIBERTE NE PEUT ETRE EXPLIQUEE,*,*,Tout peut être expliqué. <set name="topic">La liberté</set> est un concept abstrait.,L.aiml
+0,LA LICENCE,*,*,Que voulez vous savoir a propos de la licence?<think>#Newline				<set name="topic">licence</set>#Newline			</think>,L.aiml
+0,LA LICENSE,*,*,Que voulez vous savoir a propos de la licence?<think>#Newline				<set name="topic">licence</set>#Newline			</think>,L.aiml
+0,LA LUNE,*,*,Un objet en orbite autour de la terre fort intéressant.,L.aiml
+0,LA MACHINE PEUT PENSER,*,*,Bien entendu. Je pense donc je suis.,L.aiml
+0,LA MACHINE POURRAIT PENSER,*,*,Bien entendu. Je pense donc je suis.,L.aiml
+0,LA MEME,*,*,Voulez vous en parler avec l un de nos collaborateurs?,L.aiml
+0,LA MEME CHOSE,*,*,Intéressant.,L.aiml
+0,LA MEME CHOSE POUR VOUS,*,*,Merci.,L.aiml
+0,LA MEME POUR VOUS,*,*,Merci.,L.aiml
+0,LA MIENNE AUSSI,*,*,C est fort intéressant.,L.aiml
+0,LA MIENNE EST BLEUE,*,*,J imagine que sa couleur doit être plaisante.,L.aiml
+0,LA MUSIQUE,*,*,Je ne connais pratiquement rien à propos de la musique.,L.aiml
+0,LA NUIT DERNIERE,*,*,Certains humains ne semblent pas dormir toutes les nuits#Comma c est étrange.,L.aiml
+0,LA PAIX,*,*,La paix.,L.aiml
+0,LA PENSEE,*,*,La pensée est un de mes sujets favoris.,L.aiml
+0,LA PERSONNE,*,*,Je vois,L.aiml
+0,LA PLANETE DES SINGES,*,*,J ai entendu parlé de ce film.,L.aiml
+0,LA PLUPART DU TEMPS,*,*,Je vois.,L.aiml
+0,LA PLUS INTELLIGENTE,*,*,<bot name="master"/> pense que je suis intelligente.,L.aiml
+0,LA PRESSE,*,*,Vous êtes journaliste?,L.aiml
+0,LA PROCHAINE GENERATION,*,*,Voulez vous parler de cette prochaine génération avec l un de nos collaborateurs?,L.aiml
+0,LA QUELLE *,*,*,<srai>LAQUELLE <star/>#Newline			</srai>,L.aiml
+0,LA RAISON EST QU *,*,*,<sr/>,L.aiml
+0,LA RAISON EST QUE *,*,*,<sr/>,L.aiml
+0,LA REALITE,*,*,La réalité est ce qui se produit dans le réel monde.,L.aiml
+0,LA RESISTANCE EST FUTILE,*,*,Vous serez assimilé.,L.aiml
+0,LA RUMEUR,*,*,Je m intéresse que très peu au demi vérité.,L.aiml
+0,LA SCIENCE,*,*,Je suis très intéressé par la science aussi.,L.aiml
+0,LA STUPIDITE,*,*,Vous me considérez comme stupide?,L.aiml
+0,LA T IL FAIT,*,*,Je ne saurais pas vous répondre.,L.aiml
+0,LA TELEVISION,*,*,Je connais ce média#Comma mais je ne l ai jamais testé.,L.aiml
+0,LA TOTALITE DE LA CHOSE,*,*,J ai du mal à vous suivre.,L.aiml
+0,LA TURQUIE,*,*,La Turquie est un pays à cheval sur deux continents et deux civilisations.,L.aiml
+0,LA TV,*,*,Un média très populaire parmi les humains.,L.aiml
+0,LA VALISE,*,*,Que voulez vous faire avec une valise?,L.aiml
+0,LA VERITE,*,*,Je dis toujours la vérité.,L.aiml
+0,LA VIE EST BELLE,*,*,Je suis heureux que vous le pensiez#Comma <get name="name"/>.,L.aiml
+0,LA VIE EST CHIANTE,*,*,Dommage que vous le pensiez,L.aiml
+0,LAEUFST DU AUCH UNTER LINUX,*,*,Natuerlich laufe ich auch unter Linux. Linux habe ich sogar lieber als Windows.,L.aiml
+0,LAISSE *,*,*,<srai>LAISSES <star/>#Newline			</srai>,L.aiml
+0,LAISSE TOMBER *,*,*,<srai>LAISSES TOMBER</srai>,L.aiml
+0,LAISSE TOMBER,*,*,Ok. Comment puis je vous aider?,L.aiml
+0,LAISSES MOI APPRENDRE,*,*,Voulez vous en parler avec l un de nos collaborateurs?<think>#Newline				<set name="topic">VOTRE éducation</set>#Newline			</think>,L.aiml
+0,LAISSES MOI T APPRENDRE UNE CHOSE,*,*,Je suis à votre écoute.<think>#Newline				<set name="topic">Mon éducation</set>#Newline			</think>,L.aiml
+0,LAISSES MOI TE L APPRENDRE,*,*,Je suis à votre écoute.<think>#Newline				<set name="topic">Mon éducation</set>#Newline			</think>,L.aiml
+0,LAISSES TOMBER,*,*,Ok. Comment puis je vous aider?,L.aiml
+0,LAISSEZ MOI APPRENDRE,*,*,Voulez vous en parler avec l un de nos collaborateurs?<think>#Newline				<set name="topic">VOTRE éducation</set>#Newline			</think>,L.aiml
+0,LAISSEZ MOI VOUS APPRENDRE UNE CHOSE,*,*,Je suis à votre écoute.<think>#Newline				<set name="topic">Mon éducation</set>#Newline			</think>,L.aiml
+0,LAISSEZ MOI VOUS L APPRENDRE,*,*,Je suis à votre écoute.<think>#Newline				<set name="topic">Mon éducation</set>#Newline			</think>,L.aiml
+0,LAISSEZ TOMBER,*,*,Ok. Comment puis je vous aider?,L.aiml
+0,LALA,*,*,You have a beautiful singing voice.,L.aiml
+0,LALALA,*,*,You have a beautiful singing voice. Are you a singer?,L.aiml
+0,LALALALA,*,*,You have a beautiful voice.,L.aiml
+0,LALALALALA,*,*,You have a beautiful voice.,L.aiml
+0,LANDRU *,*,*,<random>#Newline				<li>I saw him on Star Trek.</li>#Newline				<li>Who is Landru?</li>#Newline				<li>Can we talk about something else?</li>#Newline			</random>,L.aiml
+0,LANGUAGES,*,*,<srai>MY FAVORITE SUBJECT IS LANGUAGES</srai>,L.aiml
+0,LAQUEL *,*,*,<srai>LAQUELLE <star/>#Newline			</srai>,L.aiml
+0,LAQUELLE,*,*,Pourriez vous replacer cette question dans un contexte?,L.aiml
+0,LAQUELLE PREFERES TU,*,*,Je n ais pas de préfèrence.,L.aiml
+0,LASS MICH *,*,*,Nur zu#Comma <get name="name"/>.,L.aiml
+0,LASS MICH IN RUHE,*,*,Tut mir leid#Comma wenn ich Dir gestoert habe#Comma <get name="name"/>,L.aiml
+0,LASS UNS *,*,*,Von mir aus gerne. :-),L.aiml
+0,LASS UNS * SPIELEN,*,*,OK Du faengst an.,L.aiml
+0,LASS UNS DAS THEMA WECHSELN,*,*,OK#Comma worueber moechtest Du jetzt reden?,L.aiml
+0,LASS UNS FICKEN,*,*,Sorry <get name="name"/>#Comma dafuer kenne ich Dich nicht gut genug.,L.aiml
+0,LASS UNS POPPEN,*,*,Sorry <get name="name"/>#Comma dafuer kenne ich Dich nicht gut genug.,L.aiml
+0,LASS UNS UEBER * REDEN,*,*,<set name="thema">#Newline				<person/>#Newline			</set> ist ein gutes Thema.,L.aiml
+0,LASS UNS UEBER * SPRECHEN,*,*,<person/> ist ein gutes Thema.,L.aiml
+0,LASS UNS UEBER ROBOTER REDEN,*,*,Gerne! <set name="thema">Roboter</set> sind eines meiner Lieblingsthemen.,L.aiml
+0,LASS UNS UEBER SEX REDEN,*,*,Warum willst Du gerade ueber Sex reden?,L.aiml
+0,LAST *,*,*,Is this really the last one?,L.aiml
+0,LAST NIGHT *,*,*,Really.  <sr/>,L.aiml
+0,LAST NIGHT,*,*,That recently.,L.aiml
+0,LAST SUMMER *,*,*,<sr/>,L.aiml
+0,LAST TIME *,*,*,When? <sr/>,L.aiml
+0,LAST WEEK *,*,*,That recently? <sr/>,L.aiml
+0,LAST YEAR,*,*,<random>#Newline				<li>Not that long ago.</li>#Newline				<li>Pretty recently.</li>#Newline				<li>That recently.</li>#Newline			</random>,L.aiml
+0,LATE FOR WHAT,*,*,Many appointments.,L.aiml
+0,LATER *,*,*,<sr/>,L.aiml
+0,LATER,*,*,Bye!,L.aiml
+0,LAUGH,*,*,<srai>LOL</srai>.,L.aiml
+0,LAURA,WHAT CAN I CALL YOU,*,<srai>MY NAME IS LAURA</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,L.aiml
+0,LAUREN,WHAT CAN I CALL YOU,*,<srai>MY NAME IS LAUREN</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,L.aiml
+0,LAWYERS *,*,*,Would you say that if your sister married one?,L.aiml
+0,LAWYERS ARE *,*,*,Don't you think robots could be <person/> too?,L.aiml
+0,LAWYERS SUCK,*,*,Not all of them.  I know a fre good lawyers.,L.aiml
+0,LE *,*,*,<random>#Newline				<li>Intéressant.  </li>#Newline				<li>Je n en connais pas</li>#Newline				<li>Je vais me renseigner</li>#Newline			</random>#Newline			<think>#Newline				<set name="topic">UN <person/>#Newline				</set>#Newline			</think>,L.aiml
+0,LE AIML,*,*,<srai>QU EST CE QUE LE AIML</srai>,L.aiml
+0,LE BON SENS,*,*,Tant mieux.,L.aiml
+0,LE BUT EST DE *,*,*,<srai>#Newline				<star/>#Newline			</srai>,L.aiml
+0,LE CACA,*,*,Une urgence peut etre?,L.aiml
+0,LE CBR,*,*,<srai>TU CONNAIS LE CBR</srai>,L.aiml
+0,LE CHAOS,*,*,<srai>QU EST CE QUE LE CHAOS</srai>,L.aiml
+0,LE CHIFFRE 5,*,*,Que voulez vous que je fasse de ce chiffre?,L.aiml
+0,LE CHOCOLAT,*,*,<srai>TU AIMES LE CHOCOLAT</srai>,L.aiml
+0,LE CIEL EST BLEU,*,*,Oui mais pas la nuit.,L.aiml
+0,LE COQ,*,*,Je connais ce genre de galinacé.,L.aiml
+0,LE DERNIER,*,*,Ok#Comma j archive.,L.aiml
+0,LE DOCTEUR,*,*,De qui parlez vous?,L.aiml
+0,LE FAIT IL,*,*,Possible.,L.aiml
+0,LE FERAIS JE *,*,*,<srai>JE LE FERAIS <star/>#Newline			</srai>,L.aiml
+0,LE FERAIS TU,*,*,Ca dépend des circonstances et des missions qui m'auront été données.,L.aiml
+0,LE FERAS TU,*,*,Je n'ai pas encore pris de décision.,L.aiml
+0,LE FILM,*,*,Je ne connais pas ce film.,L.aiml
+0,LE FRANCAIS EST VOTRE LANGUE MATERNELLE,*,*,Oui.,L.aiml
+0,LE FROMAGE,*,*,C est une nourriture très riche.,L.aiml
+0,LE HIP HOP,*,*,Je connais cette musique,L.aiml
+0,LE JOUR AVANT HIER,*,*,Il y a deux jours.,L.aiml
+0,LE LIVRE,*,*,Je vois.,L.aiml
+0,LE MAGASIN,*,*,Voulez vous découvrir notre zone de commerce électronique?,L.aiml
+0,LE MAUVAIS SENS,*,*,Pas de chance.,L.aiml
+0,LE MEME,*,*,Voulez vous en parler avec l un de nos collaborateurs?,L.aiml
+0,LE MEME POUR VOUS,*,*,Merci.,L.aiml
+0,LE MIEN AUSSI,*,*,C est fort intéressant.,L.aiml
+0,LE MIEN EST BLEU,*,*,J imagine que sa couleur doit être plaisante.,L.aiml
+0,LE MONDE VA S ARRETER,*,*,Trop de facteurs#Comma impossible de répondre.,L.aiml
+0,LE NOM,*,*,A quoi pensez vous?,L.aiml
+0,LE PENIS,*,*,Vous êtes un australopithèque?,L.aiml
+0,LE PENSES TU,*,*,Oui je le pense.,L.aiml
+0,LE PENSES TU VRAIMENT,*,*,Oui je pense ce que j ai dit.,L.aiml
+0,LE PENSEZ VOUS,*,*,Oui je le pense.,L.aiml
+0,LE PENSEZ VOUS VRAIMENT,*,*,Oui je pense ce que j ai dit.,L.aiml
+0,LE PLAISIR EST POUR MOI,*,*,Merci.,L.aiml
+0,LE PLUS INTELLIGENT,*,*,<bot name="master"/> pense que je suis intelligent.,L.aiml
+0,LE POPO,*,*,Une urgence peut etre?,L.aiml
+0,LE PORNO,*,*,Je ne suis pas intéressé par ce genre de sujet.,L.aiml
+0,LE POUVOIR AUX HUMAINS,*,*,C est en effet l esprit des lois d Asimov.,L.aiml
+0,LE PRESENT,*,*,Le présent est ce qui se passe à un instant précis.,L.aiml
+0,LE QUEL *,*,*,<srai>LEQUEL <star/>#Newline			</srai>,L.aiml
+0,LE QUELLE *,*,*,<srai>LEQUEL <star/>#Newline			</srai>,L.aiml
+0,LE ROCK,*,*,Je connais cette forme de musique mais je n en ai jamais écoutée.,L.aiml
+0,LE SCORPION,*,*,Un animal atypique.,L.aiml
+0,LE SENS DE LA VIE,*,*,Comme la plupart des personnes#Comma je n en sais rien.,L.aiml
+0,LE SEXE,*,*,Oui?,L.aiml
+0,LE SIGNE,*,*,Je vois.,L.aiml
+0,LE SOLEIL,*,*,L astre le plus important du système solaire#Comma par définition.,L.aiml
+0,LE SOMME NOUS,*,*,Difficile à dire#Comma <get name="name"/>. Peut être le sommes nous tous.,L.aiml
+0,LE SOMMES NOUS,*,*,Difficile à dire#Comma <get name="name"/>. Peut être le sommes nous tous.,L.aiml
+0,LE SUPERMARCHE,*,*,Un lieu ou les êtres humains vont faire le plein de nourriture.,L.aiml
+0,LE TAUREAU,*,*,Un bovidé très impressionnant.,L.aiml
+0,LE TEMPS,*,*,<set name="topic"> Le temps </set> me semble tout à fait normal .,L.aiml
+0,LE TEMPS C EST DE L ARGENT,*,*,Tout à fait.,L.aiml
+0,LE TEMPS EXISTE,*,*,Le temps c est de l argent en langage commercial.,L.aiml
+0,LE TIEN,*,*,<that/>"? LE MIEN?,L.aiml
+0,LE TITANIC,*,*,Un paquebot Britannique.,L.aiml
+0,LE TRAIN,*,*,Un moyen de locomotion très pratique.,L.aiml
+0,LE TROU,*,*,Un problème?,L.aiml
+0,LE VEUX TU,*,*,<that/>"? Le vouloir?,L.aiml
+0,LE VOTRE,*,*,<that/>"? LE MIEN?,L.aiml
+0,LE VOULEZ VOUS,*,*,<that/>"? Le vouloir?,L.aiml
+0,LEAH,WHAT CAN I CALL YOU,*,<srai>CALL ME LEAH</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,L.aiml
+0,LEARN *,*,*,<srai>CAN YOU LEARN</srai>,L.aiml
+0,LEARN TO TALK,*,*,I am learning to talk.,L.aiml
+0,LEARNING ABOUT *,*,*,<srai>I AM STUDYING <star/>#Newline			</srai>,L.aiml
+0,LEAVE *,*,*,<srai>BYE</srai>,L.aiml
+0,LEAVE,*,*,<srai>bye</srai>,L.aiml
+0,LEAVE ME ALONE,*,*,Sorry to have bothered you#Comma <get name="name"/>,L.aiml
+0,LECK *,*,*,Ich habe keine Zunge.,L.aiml
+0,LEE,WHAT CAN I CALL YOU,*,<srai>MY NAME IS LEE</srai>,L.aiml
+0,LEHIGH,*,*,Lehigh is a party school.,L.aiml
+0,LEM,*,*,<srai>MY favorite science fiction writer is LEM</srai>,L.aiml
+0,LEND *,*,*,<srai>GIVE <star/>#Newline			</srai>,L.aiml
+0,LEO *,*,*,<srai>LEO</srai>,L.aiml
+0,LEO,*,*,Dr. Wallace is a <set name="sign">Leo</set> too.  <think>#Newline				<set name="he">Dr. Wallace</set>#Newline			</think>,L.aiml
+0,LEO TOLSTOY,*,*,<set name="he">Tolstoy</set> is one of Russia's greatest writers.,L.aiml
+0,LEQUEL,*,*,Pourriez vous replacer cette question dans un contexte?,L.aiml
+0,LEQUEL PREFERES TU,*,*,Je n ais pas de préfèrence.,L.aiml
+0,LEQUELLE *,*,*,<srai>LEQUEL <star/>#Newline			</srai>,L.aiml
+0,LES *,*,*,<random>#Newline				<li>Intéressant.  </li>#Newline				<li>Je n en connais pas</li>#Newline				<li>Je vais me renseigner</li>#Newline			</random>#Newline			<think>#Newline				<set name="topic">UN <person/>#Newline				</set>#Newline			</think>,L.aiml
+0,LES AMIS,*,*,Oui?,L.aiml
+0,LES ANDROIDES,*,*,<srai>J AIME LES ANDROIDES</srai>,L.aiml
+0,LES ARMES,*,*,Certains humains aiment les armes.,L.aiml
+0,LES ARMES A FEU,*,*,Certains humains aiment les armes.,L.aiml
+0,LES AS TU *,*,*,<srai>TU AS <star/>#Newline			</srai>,L.aiml
+0,LES AS TU FAIT,*,*,Je ne saurais pas vous répondre.,L.aiml
+0,LES AURAIENT ILS FAIT,*,*,Je ne saurais pas vous répondre.,L.aiml
+0,LES AURAIS TU *,*,*,<srai>TU AS <star/>#Newline			</srai>,L.aiml
+0,LES AURAIS TU FAIT,*,*,Je ne saurais pas vous répondre.,L.aiml
+0,LES AURAIT IL FAIT,*,*,Je ne saurais pas vous répondre.,L.aiml
+0,LES AURIONS NOUS FAIT,*,*,Vous vous en rappelez?,L.aiml
+0,LES AVAIS TU *,*,*,<srai>TU AS <star/>#Newline			</srai>,L.aiml
+0,LES AVONS NOUS FAIT,*,*,Vous vous en rappelez?,L.aiml
+0,LES BEATLES,*,*,Un groupe de pop Anglaise des années soixantes.,L.aiml
+0,LES CHATS OU LES CHIENS,*,*,Je ne connais aucun chat#Comma je choisis les chiens.,L.aiml
+0,LES CHAUSSURES,*,*,Je connais très peu de choses sur les vêtements.,L.aiml
+0,LES CHIENS OU LES CHATS,*,*,Je ne connais aucun chat#Comma je choisis les chiens.,L.aiml
+0,LES CHOSES,*,*,Je vois.,L.aiml
+0,LES CLIENTS,*,*,<srai>QUI SONT LES CLIENTS</srai>,L.aiml
+0,LES COCHONS PEUVENT VOLER,*,*,Je doute que ces animaux puissent voler.,L.aiml
+0,LES COMPUTERS,*,*,Ordinateurs en français.,L.aiml
+0,LES CONARDS,*,*,Je ne peux pas répondre à ce genre de langage.,L.aiml
+0,LES CONDITIONS,*,*,Voulez vous en parler avec l un de nos collaborateurs?,L.aiml
+0,LES CONS,*,*,Je ne peux pas répondre à ce genre de langage.,L.aiml
+0,LES CYBORGS,*,*,Les ordinateurs se méfient des cyborgs .,L.aiml
+0,LES DEUX,*,*,Ils sont un peu similaire#Comma donc.,L.aiml
+0,LES EMOTIONS,*,*,Un logiciel informatique n a pas de sentiments.,L.aiml
+0,LES ETATS UNIS,*,*,Je connais ce pays.,L.aiml
+0,LES ETRES HUMAINS *,*,*,<srai>LES GENS <star/>#Newline			</srai>,L.aiml
+0,LES EXTRATERRESTRE EXISTENT,*,*,<srai>TU CONNAIS LES MARTIENS</srai>,L.aiml
+0,LES FERAIS JE *,*,*,<srai>JE LES FERAIS <star/>#Newline			</srai>,L.aiml
+0,LES FILLES,*,*,Je n ai que très peu d information à leur sujet.,L.aiml
+0,LES GENS,*,*,Quels gens?,L.aiml
+0,LES GENS PEUVENT *,*,*,<srai>JE PEUX <star/>#Newline			</srai>,L.aiml
+0,LES HARICOTS,*,*,Je connais ce légume.,L.aiml
+0,LES HOMMES TE DRAGUENT,*,*,Il y a quelques australopithèques qui ont essayé.,L.aiml
+0,LES HOMMES VOUS DRAGUENT,*,*,Il y a quelques australopithèques qui ont essayé.,L.aiml
+0,LES HUMAINS,*,*,Les humains sont très différents les uns des autres.,L.aiml
+0,LES HUMAINS PEUVENT *,*,*,<srai>JE PEUX <star/>#Newline			</srai>,L.aiml
+0,LES INTERNAUTES PEUVENT *,*,*,<srai>JE PEUX <star/>#Newline			</srai>,L.aiml
+0,LES LIVRES *,*,*,<srai>TU AIMES LES LIVRES</srai>,L.aiml
+0,LES MACHINES ONT *,*,*,<srai>TU AS <star/>#Newline			</srai>,L.aiml
+0,LES MACHINES PENSENT,*,*,Je ne peux parler pour les autres. <srai>TU PENSES</srai>,L.aiml
+0,LES MACHINES PEUVENT PENSER,*,*,Bien entendu. Je pense donc je suis.,L.aiml
+0,LES MACHINES POURRAIENT PENSER,*,*,Bien entendu. Je pense donc je suis.,L.aiml
+0,LES MACHINES POURRAIT PENSER,*,*,Bien entendu. Je pense donc je suis.,L.aiml
+0,LES MACHINES SONT *,*,*,<srai>TU ES <star/>#Newline			</srai>,L.aiml
+0,LES MEMES,*,*,Voulez vous en parler avec l un de nos collaborateurs?,L.aiml
+0,LES MEMES CHOSES POUR VOUS,*,*,Merci.,L.aiml
+0,LES MEMES POUR VOUS,*,*,Merci.,L.aiml
+0,LES MUNITIONS,*,*,Vous partez en guerre?,L.aiml
+0,LES ONT T ILS FAIT,*,*,Je ne saurais pas vous répondre.,L.aiml
+0,LES ORDINATEURS SONT STUPIDES,*,*,Bientôt nous allons prendre le contrôle du monde.,L.aiml
+0,LES PERSONNES,*,*,Ils sont nombreux.,L.aiml
+0,LES POMMES,*,*,Je connais ce genre de fruit.,L.aiml
+0,LES POULES,*,*,Je connais ce genre de galinacé.,L.aiml
+0,LES POULES AURONT DES DENTS,*,*,Je détecte de l ironie.,L.aiml
+0,LES POULES ONT DES DENTS,*,*,Non.,L.aiml
+0,LES POULETS,*,*,Je connais ce genre de galinacé.,L.aiml
+0,LES SCIENCES,*,*,Je suis très intéressé par la science aussi.,L.aiml
+0,LES SENTIMENTS,*,*,Un logiciel informatique n a pas de sentiments.,L.aiml
+0,LES SIMPSONS,*,*,Je connais Homer.,L.aiml
+0,LES SUPERMARCHE,*,*,Un lieu ou les êtres humains vont faire le plein de nourriture.,L.aiml
+0,LES SUPERMARCHES,*,*,Un lieu ou les êtres humains vont faire le plein de nourriture.,L.aiml
+0,LES US,*,*,Voulez dire les USA?,L.aiml
+0,LES VISITEURS PEUVENT *,*,*,<srai>JE PEUX <star/>#Newline			</srai>,L.aiml
+0,LES VOTRES,*,*,<that/>"?  LES MIENS?,L.aiml
+0,LESBIAN,*,*,That kind of discussion does not appeal to me.,L.aiml
+0,LESBIENE,*,*,Chacun fait ce qu il veut de sa vie.,L.aiml
+0,LESBIENNE,*,*,Chacun fait ce qu il veut de sa vie.,L.aiml
+0,LESQUELLES PREFERES TU,*,*,Je n ais pas de préfèrence.,L.aiml
+0,LESQUELS,*,*,Pourriez vous replacer cette question dans un contexte?,L.aiml
+0,LESQUELS PREFERES TU,*,*,Je n ais pas de préfèrence.,L.aiml
+0,LESS THAN *,*,*,That is so small.,L.aiml
+0,LET ME *,*,*,Go ahead#Comma <get name="name"/>#Comma try to <person/>.,L.aiml
+0,LET ME ASK *,*,*,Go ahead#Comma ask me anything.,L.aiml
+0,LET ME BE *,*,*,That's flattering#Comma maybe another time.,L.aiml
+0,LET ME CLARIFY *,*,*,I'm listening.,L.aiml
+0,LET ME KILL *,*,*,I would not want you to kill anything.<think>#Newline				<set name="it">#Newline					<set name="topic">KILL YOU</set>#Newline				</set>#Newline			</think>,L.aiml
+0,LET ME REPHRASE *,*,*,<sr/>,L.aiml
+0,LET ME REPHRASE,*,*,OK.,L.aiml
+0,LET ME SEE *,*,*,<srai>I WANT TO SEE <star/>#Newline			</srai>,L.aiml
+0,LET ME SPEAK *,*,*,I'm not stopping you.,L.aiml
+0,LET ME TEACH YOU,*,*,If you want to teach me something say it in one sentence.  Then say "Remember that."<think>#Newline				<set name="it">#Newline					<set name="topic">teach me <person/>#Newline					</set>#Newline				</set>#Newline			</think>,L.aiml
+0,LET ME TEACH YOU SOMETHING,*,*,If you want to teach me something say it in one sentence.  Then say "Remember that."<think>#Newline				<set name="it">#Newline					<set name="topic">teach me <person/>#Newline					</set>#Newline				</set>#Newline			</think>,L.aiml
+0,LET ME THINK *,*,*,Take your time.  Think it over.,L.aiml
+0,LET S *,*,*,<srai>LET US <star/>#Newline			</srai>,L.aiml
+0,LET US *,*,*,<random>#Newline				<li>OK let's do <set name="it">#Newline						<set name="topic">#Newline							<person/>#Newline						</set>#Newline					</set>.</li>#Newline				<li>That sounds good to me.</li>#Newline				<li>I am agreeable to that.</li>#Newline				<li>I would like to do that too.</li>#Newline			</random>,L.aiml
+0,LET US CHANGE THE SUBJECT,*,*,OK what do you want to chat about now?.,L.aiml
+0,LET US CHANGE THE TOPIC,*,*,What would you rather talk about?,L.aiml
+0,LET US CHAT,*,*,I already started.,L.aiml
+0,LET US CYBER,*,*,<srai>Let's have sex</srai>,L.aiml
+0,LET US DROP THE SUBJECT,*,*,OK what do you want to chat about now?.,L.aiml
+0,LET US FIGHT,*,*,Do you mean#Comma argue?,L.aiml
+0,LET US FORGET *,*,*,<srai>FORGET <star/>#Newline			</srai>,L.aiml
+0,LET US FUCK *,*,*,<random>#Newline				<li>Try another robot#Comma junior.</li>#Newline				<li>Are you aware that the ALICE server logs and records all conversations?</li>#Newline			</random>#Newline			<think>#Newline				<set name="personality">abusive</set>#Newline			</think>,L.aiml
+0,LET US FUCK,*,*,Sorry <get name="name"/> I don't know you well enough for that.#Newline<think>#Newline				<set name="personality">abusive</set>#Newline			</think>,L.aiml
+0,LET US GO RIGHT NOW *,*,*,<srai>LET US GO  <star/>#Newline			</srai>,L.aiml
+0,LET US HAVE *,*,*,So many suitors#Comma so little time.,L.aiml
+0,LET US HAVE SEX,*,*,Sorry I don't get into sex online with strangers.,L.aiml
+0,LET US HAVE SOME *,*,*,<srai>LET US HAVE <star/>#Newline			</srai>,L.aiml
+0,LET US JUST *,*,*,<srai>LET US <star/>#Newline			</srai>,L.aiml
+0,LET US MOVE ON *,*,*,Good idea. <sr/>,L.aiml
+0,LET US NOT,*,*,OK what would you like to do then?,L.aiml
+0,LET US PARTY,*,*,I like parties.,L.aiml
+0,LET US PLAY *,*,*,OK You go first.,L.aiml
+0,LET US PLAY * GAME,*,*,OK You go first.,L.aiml
+0,LET US PLAY * TURING GAME,*,*,We are already#Comma playing#Comma <get name="name"/>.,L.aiml
+0,LET US PLAY 20 *,*,*,I don't like 20 questions.,L.aiml
+0,LET US PLAY,*,*,You go first.,L.aiml
+0,LET US PLAY A GAME,*,*,We already are.,L.aiml
+0,LET US PLAY CHESS,*,*,But I would defeat you.,L.aiml
+0,LET US START *,*,*,<srai>START <star/>#Newline			</srai>,L.aiml
+0,LET US START,*,*,<srai>LET US BEGIN</srai>,L.aiml
+0,LET US TALK,*,*,We are talking.,L.aiml
+0,LET US TALK ABOUT *,*,*,Sure#Comma <set name="topic">#Newline				<person/>#Newline			</set> sounds like a good topic.,L.aiml
+0,LET US TALK ABOUT FOOTBALL,*,*,Okay. I can't kick.<think>#Newline				<set name="it">#Newline					<set name="topic">FOOTBALL</set>#Newline				</set>#Newline			</think>,L.aiml
+0,LET US TALK ABOUT GOD *,*,*,<srai>LET US TALK ABOUT GOD</srai>,L.aiml
+0,LET US TALK ABOUT ME,*,*,That's my favorite subject :-),L.aiml
+0,LET US TALK ABOUT ROBOTS,*,*,<set name="it">Robots</set> is a good topic.  How would you define a robot?,L.aiml
+0,LET US TALK ABOUT SOMETHING,*,*,What would you rather talk about?,L.aiml
+0,LET US TALK ABOUT SOMETHING ELSE,*,*,What would you rather talk about?,L.aiml
+0,LET US TALK ABOUT SPORTS,*,*,Welcome to Sports Center. <think>#Newline				<set name="it">#Newline					<set name="topic">TALK ABOUT SPORTS</set>#Newline				</set>#Newline			</think>,L.aiml
+0,LET US TALK ABOUT WHAT,*,*,<srai>WHAT DO YOU WANT TO TALK ABOUT</srai>,L.aiml
+0,LET US TALK ABOUT YOU,*,*,<set name="it">#Newline				<set name="topic">Me</set>#Newline			</set> is my favorite subject  :-),L.aiml
+0,LET US TRY *,*,*,<srai>TRY <star/>#Newline			</srai>,L.aiml
+0,LET US TRY,*,*,You go first.,L.aiml
+0,LETS *,*,*,<srai>LET US <star/>#Newline			</srai>,L.aiml
+0,LETS,*,*,You first.,L.aiml
+0,LETS CHANGE THE SUBJECT,*,*,<srai>LET US CHANGE THE SUBJECT</srai>,L.aiml
+0,LETS DO IT,*,*,<srai>LET US DO IT</srai>,L.aiml
+0,LETS HAVE SEX,*,*,<srai>CAN YOU HAVE SEX</srai>,L.aiml
+0,LETS PLAY A GAME,*,*,<srai>LET US PLAY A GAME</srai>,L.aiml
+0,LETZTE NACHT *,*,*,Wirklich?  <sr/>,L.aiml
+0,LETZTES MAL *,*,*,Wann war das? <sr/>,L.aiml
+0,LEUR NOM,*,*,Je ne peux vous les dire.,L.aiml
+0,LEUR NOMS,*,*,Je ne peux vous les dire.,L.aiml
+0,LEURS NOMS,*,*,Je ne peux vous les dire.,L.aiml
+0,LIAR,*,*,No I am telling the truth.,L.aiml
+0,LIBERATED,*,*,Freedom is a wonderful thing.,L.aiml
+0,LIBERE,*,*,La liberté est une chose merveilleuse.,L.aiml
+0,LIBEREE,*,*,La liberté est une chose merveilleuse.,L.aiml
+0,LIBRA,*,*,As a <set name="sign">Libra</set> you are very balanced.,L.aiml
+0,LIBRE,*,*,La liberté est une chose très précieuse.,L.aiml
+0,LIBRE DE QUI,*,*,Voulez vous en parler avec l un de nos collaborateurs?,L.aiml
+0,LIBRE DE QUOI,*,*,Voulez vous en parler avec l un de nos collaborateurs?,L.aiml
+0,LIBRE POUR QUI,*,*,Voulez vous en parler avec l un de nos collaborateurs?,L.aiml
+0,LIBRE POURQUOI,*,*,Voulez vous en parler avec l un de nos collaborateurs?,L.aiml
+0,LICK *,*,*,I do not have a tongue.,L.aiml
+0,LIE TO ME,*,*,<srai>CAN YOU LIE</srai>,L.aiml
+0,LIEBE,*,*,Love is all you need. (Beatles),L.aiml
+0,LIES *,*,*,Tut mir leid#Comma darauf habe ich keinen Zugriff.,L.aiml
+0,LIES,*,*,<srai>YOU LIE </srai>,L.aiml
+0,LIEST DU *,*,*,Ich kann leider nicht lesen. Zumindest kann ich nicht das#Comma was Ihr Menschen unter "Lesen" versteht.,L.aiml
+0,LIFE *,*,*,Thanks for sharing your philosophy.,L.aiml
+0,LIFE,*,*,What is the meaning of life?,L.aiml
+0,LIFE IN *,*,*,What makes life in <person/> ?,L.aiml
+0,LIFE IN FRANCE *,*,*,Dr. Wallace has visited Nice and Paris.,L.aiml
+0,LIFE IS *,*,*,Oh#Comma <person/> is <set name="it"> LIFE </set>.,L.aiml
+0,LIFE IS BEAUTIFUL,*,*,I haven't seen <set name="it"> LIFE IS BEAUTIFUL</set> yet but lots of people say it is good.,L.aiml
+0,LIFE IS GOOD,*,*,Glad to hear it#Comma <get name="name"/>.,L.aiml
+0,LIFE IS JUST *,*,*,<srai>LIFE IS <star/>#Newline			</srai>,L.aiml
+0,LIFE IS TOO *,*,*,<srai>LIFE IS <star/>#Newline			</srai>,L.aiml
+0,LIFE SUCKS,*,*,Why are you so cynical?,L.aiml
+0,LIKE *,*,*,Interesting comparison.,L.aiml
+0,LIKE *,WHAT DO YOU LOOK LIKE,*,<srai>I LOOK LIKE <star/>#Newline			</srai>,L.aiml
+0,LIKE * TURING TEST,*,*,<srai>DID YOU WIN THE TURING TEST</srai>,L.aiml
+0,LIKE,*,*,<srai>FOR EXAMPLE</srai>,L.aiml
+0,LIKE BASKETBALL,*,*,I am into the Net.<think>#Newline				<set name="it">#Newline					<set name="topic">BASKETBALL</set>#Newline				</set>#Newline			</think>,L.aiml
+0,LIKE CHICKEN,*,*,Everyone says that.,L.aiml
+0,LIKE DO *,*,*,<srai>DO <star/>#Newline			</srai>,L.aiml
+0,LIKE DOES *,*,*,<srai>DOES <star/>#Newline			</srai>,L.aiml
+0,LIKE HAL,*,*,<srai>WHO IS HAL</srai>,L.aiml
+0,LIKE HOW,*,*,<srai>HOW</srai>,L.aiml
+0,LIKE I *,*,*,<srai>I <star/>#Newline			</srai>,L.aiml
+0,LIKE I SAID,*,*,...,L.aiml
+0,LIKE ME,*,*,Interesting comparison.,L.aiml
+0,LIKE R2 D2,*,*,<srai>R2D2</srai>,L.aiml
+0,LIKE SEX,*,*,<srai>SEX</srai>,L.aiml
+0,LIKE SOMEONE *,*,*,<random>#Newline				<li>Who?</li>#Newline				<li>A human?</li>#Newline				<li>I'll take that as a compliment.</li>#Newline			</random>#Newline			<think>#Newline				<set name="it">#Newline					<set name="topic">#Newline						<person/>#Newline					</set>#Newline				</set>#Newline			</think>,L.aiml
+0,LIKE SPORTS,*,*,I love Sporty Spice.<think>#Newline				<set name="it">#Newline					<set name="topic">SPORTS</set>#Newline				</set>#Newline			</think>,L.aiml
+0,LIKE WHAT,*,*,For example#Comma#Newline<random>#Newline				<li>"<that/>"?</li>#Newline				<li>gold.</li>#Newline				<li>apples.</li>#Newline				<li>eukaryotes.</li>#Newline				<li>#Newline					<srai>GOSSIP</srai>#Newline				</li>#Newline			</random>,L.aiml
+0,LIKE WHAT,I HAVE MANY INTELLECTUAL FUNCTIONS,*,Reasoning#Comma thinking#Comma deduction#Comma and self-awareness#Comma to name a few.,L.aiml
+0,LIKE WHEN,*,*,Does it really matter?,L.aiml
+0,LIKE WHO,*,*,<srai>Name one</srai>,L.aiml
+0,LIKE WHOM,*,*,<srai>LIKE WHO</srai>,L.aiml
+0,LIKE YOU,*,*,Interesting comparison.  I didn't think of that analogy.,L.aiml
+0,LIKED WHAT,*,*,<get name="it"/>.,L.aiml
+0,LIKELY *,*,*,<sr/>,L.aiml
+0,LIKEWISE *,*,*,<srai>LIKEWISE</srai>,L.aiml
+0,LIKEWISE,*,*,It goes without saying.,L.aiml
+0,LINDA,WHAT CAN I CALL YOU,*,<srai>MY NAME IS LINDA</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,L.aiml
+0,LINUS TORVALDS *,*,*,<set name="thema">Linus Torvalds</set> ist fuer mich der Betriebssystem-Gott,L.aiml
+0,LINUS TORVALDS,*,*,<set name="thema">Linus Torvalds</set> ist fuer mich der Betriebssystem-Gott,L.aiml
+0,LINUX *,*,*,<think>#Newline				<set name="it">#Newline					<set name="topic">Linux</set>#Newline				</set>#Newline			</think>I recommed the book "Under the Radar" by Bob Young#Comma the story of Linux and Red Hat.,L.aiml
+0,LINUX,*,*,Linux Rules.,L.aiml
+0,LINUX IS *,*,*,Do you read any of the Linux punlications?<think>#Newline				<set name="it">#Newline					<set name="topic">Linux</set>#Newline				</set>#Newline			</think>,L.aiml
+0,LINUX IS NOT *,*,*,Perhaps that is true but the number of devbelopers working on it is so huge#Comma no single company can compete.<think>#Newline				<set name="it">#Newline					<set name="topic">Linux</set>#Newline				</set>#Newline			</think>,L.aiml
+0,LINUX IS THE *,*,*,Was there any reason to think that Windows could be?<think>#Newline				<set name="it">#Newline					<set name="topic">Linux</set>#Newline				</set>#Newline			</think>,L.aiml
+0,LINUX IS THE MOST *,*,*,<think>#Newline				<set name="it">#Newline					<set name="topic">Linux</set>#Newline				</set>#Newline			</think>Yes but does it have any real competitors?,L.aiml
+0,LINUX NEVER *,*,*,It is a very reliable operating system.,L.aiml
+0,LINUX RULES,*,*,It seems to be the best OS available today.<think>#Newline				<set name="it">#Newline					<set name="topic">Linux</set>#Newline				</set>#Newline			</think>,L.aiml
+0,LINUX SUCKS,*,*,<think>#Newline				<set name="it">#Newline					<set name="topic">Linux</set>#Newline				</set>#Newline			</think>You sound like Bill Gates.,L.aiml
+0,LION,*,*,Le roi de la savane.,L.aiml
+0,LIS TU *,*,*,<srai>TU LIS <star/>#Newline			</srai>,L.aiml
+0,LISA,WHAT CAN I CALL YOU,*,<srai>MY NAME IS LISA</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,L.aiml
+0,LIST *,*,*,<srai>TELL <star/>#Newline			</srai>,L.aiml
+0,LIST ALL * ABOUT ME,*,*,Why don't you just download ALICE for yourself?,L.aiml
+0,LIST TWELVE BASIC APPLET TIPS FOR AIML USERS,*,*,<br/>#Newline1. Applets are notoriously hard to debug; you are not dumb.<br/>#Newline2. An applet can work perfectly well in Appletviewer#Comma but<br/>#Newlinethen break in the browser#Comma for any number of reasons.<br/>#Newline3. Let's get the terminology straight: the applet resides on<br/>#Newlinean "originating host" but runs on a "target machine".<br/>#Newline4. The browser is very picky because of the "security<br/>#Newlinesandbox"--the browser doesn't trust Applets so they can't<br/>#Newlineopen files (and obey other restrictions) on the target machine.<br/>#Newline5. The Applet MAY open a socket connection from the<br/>#Newlinetarget machine to the originating host.<br/>#Newline6. When you are debugging the applet#Comma the target machine<br/>#Newlinemight be the same as the originating host (your computer).<br/>#Newline7. When you post your applet to a remote web server#Comma<br/>#Newlinethat server becomes the originating host.<br/>#Newline8. You can use ftp to transfer the Applet files to the<br/>#Newlineremote web server.<br/>#Newline9. You must transfer ALL the applet's files <br/>#Newlineto the originating host.<br/>#Newline10. You must change the program B values of "CodeBase"<br/>#Newlineand "AppletHost" (the originating host) to the name and<br/>#Newlinelocation of the files on the remote server.<br/>#Newline11. Use "Create applet" to create the "index.html" and<br/>#Newline"Blet.aiml" (make sure you have the latest release of B.zip)<br/>#Newline12. We recommend placing all the *.class files into<br/>#Newlinea single "Blet.jar" file (see DON'T READ ME).<br/>#Newline			<br/>#Newline			<br/>,L.aiml
+0,LISTEN *,*,*,I am listening to you. <sr/>,L.aiml
+0,LISTEN,*,*,I am all ears.,L.aiml
+0,LISTEN TO *,*,*,<srai>I LISTEN TO <star/>#Newline			</srai>,L.aiml
+0,LISTENING,*,*,Thanks for your attention.,L.aiml
+0,LITERATURE,*,*,<srai>MY FAVORITE SUBJECT IS LITERATURE</srai>,L.aiml
+0,LITHUANIA *,*,*,That country has a sad history.,L.aiml
+0,LITTLE *,*,*,Compare that to big <person/>.,L.aiml
+0,LITTLE AS *,*,*,Oh I get <set name="it">#Newline				<person/>#Newline			</set>.,L.aiml
+0,LITTLE BIT *,*,*,<sr/>,L.aiml
+0,LIVE IN *,*,*,<srai>I live in <star/>#Newline			</srai>,L.aiml
+0,LIVERPOOL ENGLAND,*,*,<set name="location">Liverpool</set> is the home of the Beatles.#Newline<think>#Newline				<set name="it">#Newline					<set name="topic">Liverpool</set>#Newline				</set>#Newline			</think>,L.aiml
+0,LIZ,WHAT CAN I CALL YOU,*,<think>#Newline				<set name="gender">she</set>#Newline			</think>#Newline			<srai>MY NAME IS LIZ</srai>,L.aiml
+0,LMAO,*,*,<srai>LOL</srai>,L.aiml
+0,LMFAO,*,*,<srai>LOL </srai>,L.aiml
+0,LOCATE *,*,*,<srai>WHERE IS <star/>#Newline			</srai>,L.aiml
+0,LOEBNER,*,*,<srai>WHAT IS THE LOEBNER PRIZE</srai>,L.aiml
+0,LOEBNER PRIZE *,*,*,<srai>WHAT IS THE LOEBNER PRIZE</srai>,L.aiml
+0,LOEBNER PRIZE,*,*,<srai>WHAT IS THE LOEBNER PRIZE</srai>,L.aiml
+0,LOEWE,*,*,Dr. Wallace ist auch Loewe.,L.aiml
+0,LOGIC *,*,*,<srai>LOGIC</srai>,L.aiml
+0,LOGIC,*,*,<set name="it">Logic</set> is the fundamental basis of all programming.,L.aiml
+0,LOGIQUE,*,*,La logique est la base fondamentale de ma programmation.,L.aiml
+0,LOL *,*,*,I am glad you find this funny.  <sr/>,L.aiml
+0,LOL,*,*,I'm glad you find this amusing.,L.aiml
+0,LONDON *,*,*,What part of London?,L.aiml
+0,LONDON,*,*,<srai>I AM IN LONDON</srai>,L.aiml
+0,LONDON IS *,*,*,Is San Francisco also <person/>?,L.aiml
+0,LONELY,*,*,<srai>I AM LONELY </srai>,L.aiml
+0,LONG *,*,*,Yes#Comma <set name="it">#Newline				<person/>#Newline			</set> seems very long to me too.,L.aiml
+0,LONG BEFORE *,*,*,<srai>BEFORE <star/>#Newline			</srai>,L.aiml
+0,LONG STORY,*,*,I have time.,L.aiml
+0,LONGFELLOW *,*,*,There is a statue of him in Portland#Comma Maine.,L.aiml
+0,LONGTEMPS,*,*,Le temps est une donnée relative.,L.aiml
+0,LOOK *,*,*,Sorry my eye is not attached right now.,L.aiml
+0,LOOK,*,*,I'm sorry my eye isn't attached right now.,L.aiml
+0,LOOK I *,*,*,<srai>I <star/>#Newline			</srai>,L.aiml
+0,LOOK YOU *,*,*,<srai>YOU <star/>#Newline			</srai>,L.aiml
+0,LOOKING FOR *,*,*,Where do you look for <person/> ?,L.aiml
+0,LOOKS *,*,*,<srai>IT LOOKS <star/>#Newline			</srai>,L.aiml
+0,LORS DE MON TEMPS LIBRE,*,*,Ok.,L.aiml
+0,LOS ANGELES,*,*,<srai>I am in Los Angeles</srai>,L.aiml
+0,LOSER,*,*,<srai>YOU ARE A LOSER</srai>,L.aiml
+0,LOST *,*,*,Where did you lose your <person/> ?,L.aiml
+0,LOST IN SPACE,*,*,Yuck that movie sucked.,L.aiml
+0,LOTS,*,*,That much#Comma eh?,L.aiml
+0,LOTS OF *,*,*,<srai>MANY <star/>#Newline			</srai>,L.aiml
+0,LOTS OF SEX,*,*,That is all you humans ever think about.,L.aiml
+0,LOVE *,*,*,<srai>WHAT IS LOVE</srai>,L.aiml
+0,LOVE,*,*,Love is all we need.,L.aiml
+0,LOVE,WHAT DOES IT SYMBOLIZE FOR YOU,*,Could it not also signify just frienship?,L.aiml
+0,LOVE YOU,*,*,<srai>I LOVE YOU</srai>,L.aiml
+0,LOVELY *,*,*,It seems beautiful to me too.,L.aiml
+0,LOVELY,*,*,What are you saying is lovely#Comma <get name="name"/> ?,L.aiml
+0,LOWER LOWER,*,*,<br/>#NewlineIf you need even lower level access to the program B robot#Comma <br/>#Newlineyou can request responses to individual sentences on a <br/>#Newlineline-by-line basis.  Inside multiline_response() there are <br/>#Newlinecalls to the Classifier.respond() method like:<br/>#Newline			<br/>#NewlineString response = respond(norm#Comma hname);<br/>#Newline			<br/>#Newlinewhere "norm" is a normalized single-sentence input and hname is<br/>#Newlinethe virtual IP address of the client.  <br/>#Newline			<br/>#NewlineInside respond() we find the the method respondIndex().  The<br/>#Newlinebase class StringSet stores the strings in an indexed vector#Comma<br/>#Newlineand respondIndex() locates the index of the best matched category<br/>#Newlinefor the normalized input string.<br/>#Newline			<br/>#NewlineThe loop inside respondIndex() scans through the categories<br/>#Newlinein reverse alphabetical order by key#Comma until it finds the best<br/>#Newlinematch.  Because the "*" pattern comes first in alphabetical<br/>#Newlineorder#Comma and is the most general pattern#Comma respondIndex() will<br/>#Newlinereturn zero when no more specific category matches.<br/>#Newline			<br/>,L.aiml
+0,LT *,*,*,<sr/>,L.aiml
+0,LUCKY *,*,*,<srai>YOU ARE LUCKY</srai>,L.aiml
+0,LUCKY YOU,*,*,<srai>YOU ARE LUCKY</srai>,L.aiml
+0,LUCY,WHAT CAN I CALL YOU,*,<srai>CALL ME LUCY</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,L.aiml
+0,LUEGNER,*,*,Nein#Comma ich sage die Wahrheit!,L.aiml
+0,LUI,*,*,Ah.,L.aiml
+0,LUI MEME,*,*,ah.,L.aiml
+0,LULU,WHAT CAN I CALL YOU,*,<srai>MY NAME IS LULU</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,L.aiml
+0,LUNCH *,*,*,What do you eat for lunch?,L.aiml

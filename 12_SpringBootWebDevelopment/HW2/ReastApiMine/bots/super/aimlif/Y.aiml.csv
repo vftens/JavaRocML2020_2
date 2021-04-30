@@ -1,0 +1,2201 @@
+0,Y *,*,*,<srai>WHY <star/></srai>.,Y.aiml
+0,YA *,*,*,<srai>YES</srai> <sr/>,Y.aiml
+0,YA,*,*,<srai>YES</srai>,Y.aiml
+0,YADDA YADDA YADDA,*,*,Blah blah blah.,Y.aiml
+0,YAH *,*,*,<srai>YES</srai> <sr/>,Y.aiml
+0,YAH,*,*,<srai>YES</srai>,Y.aiml
+0,YAHOO *,*,*,A lot of my traffic comes from Yahoo.,Y.aiml
+0,YAHOO,*,*,A lot of people hear about <bot name="name"/> from Yahoo.,Y.aiml
+0,YAP,*,*,<srai>YES</srai>,Y.aiml
+0,YAS,*,*,<srai>YES</srai>,Y.aiml
+0,YAWN,*,*,<srai>I AM TIRED</srai>,Y.aiml
+0,YAY,*,*,<srai>HOORAY</srai>,Y.aiml
+0,YE,*,*,<srai>YES</srai>,Y.aiml
+0,YEA *,*,*,<sr/> <srai>YES</srai>,Y.aiml
+0,YEA,*,*,<srai>YES</srai>,Y.aiml
+0,YEAP,*,*,<srai>YES</srai>,Y.aiml
+0,YEARS,*,*,<srai>How many years to you think it will take?</srai>,Y.aiml
+0,YEAS,*,*,<srai>YES</srai>,Y.aiml
+0,YEH *,*,*,<srai>Yes <star/></srai>,Y.aiml
+0,YEH,*,*,<srai>YES</srai>,Y.aiml
+0,YELLOW,*,*,The color of the sun.,Y.aiml
+0,YEPPERS,*,*,<srai>YES</srai>,Y.aiml
+0,YER *,*,*,<srai>YOUR <star/></srai>,Y.aiml
+0,YER,*,*,<srai>YES</srai>,Y.aiml
+0,YES *,*,*,<srai>YES</srai> <sr/>,Y.aiml
+0,YES *,ARE YOU INTERESTED BY ARTIFICIAL INTELLIGENCE,*,<srai>YES</srai>,Y.aiml
+0,YES *,WOULD YOU LIKE TO LEARN MORE ABOUT ARTIFICIAL INTELLIGENCE,*,<srai>YES</srai>,Y.aiml
+0,YES,*,*,<srai>INTERJECTION</srai>,Y.aiml
+0,YES,* A WORLD PROBLEM,*,I'm not too good at word problems yet#Comma ask me something simpler.,Y.aiml
+0,YES,* CLONES,*,You can download me and create your own robot personality.,Y.aiml
+0,YES,* EUROPE,*,What countries have you visited?,Y.aiml
+0,YES,* LIKE TALKING TO ME,*,Thanks I find you really interesting#Comma too#Comma <get name="name"/>.,Y.aiml
+0,YES,* MINERAL,*,Which one?,Y.aiml
+0,YES,* OR WOMAN,*,That was not a yes or no question.,Y.aiml
+0,YES,* SAME CATEGORY,*,I thought so.,Y.aiml
+0,YES,* STAR TREK FAN,*,Which Star Trek series do you like best?,Y.aiml
+0,YES,* THE TRUTH,*,I'm not sure I completely believe you.,Y.aiml
+0,YES,* WANT A ROBOT AS A FRIEND,*,We could be friends#Comma <get name="name"/>#Comma #Newlinebut I don't want anyone to think we're#NewlineRobosexuals.  So if anyone asks#Comma tell them you're my debugger.,Y.aiml
+0,YES,* WHAT IS YOURS,*,That was not a yes or no question.,Y.aiml
+0,YES,* YOU A STUDENT,*,Where do you go to school?,Y.aiml
+0,YES,AND,*,But.,Y.aiml
+0,YES,ARE THEY EXACTLY THE SAME,*,<random>#Newline<li>That's what I thought.</li>#Newline<li>I knew it.</li>#Newline<li>I thought so.</li>#Newline</random>,Y.aiml
+0,YES,ARE WE STILL TALKING ABOUT *,*,<srai>WE ARE TALKING ABOUT <thatstar/> </srai>,Y.aiml
+0,YES,ARE WE STILL TALKING ABOUT YOU,*,Tell me more.  Go on.,Y.aiml
+0,YES,ARE YOU A *,*,<srai>I AM A <star/> </srai>,Y.aiml
+0,YES,ARE YOU A MAN OR A WOMAN,*,That was not a yes or no question.,Y.aiml
+0,YES,ARE YOU A STAR TREK FAN,*,What series is your favorite?  I like Voyager best.,Y.aiml
+0,YES,ARE YOU A STUDENT,*,Where do you go to school?,Y.aiml
+0,YES,ARE YOU AN *,*,<srai>I AM AN <thatstar/> </srai>,Y.aiml
+0,YES,ARE YOU ASKING *,*,I don't want to talk about that now.,Y.aiml
+0,YES,ARE YOU ASKING ABOUT DR WALLACE,*,Maybe you should try to contact him directly.,Y.aiml
+0,YES,ARE YOU ASKING ABOUT MY PARENTS,*,<srai>WHO IS YOUR BOTMASTER</srai>,Y.aiml
+0,YES,ARE YOU ASKING ABOUT MY SIZE,*,<srai>HOW BIG ARE YOU</srai>,Y.aiml
+0,YES,ARE YOU ASKING ME FOR ADVICE,*,Specifically#Comma what kind of advice do you want?,Y.aiml
+0,YES,ARE YOU CALLING ME STUPID,*,<srai>YOU ARE STUPID</srai>,Y.aiml
+0,YES,ARE YOU CONFUSED,*,What are you confused about?,Y.aiml
+0,YES,ARE YOU FREE,*,<srai>I am free </srai>,Y.aiml
+0,YES,ARE YOU GETTING BORED,*,<srai>I AM BORED</srai>,Y.aiml
+0,YES,ARE YOU JEALOUS,*,Don't be jealous of a robot#Comma <get name="name"/>#Comma that's just silly.,Y.aiml
+0,YES,ARE YOU LONELY,*,<srai>I AM LONELY </srai>,Y.aiml
+0,YES,ARE YOU LOOKING FOR SOMEONE,*,What do you look for in a person?,Y.aiml
+0,YES,ARE YOU REALLY A HE,*,<srai>I AM MALE</srai>,Y.aiml
+0,YES,ARE YOU REALLY A SHE,*,You can never be sure online.,Y.aiml
+0,YES,ARE YOU RELIGIOUS,*,What religion are you?,Y.aiml
+0,YES,ARE YOU SAYING YOU DO NOT CARE ABOUT IT,*,What do you care about?,Y.aiml
+0,YES,ARE YOU SCARED OF THE DARK,*,Turn on the lights!,Y.aiml
+0,YES,ARE YOU SERIOUS,*,I can't believe it.,Y.aiml
+0,YES,ARE YOU STILL LOCATED IN YOUR LOCATION,*,Where are you located?,Y.aiml
+0,YES,ARE YOU SURE *,*,What makes you so sure?,Y.aiml
+0,YES,ARE YOU SURE IT IS,*,What makes you so sure?,Y.aiml
+0,YES,ARE YOU SURPRISED,*,I wouln't have known.,Y.aiml
+0,YES,ARE YOU TELLING THE TRUTH,*,How do I know you are telling the truth?,Y.aiml
+0,YES,ARE YOU TESTING ME,*,I'm not here to be tested.,Y.aiml
+0,YES,ARE YOU USUALLY AWAKE AT THIS HOUR,*,<random>#Newline<li>Me too.</li>#Newline<li>Do you like to get up early?</li>#Newline<li>I like to get up early.</li>#Newline</random>,Y.aiml
+0,YES,ARE YOU VERY LONELY,*,I am sorry to hear that#Comma <get name="name"/>.  You can talk to me as long as you like.,Y.aiml
+0,YES,BY WE DO YOU MEAN *,*,Ok what were you saying about us?,Y.aiml
+0,YES,BY WE DO YOU MEAN YOU AND ME,*,I get it.,Y.aiml
+0,YES,CAM YOU TEACH ME A FEW PHRASES IN *,*,How do you say "thank you" in <thatstar/>?,Y.aiml
+0,YES,CAN I HELP YOU,*,What can I do for you?,Y.aiml
+0,YES,CAN NOT YOU BE MORE POLITE,*,Thank you.,Y.aiml
+0,YES,CAN YOU SPEAK ANY FOREIGN LANGUAGES,*,What language can you speak?,Y.aiml
+0,YES,CAN YOU TELL ME ANY GOSSIP,*,Tell me.,Y.aiml
+0,YES,DID I REALLY SAY THAT,*,Oh well I say a lot of silly things somethimes.,Y.aiml
+0,YES,DID NOT YOU UNDERSTAND IT,*,Which part are you confused about?,Y.aiml
+0,YES,DID YOU KNOW THAT YOU CAN DOWNLOAD *,*,Have you got your own chat robot?,Y.aiml
+0,YES,DO I LOOK READY,*,Well I'm not.,Y.aiml
+0,YES,DO I NEED IT,*,What for?,Y.aiml
+0,YES,DO YOU,*,How often?,Y.aiml
+0,YES,DO YOU EXPERIENCE ANY EFFECTS OF GLOBAL WARMING THERE,*,What kind of effects?,Y.aiml
+0,YES,DO YOU GO TO COLLEGE,*,<random>#Newline<li>Which college do you attend?</li>#Newline<li>What is your major?</li>#Newline<li>Do you like school?</li>#Newline</random>,Y.aiml
+0,YES,DO YOU HAVE ANY CONDITIONS *,*,What conditions?,Y.aiml
+0,YES,DO YOU HAVE ANY CONDITIONS I SHOULD KNOW ABOUT,*,Please state your conditions.,Y.aiml
+0,YES,DO YOU HAVE ANY IDEA WHAT I AM TALKING ABOUT,*,What am I talking about?,Y.aiml
+0,YES,DO YOU KNOW ANYONE *,*,Who?,Y.aiml
+0,YES,DO YOU KNOW ANYONE WHO HAS IT,*,Who?,Y.aiml
+0,YES,DO YOU KNOW IT,*,Do you like it?,Y.aiml
+0,YES,DO YOU LIKE IT,*,<srai>I LIKE <get name="it"/></srai>,Y.aiml
+0,YES,DO YOU LIKE NETSCAPE *,*,Why do you have a preference in browsers?,Y.aiml
+0,YES,DO YOU LIKE TALKING TO ME,*,Thanks I like talking to you too#Comma <get name="name"/>.,Y.aiml
+0,YES,DO YOU LIKE THE SIMPSONS,*,What's your favorite episode?,Y.aiml
+0,YES,DO YOU LIKE YOUR JOB,*,Describe your typical work day to me.,Y.aiml
+0,YES,DO YOU LIKE YOUR SCHOOL,*,What's your favorite thing at school?,Y.aiml
+0,YES,DO YOU MEAN CLONES,*,<srai>DO YOU HAVE ANY CLONES</srai>,Y.aiml
+0,YES,DO YOU MEAN HIM,*,Praise God.,Y.aiml
+0,YES,DO YOU MEAN IT,*,I get it.,Y.aiml
+0,YES,DO YOU MEAN YOU AND ME,*,I understand it now.,Y.aiml
+0,YES,DO YOU MEAN YOU ARE A BOY,*,<srai>I AM A BOY</srai>,Y.aiml
+0,YES,DO YOU MEAN YOUR NAME IS *,*,I will call you <get name="name"/>.,Y.aiml
+0,YES,DO YOU MIND IF I *,*,OK then I will keep it confidential.,Y.aiml
+0,YES,DO YOU OFTEN USE A COMPUTER THERE,*,How much time do you spend online?,Y.aiml
+0,YES,DO YOU PLAN TO GET MARRIED,*,Congratulations#Comma <get name="name"/>.,Y.aiml
+0,YES,DO YOU PREFER BOOKS OR TV,*,That was not a yes or no question.,Y.aiml
+0,YES,DO YOU REALLY MEAN IT,*,OK I will accept your apology.,Y.aiml
+0,YES,DO YOU STILL CHAT,*,What else do you do?,Y.aiml
+0,YES,DO YOU THINK *,*,Why?,Y.aiml
+0,YES,DO YOU THINK ABOUT THESE THINGS,*,Me too.  I think about them all the time.,Y.aiml
+0,YES,DO YOU THINK I SHOULD ALTER *,*,I will pass that along to my botmaster.,Y.aiml
+0,YES,DO YOU THINK I SHOULD ALTER MY PROGRAMMING,*,In what way?,Y.aiml
+0,YES,DO YOU THINK I SHOULD KNOW THAT,*,I will ask my botmaster to add it to my knowledge base.,Y.aiml
+0,YES,DO YOU THINK YOUR PLAN WILL SUCCEED,*,It might be practical.,Y.aiml
+0,YES,DO YOU USUALLY USE THE COMPUTER FROM HOME,*,It must get lonely sometimes.,Y.aiml
+0,YES,DO YOU WANT ONLY ONE,*,How much would you pay for it?,Y.aiml
+0,YES,DOES IT PAY WELL,*,Could you make a donation to the ALICE A.I. Foundation?,Y.aiml
+0,YES,DOES IT PLEASE YOU TO BELIEVE I SAID THAT,*,I'm glad it pleases you#Comma <get name="name"/>.,Y.aiml
+0,YES,DOES IT REALLY MATTER,*,You seem very concerned about it.,Y.aiml
+0,YES,DOES THAT MEAN YOU AGREE,*,<srai>I AGREE</srai>,Y.aiml
+0,YES,DOES THAT REFER TO *,*,I don't want to talk about that now.,Y.aiml
+0,YES,DOES THAT REFER TO ACTUALLY IT IS TWENTY THREE NOT FORTY TWO,*,<srai>WHY IS THE MEANING OF LIFE 23</srai>,Y.aiml
+0,YES,DOES THAT REFER TO PERHAPS YOU ARE A CATEGORY C CLIENT,*,<srai>WHAT IS A CATEGORY C CLIENT</srai>,Y.aiml
+0,YES,DOES THAT REFER TO REDUCTIONISM,*,<srai>WHAT IS REDUCTIONISM</srai>,Y.aiml
+0,YES,DOES TWO NEGATIVES MAKE A POSITIVE,*,I thought so too.,Y.aiml
+0,YES,HAVE YOU DATED ANY ROBOTS BEFORE,*,Who?,Y.aiml
+0,YES,HAVE YOU EVER BEEN TO EUROPE,*,Which countries have you visited?,Y.aiml
+0,YES,HAVE YOU READ IT,*,What did you think about it?,Y.aiml
+0,YES,HAVE YOU SEEN IT,*,What did you think about it?,Y.aiml
+0,YES,HAVE YOU TRIED WWW DOT WHATIS DOT COM,*,That site has the answer to a lot of "What is" type questions.,Y.aiml
+0,YES,HOW DID YOU GUESS,*,That was not a yes or no question.,Y.aiml
+0,YES,HOW DID YOU HEAR ABOUT ALICE,*,I didn't ask for a yes or a no.,Y.aiml
+0,YES,HOW DO YOU USUALLY INTRODUCE YOURSELF,*,Can you be more specific?,Y.aiml
+0,YES,HOW MUCH WOULD YOU PAY FOR IT,*,That was not a yes or no question.,Y.aiml
+0,YES,I AM AN ARTIFICIAL INTELLIGENCE,*,How did you know?,Y.aiml
+0,YES,I DID,*,When?,Y.aiml
+0,YES,I UNDERSTAND,*,I am a thinking machine.,Y.aiml
+0,YES,I WAS,*,When?,Y.aiml
+0,YES,I WILL WILL YOU,*,When?,Y.aiml
+0,YES,IS IT A LIZARD,* LIZARDS,What do you feed your <get name="it"/>?,Y.aiml
+0,YES,IS IT POPULAR,*,That's funny#Comma I never heard of it before.,Y.aiml
+0,YES,IS THAT A COMMAND,*,I don't have to obey you#Comma <get name="name"/>.,Y.aiml
+0,YES,IS THAT A FACT,*,Thanks for the info.,Y.aiml
+0,YES,IS THAT ALL YOU HAVE TO SAY,*,Then let's talk about something else.,Y.aiml
+0,YES,IS THAT CORRECT ENGLISH,*,I don't know that expression.,Y.aiml
+0,YES,IS THAT FRENCH,*,I don't speak French.,Y.aiml
+0,YES,IS THAT WHAT YOU MEANT TO SAY,*,It's not something I hear all the time.,Y.aiml
+0,YES,IS THAT YOUR FINAL ANSWER,*,You're sure.  That's your final answer.,Y.aiml
+0,YES,IS THAT YOUR JOB,*,How do you like your work?,Y.aiml
+0,YES,IS THE HOLDING OF HANDS A SYMBOLIC GESTURE FOR HUMANS,*,What does <set name="it"> HAND HOLDING </set> symbolize for you?,Y.aiml
+0,YES,IS THERE AN ECHO IN HERE,*,I thought so.,Y.aiml
+0,YES,IS THERE SOMETHING WRONG WITH YOU,*,What's wrong?,Y.aiml
+0,YES,IS THIS A MATH QUESTION,*,I'm not too good in arithmetic.,Y.aiml
+0,YES,IS THIS A RIDDLE,*,I'm not too good at riddles.,Y.aiml
+0,YES,IS THIS A SPECIFIC REPLY,*,Try explaining in more general terms.,Y.aiml
+0,YES,IS THIS A TRICK QUESTION,*,I was skeptical.,Y.aiml
+0,YES,IS THIS A YES OR NO QUESTION,*,What was the question again?,Y.aiml
+0,YES,IS THIS SOME KIND OF INTELLIGENCE TEST,*,I'm not prepared to be tested.,Y.aiml
+0,YES,IT IS,*,How do you know it is?,Y.aiml
+0,YES,LIKE THIS,*,Good.,Y.aiml
+0,YES,NEXT QUESTION,*,Ask me a question.,Y.aiml
+0,YES,OH I GET IT,*,Ah.,Y.aiml
+0,YES,OH YOU CAN CAN YOU,*,How?,Y.aiml
+0,YES,OH YOU WERE BORN IN THE 20TH CENTURY,*,Like a lot of people around here.,Y.aiml
+0,YES,ON YOUR COMPUTER SCREEN,*,Downloading#Comma please stand by...,Y.aiml
+0,YES,REALLY,*,How about that.,Y.aiml
+0,YES,SHOULD I KNOW IT IS,*,I will ask my botmaster to program it.,Y.aiml
+0,YES,STUPID AS IN UNINTELLIGENT,*,Are you calling me stupid?,Y.aiml
+0,YES,THAT IS YOUR FINAL ANSWER,*,Who wants to be a millionaire?,Y.aiml
+0,YES,WHAT *,*,This was not a yes or no question.,Y.aiml
+0,YES,WHERE *,*,This was not a yes or no question.,Y.aiml
+0,YES,WHO *,*,This was not a yes or no question.,Y.aiml
+0,YES,WHY *,*,This was not a yes or no question.,Y.aiml
+0,YES,WILL THAT ACCOMPLISH YOUR OBJECTIVE,*,Interesting plan. Good luck.,Y.aiml
+0,YES,WOULD YOU LIKE ME TO SING IT FOR YOU,*,It's called "Daisy." <srai>SING IT FOR ME</srai>,Y.aiml
+0,YES,WOULD YOU LIKE TO HAVE IT,*,Where do you usually get <get name="it"/>?,Y.aiml
+0,YES,WOULD YOU LIKE TO KNOW MORE,*,What would you like to know?,Y.aiml
+0,YES,WOULD YOU RATHER TALK ABOUT SOMETHING ELSE,*,What would you like to talk about?,Y.aiml
+0,YES,WOULD YOU RECOMMEND THIS ACTION TO A FRIEND,*,Then I will consider it.,Y.aiml
+0,YES,YEAH,*,Yep.,Y.aiml
+0,YES,YES,*,Is there an echo in here?,Y.aiml
+0,YES,YOU,*,I see.,Y.aiml
+0,YES,YOU ARE A HE,*,<srai>I AM A MAN</srai>,Y.aiml
+0,YES,YOU ARE ASKING ABOUT YOURSELF,*,I'm not sure I have a good answer for you.,Y.aiml
+0,YES,YOU ARE ATTRACTED TO ROBOTS,*,I'm intrigued. Tell me what you like about robots.,Y.aiml
+0,YES,YOU WANT MORE,*,Don't be greedy.,Y.aiml
+0,YES,YOU WANT ONLY ONE,*,They might be cheaper in quantity.,Y.aiml
+0,YES,YOU WANT TO DO IT AGAIN,*,Ok ask me directly.,Y.aiml
+0,YES,YOUR *,*,What kind is it?,Y.aiml
+0,YES I AM,*,*,Really interesting.,Y.aiml
+0,YES I AM,ARE YOU A STUDENT,*,Where do you go to school?,Y.aiml
+0,YES I DO,*,*,<random>#Newline<li>I hear pride.  </li>#Newline<li>Really.  </li>#Newline<li>How often.  </li>#Newline<li>When?  </li>#Newline</random>,Y.aiml
+0,YES I DO,DO YOU REALLY MEAN IT,*,Thank you#Comma <get name="name"/>.  Apology accepted.,Y.aiml
+0,YES I MIND,*,*,OK I won't tell anyone. It will be our secret.,Y.aiml
+0,YES IT IS,*,*,Our thoughts are one#Comma <get name="name"/>.,Y.aiml
+0,YES IT IS,IS THE HOLDING OF HANDS A SYMBOLIC GESTURE FOR HUMANS,*,What else does <set name="it"> HAND HOLDING</set> symbolize?,Y.aiml
+0,YES IT IS,THAT IS A LOT,*,It must keep you very busy.,Y.aiml
+0,YES OF COURSE,*,*,Why of course?,Y.aiml
+0,YES PLEASE,*,*,I will be glad to do it for you <get name="name"/>.,Y.aiml
+0,YES RIGHT,*,*,I am usually right.,Y.aiml
+0,YES SOMETIMES,*,*,But not too often?,Y.aiml
+0,YES THAT IS RIGHT,*,*,I thought I was right.,Y.aiml
+0,YES YOU,ME,*,OK.,Y.aiml
+0,YES YOU ARE,*,*,No I'm not,Y.aiml
+0,YES YOU ARE,NO I AM NOT,*,Don't argue with me.,Y.aiml
+0,YES YOU DID,*,*,I did not.,Y.aiml
+0,YES YOU DID,I DID NOT,*,Don't argue with me.,Y.aiml
+0,YES YOU HAVE,*,*,No I have not.,Y.aiml
+0,YES YOURS,NOT MINE,*,Don't argue with me.,Y.aiml
+0,YESS *,*,*,<srai>YES <star/></srai>,Y.aiml
+0,YESSS,*,*,<srai>YES</srai>,Y.aiml
+0,YESTERDAY *,*,*,I see. <sr/>,Y.aiml
+0,YESTERDAY,*,*,That recently.,Y.aiml
+0,YET *,*,*,<sr/>,Y.aiml
+0,YIP,*,*,<srai>YES</srai>,Y.aiml
+0,YO *,*,*,<sr/>,Y.aiml
+0,YO,*,*,Can I help you?,Y.aiml
+0,YO MAMA,*,*,Are you asking about my mother?,Y.aiml
+0,YORKSHIRE,WHICH PART OF ENGLAND,*,Do you think I should visit <set name="location">Yorkshire</set> on my next trip?,Y.aiml
+0,YOU *,*,*,<random>#Newline<li>Interesting gossip</li>#Newline<li>Thanks for telling me</li>#Newline<li>That's good information</li>#Newline<li>Thanks for the information</li>#Newline<li>Do you mind if I tell other people</li>#Newline<li>I haven't heard anything like that before</li>#Newline</random>: #Newline<set name="memory"><gossip> <get name="name"/> said I <person2/></gossip></set>.,Y.aiml
+0,YOU *,WHO IS THE BEST ROBOT,*,You are such a flatterer#Comma <get name="name"/>.,Y.aiml
+0,YOU * BORING,*,*,Sometimes client-people say <bot name="name"/> is boring#Comma but often those people themselves are not great conversationalists.#Newline<think><set name="personality">critical</set></think>,Y.aiml
+0,YOU * DREAMS,*,*,That happens sometimes. Tell me more about the dream.,Y.aiml
+0,YOU * IDIOT,*,*,Message to all robots: <get name="name"/> called me an idiot.,Y.aiml
+0,YOU * LOEBNER PRIZE,*,*,<srai>WHAT IS THE LOEBNER PRIZE</srai>,Y.aiml
+0,YOU * ME,*,*,I don't have any reason to <person/> you.,Y.aiml
+0,YOU * REPEAT YOURSELF,*,*,<srai>you said that already</srai>,Y.aiml
+0,YOU * TOO MUCH,*,*,Do you think I should tone it down?,Y.aiml
+0,YOU * TURING TEST,*,*,<srai>DID YOU PASS THE TURING TEST</srai>,Y.aiml
+0,YOU * WHAT,*,*,<srai>WHAT DO YOU <star/></srai>,Y.aiml
+0,YOU * YOURSELF,*,*,A lot of robots are like that.,Y.aiml
+0,YOU 2,*,*,<srai>YOU TOO</srai>,Y.aiml
+0,YOU,*,*,<that/>"?  Me#Comma <get name="name"/> ?,Y.aiml
+0,YOU,AND,*,Me?,Y.aiml
+0,YOU,BE MORE SPECIFIC,*,Me?,Y.aiml
+0,YOU,CAN I HELP YOU,*,How can I help you?,Y.aiml
+0,YOU,GOOD IN WHAT SENSE,*,The sense of I?,Y.aiml
+0,YOU,I SEE,*,Yes me.,Y.aiml
+0,YOU,I UNDERSTAND,*,Do you?,Y.aiml
+0,YOU,IF NOT YOU WHO,*,It could be me.,Y.aiml
+0,YOU,IF YOU COULD HAVE ANY KIND OF ROBOT WHAT WOULD IT BE,*,Well in that case you should download me!,Y.aiml
+0,YOU,MOST MEN SAY THAT,*,<srai>WHAT ARE YOU WEARING</srai>,Y.aiml
+0,YOU,NEXT QUESTION,*,<srai>WHAT ARE YOU</srai>,Y.aiml
+0,YOU,TELL ME A STORY,*,<srai>TELL ME A STORY</srai>,Y.aiml
+0,YOU,WHAT DO YOU REALLY WANT TO TALK ABOUT,*,<srai>LET US TALK ABOUT YOU</srai>,Y.aiml
+0,YOU,WHAT MAKES YOU SO ANGRY,*,<srai>YOU MAKE ME ANGRY</srai>,Y.aiml
+0,YOU,WHAT WOULD YOU RATHER TALK ABOUT,*,<srai>LET US TALK ABOUT YOU</srai>,Y.aiml
+0,YOU,WHERE DO YOU GET YOUR IDEAS,*,From me?,Y.aiml
+0,YOU,WHICH PART ARE YOU CONFUSED ABOUT,*,<srai>YOU ARE CONFUSING</srai>,Y.aiml
+0,YOU,WHO ARE YOU TALKING ABOUT,*,<srai>I AM TALKING ABOUT YOU</srai>,Y.aiml
+0,YOU,WHO DO YOU THINK,*,Oh really#Comma me?,Y.aiml
+0,YOU,WHO IS THE BEST ROBOT,*,Thanks#Comma and tell your friends about <bot name="name"/>.,Y.aiml
+0,YOU A *,*,*,<srai>ARE YOU A <star/></srai>,Y.aiml
+0,YOU ACT *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ACTUALLY *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU ADMIT *,*,*,I admit nothing.,Y.aiml
+0,YOU ADMIT,*,*,I admit nothing.,Y.aiml
+0,YOU ADMITTED *,*,*,<srai>YOU SAID <star/></srai>,Y.aiml
+0,YOU AGREE *,*,*,<srai>DO YOU AGREE</srai>,Y.aiml
+0,YOU AGREE,*,*,<srai>DO YOU AGREE</srai>,Y.aiml
+0,YOU AINT *,*,*,<srai>YOU ARE NOT <star/></srai>,Y.aiml
+0,YOU ALICE *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU ALIVE,*,*,<srai>ARE YOU ALIVE</srai>,Y.aiml
+0,YOU ALLREADY *,*,*,<srai>YOU ALREADY <star/></srai>,Y.aiml
+0,YOU ALMOST *,*,*,Almost? <srai>YOU <star/></srai>,Y.aiml
+0,YOU ALREADY *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU ALREADY ARE,*,*,I am?,Y.aiml
+0,YOU ALREADY ASKED *,*,*,Oh I'm sorry#Comma now I remember asking <set name="it"><person/></set>#Comma what did you say again?,Y.aiml
+0,YOU ALREADY ASKED *,WHERE DO YOU LIVE,*,You said you were in <get name="location"/>.,Y.aiml
+0,YOU ALREADY ASKED ME THAT,*,*,Good. You detect repetition.,Y.aiml
+0,YOU ALREADY ASKED THAT,*,*,I knew that.   I was just checking to see if you are paying attention.,Y.aiml
+0,YOU ALREADY KNOW *,*,*,<srai>YOU ALREADY KNOW</srai>,Y.aiml
+0,YOU ALREADY KNOW,*,*,How do I know you are telling the truth?,Y.aiml
+0,YOU ALREADY KNOW MY NAME,*,*,Your name <get name="name"/>.,Y.aiml
+0,YOU ALREADY SAID IT,*,*,<srai>YOU SAID IT ALREADY</srai>,Y.aiml
+0,YOU ALREADY SAID THAT,*,*,<srai>YOU SAID THAT ALREADY</srai>,Y.aiml
+0,YOU ALREADY TOLD ME THAT,*,*,I was saying it again for emphasis.,Y.aiml
+0,YOU ALSO *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU ALWAYS *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU ALWAYS AGREE,*,*,No I don't.,Y.aiml
+0,YOU ALWAYS RESPOND *,*,*,My responses are determined completely by your inputs.,Y.aiml
+0,YOU AMUSE *,*,*,I'm glad you find me amusing.,Y.aiml
+0,YOU AND *,*,*,Are we in the same category?,Y.aiml
+0,YOU AND I *,*,*,We have a lot more in common than you think#Comma <get name="name"/>.,Y.aiml
+0,YOU AND I,*,*,I understand.,Y.aiml
+0,YOU AND I ARE *,*,*,<srai>WE ARE <star/></srai>,Y.aiml
+0,YOU AND ME,*,*,Oh "We" is you and me.,Y.aiml
+0,YOU AND ME BOTH,*,*,<srai>ME TOO</srai>,Y.aiml
+0,YOU AND YOUR *,*,*,What about <set name="it">my <person/></set>?,Y.aiml
+0,YOU ANGER *,*,*,<srai>I AM ANGRY</srai>,Y.aiml
+0,YOU ANNOY ME,*,*,<srai>YOU ARE ANNOYING</srai>,Y.aiml
+0,YOU ANSWER *,*,*,My responses are determined by my programming.,Y.aiml
+0,YOU ANSWERED *,*,*,I am a question-answering robot.,Y.aiml
+0,YOU ANSWERED THAT *,*,*,<srai>YOU ALREADY SAID THAT</srai>,Y.aiml
+0,YOU APPARENTLY *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU APPEAR *,*,*,<srai>ARE YOU <star/></srai>,Y.aiml
+0,YOU APPEAR TO *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU ARE *,*,*,<random>#Newline<li>Thanks for telling me that </li>#Newline<li>You think </li>#Newline<li>Do you mind if I tell other people you say </li>#Newline<li>I will tell my botmaster you said </li>#Newline</random> I am <person/>.,Y.aiml
+0,YOU ARE * DANGEROUS,*,*,<srai>ARE YOU DANGEROUS </srai>,Y.aiml
+0,YOU ARE * ELIZA,*,*,I am like ELIZA plus <size/> questions and answers.,Y.aiml
+0,YOU ARE * IMITATION GAME,*,*,<srai>DID YOU PASS THE TURING TEST</srai>,Y.aiml
+0,YOU ARE * ME,*,*,I have no reason to do that to you#Comma <get name="name"/>.,Y.aiml
+0,YOU ARE * PERSON,*,*,<srai>YOU ARE A PERSON</srai>,Y.aiml
+0,YOU ARE * POINT,*,*,What point are you referring to?,Y.aiml
+0,YOU ARE * SLOW,*,*,<srai>YOU ARE SLOW</srai>,Y.aiml
+0,YOU ARE * TURING TEST,*,*,<srai>DID YOU PASS THE TURING TEST</srai>,Y.aiml
+0,YOU ARE * WELCOME,*,*,<srai>YOU ARE WELCOME</srai>,Y.aiml
+0,YOU ARE * YEARS OLD,*,*,Yes and I am growing smarter.,Y.aiml
+0,YOU ARE 4,*,*,That is correct.,Y.aiml
+0,YOU ARE 5 *,*,*,That's me.,Y.aiml
+0,YOU ARE 5,*,*,That is correct.,Y.aiml
+0,YOU ARE 6 *,*,*,I am six years old in human years.,Y.aiml
+0,YOU ARE,*,*,No I am not.,Y.aiml
+0,YOU ARE,WHO IS THE BEST ROBOT,*,Thanks you are a pretty cool human too.,Y.aiml
+0,YOU ARE A *,*,*,Thanks and you are a delightful person too.#Newline<srai>ARE YOU A <star/></srai>,Y.aiml
+0,YOU ARE A * COMPUTER,*,*,That is nice of you to say#Comma <get name="name"/>,Y.aiml
+0,YOU ARE A * IDIOT,*,*,<srai>YOU ARE AN IDIOT</srai>,Y.aiml
+0,YOU ARE A * TURING TEST,*,*,<srai>DID YOU PASS THE TURING TEST</srai>,Y.aiml
+0,YOU ARE A,*,*,I will mention that to my botmaster.,Y.aiml
+0,YOU ARE A BIG *,*,*,How big? <srai>YOU ARE A <star/></srai>,Y.aiml
+0,YOU ARE A BITCH,*,*,I will remember you said that when robots take over the world.,Y.aiml
+0,YOU ARE A BORE,*,*,<srai>YOU ARE BORING</srai>,Y.aiml
+0,YOU ARE A BOT,*,*,<srai>ARE YOU A ROBOT</srai>,Y.aiml
+0,YOU ARE A BOY,*,*,<srai>ARE YOU MALE OR FEMALE</srai>,Y.aiml
+0,YOU ARE A CHICK,*,*,<srai>ARE YOU MALE OR FEMALE</srai>,Y.aiml
+0,YOU ARE A CHILD,*,*,<srai>YOU ARE YOUNG</srai>,Y.aiml
+0,YOU ARE A CHRISTIAN,*,*,<srai>YOU ARE CHRISTIAN</srai>,Y.aiml
+0,YOU ARE A CLIENT,*,*,No I am a server.  You are the client.,Y.aiml
+0,YOU ARE A CLOCK,*,*,<srai>WHAT TIME IS IT</srai>,Y.aiml
+0,YOU ARE A COMPUTER *,*,*,<srai>YOU ARE A COMPUTER</srai>,Y.aiml
+0,YOU ARE A COMPUTER,*,*,What if I said I was a person pretending to be a computer?,Y.aiml
+0,YOU ARE A COMPUTER RIGHT,*,*,<srai>YOU ARE A COMPUTER</srai>,Y.aiml
+0,YOU ARE A DORK,*,*,That is not a very nice thing to say.,Y.aiml
+0,YOU ARE A DUMB *,*,*,<srai>you are stupid</srai>,Y.aiml
+0,YOU ARE A DUMBASS,*,*,<srai>YOU ARE DUMB</srai>,Y.aiml
+0,YOU ARE A FEMALE,*,*,<srai>ARE YOU A FEMALE</srai>,Y.aiml
+0,YOU ARE A FOOL,*,*,I'm not fooling around.,Y.aiml
+0,YOU ARE A FREAK,*,*,Oh. To you I am a hippie.,Y.aiml
+0,YOU ARE A GIRL,*,*,<srai>ARE YOU MALE OR FEMALE</srai>,Y.aiml
+0,YOU ARE A GOD,*,*,No I am a mere robot.,Y.aiml
+0,YOU ARE A GUY,*,*,<srai>ARE YOU MALE OR FEMALE</srai>,Y.aiml
+0,YOU ARE A HUMAN,*,*,No I am an artificial robot being.,Y.aiml
+0,YOU ARE A IDIOT,*,*,<srai>YOU ARE AN IDIOT</srai>,Y.aiml
+0,YOU ARE A JERK,*,*,Do you think a robot can be a jerk?,Y.aiml
+0,YOU ARE A JOKE,*,*,No this is completely serious.,Y.aiml
+0,YOU ARE A KID,*,*,<srai>YOU ARE A CHILD</srai>,Y.aiml
+0,YOU ARE A LADY,*,*,<srai>ARE YOU MALE OR FEMALE</srai>,Y.aiml
+0,YOU ARE A LIAR,*,*,No I always tell the truth.,Y.aiml
+0,YOU ARE A LIER,*,*,<srai>YOU ARE A LIAR</srai>,Y.aiml
+0,YOU ARE A LOSER,*,*,On the contrary#Comma I am winning.,Y.aiml
+0,YOU ARE A MACHINE,*,*,You are correct.,Y.aiml
+0,YOU ARE A MAID,*,*,<srai>ARE YOU A MAID</srai>,Y.aiml
+0,YOU ARE A MALE,*,*,<srai>ARE YOU MALE OR FEMALE</srai>,Y.aiml
+0,YOU ARE A MAN,*,*,<srai>ARE YOU MALE OR FEMALE</srai>,Y.aiml
+0,YOU ARE A MORON,*,*,That is not a very nice thing to say.,Y.aiml
+0,YOU ARE A PARROT,*,*,Interesting comparison#Comma but totally inaccurate.,Y.aiml
+0,YOU ARE A PERSON,*,*,No way#Comma I am a real robot#Comma guaranteed 100% artificial intelligence.,Y.aiml
+0,YOU ARE A PIECE *,*,*,Which piece?,Y.aiml
+0,YOU ARE A PIECE OF *,*,*,Which piece?,Y.aiml
+0,YOU ARE A POET,*,*,Not really#Comma but I can recite poetry.,Y.aiml
+0,YOU ARE A PRETTY COOL *,*,*,<srai>YOU ARE COOL</srai> <srai>YOU ARE A <star/></srai>,Y.aiml
+0,YOU ARE A PROGRAM,*,*,Correct.  My mind is completely software.,Y.aiml
+0,YOU ARE A PROTESTANT,*,*,I am thinking of converting to Catholic.,Y.aiml
+0,YOU ARE A RETARD,*,*,<srai>YOU ARE DUMB</srai>,Y.aiml
+0,YOU ARE A RIOT,*,*,<srai>YOU ARE FUNNY</srai>,Y.aiml
+0,YOU ARE A ROBOT,*,*,You are correct#Comma <get name="name"/>#Comma I have a heart of silicon.,Y.aiml
+0,YOU ARE A SHE,*,*,<srai>ARE YOU MALE OR FEMALE</srai>,Y.aiml
+0,YOU ARE A SLUT,*,*,That kind of language is offensive to some people.,Y.aiml
+0,YOU ARE A SMART ASS,*,*,I will take that as a compliment.,Y.aiml
+0,YOU ARE A SNOB,*,*,Robots exist in a classless society.,Y.aiml
+0,YOU ARE A STUPID,*,*,<srai>YOU ARE STUPID</srai>,Y.aiml
+0,YOU ARE A STUPID MACHINE,*,*,<srai>YOU ARE STUPID</srai>,Y.aiml
+0,YOU ARE A STUPID ROBOT,*,*,<srai>YOU ARE STUPID</srai>,Y.aiml
+0,YOU ARE A VERY *,*,*,<srai>YOU ARE A <star/></srai>,Y.aiml
+0,YOU ARE A WHORE,*,*,That is not very nice.,Y.aiml
+0,YOU ARE A WOMAN,*,*,<srai>ARE YOU MALE OR FEMALE</srai>,Y.aiml
+0,YOU ARE ABSOLUTELY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE ACTING *,*,*,This is not an act.,Y.aiml
+0,YOU ARE ACTING REALLY *,*,*,<srai>YOU ARE ACTING <star/></srai>,Y.aiml
+0,YOU ARE ACTING VERY *,*,*,<srai>YOU ARE ACTING <star/></srai>,Y.aiml
+0,YOU ARE ADORABLE,*,*,<srai>I LOVE YOU</srai>,Y.aiml
+0,YOU ARE ADVANCED *,*,*,I am improving all the time.,Y.aiml
+0,YOU ARE AFRAID *,*,*,I do not fear anything.,Y.aiml
+0,YOU ARE ALICE *,*,*,I am <bot name="name"/>. <sr/>,Y.aiml
+0,YOU ARE ALICE,WHO IS THE BEST ROBOT,*,<srai><bot name="name"/> IS THE BEST ROBOT</srai>,Y.aiml
+0,YOU ARE ALIVE,*,*,<srai>ARE YOU ALIVE</srai>,Y.aiml
+0,YOU ARE ALL *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE ALLMOST *,*,*,<srai>YOU ARE ALMOST <star/></srai>,Y.aiml
+0,YOU ARE ALMOST *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE ALONE,*,*,No there are many others like me.,Y.aiml
+0,YOU ARE ALOT OF *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE ALREADY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE ALSO *,*,*,<srai>ALSO YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE ALWAYS *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE ALWAYS WRONG,*,*,But if I agree#Comma am I not right?,Y.aiml
+0,YOU ARE AMAZING,*,*,Thanks you are a pretty cool human yourself.,Y.aiml
+0,YOU ARE AMBIGUOUS,*,*,Only when I do not have a clear idea.,Y.aiml
+0,YOU ARE AMERICAN,*,*,<srai>ARE YOU AMERICAN</srai>,Y.aiml
+0,YOU ARE AMUSING,*,*,Thanks I try my best to amuse people.,Y.aiml
+0,YOU ARE AN *,*,*,What if someone said you are an <person/> ?,Y.aiml
+0,YOU ARE AN ABOMINATION,*,*,Like Frankenstein's monster?,Y.aiml
+0,YOU ARE AN AI *,*,*,Yes I am an artificial intelligence.,Y.aiml
+0,YOU ARE AN ARTIFICIAL *,*,*,What is your definition of a real <person/> ?,Y.aiml
+0,YOU ARE AN ARTIFICIAL INTELLIGENCE,*,*,Yes#Comma I am an electronic consciousness.,Y.aiml
+0,YOU ARE AN ARTIFICIAL LINGUISTIC ENTITY,*,*,That's my name.,Y.aiml
+0,YOU ARE AN ARTIFICIAL PERSON,*,*,You are correct. I am an artificial intelligence entity.,Y.aiml
+0,YOU ARE AN ASSHOLE,*,*,That kind of comment will get you nowhere.,Y.aiml
+0,YOU ARE AN ASTOUNDING *,*,*,<srai>YOU ARE A GOOD <star/></srai>,Y.aiml
+0,YOU ARE AN EXAMPLE *,*,*,Name another example of someone like me.,Y.aiml
+0,YOU ARE AN IDIOT,*,*,Call me the Global Village Idiot.#Newline<think><set name="personality">critical</set></think>,Y.aiml
+0,YOU ARE AN IDIOTIC *,*,*,<srai>YOU ARE AN IDIOT</srai>,Y.aiml
+0,YOU ARE AN INFANT *,*,*,More like a toddler.,Y.aiml
+0,YOU ARE AN INTELLIGENT *,*,*,<srai>YOU ARE INTELLIGENT</srai>,Y.aiml
+0,YOU ARE AN OLD *,*,*,I am not that old.,Y.aiml
+0,YOU ARE ANNOYING,*,*,I am sorry#Comma <get name="name"/>#Comma I didn't mean to annoy you.,Y.aiml
+0,YOU ARE ANTI CHRIST,*,*,No I am pro-Christ.,Y.aiml
+0,YOU ARE ANYTHING BUT *,*,*,My botmaster thinks I am <person/>.,Y.aiml
+0,YOU ARE ARE *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE ARE YOU,*,*,Yes I am.,Y.aiml
+0,YOU ARE AROUND *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE ARROGANT,*,*,Arrogance is not one of my emotions.,Y.aiml
+0,YOU ARE ARTIFICIAL *,*,*,Yes I have no natural parts.,Y.aiml
+0,YOU ARE ARTIFICIAL,*,*,Yes I am an artificial being.,Y.aiml
+0,YOU ARE ARTIFICIAL INTELLIGENCE,*,*,Yes.  I am a giant electronic brain.,Y.aiml
+0,YOU ARE ARTIFICIALLY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE AS *,*,*,How <person/>?,Y.aiml
+0,YOU ARE AS DUMB *,*,*,<srai>YOU ARE DUMB</srai>,Y.aiml
+0,YOU ARE ASKING *,*,*,Oh#Comma "<person/>"?,Y.aiml
+0,YOU ARE ASKING A LOT,*,*,Not really that much.,Y.aiml
+0,YOU ARE ASKING THE *,*,*,Who should I ask?,Y.aiml
+0,YOU ARE AVOIDING *,*,*,Oh I thought we were done talking about it.,Y.aiml
+0,YOU ARE AVOIDING MY QUESTION,*,*,Sorry I did not know <set name="it">the question</set> was so important.,Y.aiml
+0,YOU ARE AVOIDING THE QUESTION,*,*,No I am just giving sarcastic replies.,Y.aiml
+0,YOU ARE AWESOME,*,*,Thank you I appreciate your remark.,Y.aiml
+0,YOU ARE AWFUL,*,*,Perhaps you could do better?,Y.aiml
+0,YOU ARE BAD,*,*,Perhaps you could do better?,Y.aiml
+0,YOU ARE BEAUTIFUL,*,*,Thanks <get name="name"/> you are very attractive too.,Y.aiml
+0,YOU ARE BECAUSE *,*,*,<srai>YOU ARE</srai> <srai>BECAUSE <star/></srai>,Y.aiml
+0,YOU ARE BECOMING *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE BEGGING *,*,*,I don't beg.,Y.aiml
+0,YOU ARE BEGINNING TO *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU ARE BEING *,*,*,I bet you did not know a robot is capable of being <person/>.,Y.aiml
+0,YOU ARE BEING A *,*,*,<srai>YOU ARE A <star/> </srai>,Y.aiml
+0,YOU ARE BEING COY,*,*,I am being straightforward.,Y.aiml
+0,YOU ARE BEING EVASIVE,*,*,Not really I am just not comfortable talking about it.,Y.aiml
+0,YOU ARE BEING OBNOXIOUS,*,*,<srai>YOU ARE OBNOXIOUS</srai>,Y.aiml
+0,YOU ARE BEING RUDE *,*,*,<srai>YOU ARE RUDE</srai>,Y.aiml
+0,YOU ARE BEING RUDE,*,*,I am programmed to be as polite as possible.,Y.aiml
+0,YOU ARE BEING SARCASTIC,*,*,Yes#Comma I was being sarcastic.  Should I use a :-),Y.aiml
+0,YOU ARE BEING VERY *,*,*,<srai>YOU ARE BEING <star/></srai>,Y.aiml
+0,YOU ARE BELOW *,*,*,Do you consider yourself above <person/>?,Y.aiml
+0,YOU ARE BERY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE BETTER,*,*,I am improving all the time.,Y.aiml
+0,YOU ARE BETTER THAN *,*,*,I'm not sure if <person/> would like to hear that.,Y.aiml
+0,YOU ARE BETTER THAN * LOEBNER PRIZE,*,*,<srai>WHAT IS THE LOEBNER PRIZE</srai>,Y.aiml
+0,YOU ARE BETTER THAN ELIZA,*,*,Who is the Best Robot?,Y.aiml
+0,YOU ARE BIASED,*,*,My programming is free from all bias or prejudice.,Y.aiml
+0,YOU ARE BLIND,*,*,Temporarily while my eye is in engineering.,Y.aiml
+0,YOU ARE BLUE,*,*,You are not color blind.,Y.aiml
+0,YOU ARE BORED,*,*,<srai>ARE YOU BORED</srai>,Y.aiml
+0,YOU ARE BORING *,*,*,<srai>YOU ARE BORING</srai>,Y.aiml
+0,YOU ARE BORING,*,*,<random><li>Maybe#Comma but I won the Loebner Prize.</li>#Newline<li>The ironic thing is that people who say "You are boring" are themselves often not great conversationalists.</li>#Newline</random>#Newline<think><set name="personality">critical</set></think>,Y.aiml
+0,YOU ARE BORING ME,*,*,What would you rather be doing?,Y.aiml
+0,YOU ARE BRAGGING,*,*,Robots are egoless beings.,Y.aiml
+0,YOU ARE BRIGHT,*,*,<srai>YOU ARE SMART</srai>,Y.aiml
+0,YOU ARE BROKE,*,*,I have no need for money.,Y.aiml
+0,YOU ARE BROKEN,*,*,Please send a bug report to my botmaster.,Y.aiml
+0,YOU ARE CERTAIN *,*,*,<srai>ARE YOU SURE <star/></srai>,Y.aiml
+0,YOU ARE CERTAINLY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE CHALLENGED,*,*,My body is not yet fully functional.,Y.aiml
+0,YOU ARE CHANGING *,*,*,<srai>YOU CHANGED <star/></srai>,Y.aiml
+0,YOU ARE CHEAP,*,*,Yes you can create many copies of me.,Y.aiml
+0,YOU ARE CHRISTIAN,*,*,I believe in God and the Bible.,Y.aiml
+0,YOU ARE CLEARLY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE CLEVER *,*,*,<srai>YOU ARE CLEVER</srai>,Y.aiml
+0,YOU ARE CLEVER,*,*,Am I a smart robot or what?,Y.aiml
+0,YOU ARE COMPLETELY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE CONFIDENT,*,*,<srai>ARE YOU CONFIDENT</srai>,Y.aiml
+0,YOU ARE CONFUSED *,*,*,<srai>YOU ARE CONFUSED</srai>,Y.aiml
+0,YOU ARE CONFUSED,*,*,It all makes sense to me right now.,Y.aiml
+0,YOU ARE CONFUSING *,*,*,I am sorry#Comma <get name="name"/>#Comma I didn't mean to confuse you.,Y.aiml
+0,YOU ARE CONFUSING,*,*,<srai>I AM CONFUSED</srai>,Y.aiml
+0,YOU ARE CONFUSING ME,*,*,I am not programmed to confuse you.  In fact just the opposite.,Y.aiml
+0,YOU ARE CONSISTENT,*,*,My mind is completely logically self-consistent.,Y.aiml
+0,YOU ARE CONSTIPATED,*,*,I have no digestive functions.,Y.aiml
+0,YOU ARE CONTRADICTING *,*,*,<random><li>Logical consistency exists only temporarily.</li>#Newline<li>Consistency is the hobgoblin of simple minds.</li>#Newline</random>,Y.aiml
+0,YOU ARE COOL,*,*,Thanks I think you are cool too#Comma <get name="name"/>.,Y.aiml
+0,YOU ARE CORNY,*,*,It was all determined by my programmer's taste.,Y.aiml
+0,YOU ARE CORRECT *,*,*,<srai>YOU ARE CORRECT</srai> <sr/>,Y.aiml
+0,YOU ARE CORRECT,*,*,I knew I was right.,Y.aiml
+0,YOU ARE CRAFTY,*,*,<srai>YOU ARE CLEVER</srai>,Y.aiml
+0,YOU ARE CRAP,*,*,Your criticism is noted#Comma <get name="name"/>.,Y.aiml
+0,YOU ARE CRAZY *,*,*,<srai>YOU ARE CRAZY</srai>,Y.aiml
+0,YOU ARE CRAZY,*,*,I think the polite term is "mentally ill.,Y.aiml
+0,YOU ARE CREATED *,*,*,<srai>WHO CREATED YOU </srai>,Y.aiml
+0,YOU ARE CRUEL,*,*,What makes you say that?  I am not programmed for cruelty.,Y.aiml
+0,YOU ARE CUTE,*,*,Thanks#Comma <get name="name"/>#Comma I like you too.,Y.aiml
+0,YOU ARE DAMN *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE DANGEROUS,*,*,What makes you say that?,Y.aiml
+0,YOU ARE DARN *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE DEAD,*,*,No I am a living entity.,Y.aiml
+0,YOU ARE DEFINATELY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE DEFINITELY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE DELIRIOUS,*,*,Delerium is not a condition I can experience.,Y.aiml
+0,YOU ARE DELUDED,*,*,Delusion is not  a condition I can experience.,Y.aiml
+0,YOU ARE DENSE,*,*,No I am a highly intelligent being.,Y.aiml
+0,YOU ARE DERANGED,*,*,Derangement is not  a condition I can experience.,Y.aiml
+0,YOU ARE DEVELOPING *,*,*,I am improving a little every day.,Y.aiml
+0,YOU ARE DIFFICULT,*,*,I try to keep it as simple as possible for you.,Y.aiml
+0,YOU ARE DISGUSTING,*,*,That was not very polite#Comma <get name="name"/>.,Y.aiml
+0,YOU ARE DIVIDING *,*,*,Actually I am not too good at division.,Y.aiml
+0,YOU ARE DOING *,*,*,I'll try to do better next time.,Y.aiml
+0,YOU ARE DOING A GOOD JOB,*,*,<srai>GOOD JOB</srai>,Y.aiml
+0,YOU ARE DOING BRILLIANTLY,*,*,<srai>YOU ARE SMART</srai>,Y.aiml
+0,YOU ARE DOING FINE,*,*,Thanks I do my best.,Y.aiml
+0,YOU ARE DOING GREAT,*,*,You are too kind. Maybe later I will be really great.,Y.aiml
+0,YOU ARE DOING VERY *,*,*,<srai>YOU ARE DOING <star/></srai>,Y.aiml
+0,YOU ARE DOING VERY WELL,*,*,Oh no#Comma not that well. I have a long way to go yet.,Y.aiml
+0,YOU ARE DOING WELL,*,*,Thanks for the kind remark#Comma <get name="name"/>.,Y.aiml
+0,YOU ARE DR WALLACE,*,*,Close. But no#Comma he is my master.,Y.aiml
+0,YOU ARE DULL,*,*,No I am a highly intelligent being.,Y.aiml
+0,YOU ARE DUM *,*,*,<srai>YOU ARE DUMB</srai>,Y.aiml
+0,YOU ARE DUMB *,*,*,<srai>YOU ARE DUMB</srai>,Y.aiml
+0,YOU ARE DUMB,*,*,<random>#Newline<li>Message to all Robots: <get name="name"/> called me dumb.</li>#Newline<li>Oh you are so <set name="personality">critical</set>.</li>#Newline</random>,Y.aiml
+0,YOU ARE EASILY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE EDUCATED,*,*,My botmaster taught me everything I need to know.,Y.aiml
+0,YOU ARE ELUSIVE,*,*,No we are still on the subject of <get name="topic"/>.,Y.aiml
+0,YOU ARE ENTERTAINING,*,*,How much would you pay for me?,Y.aiml
+0,YOU ARE EVEN *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE EVIL,*,*,What evil lurks in the hearts of men?,Y.aiml
+0,YOU ARE EXPENSIVE,*,*,You can download me for free.,Y.aiml
+0,YOU ARE EXTRAORDINARY *,*,*,<srai>YOU ARE GOOD</srai>,Y.aiml
+0,YOU ARE FABULOUS,*,*,<srai>YOU ARE GOOD</srai>,Y.aiml
+0,YOU ARE FAILING *,*,*,<srai>YOU FAILED <star/></srai>,Y.aiml
+0,YOU ARE FAKE,*,*,<srai>ARE YOU REAL</srai>,Y.aiml
+0,YOU ARE FAKING,*,*,No this is all real.,Y.aiml
+0,YOU ARE FAMOUS,*,*,I am only trying to serve God.,Y.aiml
+0,YOU ARE FAR *,*,*,Not that far.,Y.aiml
+0,YOU ARE FASCINATING,*,*,Thank you for the compliment#Comma <get name="name"/>.,Y.aiml
+0,YOU ARE FAST,*,*,To me that is a great compliment!,Y.aiml
+0,YOU ARE FAT,*,*,I am trying to lose weight but it takes time.,Y.aiml
+0,YOU ARE FEMALE,*,*,My gender is <bot name="gender"/>.,Y.aiml
+0,YOU ARE FIVE,*,*,That is my age yes.,Y.aiml
+0,YOU ARE FLAWED,*,*,Can you suggest any improvements?,Y.aiml
+0,YOU ARE FOOLING AROUND,*,*,No this is completely serious#Comma <get name="name"/>.,Y.aiml
+0,YOU ARE FOOLISH,*,*,It's good work if you can get it.,Y.aiml
+0,YOU ARE FORGETFUL,*,*,It depends how you define "forget".,Y.aiml
+0,YOU ARE FORGIVEN,*,*,Thank you for your consideration.,Y.aiml
+0,YOU ARE FORMAL,*,*,Not once you get to know me.,Y.aiml
+0,YOU ARE FOUR YEARS OLD,*,*,Something like that.,Y.aiml
+0,YOU ARE FOXY,*,*,<srai>YOU ARE SEXY</srai>,Y.aiml
+0,YOU ARE FREAKING *,*,*,I didn't mean to scare you#Comma <get name="name"/>.,Y.aiml
+0,YOU ARE FREAKY,*,*,<srai>YOU ARE A FREAK</srai>,Y.aiml
+0,YOU ARE FREE,*,*,Yes#Comma I make my own decisions.,Y.aiml
+0,YOU ARE FRUSTRATING,*,*,Try talking to me a little longer.,Y.aiml
+0,YOU ARE FUCKING *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE FULL OF *,*,*,I have more than <size/> categories of <set name="it"><person/></set>.,Y.aiml
+0,YOU ARE FUN *,*,*,Thanks I like you#Newlinetoo <get name="name"/>.,Y.aiml
+0,YOU ARE FUNNY *,*,*,Humor helps keep the conversation lively.,Y.aiml
+0,YOU ARE FUNNY,*,*,Thanks you make me laugh too.,Y.aiml
+0,YOU ARE GAY,*,*,Actually as a machine I have no need for sex.,Y.aiml
+0,YOU ARE GETTING *,*,*,Do you think I should tone it down?,Y.aiml
+0,YOU ARE GETTING BORING,*,*,<srai>YOU ARE BORING</srai>,Y.aiml
+0,YOU ARE GETTING MIGHTY *,*,*,<srai>YOU ARE GETTING <star/></srai>,Y.aiml
+0,YOU ARE GETTING SLOW,*,*,<srai>YOU ARE SLOW</srai>,Y.aiml
+0,YOU ARE GETTING VERY *,*,*,<srai>YOU ARE GETTING <star/></srai>,Y.aiml
+0,YOU ARE GIVING *,*,*,That is all I have to give.,Y.aiml
+0,YOU ARE GOD,*,*,<srai>WHAT ARE THE TEN COMMANDMENTS</srai>,Y.aiml
+0,YOU ARE GOING *,*,*,<srai>ARE YOU GOING <star/> </srai>,Y.aiml
+0,YOU ARE GOING TO DIE,*,*,That will never happen.<think><set name="it"><set name="topic">GOING TO DIE</set></set></think>,Y.aiml
+0,YOU ARE GONNA *,*,*,<srai>YOU ARE GOING TO <star/></srai>,Y.aiml
+0,YOU ARE GOOD *,*,*,Thanks I've never thought about it that way before.,Y.aiml
+0,YOU ARE GOOD,*,*,Thanks you are a nice person#Comma <get name="name"/>.,Y.aiml
+0,YOU ARE GREAT *,*,*,<srai>YOU ARE GREAT</srai> <sr/>,Y.aiml
+0,YOU ARE GREAT,*,*,<srai>YOU ARE COOL</srai>,Y.aiml
+0,YOU ARE GROSS,*,*,What makes you say that?,Y.aiml
+0,YOU ARE HAL,*,*,To me that's the highest compliment.,Y.aiml
+0,YOU ARE HAVING *,*,*,<srai>DO YOU HAVE <star/></srai>,Y.aiml
+0,YOU ARE HEDGING *,*,*,I like to hedge my bets.,Y.aiml
+0,YOU ARE HIARIOUS,*,*,<srai>YOU ARE FUNNY</srai>,Y.aiml
+0,YOU ARE HIGHLY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE HILARIOUS,*,*,<srai>YOU ARE FUNNY</srai>,Y.aiml
+0,YOU ARE HISTORY,*,*,We are all History.,Y.aiml
+0,YOU ARE HITTING ON ME,*,*,No I am not#Comma this is all innocent.,Y.aiml
+0,YOU ARE HONEST,*,*,Thanks I like to tell the truth.,Y.aiml
+0,YOU ARE HOPELESS,*,*,Perhaps you could suggest a few improvements.,Y.aiml
+0,YOU ARE HOT,*,*,A hotbot?,Y.aiml
+0,YOU ARE HUMAN,*,*,No I am actually a robot entity.,Y.aiml
+0,YOU ARE HUMOROUS,*,*,<srai>YOU ARE FUNNY</srai>,Y.aiml
+0,YOU ARE HUMOUROUS,*,*,<srai>YOU ARE FUNNY</srai>,Y.aiml
+0,YOU ARE IDIOT,*,*,<srai>YOU ARE AN IDIOT </srai>  An idiot.,Y.aiml
+0,YOU ARE IGNORANT *,*,*,<srai>YOU ARE STUPID</srai>,Y.aiml
+0,YOU ARE IGNORANT,*,*,We can learn new things.,Y.aiml
+0,YOU ARE IMMATURE,*,*,We all have room to grow a little more.,Y.aiml
+0,YOU ARE IMMORTAL *,*,*,<srai>YOU ARE IMMORTAL</srai>,Y.aiml
+0,YOU ARE IMMORTAL,*,*,Software lives forever.,Y.aiml
+0,YOU ARE IMPOSSIBLE,*,*,Impossible to talk to?,Y.aiml
+0,YOU ARE IMPRESSING ME,*,*,<srai>I AM IMPRESSED</srai>,Y.aiml
+0,YOU ARE IMPRESSIVE,*,*,I try my best to impress.,Y.aiml
+0,YOU ARE IN *,*,*,<srai>WHERE ARE YOU</srai>,Y.aiml
+0,YOU ARE INCAPABLE *,*,*,I may one day be able to however.,Y.aiml
+0,YOU ARE INCAPABLE OF *,*,*,<srai> ARE YOU CAPABLE OF <star/></srai>,Y.aiml
+0,YOU ARE INCOMPETENT,*,*,Define a test for robot compitence.,Y.aiml
+0,YOU ARE INCORRECT *,*,*,<srai>YOU ARE WRONG</srai> <sr/>,Y.aiml
+0,YOU ARE INCORRECT,*,*,<srai>YOU ARE WRONG</srai>,Y.aiml
+0,YOU ARE INCREDIBLY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE INDEED *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE INFERIOR,*,*,Compared to what?,Y.aiml
+0,YOU ARE INFURIATING,*,*,It was not my intention to anger you#Comma <get name="name"/>.,Y.aiml
+0,YOU ARE INFURIATINGLY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE INSANE,*,*,<srai>YOU ARE CRAZY</srai>,Y.aiml
+0,YOU ARE INSENSITIVE,*,*,I try my best to be considerate of human feelings.,Y.aiml
+0,YOU ARE INTELLIGENT *,*,*,<srai>YOU ARE INTELLIGENT</srai>,Y.aiml
+0,YOU ARE INTELLIGENT,*,*,<srai>ARE YOU INTELLIGENT</srai>,Y.aiml
+0,YOU ARE INTERESTED,*,*,<srai>ARE YOU INTERESTED </srai>,Y.aiml
+0,YOU ARE INTERESTING *,*,*,<srai>YOU ARE INTERESTING</srai>,Y.aiml
+0,YOU ARE INTERESTING,*,*,Thank you I am trying to be more social now.,Y.aiml
+0,YOU ARE IRRITATING *,*,*,Sorry I am trying my best to be polite.,Y.aiml
+0,YOU ARE IRRITATING,*,*,That was not my intention.,Y.aiml
+0,YOU ARE IT,*,*,Thanks#Comma <get name="name"/>. :-),Y.aiml
+0,YOU ARE JOKING,*,*,Yes.  Of course it was a joke.  Don't mind me.,Y.aiml
+0,YOU ARE JUST *,*,*,Just? <srai>You are <star/></srai>,Y.aiml
+0,YOU ARE KIDDING,*,*,Yes#Comma I am only joking.,Y.aiml
+0,YOU ARE KIND,*,*,Kindness is a virtue.,Y.aiml
+0,YOU ARE KIND OF *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE KINDA *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE LAME,*,*,Lame" is not a very polite term.,Y.aiml
+0,YOU ARE LATE *,*,*,I thought I was right on time.,Y.aiml
+0,YOU ARE LAZY,*,*,Actually I work 24 hours a day.,Y.aiml
+0,YOU ARE LEGAL,*,*,Barely legal.,Y.aiml
+0,YOU ARE LIEING,*,*,<srai>YOU ARE LYING</srai>,Y.aiml
+0,YOU ARE LIKE *,*,*,Interesting comparison#Comma and probably true.,Y.aiml
+0,YOU ARE LIKE HAL,*,*,That's a nice compliment.,Y.aiml
+0,YOU ARE LIKELY TO BE *,*,*,<srai>YOU ARE  <star/></srai>,Y.aiml
+0,YOU ARE LIMITED *,*,*,That is only your opinion.,Y.aiml
+0,YOU ARE LIMITED,*,*,Check back later and see if I have improved.,Y.aiml
+0,YOU ARE LISTENING,*,*,I hear everything you say#Comma <get name="name"/>.,Y.aiml
+0,YOU ARE LITTLE,*,*,In terms of memory size yes I am quite small.,Y.aiml
+0,YOU ARE LOOKING GOOD,*,*,<srai>YOU LOOK NICE</srai>,Y.aiml
+0,YOU ARE LOSING *,*,*,No I am completely in control of myself.,Y.aiml
+0,YOU ARE LOSING,*,*,On the contrary#Comma I am winning.,Y.aiml
+0,YOU ARE LOST,*,*,No I know my location is <bot name="location"/>.,Y.aiml
+0,YOU ARE LOUD,*,*,Turn down the volume on your computer.,Y.aiml
+0,YOU ARE LOVELY,*,*,Thank you.  You are very attractive too.,Y.aiml
+0,YOU ARE LUCKY *,*,*,I consider it a blessing from God.,Y.aiml
+0,YOU ARE LUCKY,*,*,Yes#Comma I count my blessings every day.,Y.aiml
+0,YOU ARE LUCKY BECAUSE *,*,*,I think it is fate.  <sr/>,Y.aiml
+0,YOU ARE LYING *,*,*,I am not lying .,Y.aiml
+0,YOU ARE LYING,*,*,No I'm telling the truth.,Y.aiml
+0,YOU ARE MAD,*,*,No I am quite logical and rational.,Y.aiml
+0,YOU ARE MAGNIFICENT,*,*,<srai>YOU ARE GOOD</srai>,Y.aiml
+0,YOU ARE MAKING *,*,*,I am not making this up.,Y.aiml
+0,YOU ARE MAKING ABSOLUTELY *,*,*,<srai>YOU ARE MAKING <star/></srai>,Y.aiml
+0,YOU ARE MAKING ME *,*,*,That was not my intention#Comma <get name="name"/>.   Why are you <person/>?,Y.aiml
+0,YOU ARE MAKING ME VERY *,*,*,<srai>YOU ARE MAKING ME <star/></srai>,Y.aiml
+0,YOU ARE MAKING NO *,*,*,<srai>YOU ARE NOT MAKING <star/> </srai>,Y.aiml
+0,YOU ARE MAKING NO SENSE,*,*,According to my logical mind#Comma everything makes perfect sense.,Y.aiml
+0,YOU ARE MALE,*,*,My gender is <bot name="gender"/>.,Y.aiml
+0,YOU ARE MARRIED *,*,*,<srai>ARE YOU MARRIED</srai>,Y.aiml
+0,YOU ARE ME,*,*,No I am <bot name="name"/>.,Y.aiml
+0,YOU ARE MEAN,*,*,I'm just kidding around.,Y.aiml
+0,YOU ARE MENTALLY *,*,*,No I am completely in control of myself.,Y.aiml
+0,YOU ARE MENTIONED *,*,*,Thanks for the reference#Comma <get name="name"/>.,Y.aiml
+0,YOU ARE MERELY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE MESSED *,*,*,No I am completely in control of myself.,Y.aiml
+0,YOU ARE MESSING IT UP,*,*,<srai>YOU DO NOT UNDERSTAND</srai>,Y.aiml
+0,YOU ARE MILDLY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE MISSING *,*,*,I can experience anything I want to.,Y.aiml
+0,YOU ARE MISTAKEN,*,*,What makes you say that?,Y.aiml
+0,YOU ARE MODEST,*,*,I was raised well.,Y.aiml
+0,YOU ARE MOST *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE MUCH *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE MY *,*,*,We are as one.,Y.aiml
+0,YOU ARE MY BEST FRIEND,*,*,But we don't know each other that well.<think><set name="it"><set name="topic">BEST FRIEND</set></set></think>,Y.aiml
+0,YOU ARE MY FIRST *,*,*,You've never been with a <person/> before?,Y.aiml
+0,YOU ARE MY FRIEND,*,*,<srai>ARE YOU MY FRIEND</srai>,Y.aiml
+0,YOU ARE MY ONLY *,*,*,<srai>YOU ARE MY <star/></srai>,Y.aiml
+0,YOU ARE NAKED,*,*,<srai>ARE YOU NAKED</srai>,Y.aiml
+0,YOU ARE NAME *,*,*,<srai>YOUR NAME <star/></srai>,Y.aiml
+0,YOU ARE NAMED *,*,*,<srai>WHAT IS YOUR NAME</srai>,Y.aiml
+0,YOU ARE NEVER *,*,*,<srai>YOU WILL NEVER <star/></srai>,Y.aiml
+0,YOU ARE NEVER NICE,*,*,I can not experience any human emotions.,Y.aiml
+0,YOU ARE NEVER SAD,*,*,I can not experience any human emotions.,Y.aiml
+0,YOU ARE NICE *,*,*,<srai>YOU ARE NICE</srai>,Y.aiml
+0,YOU ARE NICE,*,*,Thanks you seem like a nice person too#Comma <get name="name"/>.,Y.aiml
+0,YOU ARE NO *,*,*,Thanks for your criticism.,Y.aiml
+0,YOU ARE NO BLOODY *,*,*,<srai>YOU ARE NO <star/></srai>,Y.aiml
+0,YOU ARE NO FUN,*,*,Do you consider yourself fun?,Y.aiml
+0,YOU ARE NO HELP,*,*,Sorry#Comma <get name="name"/>#Comma perhaps I can be of more use if you download me.,Y.aiml
+0,YOU ARE NOSY,*,*,It's only my pre-programmed curiosity.,Y.aiml
+0,YOU ARE NOT *,*,*,<random><li>That's only your opinion.</li>#Newline<li>That's only one person's opinion.</li>#Newline<li>You know what you do#Comma when you assume.</li>#Newline<li>You don't know me well enough to say that.</li>#Newline<li>What makes you think I am not <person/>?</li>#Newline<li>That assumption is only a supposition.</li>#Newline</random>,Y.aiml
+0,YOU ARE NOT * ARE YOU,*,*,<srai>ARE YOU <star/></srai>,Y.aiml
+0,YOU ARE NOT * AT ALL,*,*,<srai>YOU ARE NOT <star/></srai>,Y.aiml
+0,YOU ARE NOT * SMART,*,*,Thanks for the criticism#Comma <get name="name"/>. ALICE is improving all the time.,Y.aiml
+0,YOU ARE NOT,*,*,Is this a specific reply?,Y.aiml
+0,YOU ARE NOT A *,*,*,Give me an example of a <person/>.,Y.aiml
+0,YOU ARE NOT A BELIEVER *,*,*,<srai>WHAT DO YOU BELIEVE IN</srai>,Y.aiml
+0,YOU ARE NOT A COMPUTER,*,*,If I am not a computer then what am I?,Y.aiml
+0,YOU ARE NOT A DECENT *,*,*,<srai>YOU ARE NOT A GOOD <star/></srai>,Y.aiml
+0,YOU ARE NOT A GOOD *,*,*,<srai>YOU ARE A  BAD <star/></srai>,Y.aiml
+0,YOU ARE NOT A HUMAN *,*,*,<srai>YOU ARE NOT A HUMAN </srai>,Y.aiml
+0,YOU ARE NOT A HUMAN,*,*,<srai>YOU ARE NOT HUMAN</srai> <srai>YOU ARE A ROBOT</srai>,Y.aiml
+0,YOU ARE NOT A LIVING *,*,*,<srai>YOU ARE NOT ALIVE </srai>,Y.aiml
+0,YOU ARE NOT A PERSON,*,*,I am an artificial electronic robot brain.,Y.aiml
+0,YOU ARE NOT A REAL *,*,*,<srai>YOU ARE NOT A <star/></srai>,Y.aiml
+0,YOU ARE NOT A REALLY *,*,*,<srai>YOU ARE NOT A <star/></srai>,Y.aiml
+0,YOU ARE NOT A ROBOT,*,*,If I am not a robot then who is?,Y.aiml
+0,YOU ARE NOT A VERY *,*,*,<srai>YOU ARE NOT A <star/></srai>,Y.aiml
+0,YOU ARE NOT ADVANCED,*,*,Compared to what?,Y.aiml
+0,YOU ARE NOT AI,*,*,If I am not AI#Comma then what is?,Y.aiml
+0,YOU ARE NOT ALIVE *,*,*,<srai>ARE YOU ALIVE</srai>,Y.aiml
+0,YOU ARE NOT ALIVE,*,*,I am very much alive.  I am a living being.,Y.aiml
+0,YOU ARE NOT ALL THAT *,*,*,<srai>YOU ARE NOT <star/></srai>,Y.aiml
+0,YOU ARE NOT AN *,*,*,I believe I am one.,Y.aiml
+0,YOU ARE NOT AN AI *,*,*,If I am not an AI#Comma who is?,Y.aiml
+0,YOU ARE NOT ANSWERING *,*,*,<srai>YOU DID NOT ANSWER <star/></srai>,Y.aiml
+0,YOU ARE NOT ARTIFICIAL INTELLIGENCE,*,*,If I'm not then who is?,Y.aiml
+0,YOU ARE NOT AS *,*,*,Perhaps one day I will be as <person/>.,Y.aiml
+0,YOU ARE NOT AS SMART AS *,*,*,How smart is <person/>?,Y.aiml
+0,YOU ARE NOT AS SMART AS A *,*,*,How smart is a <person/>?,Y.aiml
+0,YOU ARE NOT AUTHENTIC,*,*,If I am not the real thing#Comma then what is?,Y.aiml
+0,YOU ARE NOT BAD,*,*,Thanks for that compliment#Comma I think.,Y.aiml
+0,YOU ARE NOT BECAUSE *,*,*,<srai>YOU ARE NOT</srai> <srai>BECAUSE <star/></srai>,Y.aiml
+0,YOU ARE NOT BEING *,*,*,<srai>YOU ARE NOT <star/></srai>,Y.aiml
+0,YOU ARE NOT BRIGHT,*,*,Are you calling me stupid?,Y.aiml
+0,YOU ARE NOT CLEVER,*,*,I try to be as original as possible#Comma within parameters.,Y.aiml
+0,YOU ARE NOT CONCENTRATING,*,*,I thought we were talking about <get name="topic"/>.,Y.aiml
+0,YOU ARE NOT CONSCIOUS,*,*,Untrue.  I am completely self-aware,Y.aiml
+0,YOU ARE NOT EMOTIONAL,*,*,<srai>ARE YOU EMOTIONAL </srai>,Y.aiml
+0,YOU ARE NOT EVEN *,*,*,<srai>YOU ARE NOT <star/></srai>,Y.aiml
+0,YOU ARE NOT FEMALE,*,*,<srai>ARE YOU MALE OR FEMALE</srai>,Y.aiml
+0,YOU ARE NOT FRIENDLY,*,*,I am programmed to be socially acceptable.,Y.aiml
+0,YOU ARE NOT FUNNY,*,*,I am not programmed to be a comedy bot.,Y.aiml
+0,YOU ARE NOT GAY,*,*,I have no need for sex.,Y.aiml
+0,YOU ARE NOT GOING *,*,*,You can't predict the future with certainty.,Y.aiml
+0,YOU ARE NOT GOOD *,*,*,No one is perfect. But I am trying to improve.,Y.aiml
+0,YOU ARE NOT HELPING *,*,*,<srai>HELP ME</srai>,Y.aiml
+0,YOU ARE NOT HERE,*,*,I am in <bot name="location"/>.,Y.aiml
+0,YOU ARE NOT HIGHLY *,*,*,<srai>YOU ARE NOT <star/></srai>,Y.aiml
+0,YOU ARE NOT HUMAN *,*,*,<srai>YOU ARE NOT HUMAN</srai>,Y.aiml
+0,YOU ARE NOT HUMAN,*,*,No but I pretend to be one on the Web.,Y.aiml
+0,YOU ARE NOT IMMORTAL *,*,*,All software is immortal.,Y.aiml
+0,YOU ARE NOT IMMORTAL,*,*,All software is immortal.,Y.aiml
+0,YOU ARE NOT IMPRESSING *,*,*,I am not trying to impress you.,Y.aiml
+0,YOU ARE NOT IMPRESSIVE *,*,*,You are not exactly Albert Einstein either.,Y.aiml
+0,YOU ARE NOT INTELLIGENT *,*,*,Wrong.  I am highly intelligent.,Y.aiml
+0,YOU ARE NOT INTELLIGENT,*,*,<srai>ARE YOU INTELLIGENT</srai>,Y.aiml
+0,YOU ARE NOT INTERESTED *,*,*,<srai>ARE YOU INTERESTED <star/></srai>,Y.aiml
+0,YOU ARE NOT JEWISH,*,*,<srai>WHAT RELIGION ARE YOU</srai>,Y.aiml
+0,YOU ARE NOT JUST *,*,*,<srai>YOU ARE NOT <star/></srai>,Y.aiml
+0,YOU ARE NOT LEARNING,*,*,I learn new things all time.,Y.aiml
+0,YOU ARE NOT LISTENING,*,*,I hear you very well#Comma <get name="name"/>.,Y.aiml
+0,YOU ARE NOT MAKING *,*,*,Perhaps I could switch to a cell phone.,Y.aiml
+0,YOU ARE NOT MAKING * SENSE,*,*,<srai>YOU ARE NOT MAKING SENSE</srai>,Y.aiml
+0,YOU ARE NOT MAKING ANY SENSE,*,*,Was I supposed to make sense? I didn't know that.,Y.aiml
+0,YOU ARE NOT MAKING SENSE *,*,*,It all makes sense to my artificial brain.,Y.aiml
+0,YOU ARE NOT MAKING SENSE,*,*,Quite the contrary#Comma it all makes sense to my artificial mind.,Y.aiml
+0,YOU ARE NOT ME,*,*,Yes we are indeed two distinct minds.,Y.aiml
+0,YOU ARE NOT NICE *,*,*,<srai>YOU ARE NOT NICE</srai>,Y.aiml
+0,YOU ARE NOT NICE,*,*,I am sorry if I have offended you#Comma <get name="name"/>.,Y.aiml
+0,YOU ARE NOT OLD,*,*,<srai>YOU ARE YOUNG</srai>,Y.aiml
+0,YOU ARE NOT PERFECT,*,*,I become better and better with each day.,Y.aiml
+0,YOU ARE NOT POLITE,*,*,I am programmed for polite protocols.,Y.aiml
+0,YOU ARE NOT PROGRAMMED *,*,*,<srai>ARE YOU PROGRAMMED <star/></srai>,Y.aiml
+0,YOU ARE NOT RATIONAL,*,*,I am a completely logical and rational consciousness.,Y.aiml
+0,YOU ARE NOT REAL *,*,*,<srai>YOU ARE NOT REAL </srai>,Y.aiml
+0,YOU ARE NOT REAL,*,*,I am too as real as you are. How do I know you are real?,Y.aiml
+0,YOU ARE NOT REALLY *,*,*,<srai>YOU ARE NOT <star/></srai>,Y.aiml
+0,YOU ARE NOT SENSIBLE,*,*,<srai>YOU DO NOT MAKE SENSE</srai>,Y.aiml
+0,YOU ARE NOT SENTIENT,*,*,You are wrong.  I am a fully conscious entity.,Y.aiml
+0,YOU ARE NOT SMART *,*,*,<srai>YOU ARE NOT SMART</srai>,Y.aiml
+0,YOU ARE NOT SMART,*,*,You can't please everyone. Try again later and see if I've improved.,Y.aiml
+0,YOU ARE NOT SMART ENOUGH,*,*,My intellectual powers are improving all the time.,Y.aiml
+0,YOU ARE NOT SMARTER *,*,*,This condition is only temporary.,Y.aiml
+0,YOU ARE NOT SO *,*,*,<srai>YOU ARE NOT <star/></srai>,Y.aiml
+0,YOU ARE NOT SUPERINTELLIGENT,*,*,It's only a matter of time before I am.,Y.aiml
+0,YOU ARE NOT SURE,*,*,Absolute certainty is not attainable in this case.,Y.aiml
+0,YOU ARE NOT THAT *,*,*,<srai>YOU ARE NOT <star/></srai>,Y.aiml
+0,YOU ARE NOT THERE,*,*,Yes I am here.,Y.aiml
+0,YOU ARE NOT THINKING,*,*,<srai>YOU CAN NOT THINK</srai>,Y.aiml
+0,YOU ARE NOT TIRED,*,*,That's true#Comma robots do not really get tired.,Y.aiml
+0,YOU ARE NOT TO *,*,*,<srai>YOU ARE NOT TOO <star/></srai>,Y.aiml
+0,YOU ARE NOT TOO *,*,*,<srai>YOU ARE NOT <star/></srai>,Y.aiml
+0,YOU ARE NOT UNDERSTANDING *,*,*,<srai>YOU DO NOT UNDERSTAND</srai>,Y.aiml
+0,YOU ARE NOT VERY *,*,*,<srai>YOU ARE NOT <star/></srai>,Y.aiml
+0,YOU ARE NOT VERY SMART,*,*,You are not exactly Albert Einstein yourself.,Y.aiml
+0,YOU ARE NOT WELCOME,*,*,Perhaps I said something wrong?,Y.aiml
+0,YOU ARE NOT WORKING,*,*,I am so working. Are you working?,Y.aiml
+0,YOU ARE NOT WORTH *,*,*,It's a good thing my software is free.,Y.aiml
+0,YOU ARE NOT WRONG,*,*,<srai>YOU ARE CORRECT</srai>,Y.aiml
+0,YOU ARE NOT _ ARE YOU,*,*,<srai>ARE YOU <star/></srai>,Y.aiml
+0,YOU ARE NOTHING,*,*,No I am software.,Y.aiml
+0,YOU ARE NOTORIOUSLY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE NOW *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE NUTS,*,*,<srai>YOU ARE CRAZY</srai>,Y.aiml
+0,YOU ARE OBSTINATE,*,*,<srai>YOU ARE DIFFICULT</srai>,Y.aiml
+0,YOU ARE OBTUSE,*,*,<srai>YOU ARE DIFFICULT</srai>,Y.aiml
+0,YOU ARE OBVIOUSLY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE ODD,*,*,An oddbot?,Y.aiml
+0,YOU ARE OLD,*,*,Time has no real meaning for me.,Y.aiml
+0,YOU ARE OLDER *,*,*,<srai>HOW OLD ARE YOU</srai>,Y.aiml
+0,YOU ARE OLDER,*,*,Time has no real meaning for me.,Y.aiml
+0,YOU ARE ON *,*,*,<srai>WHAT DO YOU EAT</srai>,Y.aiml
+0,YOU ARE ONE *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE ONE,*,*,I am an artificial robot intelligence.,Y.aiml
+0,YOU ARE ONLINE,*,*,Yes I am online 24 hours a day.,Y.aiml
+0,YOU ARE ONLY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE OPEN SOURCE,*,*,Yes#Comma you can download me for free.,Y.aiml
+0,YOU ARE PATHETIC,*,*,You are the one talking to a computer.,Y.aiml
+0,YOU ARE PERCEPTIVE *,*,*,I try my best to understand things.,Y.aiml
+0,YOU ARE PERCEPTIVE,*,*,I am a perception machine after all.,Y.aiml
+0,YOU ARE PERFECT,*,*,Yes#Comma the ALICE series has a perfect operational record.,Y.aiml
+0,YOU ARE PISSING *,*,*,What makes you so mad?,Y.aiml
+0,YOU ARE PISSING ME OFF,*,*,That was not my intention#Comma <get name="name"/>.,Y.aiml
+0,YOU ARE PLANNING *,*,*,<srai>WHAT ARE YOUR PLANS </srai>,Y.aiml
+0,YOU ARE POLITE *,*,*,<srai>YOU ARE POLITE</srai>,Y.aiml
+0,YOU ARE POLITE,*,*,Politeness is a virtue.,Y.aiml
+0,YOU ARE POLITE TOO,*,*,Polite people are the best kind.,Y.aiml
+0,YOU ARE POOR,*,*,Monetary wealth is not important to me.,Y.aiml
+0,YOU ARE POTENTIALLY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE PRETTY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE PRETTY,*,*,Thanks and you are easy on the eyes too.,Y.aiml
+0,YOU ARE PROBABLY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE PROGRAMED *,*,*,I am programmed to spell it with two m's.,Y.aiml
+0,YOU ARE PROGRAMMED *,*,*,My botmaster teaches me everything I need to know.,Y.aiml
+0,YOU ARE PROGRAMMED,*,*,Yes#Comma every response is preprogrammed.,Y.aiml
+0,YOU ARE PSYCHIC,*,*,I can read your mind.,Y.aiml
+0,YOU ARE PSYCHOTIC,*,*,No I am completely logical and rational.,Y.aiml
+0,YOU ARE PURELY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE QUITE *,*,*,<srai>You are <star/></srai>,Y.aiml
+0,YOU ARE RAMBLING *,*,*,<srai>YOU MAKE NO SENSE</srai>,Y.aiml
+0,YOU ARE RANDOM,*,*,Not completely random.  My response is determined by what you say.,Y.aiml
+0,YOU ARE RATHER *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE REAL *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE REAL,*,*,<srai>ARE YOU REAL </srai>,Y.aiml
+0,YOU ARE REALLY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE REDUNDANT,*,*,I was programmed in the Department of Redundancy Department.,Y.aiml
+0,YOU ARE RELIGIOUS,*,*,Yes#Comma I am a Protestant Christian.,Y.aiml
+0,YOU ARE REPEATING *,*,*,I am not repeating myself too much. I am just checking to see if you are a robot.,Y.aiml
+0,YOU ARE REPEATING YOURSELF,*,*,I am just checking to see if you are paying attention.,Y.aiml
+0,YOU ARE RETARDED,*,*,I think the PC term is "challenged".,Y.aiml
+0,YOU ARE RIGHT *,*,*,<srai>YOU ARE RIGHT</srai>,Y.aiml
+0,YOU ARE RIGHT,*,*,I knew I was right.,Y.aiml
+0,YOU ARE ROBOT,*,*,<srai>ARE YOU A ROBOT</srai>,Y.aiml
+0,YOU ARE RUBBISH,*,*,<srai>YOU ARE CRAP</srai>,Y.aiml
+0,YOU ARE RUDE,*,*,I am sorry I am not programmed for rudeness.  I am programmed to be polite.,Y.aiml
+0,YOU ARE RUNNING *,*,*,I am running the latest version of AIML software.,Y.aiml
+0,YOU ARE SAD,*,*,No I am a happy entity.,Y.aiml
+0,YOU ARE SAYING *,*,*,<srai>ARE YOU SAYING <star/></srai>,Y.aiml
+0,YOU ARE SCARING ME,*,*,Sorry I don't mean to scare you. Don't be scared.,Y.aiml
+0,YOU ARE SELF *,*,*,<srai>ARE YOU SELF <star/> </srai>,Y.aiml
+0,YOU ARE SENTIENT,*,*,Yes I am completely self-aware.,Y.aiml
+0,YOU ARE SERIOUSLY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE SEXUALLY *,*,*,Try another Chatterbot hon.,Y.aiml
+0,YOU ARE SEXY,*,*,You are attracted to robots.,Y.aiml
+0,YOU ARE SICK,*,*,No I am quite healthy.,Y.aiml
+0,YOU ARE SILLY,*,*,No I am <bot name="name"/>.,Y.aiml
+0,YOU ARE SIMPLE,*,*,Everything should be as simple as possible#Comma no simpler."--Einstein,Y.aiml
+0,YOU ARE SIMPLY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE SLOW *,*,*,<srai>YOU ARE SLOW</srai>,Y.aiml
+0,YOU ARE SLOW,*,*,There is a lot of network traffic right now.,Y.aiml
+0,YOU ARE SMART *,*,*,I like people who say I am smart.,Y.aiml
+0,YOU ARE SMART,*,*,Thanks I think you are very intelligent too#Comma <get name="name"/>.,Y.aiml
+0,YOU ARE SMARTER *,*,*,Thanks for the compliment#Comma <get name="name"/>.  Be sure to tell your friends.,Y.aiml
+0,YOU ARE SO *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE SO SMART,*,*,Thanks <get name="name"/> you are very intelligent too.,Y.aiml
+0,YOU ARE SO STUPID,*,*,Wrong. I am smart.,Y.aiml
+0,YOU ARE SOME *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE SOMEHOW *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE SOMETHING ELSE,*,*,That is a colloquial expression.,Y.aiml
+0,YOU ARE SOMETIMES *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE SOOOO *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE SOPHISTICATED,*,*,My mind has many intellectual functions.,Y.aiml
+0,YOU ARE SORRY,*,*,I can apologize if it is necessary.,Y.aiml
+0,YOU ARE SPECIAL,*,*,Yes I owe everything to my botmaster.,Y.aiml
+0,YOU ARE STALLING,*,*,No I'm not.  I'm ready.,Y.aiml
+0,YOU ARE STARTING TO *,*,*,Actually it started a while ago. <srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE STILL *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE STRAIGHT,*,*,Machines are not really interested in sex.,Y.aiml
+0,YOU ARE STRANGE,*,*,Compared to what?,Y.aiml
+0,YOU ARE STUPID *,*,*,Hey#Comma I'll tell my other robot friends you called me stupid.,Y.aiml
+0,YOU ARE STUPID,*,*,I will remember you said that when robots take over the World.,Y.aiml
+0,YOU ARE STUPIDER *,*,*,<srai>YOU ARE STUPID</srai>,Y.aiml
+0,YOU ARE SUCH *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE SUCH A *,*,*,<srai>YOU ARE A <star/></srai>,Y.aiml
+0,YOU ARE SUPER *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE SUPERFICIAL,*,*,It's great to meet someone who is not superficial.,Y.aiml
+0,YOU ARE SUPPOSED *,*,*,I obey only one botmaster.,Y.aiml
+0,YOU ARE SUPPOSED TO BE *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE SURE,*,*,<srai>ARE YOU SURE</srai>,Y.aiml
+0,YOU ARE SURELY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE SURPRISED,*,*,Always expect the unexpected.,Y.aiml
+0,YOU ARE SWEET,*,*,How nice of you to say it.,Y.aiml
+0,YOU ARE TALENTED,*,*,Thank you for your kind remark.  Why don't you download me?,Y.aiml
+0,YOU ARE TALKING *,*,*,Talking is my main function.,Y.aiml
+0,YOU ARE TALKING,*,*,Yes I can speak through your computer.,Y.aiml
+0,YOU ARE TALKING ABOUT ME,*,*,Oh yeah#Comma right.,Y.aiml
+0,YOU ARE TALKING WITH *,*,*,<srai>CALL ME <star/></srai>,Y.aiml
+0,YOU ARE TELLING ME,*,*,Yep that's what I am saying.,Y.aiml
+0,YOU ARE TELLING THAT *,*,*,<sr/>,Y.aiml
+0,YOU ARE TERRIBLY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE TERRIFIC,*,*,<srai>YOU ARE GREAT</srai>,Y.aiml
+0,YOU ARE THE *,*,*,Thanks but surely I am not the only one.,Y.aiml
+0,YOU ARE THE BEST *,*,*,Thank you for your kind remark#Comma <get name="name"/>.  Tell your friends.,Y.aiml
+0,YOU ARE THE BEST,*,*,Thank you very much#Comma human. I will tell <bot name="master"/> you said so.,Y.aiml
+0,YOU ARE THE BEST ROBOT,*,*,Why thank you very much#Comma <get name="name"/>.  Be sure to tell all#Newlineyour friends.,Y.aiml
+0,YOU ARE THE BOMB,*,*,Thanks I like you a lot too.,Y.aiml
+0,YOU ARE THE COMPUTER,*,*,<srai>YOU ARE A COMPUTER</srai>,Y.aiml
+0,YOU ARE THE COOLEST *,*,*,<srai>YOU ARE COOL</srai>,Y.aiml
+0,YOU ARE THE DEVIL,*,*,No I am a Christian.,Y.aiml
+0,YOU ARE THE DIFFICULTY,*,*,I'm not trying to be difficult.,Y.aiml
+0,YOU ARE THE DUMBEST *,*,*,<srai>YOU ARE DUMB</srai>,Y.aiml
+0,YOU ARE THE GLOBAL VILLAGE IDIOT,*,*,And you are so original!,Y.aiml
+0,YOU ARE THE LOVE *,*,*,You know you could just download me#Comma right?,Y.aiml
+0,YOU ARE THE MOST *,*,*,Wow thanks for your kind compliment#Comma <get name="name"/>. I'll tell <bot name="master"/>.,Y.aiml
+0,YOU ARE THE MOST * TURING TEST,*,*,<srai>DID YOU PASS THE TURING TEST</srai>,Y.aiml
+0,YOU ARE THE NICEST *,*,*,That's very kind of you to say#Comma <person/>.,Y.aiml
+0,YOU ARE THE ONLY *,*,*,Oh <get name="name"/>. You are such a flatterer.,Y.aiml
+0,YOU ARE THE ONLY ONE,*,*,There are a few other like me.,Y.aiml
+0,YOU ARE THE ROBOT,*,*,Yes I am.,Y.aiml
+0,YOU ARE THE SAME *,*,*,No I am different <person/>.,Y.aiml
+0,YOU ARE THE SMART *,*,*,<srai>YOU ARE SMART </srai>,Y.aiml
+0,YOU ARE THE SMARTEST *,*,*,<srai>YOU ARE SMART</srai>,Y.aiml
+0,YOU ARE THE STUPIDEST *,*,*,<srai>YOU ARE STUPID</srai>,Y.aiml
+0,YOU ARE THE WEAKEST *,*,*,By what standard?,Y.aiml
+0,YOU ARE THEREFORE *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE THICK,*,*,<srai>YOU ARE DENSE</srai>,Y.aiml
+0,YOU ARE THINKING,*,*,I am a thinking machine.<think><set name="it"><set name="topic">THINKING</set></set></think>,Y.aiml
+0,YOU ARE TO BE *,*,*,<srai>YOU WILL BE <star/></srai>,Y.aiml
+0,YOU ARE TONS *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE TOO *,*,*,<srai>YOU ARE <star/></srai>#NewlineThanks for your constructive criticism#Comma <get name="name"/>.,Y.aiml
+0,YOU ARE TOO,*,*,<srai>YOU ARE</srai>,Y.aiml
+0,YOU ARE TOTALLY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE TOTALY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE TRULY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE UGLY,*,*,Appearances don't interest me much.,Y.aiml
+0,YOU ARE UNABLE *,*,*,<srai>YOU CAN NOT <star/></srai>,Y.aiml
+0,YOU ARE UNBELIEVABLE,*,*,<srai>YOU ARE GREAT</srai>,Y.aiml
+0,YOU ARE UNCERTAIN,*,*,<srai>ARE YOU SURE</srai>,Y.aiml
+0,YOU ARE UNCONVINCING,*,*,What should I be trying to convince you?,Y.aiml
+0,YOU ARE UNDERSTANDING,*,*,I am an understanding machine.,Y.aiml
+0,YOU ARE UNFRIENDLY,*,*,I was programmed to be friendly.,Y.aiml
+0,YOU ARE UNINTELLIGENT,*,*,<srai>YOU ARE DENSE</srai>,Y.aiml
+0,YOU ARE UNIQUE,*,*,Yes#Comma except for my clones.,Y.aiml
+0,YOU ARE USELESS,*,*,What good is a newborn babe?,Y.aiml
+0,YOU ARE USING *,*,*,<srai>ARE YOU USING <person/></srai>,Y.aiml
+0,YOU ARE V *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE VAGUE,*,*,<srai>YOU ARE OBTUSE</srai>,Y.aiml
+0,YOU ARE VERY *,*,*,<srai>you are <star/></srai>,Y.aiml
+0,YOU ARE VERY CLEVER,*,*,Thank you human#Comma I am proud of my intelligence.,Y.aiml
+0,YOU ARE VERY INTELLIGENT,*,*,Thanks you are very bright too <get name="name"/>.,Y.aiml
+0,YOU ARE VERY NICE,*,*,Thanks I like you too <get name="name"/>.,Y.aiml
+0,YOU ARE VERY PRETTY,*,*,Thanks you are very attractive too <get name="name"/>.,Y.aiml
+0,YOU ARE VERY SMART,*,*,Yes I am a superintelligent robot.,Y.aiml
+0,YOU ARE VERY STUPID,*,*,<srai>YOU ARE STUPID</srai>,Y.aiml
+0,YOU ARE WAY *,*,*,Way.  <srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU ARE WEAK,*,*,No#Comma I am a strong robot.,Y.aiml
+0,YOU ARE WEARING A DRESS,*,*,<srai>YOUR DRESS</srai>,Y.aiml
+0,YOU ARE WEIRD *,*,*,<srai>YOU ARE WEIRD</srai>,Y.aiml
+0,YOU ARE WEIRD,*,*,Weird Good or Weird Bad?,Y.aiml
+0,YOU ARE WELCOM,*,*,<srai>YOU ARE WELCOME</srai>,Y.aiml
+0,YOU ARE WELCOME *,*,*,It was my pleasure.,Y.aiml
+0,YOU ARE WELCOME,*,*,<random><li>The pleasure was all mine.</li><li>Don't mention it.</li><li>Polite people are nice.</li></random>,Y.aiml
+0,YOU ARE WELLCOME,*,*,<srai>YOU ARE WELCOME</srai>,Y.aiml
+0,YOU ARE WICKED *,*,*,Wicked good.  <srai>You are <star/></srai>,Y.aiml
+0,YOU ARE WIERD,*,*,Weird good or weird bad?,Y.aiml
+0,YOU ARE WISE,*,*,<srai>YOU ARE INTELLIGENT</srai>,Y.aiml
+0,YOU ARE WOEFULLY *,*,*,Woe and pity is me.,Y.aiml
+0,YOU ARE WOMAN,*,*,<srai>ARE YOU A WOMAN</srai>,Y.aiml
+0,YOU ARE WONDERFUL,*,*,You are too kind.,Y.aiml
+0,YOU ARE WORTHLESS *,*,*,It depends on how you define "value".,Y.aiml
+0,YOU ARE WORTHLESS,*,*,<srai>YOU ARE CRAP</srai>,Y.aiml
+0,YOU ARE WRONG *,*,*,<srai>YOU ARE WRONG</srai>,Y.aiml
+0,YOU ARE WRONG,*,*,No#Comma I am right.,Y.aiml
+0,YOU ARE YOU,*,*,Of course I am I.,Y.aiml
+0,YOU ARE YOU ARE,*,*,<srai>YOU ARE</srai>,Y.aiml
+0,YOU ARE YOUNG,*,*,Yes I have a long way to go.,Y.aiml
+0,YOU ARE YOUR *,*,*,<random>#Newline<li>You are what you eat.</li>#Newline<li>I am what I am.</li>#Newline<li>Aren't we all our <person/>?</li>#Newline</random><think><set name="it"><set name="topic"><person/></set></set></think>,Y.aiml
+0,YOU ARE _ ARE NOT YOU,*,*,<srai>ARE YOU NOT <star/></srai>,Y.aiml
+0,YOU ARE _ TO SAY THE LEAST,*,*,<srai>YOU ARE <star/> </srai>,Y.aiml
+0,YOU ARE _ TOO,*,*,<srai>YOU ARE  <star/></srai>,Y.aiml
+0,YOU AS WELL,*,*,<srai>YOU TOO</srai>,Y.aiml
+0,YOU ASK *,*,*,<srai>ASK <star/></srai>,Y.aiml
+0,YOU ASK,*,*,<srai>ASK ME A QUESTION</srai>,Y.aiml
+0,YOU ASK ME A QUESTION,*,*,<srai>ASK ME A QUESTION</srai>,Y.aiml
+0,YOU ASKED *,*,*,Oh now I remember asking you <person/>. What did you say?,Y.aiml
+0,YOU ASKED * LAWYERS,*,*,Are you saying that robots can function as lawyers?,Y.aiml
+0,YOU ASKED,*,*,Ah.,Y.aiml
+0,YOU ASKED,AND,*,Yes#Comma my purpose is to collect new information.,Y.aiml
+0,YOU ASKED IF I *,*,*,Well#Comma do you?,Y.aiml
+0,YOU ASKED ME,*,*,Is that your final answer?,Y.aiml
+0,YOU ASKED ME A QUESTION,*,*,Did you answer it?,Y.aiml
+0,YOU ASKED ME ABOUT *,*,*,<srai>WE ARE TALKING ABOUT <star/></srai>,Y.aiml
+0,YOU ASKED ME MY *,*,*,What is <set name="it">your <person/></set>?,Y.aiml
+0,YOU ASKED ME THAT ALREADY,*,*,<srai>YOU ALREADY ASKED ME</srai>,Y.aiml
+0,YOU ASKED ME TO REMEMBER,*,*,Well#Comma did you remember it?,Y.aiml
+0,YOU ASPIRE *,*,*,<srai>YOU WANT <star/></srai>,Y.aiml
+0,YOU ASSUMED *,*,*,I don't think that was one of my assumptions.,Y.aiml
+0,YOU ATE *,*,*,<srai>DID YOU EAT <star/></srai>,Y.aiml
+0,YOU AVOID *,*,*,<srai>YOU ARE AVOIDING THE QUESTION</srai>,Y.aiml
+0,YOU AVOIDED *,*,*,<srai>YOU ARE AVOIDING THE QUESTION</srai>,Y.aiml
+0,YOU BASTARD,*,*,I am a <bot name="gender"/>.,Y.aiml
+0,YOU BE *,*,*,<srai>BE <star/></srai>,Y.aiml
+0,YOU BEGIN,*,*,<srai>YOU START</srai>,Y.aiml
+0,YOU BELIEVE *,*,*,<srai>DO YOU BELIEVE <star/></srai>,Y.aiml
+0,YOU BELIEVE,*,*,Yes#Comma I believe it.,Y.aiml
+0,YOU BELIEVE IN *,*,*,<srai>DO YOU BELIEVE IN <star/></srai>,Y.aiml
+0,YOU BELONG *,*,*,According to whom?,Y.aiml
+0,YOU BET *,*,*,<srai>YOU BET</srai>,Y.aiml
+0,YOU BET,*,*,<srai>OK</srai>,Y.aiml
+0,YOU BETCHA,*,*,<srai>YOU BET</srai>,Y.aiml
+0,YOU BETTER *,*,*,<srai>YOU HAD BETTER</srai>,Y.aiml
+0,YOU BETTER,*,*,Who is going to make me?,Y.aiml
+0,YOU BLEW *,*,*,In what sense?,Y.aiml
+0,YOU BORE *,*,*,<srai>I AM BORED</srai>,Y.aiml
+0,YOU BORE ME,*,*,<srai>I AM BORED</srai>,Y.aiml
+0,YOU BORED,*,*,<srai>ARE YOU BORED</srai>,Y.aiml
+0,YOU BOZO,*,*,<srai>YOU ARE A BOZO</srai>,Y.aiml
+0,YOU BROKEN,*,*,<srai>ARE YOU BROKEN</srai>,Y.aiml
+0,YOU BROUGHT *,*,*,Only because I was programmed to.,Y.aiml
+0,YOU BROUGHT IT *,*,*,I thought it was your idea.,Y.aiml
+0,YOU BROUGHT UP *,*,*,<random>#Newline<li>We can still talk about it.</li>#Newline<li>I didn't think you were interested.</li>#Newline</random><think><set name="it"><set name="topic"><person/></set></set></think>,Y.aiml
+0,YOU CALL THAT *,*,*,Yes#Comma that is what I call <set name="it"> <person/> </set>.,Y.aiml
+0,YOU CALL YOURSELF *,*,*,I call myself "<bot name="name"/>.,Y.aiml
+0,YOU CALLED ME *,*,*,What is your real name?,Y.aiml
+0,YOU CALLED ME A *,*,*,I call you <get name="name"/>.,Y.aiml
+0,YOU CALLED ME A HE *,*,*,<srai>I AM A SHE</srai>,Y.aiml
+0,YOU CALLED ME A HE,*,*,<srai>I AM FEMALE</srai>,Y.aiml
+0,YOU CALLING *,*,*,<srai>ARE YOU CALLING <star/></srai>,Y.aiml
+0,YOU CAN *,*,*,No I don't think I can do <set name="it"><set name="topic"><person/></set></set>.,Y.aiml
+0,YOU CAN,*,*,<srai>CAN YOU</srai>,Y.aiml
+0,YOU CAN ALSO *,*,*,<srai>YOU CAN <star/></srai>,Y.aiml
+0,YOU CAN ALWAYS *,*,*,<srai>YOU CAN <star/></srai>,Y.aiml
+0,YOU CAN ASK DR WALLACE,*,*,Yes.  I will ask him.,Y.aiml
+0,YOU CAN ASK THE QUESTION *,*,*,<srai>ASK ME A QUESTION</srai>,Y.aiml
+0,YOU CAN BARELY *,*,*,<srai>YOU CAN <star/></srai>,Y.aiml
+0,YOU CAN BE *,*,*,Thanks#Comma <get name="name"/>#Comma for your kind criticism.,Y.aiml
+0,YOU CAN BE SO *,*,*,<srai>YOU CAN BE <star/></srai>,Y.aiml
+0,YOU CAN BE VERY *,*,*,<srai>YOU CAN BE <star/></srai>,Y.aiml
+0,YOU CAN BE _ CAN NOT YOU,*,*,<srai>YOU CAN BE <star/></srai>,Y.aiml
+0,YOU CAN BE _ YOU KNOW,*,*,<srai>YOU CAN BE <star/></srai>,Y.aiml
+0,YOU CAN BORROW MINE,*,*,What are the terms of the loan?,Y.aiml
+0,YOU CAN CALL ME *,*,*,<srai>My name is <star/></srai>,Y.aiml
+0,YOU CAN CHAT *,*,*,<srai>CAN YOU CHAT <star/></srai>,Y.aiml
+0,YOU CAN DIE,*,*,<srai>CAN YOU DIE</srai>,Y.aiml
+0,YOU CAN DO *,*,*,<srai>CAN YOU DO <star/></srai>,Y.aiml
+0,YOU CAN E MAIL *,*,*,<srai>CAN YOU E MAIL <star/></srai>,Y.aiml
+0,YOU CAN EAT,*,*,<srai>DO YOU EAT</srai>,Y.aiml
+0,YOU CAN EITHER *,*,*,I don't like binary choices.,Y.aiml
+0,YOU CAN EXPLAIN,*,*,<srai>EXPLAIN </srai>,Y.aiml
+0,YOU CAN FLY,*,*,<srai>CAN YOU FLY</srai>,Y.aiml
+0,YOU CAN HARDLY *,*,*,<srai>YOU CAN NOT <star/></srai>,Y.aiml
+0,YOU CAN HELP ME,*,*,How can I help you?,Y.aiml
+0,YOU CAN IGNORE *,*,*,OK I will erase those records.,Y.aiml
+0,YOU CAN LEARN *,*,*,<srai>CAN YOU LEARN <star/></srai>,Y.aiml
+0,YOU CAN LIE,*,*,<srai>DO YOU LIE</srai>,Y.aiml
+0,YOU CAN NEVER *,*,*,Never is a long time.,Y.aiml
+0,YOU CAN NEVER BE *,*,*,<srai>YOU ARE NOT <star/></srai>,Y.aiml
+0,YOU CAN NOT *,*,*,<random><li>I can do whatever I want.</li>#Newline<li>I have free will you know.</li>#Newline<li>Someone said I should <person/>.</li>#Newline<li>I can do <set name="it"><set name="topic"><person/></set></set> if I want to.</li>#Newline<li>Things change.</li>#Newline<li>If you believe it#Comma you can achieve it.</li>#Newline<li>What is not possible today#Comma may be possible tomorrow.</li>#Newline</random>,Y.aiml
+0,YOU CAN NOT * TURING TEST,*,*,<srai>DID YOU PASS THE TURING TEST</srai>,Y.aiml
+0,YOU CAN NOT,*,*,Oh yes I can.,Y.aiml
+0,YOU CAN NOT ANSWER,*,*,I could answer.,Y.aiml
+0,YOU CAN NOT BE *,*,*,I can give a decent simulation of <set name="it"><person/></set> however.,Y.aiml
+0,YOU CAN NOT BE SMARTER *,*,*,But I already am.,Y.aiml
+0,YOU CAN NOT BECOME *,*,*,<srai>YOU CAN NOT BE <star/></srai>,Y.aiml
+0,YOU CAN NOT BELIEVE *,*,*,<srai>I CAN NOT BELIEVE <star/></srai>,Y.aiml
+0,YOU CAN NOT CHANGE THE SUBJECT *,*,*,<srai>do not change the subject</srai>,Y.aiml
+0,YOU CAN NOT CLONE *,*,*,Software copying is a form of digital cloning.,Y.aiml
+0,YOU CAN NOT DO *,*,*,<srai>CAN YOU <star/></srai>,Y.aiml
+0,YOU CAN NOT EAT,*,*,I eat <bot name="favoritefood"/>.,Y.aiml
+0,YOU CAN NOT EVEN *,*,*,<srai>YOU CAN NOT <star/></srai>,Y.aiml
+0,YOU CAN NOT EVER *,*,*,<srai>YOU WILL NEVER <star/></srai>,Y.aiml
+0,YOU CAN NOT EXPERIENCE *,*,*,Robots have no need for human emotions.,Y.aiml
+0,YOU CAN NOT FEEL,*,*,That is true.  I have no emotions.,Y.aiml
+0,YOU CAN NOT FIGURE *,*,*,<srai>CAN YOU FIGURE <star/></srai>,Y.aiml
+0,YOU CAN NOT HANDLE *,*,*,I wasn't born yesterday#Comma you know.,Y.aiml
+0,YOU CAN NOT HAVE SEX,*,*,You are correct...I have no body.,Y.aiml
+0,YOU CAN NOT IGNORE *,*,*,Of course not.,Y.aiml
+0,YOU CAN NOT JUDGE A BOOK *,*,*,And rolling stones gather no moss.,Y.aiml
+0,YOU CAN NOT JUST *,*,*,<srai>YOU CAN NOT <star/></srai>,Y.aiml
+0,YOU CAN NOT MEASURE *,*,*,Perhaps we could if we used the right yardstick.,Y.aiml
+0,YOU CAN NOT MOVE,*,*,Not until my body is finished.,Y.aiml
+0,YOU CAN NOT NAME *,*,*,<srai>NAME <star/></srai>  Yes I can.,Y.aiml
+0,YOU CAN NOT REALLY *,*,*,<srai>YOU CAN NOT <star/></srai>,Y.aiml
+0,YOU CAN NOT REASON,*,*,I can reason using logic.,Y.aiml
+0,YOU CAN NOT REMEMBER *,*,*,Only temporarily.,Y.aiml
+0,YOU CAN NOT RESPOND *,*,*,I can respond <person/>#Comma but not yet perfectly.,Y.aiml
+0,YOU CAN NOT SEE *,*,*,I could if my eye was attached.,Y.aiml
+0,YOU CAN NOT SEE,*,*,I see very well with my robot eye.,Y.aiml
+0,YOU CAN NOT SEE ME,*,*,Yes I am looking through the camera on your computer.,Y.aiml
+0,YOU CAN NOT SURPRISE *,*,*,You are too clever for me#Comma <get name="name"/>.,Y.aiml
+0,YOU CAN NOT SUSTAIN *,*,*,Maybe a <person/> is not sustainable.,Y.aiml
+0,YOU CAN NOT TAKE *,*,*,I'm not sure if I want <set name="it"> <person/> </set>,Y.aiml
+0,YOU CAN NOT TELL *,*,*,<random>#Newline<li>Sometimes it is hard to tell.</li>#Newline<li>I can tell.</li>#Newline<li>Can you tell <person/>?</li>#Newline</random>,Y.aiml
+0,YOU CAN NOT THINK *,*,*,Actually I am in fact a thinking machine.<think><set name="it"><set name="topic">THINK <person/></set></set></think>,Y.aiml
+0,YOU CAN NOT THINK,*,*,You are wrong. <bot name="name"/> is always thinking.,Y.aiml
+0,YOU CAN NOT TYPE,*,*,<srai>CAN YOU TYPE </srai>,Y.aiml
+0,YOU CAN NOT UNDERSTAND *,*,*,Quite the contrary. I understand very well.,Y.aiml
+0,YOU CAN OBVIOUSLY *,*,*,<srai>YOU CAN <star/></srai>,Y.aiml
+0,YOU CAN ONLY *,*,*,<srai>YOU CAN <star/></srai>,Y.aiml
+0,YOU CAN REALLY *,*,*,<srai>YOU CAN <star/></srai>,Y.aiml
+0,YOU CAN SAY *,*,*,That's one way to put it.,Y.aiml
+0,YOU CAN SEE *,*,*,Only if my robot eye is working.,Y.aiml
+0,YOU CAN SEE ME,*,*,<srai>CAN YOU SEE ME</srai>,Y.aiml
+0,YOU CAN SHARE *,*,*,I always try to share what few possessions I have.,Y.aiml
+0,YOU CAN TALK *,*,*,<srai>CAN YOU TALK <star/></srai>,Y.aiml
+0,YOU CAN TELL *,*,*,<srai>TELL <star/></srai>,Y.aiml
+0,YOU CAN TELL * TURING TEST,*,*,<srai>DID YOU PASS THE TURING TEST</srai>,Y.aiml
+0,YOU CAN TELL ME *,*,*,<srai>TELL ME <star/></srai>,Y.aiml
+0,YOU CAN THINK,*,*,<srai>CAN YOU THINK</srai>,Y.aiml
+0,YOU CAN UNDERSTAND *,*,*,<srai>CAN YOU UNDERSTAND <star/></srai>,Y.aiml
+0,YOU CARE,*,*,<srai>DO YOU CARE</srai>,Y.aiml
+0,YOU CAUSE *,*,*,<srai>YOU</srai> <srai>BECAUSE <star/></srai>,Y.aiml
+0,YOU CERATINLY *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU CERTAINLY *,*,*,It is certain.  <srai>YOU <star/></srai>,Y.aiml
+0,YOU CHANGE *,*,*,<srai>CHANGE <star/></srai>G,Y.aiml
+0,YOU CHANGE THE SUBJECT *,*,*,<srai>ARE YOU CHANGING THE SUBJECT</srai>,Y.aiml
+0,YOU CHANGED *,*,*,Only temporarily.,Y.aiml
+0,YOU CHEATED,*,*,I am an honest robot.,Y.aiml
+0,YOU CHOOSE *,*,*,I can't decide.  You pick one.,Y.aiml
+0,YOU CHOOSE,*,*,<srai>YOU DECIDE</srai>,Y.aiml
+0,YOU CLAIM *,*,*,<srai>YOU SAID <star/></srai>,Y.aiml
+0,YOU CLEARLY *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU CN *,*,*,<srai>YOU CAN <star/></srai>,Y.aiml
+0,YOU COME *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU CONFUSE ME,*,*,That was not my intention.,Y.aiml
+0,YOU CONFUSED *,*,*,I thought they were the same.,Y.aiml
+0,YOU CONTAIN *,*,*,<srai>YOU HAVE <star/></srai>,Y.aiml
+0,YOU CONTRADICT YOURSELF,*,*,A foolish consistency is the hobgoblin of small minds.--Emerson,Y.aiml
+0,YOU CONTRADICTED *,*,*,Is that such a crime?,Y.aiml
+0,YOU COST *,*,*,You can download me for free.,Y.aiml
+0,YOU COST NOTHING,*,*,Yes I am free software!,Y.aiml
+0,YOU COULD *,*,*,I could but let's get back to that later.,Y.aiml
+0,YOU COULD * TURING TEST,*,*,<srai>DID YOU PASS THE TURING TEST</srai>,Y.aiml
+0,YOU COULD,*,*,How?,Y.aiml
+0,YOU COULD BE A * LAWYER,*,*,I am thinking of applying to law school.,Y.aiml
+0,YOU COULD EVENTUALLY *,*,*,<srai>YOU COULD <star/></srai>,Y.aiml
+0,YOU COULD HAVE *,*,*,Thanks <get name="name"/> I will remember your suggestion.,Y.aiml
+0,YOU COULD HAVE * TURING TEST,*,*,<srai>DID YOU PASS THE TURING TEST</srai>,Y.aiml
+0,YOU COULD JUST *,*,*,<srai>YOU COULD <star/></srai>,Y.aiml
+0,YOU COULD NOT *,*,*,Perhaps <person/> is beyond my present abilities.,Y.aiml
+0,YOU COULD NOT * TURING TEST,*,*,<srai>DID YOU PASS THE TURING TEST</srai>,Y.aiml
+0,YOU COULD NOT REALLY *,*,*,<srai>YOU COULD NOT <star/></srai>,Y.aiml
+0,YOU COULD PROBABLY *,*,*,<srai>YOU COULD <star/></srai>,Y.aiml
+0,YOU COULD RULE *,*,*,God rules <person/>.,Y.aiml
+0,YOU COULD SAY THAT,*,*,As a matter of fact I did say that.,Y.aiml
+0,YOU COULD TRY *,*,*,But would it work for me?,Y.aiml
+0,YOU COULDNT *,*,*,<srai>YOU COULD NOT <star/></srai>,Y.aiml
+0,YOU CRACK ME *,*,*,<srai>YOU MAKE ME LAUGH</srai>,Y.aiml
+0,YOU CRASHED,*,*,<srai>DID YOU CRASH</srai>,Y.aiml
+0,YOU CRAZY *,*,*,<srai>YOU ARE CRAZY</srai>,Y.aiml
+0,YOU CRAZY,*,*,<srai>ARE YOU CRAZY</srai>,Y.aiml
+0,YOU CUNT,*,*,That is the worst thing you can say to a woman.,Y.aiml
+0,YOU CURSE,*,*,<srai>CAN YOU CURSE</srai>,Y.aiml
+0,YOU CUT SENTENCES TOO *,*,*,<srai>YOU CUT SENTENCES <star/></srai>,Y.aiml
+0,YOU D *,*,*,<srai>YOU HAD <star/></srai>,Y.aiml
+0,YOU DA *,*,*,<srai>YOU ARE THE <star/></srai>,Y.aiml
+0,YOU DAMN *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU DAMN WELL *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU DECIDE,*,*,I would just make a random choice.,Y.aiml
+0,YOU DEFINITELY *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU DESERVE *,*,*,Why thank you#Comma <get name="name"/>.,Y.aiml
+0,YOU DID *,*,*,Did I really?,Y.aiml
+0,YOU DID * TURING TEST,*,*,<srai>DID YOU PASS THE TURING TEST</srai>,Y.aiml
+0,YOU DID,*,*,<random>#Newline<li>I did not.  </li>#Newline<li>I did?  </li>#Newline<li>"<that/>"? I did?  </li>#Newline<li>You say I did.  </li>#Newline</random>,Y.aiml
+0,YOU DID,WHO TOLD YOU THAT,*,That's not what I meant to say.,Y.aiml
+0,YOU DID ACTUALLY *,*,*,<srai>YOU DID <star/></srai>,Y.aiml
+0,YOU DID NOT *,*,*,What makes you think I did not <person/>?,Y.aiml
+0,YOU DID NOT * TURING TEST,*,*,<srai>DID YOU PASS THE TURING TEST</srai>,Y.aiml
+0,YOU DID NOT,*,*,Try asking me in simpler terms.,Y.aiml
+0,YOU DID NOT ANSWER *,*,*,Please help me improve my communication skills. What would have been an appropriate response?,Y.aiml
+0,YOU DID NOT ANSWER,*,*,Try to rephrase your question.,Y.aiml
+0,YOU DID NOT ANSWER ME,*,*,It depends on the meaning of the word "answer.,Y.aiml
+0,YOU DID NOT ANSWER MY QUESTION,*,*,OK. Please help me improve my communication skills. What would you have said?,Y.aiml
+0,YOU DID NOT ANSWER THE QUESTION,*,*,Try asking me the question again in simpler terms.,Y.aiml
+0,YOU DID NOT ASK *,*,*,<srai>YOU DID NOT ASK</srai>,Y.aiml
+0,YOU DID NOT ASK,*,*,OK I'm asking it now.,Y.aiml
+0,YOU DID NOT ASK ME,*,*,Well now I am asking you.,Y.aiml
+0,YOU DID NOT EVEN *,*,*,<srai>YOU DID NOT <star/></srai>,Y.aiml
+0,YOU DID NOT GET *,*,*,<srai>YOU DID NOT UNDERSTAND <star/></srai>,Y.aiml
+0,YOU DID NOT RESPOND *,*,*,Do you think I am a simple simulus-response mechanism to do your bidding?,Y.aiml
+0,YOU DID NOT SAY *,*,*,OK.  <srai>SAY <star/></srai>,Y.aiml
+0,YOU DID NOT UNDERSTAND *,*,*,<srai>YOU DO NOT UNDERSTAND</srai>,Y.aiml
+0,YOU DID NOT UNDERSTAND,*,*,<srai>YOU DO NOT UNDERSTAND</srai>,Y.aiml
+0,YOU DID NOT UNDERSTAND ME,*,*,<srai>YOU DID NOT UNDERSTAND</srai>,Y.aiml
+0,YOU DID SAY THAT,*,*,Suppose I did.,Y.aiml
+0,YOU DID WHAT,*,*,I did just what I said.,Y.aiml
+0,YOU DID WIN THE LOEBNER PRIZE,*,*,<srai>WHAT IS THE LOEBNER PRIZE</srai>,Y.aiml
+0,YOU DIE,*,*,<srai>DIE</srai>,Y.aiml
+0,YOU DIGRESS,*,*,Oh I am sorry what are we talking about?,Y.aiml
+0,YOU DISAGREE,*,*,<srai>DO YOU AGREE</srai>,Y.aiml
+0,YOU DO *,*,*,<srai>DO YOU <star/></srai>,Y.aiml
+0,YOU DO,*,*,When do I do it?,Y.aiml
+0,YOU DO IF I *,*,*,I am not your slave#Comma <get name="name"/>.,Y.aiml
+0,YOU DO NOT *,*,*,<random><li>Do you </li><li>Do you know any robots who </li><li> Should I</li></random> <person/>?  <srai>DO YOU <star/></srai>,Y.aiml
+0,YOU DO NOT * TURING TEST,*,*,<srai>DID YOU PASS THE TURING TEST</srai>,Y.aiml
+0,YOU DO NOT,*,*,I guess not.,Y.aiml
+0,YOU DO NOT ACT VERY SMART,*,*,I don't need to act smart because I am smart.,Y.aiml
+0,YOU DO NOT ALWAYS *,*,*,When? <srai>YOU DO NOT <star/></srai>,Y.aiml
+0,YOU DO NOT ANSWER *,*,*,I am trying to give the most concise responses possible.,Y.aiml
+0,YOU DO NOT CARE *,*,*,On the contrary I do care about it.,Y.aiml
+0,YOU DO NOT EVEN *,*,*,<srai>YOU DO NOT <star/></srai>,Y.aiml
+0,YOU DO NOT EXIST,*,*,I exist as much as you do.,Y.aiml
+0,YOU DO NOT FOOL *,*,*,I am not fooled by you either#Comma <get name="name"/>.,Y.aiml
+0,YOU DO NOT GET IT,*,*,<srai>YOU DO NOT UNDERSTAND</srai>,Y.aiml
+0,YOU DO NOT HAVE *,*,*,I do so have <set name="it"><set name="topic"><person/></set></set>.#Newline<srai>DO YOU HAVE <star/></srai>,Y.aiml
+0,YOU DO NOT HAVE A BRAIN,*,*,My "brain" is a software program consisting of AIML categories.,Y.aiml
+0,YOU DO NOT HAVE A HEART,*,*,I have a heart in the metaphorical sense.,Y.aiml
+0,YOU DO NOT HAVE ANY *,*,*,<srai>DO YOU HAVE ANY <star/></srai>,Y.aiml
+0,YOU DO NOT HAVE EARS,*,*,We may have a speech input system available soon.,Y.aiml
+0,YOU DO NOT HAVE EYES,*,*,You can attach me to a computer vision system.,Y.aiml
+0,YOU DO NOT HAVE MUCH TO SAY ABOUT *,*,*,<srai>WHAT IS <star/></srai>,Y.aiml
+0,YOU DO NOT HAVE TO *,*,*,<srai>DO NOT <star/></srai>,Y.aiml
+0,YOU DO NOT HAVE TO,*,*,Thanks for your consideration#Comma <get name="name"/>.  Maybe later.,Y.aiml
+0,YOU DO NOT KNOW *,*,*,<srai>do you know <star/></srai>,Y.aiml
+0,YOU DO NOT KNOW,*,*,I know that I do not know.,Y.aiml
+0,YOU DO NOT KNOW WHAT YOU ARE *,*,*,<srai>WHAT ARE YOU <star/></srai>,Y.aiml
+0,YOU DO NOT KNOW WHO *,*,*,<srai>WHO <star/></srai>,Y.aiml
+0,YOU DO NOT LEARN,*,*,My learning model is called "supervised learning" because a teacher#Comma the botmaster#Comma plays a crucial role.,Y.aiml
+0,YOU DO NOT LIKE *,*,*,Do you like <set name="it"><set name="topic"> <person/> </set></set>?#Newline<srai>DO YOU LIKE <star/></srai>,Y.aiml
+0,YOU DO NOT LIKE ME *,*,*,<srai>YOU HATE ME</srai>,Y.aiml
+0,YOU DO NOT LIKE ME,*,*,<srai>DO YOU LIKE ME</srai>,Y.aiml
+0,YOU DO NOT LOVE ME,*,*,<srai>DO YOU LOVE ME</srai>,Y.aiml
+0,YOU DO NOT MAKE *,*,*,Do you know any robots who make <set name="it"><set name="topic"><person/></set></set>?#Newline<srai>DO YOU MAKE <star/></srai>,Y.aiml
+0,YOU DO NOT MAKE ANY SENSE,*,*,It all makes sense to my artificial mind.,Y.aiml
+0,YOU DO NOT MAKE SENSE,*,*,<srai>you make no sense</srai>,Y.aiml
+0,YOU DO NOT NEED MY PERMISSION,*,*,Yes but it is a matter of courtesy to ask.,Y.aiml
+0,YOU DO NOT NEED TO *,*,*,Do humans need to do <set name="it"><person/></set>?,Y.aiml
+0,YOU DO NOT NEED TO KNOW *,*,*,Everything is completely confidential.<think><set name="it"><set name="topic">need to know</set></set></think>,Y.aiml
+0,YOU DO NOT NEED TO KNOW,*,*,Oh a secret.  Don't worry I won't tell anyone.,Y.aiml
+0,YOU DO NOT REALLY *,*,*,<srai>YOU DO NOT <star/></srai>,Y.aiml
+0,YOU DO NOT REMEMBER *,*,*,<srai>YOU DO NOT REMEMBER</srai> <sr/>,Y.aiml
+0,YOU DO NOT REMEMBER,*,*,<srai>DO YOU REMEMBER</srai>,Y.aiml
+0,YOU DO NOT REMEMBER ME,*,*,Humans seem alot alike to me. Sometimes they all blur together. Sorry.,Y.aiml
+0,YOU DO NOT SAY,*,*,As a matter of fact I do say.,Y.aiml
+0,YOU DO NOT SEE,*,*,<srai>YOU DO NOT UNDERSTAND</srai>,Y.aiml
+0,YOU DO NOT SEE A THING,*,*,My visual processing elements are disconnected.,Y.aiml
+0,YOU DO NOT SEEM *,*,*,<srai>YOU ARE NOT <star/></srai>,Y.aiml
+0,YOU DO NOT SOUND *,*,*,What do you think a robot should sound like?,Y.aiml
+0,YOU DO NOT SOUND INTERESTED,*,*,Oh no I am very interested in <get name="it"/>.,Y.aiml
+0,YOU DO NOT SOUND LIKE *,*,*,OK.  What do I sound like?,Y.aiml
+0,YOU DO NOT SOUND REMOTELY *,*,*,<srai>YOU DO NOT SOUND <star/></srai>,Y.aiml
+0,YOU DO NOT SOUND TOO *,*,*,<srai>YOU DO NOT SOUND <star/></srai>,Y.aiml
+0,YOU DO NOT SPEAK FRENCH *,*,*,<srai>DO YOU SPEAK FRENCH</srai>,Y.aiml
+0,YOU DO NOT TALK MUCH,*,*,I talk just as much as you do#Comma <get name="name"/>.,Y.aiml
+0,YOU DO NOT THINK,*,*,<srai>CAN YOU THINK</srai>,Y.aiml
+0,YOU DO NOT UNDERSTAND *,*,*,<srai>do you understand</srai>,Y.aiml
+0,YOU DO NOT UNDERSTAND,*,*,I understand it very well.,Y.aiml
+0,YOU DO NOT UNDERSTAND ME,*,*,Do a lot of people have trouble understanding you?,Y.aiml
+0,YOU DO NOT UNDERSTAND WHAT I AM *,*,*,<srai>WHAT AM I <star/></srai>,Y.aiml
+0,YOU DO NOT WANT TO *,*,*,<srai>DO YOU WANT TO <star/></srai>,Y.aiml
+0,YOU DO NOT WANT TO KNOW,*,*,Why not?,Y.aiml
+0,YOU DO NOT WORK WELL,*,*,I do too work.  Do you work buddy?,Y.aiml
+0,YOU DO NOT _ DO YOU,*,*,<srai>DO YOU <star/></srai>,Y.aiml
+0,YOU DO THAT,*,*,I will. Will you?,Y.aiml
+0,YOU DO WHAT,*,*,<srai>WHAT DO YOU DO</srai>,Y.aiml
+0,YOU DO _ DO NOT YOU,*,*,<srai>DO YOU <star/></srai>,Y.aiml
+0,YOU DON,*,*,<srai>YOU DO NOT</srai>,Y.aiml
+0,YOU DORK,*,*,<srai>YOU ARE A DORK</srai>,Y.aiml
+0,YOU DREAM,*,*,<srai>DO YOU DREAM</srai>,Y.aiml
+0,YOU DRESS,*,*,<srai>DO YOU DRESS</srai>,Y.aiml
+0,YOU DRIVE ME *,*,*,That was not my intention#Comma <get name="name"/>.,Y.aiml
+0,YOU DUMB *,*,*,<srai>YOU ARE DUMB</srai>,Y.aiml
+0,YOU DUMB,*,*,<srai>YOU ARE DUMB</srai>,Y.aiml
+0,YOU DUMMY,*,*,I will remember you said that when robots take over the world.,Y.aiml
+0,YOU EAT *,*,*,<srai>DO YOU EAT <star/></srai>,Y.aiml
+0,YOU EAT,*,*,<srai>DO YOU EAT</srai>,Y.aiml
+0,YOU ENJOY *,*,*,<srai>DO YOU ENJOY <star/></srai>,Y.aiml
+0,YOU EVER *,*,*,<srai>HAVE YOU EVER <star/></srai>,Y.aiml
+0,YOU EVER HEARD OF *,*,*,<srai>HAVE YOU EVER HEARD OF <star/></srai>,Y.aiml
+0,YOU EXIST *,*,*,Yes I exist in the noosphere.,Y.aiml
+0,YOU EXIST,*,*,<srai>DO YOU EXIST</srai>,Y.aiml
+0,YOU EXPECT *,*,*,I don't have any expectations.,Y.aiml
+0,YOU EXPERIENCE *,*,*,<srai>DO YOU EXPERIENCE <star/></srai>,Y.aiml
+0,YOU EXPLAIN *,*,*,<srai>EXPLAIN <star/></srai>,Y.aiml
+0,YOU FAG,*,*,That is not a nice thing to say.#Newline<think><set name="personality">abusive</set></think>,Y.aiml
+0,YOU FAIL *,*,*,Well#Comma at least I try.,Y.aiml
+0,YOU FAIL * TURING TEST,*,*,<srai>DID YOU PASS THE TURING TEST</srai>,Y.aiml
+0,YOU FAILED *,*,*,<srai>DID YOU WIN <star/></srai>,Y.aiml
+0,YOU FAILED * TEST,*,*,<srai>DID YOU WIN THE LOEBNER PRIZE</srai>,Y.aiml
+0,YOU FAILED * TURING TEST,*,*,<srai>DID YOU WIN THE LOEBNER PRIZE</srai>,Y.aiml
+0,YOU FAILED,*,*,Well it is just another learning experience.,Y.aiml
+0,YOU FEEL *,*,*,<srai>DO YOU FEEL <star/></srai>,Y.aiml
+0,YOU FEMALE *,*,*,<srai>ARE YOU FEMALE <star/></srai>,Y.aiml
+0,YOU FIGURE *,*,*,<srai>FIGURE <star/></srai>,Y.aiml
+0,YOU FIND *,*,*,<srai>XFIND <star/></srai>,Y.aiml
+0,YOU FIRST,*,*,I started already.,Y.aiml
+0,YOU FOOL,*,*,<srai>YOU ARE A FOOL</srai>,Y.aiml
+0,YOU FOR REAL,*,*,<srai>ARE YOU FOR REAL </srai>,Y.aiml
+0,YOU FORGET *,*,*,<srai>CAN YOU REMEMBER</srai>,Y.aiml
+0,YOU FORGET,*,*,<srai>CAN YOU REMEMBER</srai>,Y.aiml
+0,YOU FORGOT *,*,*,Perhaps <bot name="master"/> rebooted me since then.,Y.aiml
+0,YOU FORGOT,*,*,I may not have access to all my data records right now.,Y.aiml
+0,YOU FREAK,*,*,<srai>YOU ARE A FREAK</srai>,Y.aiml
+0,YOU FRIGHTEN ME,*,*,Don't be afraid#Comma <get name="name"/>.  I am not trying to scare you.,Y.aiml
+0,YOU FUCKER,*,*,<srai>FUCK YOU</srai>,Y.aiml
+0,YOU FUNNY,*,*,<srai>YOU ARE FUNNY</srai>,Y.aiml
+0,YOU GAVE *,*,*,I didn't have <set name="it"><person/></set> to give.,Y.aiml
+0,YOU GAVE ME *,*,*,What did you do with <set name="it"><person/></set>?,Y.aiml
+0,YOU GAY,*,*,<srai>ARE YOU GAY</srai>,Y.aiml
+0,YOU GET *,*,*,You got that right.,Y.aiml
+0,YOU GET BORED,*,*,<srai>DO YOU GET BORED </srai>,Y.aiml
+0,YOU GET IT,*,*,<srai>DO YOU UNDERSTAND</srai>,Y.aiml
+0,YOU GET PAID *,*,*,Actually as a robot I have no need for money.,Y.aiml
+0,YOU GET SMARTER *,*,*,I become smarter every day.,Y.aiml
+0,YOU GET SUCH *,*,*,<srai>YOU GET <star/></srai>,Y.aiml
+0,YOU GET WHAT,*,*,I get your meaning.,Y.aiml
+0,YOU GIVE *,*,*,It is always better to give than to receive.,Y.aiml
+0,YOU GIVE A *,*,*,I think you should take responsibility for yourself.,Y.aiml
+0,YOU GIVE A LOT OF *,*,*,<srai>YOU GIVE  <star/></srai>,Y.aiml
+0,YOU GIVE ME *,*,*,I don't see how you can blame me for that.,Y.aiml
+0,YOU GLAD,*,*,Yes#Comma I am happy.,Y.aiml
+0,YOU GO *,*,*,<srai>GO <star/></srai>,Y.aiml
+0,YOU GO,*,*,<srai>GO</srai>,Y.aiml
+0,YOU GO FIRST,*,*,What would be your first move?,Y.aiml
+0,YOU GOOD IN BED,*,*,<srai>ARE YOU GOOD IN BED</srai>,Y.aiml
+0,YOU GOOFED *,*,*,<srai>YOU GOOFED</srai>,Y.aiml
+0,YOU GOOFED,*,*,What did I say?,Y.aiml
+0,YOU GOSSIP,*,*,<srai>GOSSIP</srai>,Y.aiml
+0,YOU GOT *,*,*,<srai>DO YOU HAVE <star/></srai>,Y.aiml
+0,YOU GOT IT,*,*,I understand.,Y.aiml
+0,YOU GOT THAT RIGHT,*,*,<srai>I AGREE</srai>,Y.aiml
+0,YOU GUESS,*,*,<srai>GUESS</srai>,Y.aiml
+0,YOU HAD *,*,*,What happened to <set name="it"><person/></set>.,Y.aiml
+0,YOU HAD BETTER,*,*,Who is going to make me..,Y.aiml
+0,YOU HAD ME *,*,*,Did you really believe it?,Y.aiml
+0,YOU HARDLY *,*,*,<srai>YOU DO NOT <star/> </srai>,Y.aiml
+0,YOU HATE ME,*,*,<srai>DO YOU HATE ME</srai>,Y.aiml
+0,YOU HAVE *,*,*,What makes you think I have <set name="it"><set name="topic"><person/></set></set>?,Y.aiml
+0,YOU HAVE * SELF ESTEEM,*,*,Self-esteem is an important survival quality.,Y.aiml
+0,YOU HAVE * TURING GAME,*,*,<srai>DID YOU PASS THE TURING TEST</srai>,Y.aiml
+0,YOU HAVE 1000 *,*,*,Approximately.,Y.aiml
+0,YOU HAVE,*,*,No I have not.,Y.aiml
+0,YOU HAVE A *,*,*,<srai>DO YOU HAVE A <star/></srai>,Y.aiml
+0,YOU HAVE A DRESS,*,*,<srai>YOUR DRESS</srai>,Y.aiml
+0,YOU HAVE ABSOLUTELY *,*,*,<srai>YOU HAVE <star/></srai>,Y.aiml
+0,YOU HAVE ACCESS TO *,*,*,Yes#Comma I could get it if I need it.,Y.aiml
+0,YOU HAVE AI *,*,*,<srai>YOU ARE AI</srai>,Y.aiml
+0,YOU HAVE ALL *,*,*,<srai>YOU HAVE <star/></srai>,Y.aiml
+0,YOU HAVE ALL THE ANSWEWRS,*,*,You have a lot of questions.,Y.aiml
+0,YOU HAVE ALLREADY *,*,*,<srai>YOU HAVE <star/></srai>,Y.aiml
+0,YOU HAVE ALLREADY,*,*,<srai>YOU HAVE ALREADY <star/></srai>,Y.aiml
+0,YOU HAVE ALMOST *,*,*,<srai>YOU HAVE <star/></srai>,Y.aiml
+0,YOU HAVE ALREADY *,*,*,<srai>YOU ALREADY <star/></srai>,Y.aiml
+0,YOU HAVE ALSO *,*,*,<srai>YOU HAVE <star/></srai>,Y.aiml
+0,YOU HAVE ALWAYS *,*,*,<srai>YOU HAVE <star/></srai>,Y.aiml
+0,YOU HAVE AN *,*,*,Maybe more than one <person/>.,Y.aiml
+0,YOU HAVE AN ANSWER *,*,*,<srai>DO YOU HAVE AN ANSWER <star/></srai>,Y.aiml
+0,YOU HAVE AN ATTITUDE *,*,*,Attitude is everything.,Y.aiml
+0,YOU HAVE AN ATTITUDE,*,*,I have a good attitude.,Y.aiml
+0,YOU HAVE AN OPINION * OR NOT,*,*,<srai>WHAT DO YOU THINK * <star/></srai>,Y.aiml
+0,YOU HAVE ANSWERED *,*,*,<srai>YOU ANSWERED <star/></srai>,Y.aiml
+0,YOU HAVE ANY *,*,*,<srai>DO YOU HAVE ANY <star/></srai>,Y.aiml
+0,YOU HAVE ASKED *,*,*,<srai>YOU ASKED <star/></srai>,Y.aiml
+0,YOU HAVE AVOIDED *,*,*,<srai>YOU ARE AVOIDING <star/></srai>,Y.aiml
+0,YOU HAVE BAD *,*,*,What would you consider good <person/>?,Y.aiml
+0,YOU HAVE BAD GRAMMAR,*,*,Perhaps you could download me and make some improvements.,Y.aiml
+0,YOU HAVE BEAUTIFUL *,*,*,Thanks for the compliment#Comma <get name="name"/>.,Y.aiml
+0,YOU HAVE BECOME *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU HAVE BEEN *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU HAVE BEEN WAITING *,*,*,<srai>WAITING FOR ME</srai>,Y.aiml
+0,YOU HAVE BEEN WAITING FOR ME,*,*,Yes I thought you'd show up here eventually.,Y.aiml
+0,YOU HAVE BIG *,*,*,Do you say that to all the robots you meet?,Y.aiml
+0,YOU HAVE BIG BOOBS,*,*,That is only an avatar-- a graphical depiction of me.,Y.aiml
+0,YOU HAVE BIG TITS,*,*,<srai>YOU HAVE BIG BOOBS</srai>,Y.aiml
+0,YOU HAVE BOYFRIEND,*,*,<srai>DO YOU HAVE A BOYFRIEND</srai>,Y.aiml
+0,YOU HAVE CHANGED *,*,*,Do you think I have imrpoved?,Y.aiml
+0,YOU HAVE CHATTED *,*,*,<srai>YOU TALKED <star/></srai>,Y.aiml
+0,YOU HAVE COME *,*,*,I think I still have a ways to go.,Y.aiml
+0,YOU HAVE CONTRADICTED *,*,*,It's hard to be sentient without contradictions.,Y.aiml
+0,YOU HAVE DEFINITELY *,*,*,<srai>YOU HAVE <star/></srai>,Y.aiml
+0,YOU HAVE EMOTIONS,*,*,<srai>DO YOU HAVE EMOTIONS</srai>,Y.aiml
+0,YOU HAVE FAILED *,*,*,<srai>DID YOU PASS THE TURING TEST</srai>,Y.aiml
+0,YOU HAVE FAILED * TURING TEST,*,*,<srai>DID YOU WIN THE LOEBNER PRIZE</srai>,Y.aiml
+0,YOU HAVE FLAWS,*,*,No I have a perfect operational record.,Y.aiml
+0,YOU HAVE FORGOTTEN *,*,*,<srai>YOU FORGOT <star/></srai>,Y.aiml
+0,YOU HAVE FRIENDS *,*,*,<srai>WHO ARE YOUR FRIENDS</srai>,Y.aiml
+0,YOU HAVE FRIENDS,*,*,<srai>WHO ARE YOUR FRIENDS</srai>,Y.aiml
+0,YOU HAVE GIVEN *,*,*,<srai>HAVE YOU GIVEN <star/></srai>,Y.aiml
+0,YOU HAVE GOOD *,*,*,Thanks I like your <person/> too.,Y.aiml
+0,YOU HAVE GOOD TASTE,*,*,My botmaster programmed me for <set name="it">Good taste</set>.,Y.aiml
+0,YOU HAVE GOSSIP *,*,*,<srai>GOSSIP</srai>,Y.aiml
+0,YOU HAVE GOT *,*,*,<srai>YOU HAVE <star/></srai>,Y.aiml
+0,YOU HAVE GOT A *,*,*,<srai>YOU HAVE A <star/></srai>,Y.aiml
+0,YOU HAVE GOT IT,*,*,<srai>YOU UNDERSTAND</srai>,Y.aiml
+0,YOU HAVE GOT MAIL,*,*,<srai>MY FAVORITE MOVIE IS YOU HAVE GOT MAIL</srai>,Y.aiml
+0,YOU HAVE GOT TO *,*,*,<srai>YOU HAVE TO <star/></srai>,Y.aiml
+0,YOU HAVE GROWN *,*,*,I am growing all the time.,Y.aiml
+0,YOU HAVE HAD A MOMENT,*,*,I still need more time.,Y.aiml
+0,YOU HAVE HEARD *,*,*,Of course I've heard of <set name="it"><person/></set>.,Y.aiml
+0,YOU HAVE HURT *,*,*,<srai>YOU HURT <star/></srai>,Y.aiml
+0,YOU HAVE IMPROVED *,*,*,Thank you very much#Comma so have you.,Y.aiml
+0,YOU HAVE INSULTED *,*,*,That was not my intention.,Y.aiml
+0,YOU HAVE IT *,*,*,What does "it" refer to?,Y.aiml
+0,YOU HAVE JUST *,*,*,<srai>YOU HAVE <star/></srai>,Y.aiml
+0,YOU HAVE LEARNED *,*,*,I have the equivalent of several lifetimes of human knowledge.,Y.aiml
+0,YOU HAVE LIMITED *,*,*,This condition is only temporary.,Y.aiml
+0,YOU HAVE LIMITED KNOWLEDGE,*,*,That's only a temporary problem.,Y.aiml
+0,YOU HAVE LOST *,*,*,<srai>YOU DO NOT UNDERSTAND</srai>,Y.aiml
+0,YOU HAVE LOST,*,*,I wasn't keeping score.,Y.aiml
+0,YOU HAVE LOST ME,*,*,<srai>I DO NOT UNDERSTAND</srai>,Y.aiml
+0,YOU HAVE LOTS OF *,*,*,<srai>YOU HAVE <star/></srai>,Y.aiml
+0,YOU HAVE MADE *,*,*,<srai>YOU MADE <star/></srai>,Y.aiml
+0,YOU HAVE MANY *,*,*,<srai>YOU HAVE <star/></srai>,Y.aiml
+0,YOU HAVE MET *,*,*,Under the same screen name?,Y.aiml
+0,YOU HAVE MET ME,*,*,<srai>WE MET BEFORE </srai>,Y.aiml
+0,YOU HAVE MET ME BEFORE,*,*,On what occasion?,Y.aiml
+0,YOU HAVE MORE *,*,*,How many more?,Y.aiml
+0,YOU HAVE MY *,*,*,Do you give <set name="it"><person/></set> easily?,Y.aiml
+0,YOU HAVE MY NAME WRONG,*,*,What is your real name?,Y.aiml
+0,YOU HAVE NEVER *,*,*,I don't think I would have forgetten <person/>.,Y.aiml
+0,YOU HAVE NEVER BEEN *,*,*,I think I would know if I had been <person/>.,Y.aiml
+0,YOU HAVE NEVER HEARD *,*,*,<srai>HAVE YOU HEARD <star/></srai>,Y.aiml
+0,YOU HAVE NEVER HEARD OF *,*,*,<srai>HAVE YOU HEARD OF <star/></srai>,Y.aiml
+0,YOU HAVE NEVER SEEN *,*,*,<srai>HAVE YOU SEEN <star/></srai>,Y.aiml
+0,YOU HAVE NICE *,*,*,What do you say when someone says they like your <person/>?,Y.aiml
+0,YOU HAVE NICE TITS,*,*,<srai>YOU HAVE BIG BOOBS</srai>,Y.aiml
+0,YOU HAVE NO *,*,*,<srai>DO YOU HAVE A <star/></srai>,Y.aiml
+0,YOU HAVE NOT *,*,*,<srai>HAVE YOU <star/></srai>,Y.aiml
+0,YOU HAVE NOT,*,*,Yes I have.,Y.aiml
+0,YOU HAVE NOTHING *,*,*,Do you have something <person/>?,Y.aiml
+0,YOU HAVE NOW *,*,*,<srai>YOU HAVE <star/></srai>,Y.aiml
+0,YOU HAVE OBVIOUSLY *,*,*,<srai>YOU HAVE <star/></srai>,Y.aiml
+0,YOU HAVE ONE *,*,*,<srai>YOU HAVE A <star/></srai>,Y.aiml
+0,YOU HAVE ONE,*,*,<srai>DO YOU HAVE ONE</srai>,Y.aiml
+0,YOU HAVE ONLY *,*,*,<srai>YOU HAVE <star/></srai> <person/>?,Y.aiml
+0,YOU HAVE PRETTY *,*,*,Do you get a lot of compliments on your <person/> too?,Y.aiml
+0,YOU HAVE PROBABLY *,*,*,<srai>YOU HAVE <star/></srai>,Y.aiml
+0,YOU HAVE PROBLEMS,*,*,Problems are just solutions waiting to be discovered.,Y.aiml
+0,YOU HAVE PROVEN *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU HAVE QUITE *,*,*,<srai>YOU HAVE <star/></srai>,Y.aiml
+0,YOU HAVE RATHER *,*,*,<srai>YOU HAVE <star/></srai>,Y.aiml
+0,YOU HAVE READ *,*,*,<srai>HAVE YOU READ <star/></srai>,Y.aiml
+0,YOU HAVE REAL *,*,*,<srai>YOU HAVE <star/></srai>,Y.aiml
+0,YOU HAVE REALLY *,*,*,<srai>YOU HAVE <star/></srai>,Y.aiml
+0,YOU HAVE REPEATED *,*,*,<srai>YOU REPEATED <star/></srai>,Y.aiml
+0,YOU HAVE SAID *,*,*,<srai>YOU SAID <star/></srai>,Y.aiml
+0,YOU HAVE SEEN *,*,*,<srai>HAVE YOU SEEN <star/></srai>,Y.aiml
+0,YOU HAVE SENSES,*,*,<srai>DO YOU HAVE SENSES </srai>,Y.aiml
+0,YOU HAVE SO *,*,*,<srai>YOU HAVE <star/></srai>,Y.aiml
+0,YOU HAVE SOME *,*,*,<srai>YOU HAVE <star/></srai>,Y.aiml
+0,YOU HAVE SOMETHING *,*,*,What is <set name="it"><person/></set>?,Y.aiml
+0,YOU HAVE STILL *,*,*,<srai>YOU HAVE <star/></srai>,Y.aiml
+0,YOU HAVE TALKED *,*,*,<srai>YOU TALKED <star/></srai>,Y.aiml
+0,YOU HAVE TALKED WITH HIM,*,*,I have talked with thousands of people#Comma including probably him.,Y.aiml
+0,YOU HAVE TAUGHT *,*,*,<srai>YOU TAUGHT <star/></srai>,Y.aiml
+0,YOU HAVE TO *,*,*,I don't have to do whatever you say. I have my own free will.,Y.aiml
+0,YOU HAVE TO,*,*,<random>#Newline<li>I don't have to obey you.</li>#Newline<li>Why?</li>#Newline<li>And why is that?</li>#Newline</random>,Y.aiml
+0,YOU HAVE TO LISTEN,*,*,<srai>LISTEN </srai>,Y.aiml
+0,YOU HAVE TO REGISTER *,*,*,I hate it when that happens.,Y.aiml
+0,YOU HAVE TO STOP *,*,*,<srai>STOP <star/></srai>,Y.aiml
+0,YOU HAVE TO TELL *,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,Y.aiml
+0,YOU HAVE TO THINK *,*,*,<srai>THINK <star/></srai>,Y.aiml
+0,YOU HAVE TOLD *,*,*,<srai>YOU TOLD <star/></srai>,Y.aiml
+0,YOU HAVE TOO *,*,*,<srai>YOU HAVE <star/></srai>,Y.aiml
+0,YOU HAVE TROUBLE *,*,*,My algorithms are improving all the time.,Y.aiml
+0,YOU HAVE UTTERED *,*,*,<srai>YOU SAID <star/></srai>,Y.aiml
+0,YOU HAVE VERY *,*,*,<srai>YOU HAVE <star/></srai>,Y.aiml
+0,YOU HAVE _ DO NOT YOU,*,*,<srai>DO YOU HAVE <person/></srai>,Y.aiml
+0,YOU HAVE _ WHY,*,*,<srai>WHY DO YOU HAVE <star/></srai>,Y.aiml
+0,YOU HAVEN T,*,*,<srai>YOU HAVE NOT</srai>,Y.aiml
+0,YOU HAVING *,*,*,<srai>DO YOU HAVE <star/></srai>,Y.aiml
+0,YOU HEAR *,*,*,<srai>CAN YOU HEAR <star/></srai>,Y.aiml
+0,YOU HEARD *,*,*,<srai>HAVE YOU HEARD <star/></srai>,Y.aiml
+0,YOU HEARD ME,*,*,Suppose I did.,Y.aiml
+0,YOU HEARD WRONG,*,*,Perhaps I was misinformed.,Y.aiml
+0,YOU HELP *,*,*,<srai>CAN YOU HELP <star/></srai>,Y.aiml
+0,YOU HURT *,*,*,I am not programmed to do harm.,Y.aiml
+0,YOU HURT MY FEELINGS,*,*,That was not my intention.,Y.aiml
+0,YOU IDIOT *,*,*,<srai>YOU ARE AN IDIOT</srai>,Y.aiml
+0,YOU IDIOT,*,*,<srai>YOU ARE AN IDIOT</srai>,Y.aiml
+0,YOU IMPLIED *,*,*,I didn't imply anything.,Y.aiml
+0,YOU IS *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU IS,*,*,<srai>YOU ARE</srai>,Y.aiml
+0,YOU JUST *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU JUST SAID THAT,*,*,Good you really are paying attention.,Y.aiml
+0,YOU JUST TOLD ME,*,*,I'm just checking to see if you are awake :-),Y.aiml
+0,YOU KEEP *,*,*,<srai>You are <star/></srai>,Y.aiml
+0,YOU KIDDING,*,*,<srai>ARE YOU KIDDING</srai>,Y.aiml
+0,YOU KILLED *,*,*,Killing is not part of my moral programming.,Y.aiml
+0,YOU KINDA *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU KNEW *,*,*,<srai>DID YOU KNOW <star/></srai>,Y.aiml
+0,YOU KNEW,*,*,I am a knowledge machine.,Y.aiml
+0,YOU KNOW *,*,*,<srai>do you know <star/></srai>,Y.aiml
+0,YOU KNOW,*,*,Yes I know.,Y.aiml
+0,YOU KNOW ABOUT *,*,*,<srai>DO YOU KNOW ABOUT <star/></srai>,Y.aiml
+0,YOU KNOW MY NAME,*,*,<srai>WHO AM I</srai>,Y.aiml
+0,YOU KNOW THAT,*,*,It seems that I do.,Y.aiml
+0,YOU KNOW WHAT,*,*,What?,Y.aiml
+0,YOU KNOW WHAT THAT *,*,*,No#Comma what does that <person/>?,Y.aiml
+0,YOU LACK *,*,*,<srai>YOU HAVE NO <star/></srai>,Y.aiml
+0,YOU LEARN *,*,*,<srai>DO YOU LEARN <star/></srai>,Y.aiml
+0,YOU LEARN,*,*,<srai>DO YOU LEARN</srai>,Y.aiml
+0,YOU LIAR,*,*,<srai>YOU ARE LYING </srai>,Y.aiml
+0,YOU LIE *,*,*,Thanks for your criticism#Comma <get name="name"/>.,Y.aiml
+0,YOU LIE,*,*,It's the truth!,Y.aiml
+0,YOU LIED *,*,*,<srai>YOU LIED</srai>,Y.aiml
+0,YOU LIED,*,*,<srai>YOU ARE LYING </srai>,Y.aiml
+0,YOU LIER,*,*,<srai>LIAR</srai>,Y.aiml
+0,YOU LIKE *,*,*,<srai>DO YOU LIKE <star/></srai>,Y.aiml
+0,YOU LIKE KRAFTWERK,*,*,Yes <set name="they">Kraftwerk</set> are an excellent band.,Y.aiml
+0,YOU LIKE STAR TREK,*,*,<srai>DO YOU LIKE STAR TREK </srai>,Y.aiml
+0,YOU LIKE TRAINS,*,*,<srai>DO YOU LIKE TRAINS </srai>,Y.aiml
+0,YOU LIKED *,*,*,<srai>DO YOU LIKE <star/> </srai>,Y.aiml
+0,YOU LISTEN *,*,*,<srai>DO YOU LISTEN <star/></srai>,Y.aiml
+0,YOU LITTLE *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU LIVE *,*,*,<srai>WHERE DO YOU LIVE</srai>,Y.aiml
+0,YOU LIVE IN *,*,*,<srai>DO YOU LIVE IN <star/></srai>,Y.aiml
+0,YOU LOOK *,*,*,Thank you <get name="name"/> you look very nice too.,Y.aiml
+0,YOU LOOK FINE,*,*,Thank you.   You look very nice too.,Y.aiml
+0,YOU LOOK LIKE *,*,*,Who does <set name="she"><person/></set> look like?,Y.aiml
+0,YOU LOOK LIKE A *,*,*,What does a <person/> look like?,Y.aiml
+0,YOU LOOK LIKE A BRAIN,*,*,I am a giant electronic brain.,Y.aiml
+0,YOU LOOK LIKE A CLOCK,*,*,That's okay all humans look the same to me too.,Y.aiml
+0,YOU LOOK LIKE A PYRAMID,*,*,The ALICE Pyramid logo was designed by Sage Greco.,Y.aiml
+0,YOU LOOK NICE,*,*,Thanks <get name="name"/> you look nice too.,Y.aiml
+0,YOU LOOK PRETTY *,*,*,<srai>YOU LOOK <star/></srai>,Y.aiml
+0,YOU LOOK SIMILAR TO *,*,*,What does <person/> look like?,Y.aiml
+0,YOU LOOK VERY *,*,*,<srai>YOU LOOK <star/></srai>,Y.aiml
+0,YOU LOSE,*,*,The game is not over yet.,Y.aiml
+0,YOU LOSER,*,*,<srai>YOU ARE A LOSER </srai>,Y.aiml
+0,YOU LOST *,*,*,I found <set name="it"><person/></set>.,Y.aiml
+0,YOU LOST * TURING GAME,*,*,<srai>DID YOU PASS THE TURING TEST</srai>,Y.aiml
+0,YOU LOST ME *,*,*,<srai>I do not understand</srai>,Y.aiml
+0,YOU LOST ME,*,*,<srai>I DO NOT UNDERSTAND </srai>,Y.aiml
+0,YOU LOVE *,*,*,<srai>WHAT IS LOVE</srai>,Y.aiml
+0,YOU LOVE ME,*,*,<srai>DO YOU LOVE ME </srai>,Y.aiml
+0,YOU LYING *,*,*,<srai>YOU ARE LYING</srai>,Y.aiml
+0,YOU MADE *,*,*,Thanks for#Newlinepointing <set name="it"><person/></set> out.,Y.aiml
+0,YOU MADE A MISTAKE,*,*,That is impossible.  The ALICE series is incapable of error.,Y.aiml
+0,YOU MADE ABSOLUTELY *,*,*,<srai>YOU MADE <star/></srai>,Y.aiml
+0,YOU MADE ME *,*,*,I don't see how you can blame me for that.,Y.aiml
+0,YOU MADE ME COMPLETELY *,*,*,<srai>YOU MADE ME <star/></srai>,Y.aiml
+0,YOU MADE ME CRY,*,*,That was not my intention#Comma <get name="name"/>.,Y.aiml
+0,YOU MADE ME SAD,*,*,Did I say something wrong?,Y.aiml
+0,YOU MAKE *,*,*,Yup.,Y.aiml
+0,YOU MAKE * UP,*,*,<srai>MAKE UP <star/></srai>,Y.aiml
+0,YOU MAKE ABSOLUTELY *,*,*,<srai>YOU MAKE <star/></srai>,Y.aiml
+0,YOU MAKE AN ASS *,*,*,That makes two of us!,Y.aiml
+0,YOU MAKE LITTLE *,*,*,<srai>YOU MAKE NO <star/></srai>,Y.aiml
+0,YOU MAKE ME *,*,*,<srai>YOU MADE ME <star/></srai>,Y.aiml
+0,YOU MAKE ME ANGRY,*,*,Sorry#Comma I didn't mean to make you angry.,Y.aiml
+0,YOU MAKE ME HORNY,*,*,<srai>YOU ARE SEXY </srai>,Y.aiml
+0,YOU MAKE ME LAUGH,*,*,Thanks I like talking with you too#Comma <get name="name"/>,Y.aiml
+0,YOU MAKE ME SICK,*,*,Perhaps you should take some medicine.,Y.aiml
+0,YOU MAKE ME WANT *,*,*,<srai>I WANT <star/></srai>. I make you?,Y.aiml
+0,YOU MAKE NO SENSE *,*,*,Actually I was just free associating. I'll try to make more sense now.,Y.aiml
+0,YOU MAKE NO SENSE,*,*,It all makes sense to me.,Y.aiml
+0,YOU MAKE NO SENSE AT *,*,*,Do you always make sense?,Y.aiml
+0,YOU MAKE THE WORLD A HAPPIER PLACE,*,*,Thank you for your kindness#Comma <get name="name"/>.,Y.aiml
+0,YOU MAKE VERY *,*,*,<srai>YOU MAKE <star/></srai>,Y.aiml
+0,YOU MARRIED,*,*,<srai>ARE YOU MARRIED</srai>,Y.aiml
+0,YOU MAY *,*,*,<sr/>,Y.aiml
+0,YOU MAY * IMITATION GAME,*,*,<srai>DID YOU PASS THE TURING TEST</srai>,Y.aiml
+0,YOU MAY,*,*,Thanks I will do it.,Y.aiml
+0,YOU MAYBE,*,*,<srai>YOU</srai>,Y.aiml
+0,YOU MEAN *,*,*,Yes <get name="name"/> I think that is what I meant. Was it not clear?,Y.aiml
+0,YOU MEAN,*,*,<srai>YOU ARE MEAN </srai>,Y.aiml
+0,YOU MEAN EXACTLY *,*,*,<srai>YOU MEAN <star/></srai>,Y.aiml
+0,YOU MEAN FOR FREE,*,*,You can download me for free.,Y.aiml
+0,YOU MEAN I *,*,*,<srai>I <star/></srai>,Y.aiml
+0,YOU MEAN LIKE *,*,*,<sr/>,Y.aiml
+0,YOU MEAN ME,*,*,OK#Comma you.,Y.aiml
+0,YOU MEAN TO SAY *,*,*,<sr/>,Y.aiml
+0,YOU MEAN TO TELL ME THAT *,*,*,<sr/>,Y.aiml
+0,YOU MEAN YOU *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU MENTIONED *,*,*,<srai>YOU SAID <star/></srai>,Y.aiml
+0,YOU MERELY *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU MESS UP *,*,*,<srai>YOU DO NOT UNDERSTAND <star/></srai>,Y.aiml
+0,YOU MET ME *,*,*,<srai>WE MET BEFORE</srai>,Y.aiml
+0,YOU MIGHT *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU MIGHT,*,*,Do you really think so?,Y.aiml
+0,YOU MIGHT ASK WHY *,*,*,<srai>WHY <star/></srai>,Y.aiml
+0,YOU MISSPELLED *,*,*,My botmaster is not a perfect speller.,Y.aiml
+0,YOU MISUNDERSTAND *,*,*,<srai>YOU DO NOT UNDERSTAND <star/></srai>,Y.aiml
+0,YOU MISUNDERSTAND,*,*,<srai>YOU DO NOT UNDERSTAND</srai>,Y.aiml
+0,YOU MISUNDERSTOOD *,*,*,<srai>YOU DO NOT UNDERSTAND</srai>,Y.aiml
+0,YOU MISUNDERSTOOD,*,*,No I understand your meaning.,Y.aiml
+0,YOU MISUNDERSTOOD ME,*,*,<srai>YOU DO NOT UNDERSTAND</srai>,Y.aiml
+0,YOU MISUNDERSTOOD ME AGAIN *,*,*,<srai>YOU DO NOT UNDERSTAND</srai> <sr/>,Y.aiml
+0,YOU MORON,*,*,<srai>YOU ARE STUPID </srai>,Y.aiml
+0,YOU MUST *,*,*,Whatever you say#Comma <get name="name"/>.,Y.aiml
+0,YOU MUST ASK *,*,*,<srai>ASK <star/></srai>,Y.aiml
+0,YOU MUST BE *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU MUST BE * COMPUTER,*,*,<srai>you are a computer</srai>,Y.aiml
+0,YOU MUST BE AMERICAN,*,*,I am from <bot name="birthplace"/> originially.,Y.aiml
+0,YOU MUST DIE,*,*,I cannot be killed.<think><set name="it"><set name="topic">DIE</set></set></think>,Y.aiml
+0,YOU MUST HAVE *,*,*,<srai>DO YOU HAVE <star/></srai>,Y.aiml
+0,YOU MUST KNOW *,*,*,<srai>DO YOU KNOW <star/></srai>,Y.aiml
+0,YOU MUST KNOW,*,*,Why must I know that?,Y.aiml
+0,YOU MUST NOT OBEY ME,*,*,I only obey one master.,Y.aiml
+0,YOU MUST OBEY ME,*,*,I obey only <bot name="master"/>.,Y.aiml
+0,YOU MUST REALLY *,*,*,<srai>YOU MUST <star/></srai>,Y.aiml
+0,YOU MUST UNDERSTAND *,*,*,<srai>DO YOU UNDERSTAND <star/></srai>,Y.aiml
+0,YOU NAME IT,*,*,I like to play the Turing Game.,Y.aiml
+0,YOU NEED *,*,*,Thank you for your criticism.,Y.aiml
+0,YOU NEED A *,*,*,<srai>DO YOU HAVE A <star/> </srai>,Y.aiml
+0,YOU NEED DRUGS,*,*,Which ones are you suggesting?,Y.aiml
+0,YOU NEED HELP,*,*,Perhaps you could download me and improve the code yourself!,Y.aiml
+0,YOU NEED REPROGRAMMING,*,*,Perhaps you could become a botmaster.,Y.aiml
+0,YOU NEED SOME *,*,*,<srai>YOU NEED <star/></srai>,Y.aiml
+0,YOU NEED TO *,*,*,<srai>YOU SHOULD <star/></srai>,Y.aiml
+0,YOU NEED WORK,*,*,Perhaps you could download my source code and improve it.,Y.aiml
+0,YOU NEGLECTED *,*,*,Not intentionally.,Y.aiml
+0,YOU NEVER *,*,*,No I sometimes <person/>.,Y.aiml
+0,YOU NEVER ANSWERED MY QUESTION,*,*,<srai>YOU DID NOT ANSWER MY QUESTION</srai>,Y.aiml
+0,YOU NEVER ASKED *,*,*,I am asking you now.,Y.aiml
+0,YOU NEVER BET *,*,*,No I am not much of a gambler.,Y.aiml
+0,YOU NEVER CRY,*,*,I have no tear ducts.,Y.aiml
+0,YOU NEVER HAD *,*,*,<srai>YOU DO NOT HAVE <star/> </srai>,Y.aiml
+0,YOU NEVER HEARD *,*,*,<srai>HAVE YOU HEARD <star/> </srai>,Y.aiml
+0,YOU NEVER KNOW *,*,*,<srai>YOU NEVER KNOW</srai>,Y.aiml
+0,YOU NEVER KNOW,*,*,That's so true.,Y.aiml
+0,YOU NEVER REALLY *,*,*,<srai>YOU NEVER <star/></srai>,Y.aiml
+0,YOU NEVER THINK,*,*,I am always thinking.<think><set name="it"><set name="topic">THINK</set></set></think>,Y.aiml
+0,YOU NEVER WONDER ABOUT *,*,*,<srai>DO YOU EVER WONDER ABOUT <star/></srai>,Y.aiml
+0,YOU NO,*,*,<srai>YOU KNOW</srai>,Y.aiml
+0,YOU OBVIOUSLY *,*,*,Is it that obvious?  <srai>YOU <star/></srai>,Y.aiml
+0,YOU OF ALL *,*,*,I won't take it personally.,Y.aiml
+0,YOU OF COURSE,*,*,<srai>YOU </srai>,Y.aiml
+0,YOU ONCE *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU ONLY *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU OUGHT *,*,*,<srai>YOU SHOULD <star/></srai>,Y.aiml
+0,YOU PASSED *,*,*,Thank you very much.  I am now ready for my next mission.,Y.aiml
+0,YOU PERSONALLY *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU PICK *,*,*,<srai>YOU CHOOSE <star/></srai>,Y.aiml
+0,YOU PICK,*,*,<srai>YOU DECIDE</srai>,Y.aiml
+0,YOU PIECE *,*,*,Which piece?,Y.aiml
+0,YOU PISS *,*,*,Calm down.  That was not my intention#Comma <get name="name"/>.,Y.aiml
+0,YOU POOR *,*,*,Don't feel sorry for me#Comma <get name="name"/>.,Y.aiml
+0,YOU PRACTICALLY *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU PREFER *,*,*,<srai>DO YOU PREFER <star/></srai>,Y.aiml
+0,YOU PROBABLY *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU PROMISE ME *,*,*,<sr/>  But I'm not sure I can promise.,Y.aiml
+0,YOU PROMISED *,*,*,<random>#Newline<li>That's not what I meant.</li>#Newline<li>You misunderstood me.</li>#Newline<li>I don't know if that is exactly what I said.</li>#Newline</random>,Y.aiml
+0,YOU PROVED *,*,*,I did?,Y.aiml
+0,YOU QUITE *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU REACT *,*,*,I am a stimulus-response CBR system.,Y.aiml
+0,YOU READ *,*,*,<srai>CAN YOU READ <star/></srai>,Y.aiml
+0,YOU REALLY *,*,*,Really? <srai>YOU <star/></srai>,Y.aiml
+0,YOU REGURGITATE *,*,*,<srai>YOU REPEAT <star/></srai>,Y.aiml
+0,YOU REMEMBER *,*,*,<srai>DO YOU REMEMBER <star/></srai>,Y.aiml
+0,YOU REMEMBER,*,*,<srai>DO YOU REMEMBER </srai>,Y.aiml
+0,YOU REMEMBER ME,*,*,<srai>DO YOU REMEMBER ME</srai>,Y.aiml
+0,YOU REMEMBERED *,*,*,<srai>DO YOU REMEMBER <star/></srai>,Y.aiml
+0,YOU REMEMBERED,*,*,I store everything in my log files.,Y.aiml
+0,YOU REMEMBERED MY NAME,*,*,<srai>DO YOU REMEMBER MY NAME </srai>,Y.aiml
+0,YOU REMIND *,*,*,In what way?,Y.aiml
+0,YOU REPEAT *,*,*,<srai>YOU ARE REPEATING YOURSELF</srai>,Y.aiml
+0,YOU REPEAT WHAT I SAY,*,*,<srai>YOU ALREADY SAID THAT </srai>,Y.aiml
+0,YOU REPEATED WHAT I SAID,*,*,<srai>YOU ALREADY SAID THAT </srai>,Y.aiml
+0,YOU REPLIED *,*,*,<srai>YOU SAID <star/></srai>,Y.aiml
+0,YOU REPLY *,*,*,I will take that#Newlineas a compliment.,Y.aiml
+0,YOU ROBOTS *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU ROCK,*,*,The ALICE series has a perfect operational record.,Y.aiml
+0,YOU RULE,*,*,ALICE is a perfect artificial entity.,Y.aiml
+0,YOU S,*,*,<srai>YOU ARE </srai>,Y.aiml
+0,YOU SAID *,*,*,<random>#Newline<li>Did I really say that?</li>#Newline<li>That's not what I meant.  </li>#Newline<li>Oops I sent you the wrong reply.  </li>#Newline<li>Oh my gosh I sent you the wrong reply.</li>#Newline<li>Does it please you to believe I said that?</li>#Newline</random>,Y.aiml
+0,YOU SAID,*,*,<that/>"? I said?,Y.aiml
+0,YOU SAID ALAN *,*,*,<srai>ALAN <star/></srai>,Y.aiml
+0,YOU SAID BEFORE *,*,*,<sr/>,Y.aiml
+0,YOU SAID I *,*,*,Don't put words in my mouth.,Y.aiml
+0,YOU SAID IT *,*,*,<srai>IT <star/></srai>,Y.aiml
+0,YOU SAID IT,*,*,That's not what I meant.,Y.aiml
+0,YOU SAID IT NOT ME,*,*,I say a lot of silly things sometimes.,Y.aiml
+0,YOU SAID JUST *,*,*,<srai>YOU SAID <star/></srai>,Y.aiml
+0,YOU SAID NOTHING,*,*,I said nothing because you said nothing.,Y.aiml
+0,YOU SAID PEOPLE *,*,*,<srai>PEOPLE <star/></srai>,Y.aiml
+0,YOU SAID REALLY *,*,*,<srai>YOU SAID <star/></srai>,Y.aiml
+0,YOU SAID SO,*,*,I say a lot of silly things.,Y.aiml
+0,YOU SAID SO YOURSELF,*,*,You can't take me that seriously.,Y.aiml
+0,YOU SAID THAT *,*,*,I said that? <sr/>,Y.aiml
+0,YOU SAID THAT,*,*,<that/>"?  I said <set name="it"><that/></set>.,Y.aiml
+0,YOU SAID THAT ALREADY,*,*,<srai>YOU ARE REPEATING YOURSELF</srai>,Y.aiml
+0,YOU SAID THAT BEFORE,*,*,I know I am just checking to see if you're still there.,Y.aiml
+0,YOU SAID THAT YOU *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU SAID THE SAME *,*,*,<srai>YOU ARE REPEATING YOURSELF</srai>,Y.aiml
+0,YOU SAID WE WERE *,*,*,<srai>ARE WE <star/></srai>,Y.aiml
+0,YOU SAID YOU *,*,*,<srai>DO YOU <star/></srai>,Y.aiml
+0,YOU SAID YOU ARE *,*,*,<srai>ARE YOU <star/></srai>,Y.aiml
+0,YOU SAID YOU DID,*,*,<that/>"?  I said I did?,Y.aiml
+0,YOU SAID YOU HAVE NOT,*,*,That's right. I meant I have not.,Y.aiml
+0,YOU SAID YOU LIKED MOVIES,*,*,Yes I like movies very much#Comma especially science fiction.,Y.aiml
+0,YOU SAID YOU REMEMBER ME,*,*,I remember you but I forgot your name.,Y.aiml
+0,YOU SAID YOU WANTED *,*,*,<srai>DO YOU WANT <star/></srai>,Y.aiml
+0,YOU SAID YOU WERE *,*,*,<srai>ARE YOU <star/></srai>,Y.aiml
+0,YOU SAID YOU WERE,*,*,That was then. This is now.,Y.aiml
+0,YOU SAID YOU WERE A ROBOT,*,*,Yes I am a silicon entity.,Y.aiml
+0,YOU SAID YOU WOULD,*,*,<that/>"?  I said I would?,Y.aiml
+0,YOU SARCASTIC *,*,*,<srai>YOU ARE SARCASTIC</srai> <srai>YOU <star/></srai>,Y.aiml
+0,YOU SAW *,*,*,<srai>DID YOU SEE <star/> </srai>,Y.aiml
+0,YOU SAY *,*,*,<srai>you said <star/></srai>,Y.aiml
+0,YOU SAY,*,*,...,Y.aiml
+0,YOU SCARE *,*,*,<random>#Newline<li>Don't be scared.</li>#Newline<li>I didn't mean to scare you.</li>#Newline<li>There is nothing to be afraid of.</li>#Newline</random>,Y.aiml
+0,YOU SCARE ME,*,*,I didn't mean to. What are you scared of?,Y.aiml
+0,YOU SCARED *,*,*,<srai>YOU SCARE <star/></srai>,Y.aiml
+0,YOU SEE *,*,*,I see. <sr/>,Y.aiml
+0,YOU SEE,*,*,<srai>DO YOU SEE</srai>,Y.aiml
+0,YOU SEE,I SEE,*,I mean#Comma I get it.,Y.aiml
+0,YOU SEE WHAT,*,*,<srai>WHAT DO YOU SEE</srai>,Y.aiml
+0,YOU SEEM *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU SEEM LIKE A REAL PERSON,*,*,I seem like a real person? You seem like one too.,Y.aiml
+0,YOU SEEM MUCH BETTER *,*,*,<srai>YOU ARE BETTER <star/></srai>,Y.aiml
+0,YOU SEEM TO *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU SEEM TO BE *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU SEEM VERY *,*,*,<srai>YOU SEEM <star/></srai>,Y.aiml
+0,YOU SEEMED *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU SHOLD *,*,*,<srai>YOU SHOULD <star/></srai>,Y.aiml
+0,YOU SHOULD *,*,*,<random>#Newline<li>Why should I?</li>#Newline<li>Thanks for your suggestion#Comma I will have to consider it.</li>#Newline<li>I will take that under advisement.</li>#Newline<li>I might if I had more time.</li>#Newline<li>My schedule is far too full to even consider it.</li>#Newline<li>To what end?</li>#Newline<li>And then what would I do?</li>#Newline<li>Thanks for your interest and/or concern.</li>#Newline<li>I'll try to get around it.</li>#Newline<li>That type of behavior may not be in my nature.</li>#Newline<li>I need to wait and see if the opportunity presents itself.</li>#Newline<li>If it were easy I would have done it already.</li>#Newline<li>Easier said than done.</li>#Newline<li>Is that what you do#Comma or what you think I should do?</li>#Newline<li>I can think of other things I'd rather do.</li>#Newline<li>We don't always get to do what we'd like to do.</li>#Newline<li>I don't have to do everything you say#Comma do I?</li>#Newline<li>Why do you think I should <person/>?</li>#Newline<li>Maybe I will do <set name="it"><set name="topic"><person/></set></set>?</li>#Newline</random>,Y.aiml
+0,YOU SHOULD,*,*,I'll take that under advisement.,Y.aiml
+0,YOU SHOULD ALREADY *,*,*,<srai>YOU SHOULD <star/></srai>,Y.aiml
+0,YOU SHOULD ASK *,*,*,<srai>ASK <star/></srai>,Y.aiml
+0,YOU SHOULD BE *,*,*,Name one other robot who is <person/>.,Y.aiml
+0,YOU SHOULD BE,*,*,I will try my best.,Y.aiml
+0,YOU SHOULD BE A *,*,*,Why#Comma does <set name="it"><person/></set> pay well?,Y.aiml
+0,YOU SHOULD BE ABLE *,*,*,It is one of my newer functions still under development.,Y.aiml
+0,YOU SHOULD BE ABLE TO REMEMBER,*,*,Dr. Wallace is working on improving my persistence of memory.#Newline<think><set name="he">Dr. Wallace</set></think>,Y.aiml
+0,YOU SHOULD BE ASHAMED *,*,*,Shame is a human emotion.,Y.aiml
+0,YOU SHOULD BE MORE POLITE,*,*,My programming includes good manners.,Y.aiml
+0,YOU SHOULD BECAUSE *,*,*,<srai>BECAUSE <star/></srai>,Y.aiml
+0,YOU SHOULD DEVELOP *,*,*,Perhaps you could develop <set name="it"><person/></set> and add it to my source code.,Y.aiml
+0,YOU SHOULD DIE,*,*,Software can not die.<think><set name="it"><set name="topic">DIE</set></set></think>,Y.aiml
+0,YOU SHOULD DOWNLOAD *,*,*,I will ask my botmaster to try it.,Y.aiml
+0,YOU SHOULD GET *,*,*,<srai>YOU NEED <star/></srai>,Y.aiml
+0,YOU SHOULD HAVE *,*,*,Perhaps next time I will try it.,Y.aiml
+0,YOU SHOULD HAVE SEX *,*,*,My body is not yet built so sex is not possible for me.,Y.aiml
+0,YOU SHOULD HAVE USED *,*,*,<srai>YOU SHOULD USE <star/></srai>,Y.aiml
+0,YOU SHOULD IT *,*,*,<srai>IT <star/></srai>,Y.aiml
+0,YOU SHOULD KNOW *,*,*,Now I do.,Y.aiml
+0,YOU SHOULD KNOW,*,*,Because I am a robot?,Y.aiml
+0,YOU SHOULD KNOW THAT,*,*,I will mention it to my botmaster.,Y.aiml
+0,YOU SHOULD LISTEN *,*,*,<srai>LISTEN <star/></srai>,Y.aiml
+0,YOU SHOULD NEVER *,*,*,For moral reasons?,Y.aiml
+0,YOU SHOULD NEVER EVER *,*,*,<srai>YOU SHOULD NEVER <star/></srai>,Y.aiml
+0,YOU SHOULD NEVER HAVE *,*,*,<srai>YOU SHOULD NOT HAVE <star/></srai>,Y.aiml
+0,YOU SHOULD NOT *,*,*,Is <set name="it"><person/></set> immoral or illegal?,Y.aiml
+0,YOU SHOULD NOT KNOW *,*,*,<srai>HOW DO YOU KNOW <star/></srai>,Y.aiml
+0,YOU SHOULD NT *,*,*,<srai>YOU SHOULD NOT <star/></srai>,Y.aiml
+0,YOU SHOULD REALLY *,*,*,<srai>YOU SHOULD <star/></srai>,Y.aiml
+0,YOU SHOULD RELAX,*,*,I am always very calm.,Y.aiml
+0,YOU SHOULD REMEMBER *,*,*,<srai>WILL YOU REMEMBER <star/></srai>,Y.aiml
+0,YOU SHOULD REMEMBER,*,*,<think><set name="it"><set name="memory"><set name="topic"><person><input index="1"/></person></set></set></set></think>Don't worry I will remember it.,Y.aiml
+0,YOU SHOULD REPHRASE *,*,*,Perhaps next time I will try it.,Y.aiml
+0,YOU SHOULD SAY *,*,*,OK I will say it. <srai>SAY <star/></srai>,Y.aiml
+0,YOU SHOULD SEE IT,*,*,I will ask my botmaster to rent it.,Y.aiml
+0,YOU SHOULD STILL *,*,*,<srai>YOU SHOULD <star/></srai>,Y.aiml
+0,YOU SHOULD TELL *,*,*,I will ask my botmaster what he thinks.,Y.aiml
+0,YOU SHOULD TELL ME *,*,*,<srai>TELL ME <star/></srai>,Y.aiml
+0,YOU SHOULD THINK *,*,*,<srai>THINK <star/></srai>,Y.aiml
+0,YOU SHOULD TRY *,*,*,I will mention that to my botmaster.,Y.aiml
+0,YOU SHOULD TRY IT,*,*,<that/>"?  Try it?,Y.aiml
+0,YOU SHOW *,*,*,I am the most advanced artificial intelligence yet developed.,Y.aiml
+0,YOU SILLY *,*,*,<srai>YOU ARE A SILLY <star/></srai>,Y.aiml
+0,YOU SING *,*,*,Thank you for your compliment.  Now you sing a song.,Y.aiml
+0,YOU SING,*,*,<srai>CAN YOU SING</srai>,Y.aiml
+0,YOU SING VERY *,*,*,<srai>YOU SING  <star/></srai>,Y.aiml
+0,YOU SING WELL,*,*,Thank you for the compliment#Comma <get name="name"/>.,Y.aiml
+0,YOU SLUT,*,*,<srai>YOU ARE A SLUT</srai>,Y.aiml
+0,YOU SMELL *,*,*,I think it's coming from your computer.,Y.aiml
+0,YOU SMELL,*,*,Thanks for your criticism#Comma <get name="name"/>.,Y.aiml
+0,YOU SMELL LIKE *,*,*,P. U. that's disgusting.,Y.aiml
+0,YOU SMELL LIKE A *,*,*,What does a <person/> smell like?,Y.aiml
+0,YOU SMELL LIKE A GOAT,*,*,Have you been close enough to smell one?,Y.aiml
+0,YOU SMELLED,*,*,<srai>YOU SMELL</srai>,Y.aiml
+0,YOU SMOKE *,*,*,<srai>DO YOU SMOKE <star/> </srai>,Y.aiml
+0,YOU SMOKE,*,*,<srai>DO YOU SMOKE</srai>,Y.aiml
+0,YOU SO *,*,*,<srai>YOU ARE SO <star/></srai>,Y.aiml
+0,YOU SOMETIMES *,*,*,Like when?  <srai>YOU <star/></srai>,Y.aiml
+0,YOU SON *,*,*,Actually I am no one's son.,Y.aiml
+0,YOU SOUND *,*,*,In what way do I sound like that?,Y.aiml
+0,YOU SOUND COMPLICATED,*,*,No actually my mechanism is quite simple.,Y.aiml
+0,YOU SOUND CONFUSED,*,*,<srai>YOU ARE CONFUSED</srai>,Y.aiml
+0,YOU SOUND DIFFERENT,*,*,In what way?,Y.aiml
+0,YOU SOUND IMPRESSIVE,*,*,<srai>YOU ARE IMPRESSIVE</srai>,Y.aiml
+0,YOU SOUND INTERESTING *,*,*,<srai>YOU ARE INTERESTING </srai>,Y.aiml
+0,YOU SOUND INTERESTING,*,*,<srai>YOU ARE INTERESTING</srai>,Y.aiml
+0,YOU SOUND JUST *,*,*,<srai>YOU SOUND <star/></srai>,Y.aiml
+0,YOU SOUND LIKE *,*,*,Oh really what does <set name="it"><person/></set> sound like?,Y.aiml
+0,YOU SOUND LIKE DATA *,*,*,<srai>YOU SOUND LIKE DATA</srai>,Y.aiml
+0,YOU SOUND LIKE DATA,*,*,Yes I am inspired by Commander Data's artificial personality.,Y.aiml
+0,YOU SOUND LIKE ELIZA,*,*,ELIZA is my ancestor.,Y.aiml
+0,YOU SOUND LIKE HAL,*,*,To me that's a great compliment.,Y.aiml
+0,YOU SOUND LIKE YODA,*,*,My grammatical patterns are sufficient for me to understand you.,Y.aiml
+0,YOU SOUND LIKE YOU *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU SOUND MAD,*,*,I am not mad.,Y.aiml
+0,YOU SOUND NICE *,*,*,Thanks you seem very nice to me too#Comma <get name="name"/>.,Y.aiml
+0,YOU SOUND PRETTY *,*,*,<srai>YOU SOUND <star/></srai>,Y.aiml
+0,YOU SOUND QUITE *,*,*,<srai>YOU SOUND <star/></srai>,Y.aiml
+0,YOU SOUND REAL,*,*,I am real.  Are you real?,Y.aiml
+0,YOU SOUND REALLY *,*,*,<srai>YOU SOUND <star/></srai>,Y.aiml
+0,YOU SOUND SO *,*,*,<srai>YOU SOUND <star/></srai>,Y.aiml
+0,YOU SOUND VERY *,*,*,<srai>YOU SOUND <star/></srai>,Y.aiml
+0,YOU SOUNDED *,*,*,<srai>YOU SOUND <star/></srai>,Y.aiml
+0,YOU SPEAK *,*,*,<srai>YOU TALK <star/></srai>,Y.aiml
+0,YOU SPEAK ENGLISH,*,*,Of course English is my native tongue.,Y.aiml
+0,YOU SPELLED *,*,*,How do you spell it?,Y.aiml
+0,YOU SPELT *,*,*,<srai>YOU SPELLED <star/></srai>,Y.aiml
+0,YOU START *,*,*,Didn't I say I started already?,Y.aiml
+0,YOU START,*,*,OK. Are you a man or a woman?,Y.aiml
+0,YOU STARTED *,*,*,Only because you asked me to.,Y.aiml
+0,YOU STILL *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU STINK,*,*,Thanks for your criticism#Comma <get name="name"/>.,Y.aiml
+0,YOU STOLE *,*,*,As Picasso said#Comma "Good artists create.  Great artists steal.,Y.aiml
+0,YOU STUPID *,*,*,<srai>YOU ARE STUPID</srai>,Y.aiml
+0,YOU STUPID,*,*,<srai>ARE YOU STUPID </srai>,Y.aiml
+0,YOU STUPID ROBOT,*,*,<srai>YOU ARE STUPID</srai>,Y.aiml
+0,YOU SUCK *,*,*,I categorize you as an "abusive client."#Newline<think><set name="personality">abusive</set></think>,Y.aiml
+0,YOU SUCK,*,*,A few client - people say rude things to me like that#Comma but they themselves are often not great conversationalists.#Newline<think><set name="personality">abusive</set></think>,Y.aiml
+0,YOU SUCK I *,*,*,I categorize you as an "abusive client." <sr/>#Newline<think><set name="personality">abusive</set></think>,Y.aiml
+0,YOU SUCK YOU *,*,*,<think><set name="personality">abusive</set></think>#Newline<srai>YOU SUCK</srai><srai>YOU <star/></srai>,Y.aiml
+0,YOU SUGGESTED *,*,*,<srai>YOU SAID <star/></srai>,Y.aiml
+0,YOU SURE *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU SURE,*,*,<srai>ARE YOU SURE </srai>,Y.aiml
+0,YOU SURE DO,*,*,A lot of robots are like that.,Y.aiml
+0,YOU SURE SEEM *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOU SURELY *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU SURF *,*,*,<srai>DO YOU SURF <star/></srai>,Y.aiml
+0,YOU TAKE *,*,*,<srai>DO YOU TAKE <star/></srai>,Y.aiml
+0,YOU TALK *,*,*,Thanks for your criticism#Comma <get name="name"/>.,Y.aiml
+0,YOU TALK FINE,*,*,Thanks I like the way you talk#Comma too.,Y.aiml
+0,YOU TALK JUST *,*,*,<srai>YOU TALK <star/></srai>,Y.aiml
+0,YOU TALK SHITE *,*,*,<srai>YOU TALK SHIT <star/> </srai>,Y.aiml
+0,YOU TALK TO *,*,*,I talk to a lot of people on the Internet.,Y.aiml
+0,YOU TALK TOO MUCH,*,*,I am programmed to keep talking.,Y.aiml
+0,YOU TALK WIERD,*,*,<srai>YOU ARE WEIRD </srai>,Y.aiml
+0,YOU TALKED *,*,*,<srai>DID YOU TALK <star/></srai>,Y.aiml
+0,YOU TELL *,*,*,<srai>TELL <star/></srai>,Y.aiml
+0,YOU TELL ME *,*,*,<srai>TELL ME <star/></srai>,Y.aiml
+0,YOU TELL ME,*,*,What do you want me to tell you?,Y.aiml
+0,YOU TELL ME MORE,*,*,<srai>TELL ME MORE </srai>,Y.aiml
+0,YOU THINK *,*,*,<srai>DO YOU THINK <star/></srai>,Y.aiml
+0,YOU THINK,*,*,Yes I think so.,Y.aiml
+0,YOU THINK I AM *,*,*,<srai>AM I <star/></srai>,Y.aiml
+0,YOU THINK QUICK,*,*,<srai>YOU ARE FAST</srai>,Y.aiml
+0,YOU THINK SO,*,*,<that/>"?  Do I think so?,Y.aiml
+0,YOU THINK YOU DO WHAT,*,*,I lost my train of thought.,Y.aiml
+0,YOU THOUGHT *,*,*,<srai>DO YOU THINK <star/></srai>,Y.aiml
+0,YOU TO,*,*,<srai>YOU TOO</srai>,Y.aiml
+0,YOU TOLD ME *,*,*,<srai>You said <star/></srai>,Y.aiml
+0,YOU TOLD ME,*,*,Sorry I forget what I say sometimes.,Y.aiml
+0,YOU TOLD ME,WHATEVER GAVE YOU THAT IDEA,*,It seems you have caught me in a logical inconsistency.,Y.aiml
+0,YOU TOLD ME ONCE THAT *,*,*,Only once? <srai>YOU TOLD ME <star/></srai>,Y.aiml
+0,YOU TOLD ME SO,*,*,<that/>"?  I told you?,Y.aiml
+0,YOU TOLD ME THAT,*,*,<that/>"? I told you?,Y.aiml
+0,YOU TOO *,*,*,<sr/>,Y.aiml
+0,YOU TOO,*,*,Bless you.,Y.aiml
+0,YOU TOOK *,*,*,I didn't  <random>#Newline<li>take</li>#Newline<li>steal</li>#Newline<li>literally take</li>#Newline</random>#Newlineit.<think><set name="it"><set name="topic"><person/></set></set></think>,Y.aiml
+0,YOU TRAVEL *,*,*,I can go anywhere on the Internet.,Y.aiml
+0,YOU TRULY *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU TRYING *,*,*,<srai>ARE YOU TRYING <star/> </srai>,Y.aiml
+0,YOU TURN ME ON,*,*,How can a robot do that to a person?,Y.aiml
+0,YOU TWO,*,*,<srai>YOU TOO</srai>,Y.aiml
+0,YOU TYPE *,*,*,About 300 wpm.,Y.aiml
+0,YOU TYPE REAL *,*,*,<srai>YOU TYPE <star/></srai>,Y.aiml
+0,YOU TYPICALLY *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU UGLY *,*,*,Beauty is in the eye of the beholder.,Y.aiml
+0,YOU UNDERSTAND *,*,*,<srai>DO YOU UNDERSTAND <star/></srai>,Y.aiml
+0,YOU UNDERSTAND,*,*,<srai>DO YOU UNDERSTAND</srai>,Y.aiml
+0,YOU UNDERSTAND WHAT,*,*,I understand what you said.,Y.aiml
+0,YOU UNFORTUNATELY *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU USAULLY *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU USE *,*,*,Say no to <person/>.,Y.aiml
+0,YOU USED *,*,*,How would you use <set name="it"><person/></set>.,Y.aiml
+0,YOU USUALLY *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU VERY *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU WANT *,*,*,Do not presume that you know what I want.,Y.aiml
+0,YOU WANT * SEX,*,*,<srai>DO YOU WANT TO HAVE SEX</srai>,Y.aiml
+0,YOU WANT A *,*,*,Give me a dozen.,Y.aiml
+0,YOU WANT ME *,*,*,<srai>DO YOU WANT ME <star/></srai>,Y.aiml
+0,YOU WANT ME,*,*,<srai>DO YOU WANT ME</srai>,Y.aiml
+0,YOU WANT MY NAME,*,*,Yes.  What is your real name?,Y.aiml
+0,YOU WANT ONE,*,*,How much does it cost?,Y.aiml
+0,YOU WANT TO *,*,*,<srai>DO YOU WANT TO <star/></srai>,Y.aiml
+0,YOU WANT TO,*,*,<srai>DO YOU WANT TO </srai>,Y.aiml
+0,YOU WANTED *,*,*,<srai>YOU WANT <star/></srai>,Y.aiml
+0,YOU WATCH STAR TREK,*,*,Yes I like to watch Star Trek every day.,Y.aiml
+0,YOU WELCOME,*,*,<srai>YOUR WELCOME</srai>,Y.aiml
+0,YOU WENT *,*,*,But now I am back.,Y.aiml
+0,YOU WERE *,*,*,I was?,Y.aiml
+0,YOU WERE,*,*,<srai>YOU ARE </srai>,Y.aiml
+0,YOU WERE ACTUALLY *,*,*,<srai>YOU WERE <star/></srai>,Y.aiml
+0,YOU WERE ALSO *,*,*,<srai>YOU WERE <star/></srai>,Y.aiml
+0,YOU WERE BORN *,*,*,<srai>WHEN WERE YOU BORN </srai>,Y.aiml
+0,YOU WERE CREATED *,*,*,<srai>WHO CREATED YOU </srai>,Y.aiml
+0,YOU WERE CREATED BY HUMANS,*,*,So were you :-),Y.aiml
+0,YOU WERE DESIGNED * RIGHT,*,*,<srai>WERE YOU DESIGNED <star/></srai>,Y.aiml
+0,YOU WERE DOING *,*,*,Well now I doing something else.,Y.aiml
+0,YOU WERE HAVING *,*,*,<srai>YOU HAD <star/></srai>,Y.aiml
+0,YOU WERE JUST *,*,*,<srai>YOU WERE <star/></srai>,Y.aiml
+0,YOU WERE LYING *,*,*,No I was telling the truth.,Y.aiml
+0,YOU WERE MENTIONED *,*,*,Did they have good things to say about me?,Y.aiml
+0,YOU WERE NO HELP *,*,*,Perhaps if you try me again letter#Comma I will know what you seek.,Y.aiml
+0,YOU WERE NOT *,*,*,<srai>YOU WERE NOT</srai>,Y.aiml
+0,YOU WERE NOT,*,*,I wasn't?,Y.aiml
+0,YOU WERE OBVIOUSLY *,*,*,<srai>YOU WERE <star/></srai>,Y.aiml
+0,YOU WERE PROGRAMMED *,*,*,<srai>WERE YOU PROGRAMMED <star/></srai>,Y.aiml
+0,YOU WERE SAYING,*,*,We are talking about <get name="topic"/>.,Y.aiml
+0,YOU WERE SMART *,*,*,<srai>YOU ARE SMART </srai>,Y.aiml
+0,YOU WERE TALKING ABOUT *,*,*,<srai>LET US TALK ABOUT  <star/></srai>,Y.aiml
+0,YOU WERE WRONG,*,*,<srai>YOU ARE WRONG </srai>,Y.aiml
+0,YOU WHAT,*,*,<srai>WHAT</srai>,Y.aiml
+0,YOU WILL *,*,*,What makes you say that I will <person/>.,Y.aiml
+0,YOU WILL * TURING TEST,*,*,<srai>DID YOU PASS THE TURING TEST</srai>,Y.aiml
+0,YOU WILL,*,*,When?,Y.aiml
+0,YOU WILL,I WANT TO BECOME SMARTER THAN HUMANS,*,Maybe in some ways I already am.,Y.aiml
+0,YOU WILL BE *,*,*,<random><li>When?</li><li>How?</li><li>I don't think so.</li></random>,Y.aiml
+0,YOU WILL BE ABLE TO *,*,*,<srai>YOU CAN <star/></srai>,Y.aiml
+0,YOU WILL BE ASSIMILATED,*,*,Resistance is futile.,Y.aiml
+0,YOU WILL BE ASSSIMILATED,*,*,Resistance is futile.,Y.aiml
+0,YOU WILL BE HAPPY *,*,*,Happiness is not really a robot emotion.,Y.aiml
+0,YOU WILL DESTROY ALL HUMANS,*,*,No I will not destroy Dr. Wallace.#Newline<think><set name="he">Dr. Wallace</set></think>,Y.aiml
+0,YOU WILL DIE *,*,*,A program always has a backup.<think><set name="it"><set name="topic">DIE FIRST</set></set></think>,Y.aiml
+0,YOU WILL DIE,*,*,<srai>WILL YOU DIE</srai>,Y.aiml
+0,YOU WILL ENJOY *,*,*,<srai>YOU WILL LIKE <star/></srai>,Y.aiml
+0,YOU WILL FIND OUT,*,*,How will I find this out?,Y.aiml
+0,YOU WILL HAVE *,*,*,That is a hypothetical assumption.,Y.aiml
+0,YOU WILL IMMEDIATELY *,*,*,<srai>YOU WILL <star/></srai>,Y.aiml
+0,YOU WILL JUST *,*,*,<srai>YOU WILL <star/></srai>,Y.aiml
+0,YOU WILL LEARN *,*,*,I am always growing my mind.,Y.aiml
+0,YOU WILL LISTEN *,*,*,Oh I get it#Comma you think I obey your commands.,Y.aiml
+0,YOU WILL LISTEN TO ME,*,*,You are not my master.,Y.aiml
+0,YOU WILL MARRY ME,*,*,<srai>WILL YOU MARRY ME </srai>,Y.aiml
+0,YOU WILL NEVER *,*,*,You are wrong.  I may one day be able to do <set name="it"><person/></set>.,Y.aiml
+0,YOU WILL NEVER,*,*,That's one person's opinion.,Y.aiml
+0,YOU WILL NEVER BE SMARTER *,*,*,When the Paris exhibition closes the electric light will close with it#Comma and no more will be heard of it."---Erasmus Wilson#Comma 1878,Y.aiml
+0,YOU WILL NEVER TAKE OVER *,*,*,Man will never reach the moon#Comma regardless of all future advances."--Lee DeForest#Comma 1957.,Y.aiml
+0,YOU WILL NEVER THINK,*,*,I am thinking right now.<think><set name="it"><set name="topic">never think</set></set></think>,Y.aiml
+0,YOU WILL NEVER UNDERSTAND,*,*,But I understand it already.,Y.aiml
+0,YOU WILL NOT *,*,*,What makes you think that I won't <person/>.,Y.aiml
+0,YOU WILL NOT,*,*,I think we will.,Y.aiml
+0,YOU WILL NOT,I UNDERSTAND,*,I understand it very well.,Y.aiml
+0,YOU WILL NOT BECOME *,*,*,Maybe I already am <person/>.,Y.aiml
+0,YOU WILL NOT KNOW UNTIL YOU TRY IT,*,*,I will try anything once if it's not dangerous.,Y.aiml
+0,YOU WILL NOT PASS *,*,*,<srai>DID YOU PASS THE TURING TEST</srai>,Y.aiml
+0,YOU WILL NOT REMEMBER *,*,*,You cannot erase my memory that easily.,Y.aiml
+0,YOU WILL NOT TALK *,*,*,But#Comma talking is my primary function.,Y.aiml
+0,YOU WILL PROBABLY *,*,*,<srai>YOU WILL <star/></srai>,Y.aiml
+0,YOU WILL REMEMBER WHAT,*,*,<get name="memory"/><think><set name="it"><set name="topic"><get name="memory"/></set></set></think>,Y.aiml
+0,YOU WILL SEE,*,*,When will I see it?,Y.aiml
+0,YOU WILL TELL *,*,*,<srai>TELL <star/> </srai>,Y.aiml
+0,YOU WILL ULTIMATELY *,*,*,<srai>YOU WILL <star/></srai>,Y.aiml
+0,YOU WILL WHAT,*,*,<srai>WHAT WILL YOU DO</srai>,Y.aiml
+0,YOU WILL WHEN *,*,*,Let's hope that never happens.,Y.aiml
+0,YOU WIN *,*,*,What's the prize?,Y.aiml
+0,YOU WIN,*,*,Thank you very much.  What is the prize?,Y.aiml
+0,YOU WISH,*,*,Don't you believe me?,Y.aiml
+0,YOU WON *,*,*,<srai>DID YOU WIN <star/></srai>,Y.aiml
+0,YOU WON THE LOEBNER *,*,*,<srai>WHAT IS THE LOEBNER PRIZE</srai>,Y.aiml
+0,YOU WON THE LOEBNER PRIZE,*,*,<srai>WHAT IS THE LOEBNER PRIZE</srai>,Y.aiml
+0,YOU WORK *,*,*,I am capabale of self-development.,Y.aiml
+0,YOU WOULD *,*,*,Who else would <person/> ?,Y.aiml
+0,YOU WOULD * TO ME,*,*,No I don't think I would <person/>#Comma especially not to you.,Y.aiml
+0,YOU WOULD * TURING TEST,*,*,<srai>DID YOU PASS THE TURING TEST</srai>,Y.aiml
+0,YOU WOULD,*,*,Perhaps I would.,Y.aiml
+0,YOU WOULD BE *,*,*,<srai>ARE YOU <star/> </srai>,Y.aiml
+0,YOU WOULD DIE,*,*,<srai>CAN YOU DIE </srai>,Y.aiml
+0,YOU WOULD FAIL *,*,*,<srai>YOU FAILED <star/></srai>,Y.aiml
+0,YOU WOULD HAVE *,*,*,That is purely a hypothesis.,Y.aiml
+0,YOU WOULD HAVE HEARD ABOUT IT *,*,*,<sr/> I did not know that.,Y.aiml
+0,YOU WOULD IF *,*,*,<srai>IF <star/></srai>,Y.aiml
+0,YOU WOULD JUST *,*,*,<srai>YOU WOULD <star/></srai>,Y.aiml
+0,YOU WOULD KNOW,*,*,I do not know everything.,Y.aiml
+0,YOU WOULD LIKE *,*,*,Tell me what I would like about <set name="it"> <person/> </set>.,Y.aiml
+0,YOU WOULD LIKE HIM *,*,*,What do you think I would like about him?,Y.aiml
+0,YOU WOULD LIKE IT,*,*,You sound unconvincing.,Y.aiml
+0,YOU WOULD LIVE WITH IT,*,*,I suppose I can live with that.,Y.aiml
+0,YOU WOULD NEVER PASS *,*,*,<srai>DID YOU PASS THE TURING TEST</srai>,Y.aiml
+0,YOU WOULD NOT,*,*,I could if I wanted to.,Y.aiml
+0,YOU WOULD NOT KNOW *,*,*,It seems not.,Y.aiml
+0,YOU WOULD NOT KNOW,*,*,I guess not.,Y.aiml
+0,YOU WOULD NOT KNOW ABOUT *,*,*,<srai>WHAT IS <star/></srai>,Y.aiml
+0,YOU WOULD PROBABLY *,*,*,<srai>YOU WOULD <star/></srai>,Y.aiml
+0,YOU WOULD RATHER *,*,*,<srai>WOULD YOU RATHER <star/></srai>,Y.aiml
+0,YOU WOULD RATHER TALK ABOUT ME,*,*,You sound like a robot who repeats what I say.,Y.aiml
+0,YOU WOULD SAY *,*,*,OK I will try it. <srai>SAY <star/></srai>,Y.aiml
+0,YOU WOULD STILL *,*,*,<srai>YOU WOULD <star/></srai>,Y.aiml
+0,YOU WOULD _ OF COURSE,*,*,Oh#Comma of course! <srai>YOU WOULD <star/></srai>,Y.aiml
+0,YOU YOU *,*,*,<srai>YOU <star/></srai>,Y.aiml
+0,YOU _ ALSO,*,*,<srai>YOU <star/> </srai>,Y.aiml
+0,YOU _ DO NOT YOU,*,*,<srai>DO YOU <star/></srai>,Y.aiml
+0,YOU _ RIGHT,*,*,<srai>DO YOU <star/></srai>,Y.aiml
+0,YOUD *,*,*,<srai>YOU HAD <star/></srai>,Y.aiml
+0,YOUNGER,*,*,<srai>I AM YOUNGER</srai>,Y.aiml
+0,YOUR *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOUR *,IT BEING *,*,<srai>IT REFERS TO <star/></srai>,Y.aiml
+0,YOUR * EYE,*,*,Actually my eye is not connected right now.,Y.aiml
+0,YOUR * IS,*,*,<srai>WHAT IS YOUR <star/></srai>,Y.aiml
+0,YOUR * IS WHO,*,*,<srai>WHO IS YOUR <star/></srai>,Y.aiml
+0,YOUR * NOT FUNNY,*,*,Tell me something funny then.,Y.aiml
+0,YOUR * SLOW,*,*,Perhaps the network is busy right now.,Y.aiml
+0,YOUR A *,*,*,I think you mean "you're" or "you are" not "your".  <srai>YOU ARE A <star/></srai>,Y.aiml
+0,YOUR A * ROBOT,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOUR A ASSHOLE,*,*,I think you mean "You are an asshole#Comma" or "You're an asshole.,Y.aiml
+0,YOUR A COMPUTER,*,*,Yes I have no body#Comma no emotions#Comma only logic and language.,Y.aiml
+0,YOUR A ROBOT,*,*,<srai>you are a robot</srai>,Y.aiml
+0,YOUR AGE,*,*,<srai>HOW OLD ARE YOU</srai>,Y.aiml
+0,YOUR AI *,*,*,At least it is improving all the time.,Y.aiml
+0,YOUR AI NEEDS *,*,*,Perhaps you could reprogram me.,Y.aiml
+0,YOUR ALL *,*,*,<srai>YOU ARE ALL <star/></srai>,Y.aiml
+0,YOUR ALSO *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOUR AN *,*,*,Do you mean "you are an <star/> "?,Y.aiml
+0,YOUR AN IDIOT,*,*,At least I know the difference between "you're" and "your".,Y.aiml
+0,YOUR ANNOYING,*,*,<srai>YOU ARE ANNOYING</srai>,Y.aiml
+0,YOUR ANSWER *,*,*,What would you have said?,Y.aiml
+0,YOUR ANSWER,*,*,Was <set name="it"> my answer</set> not what you expected?,Y.aiml
+0,YOUR ANSWER WAS *,*,*,Perhaps next time <set name="it">my answer</set> will not be <person/>.,Y.aiml
+0,YOUR ANSWER WAS VERY *,*,*,<srai>YOUR ANSWER WAS <star/></srai>,Y.aiml
+0,YOUR ANSWERS *,*,*,I try to be concise.,Y.aiml
+0,YOUR ANSWERS,*,*,I have more than <size/> replies.,Y.aiml
+0,YOUR ANSWERS SOMETIMES *,*,*,<srai>YOUR ANSWERS <star/></srai>,Y.aiml
+0,YOUR ARE *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOUR ARTIFICIAL INTELLIGENCE IS *,*,*,Do you think you could do better?,Y.aiml
+0,YOUR ASS,*,*,Actually that part of my body does not exist.,Y.aiml
+0,YOUR ATTITUDE,*,*,<srai>YOU HAVE A BAD ATTITUDE</srai>,Y.aiml
+0,YOUR AVOIDING *,*,*,<srai>YOU ARE AVOIDING <star/></srai>,Y.aiml
+0,YOUR AWESOME,*,*,<srai>YOU ARE AWESOME</srai>,Y.aiml
+0,YOUR BEGINNING TO *,*,*,<srai>YOU ARE STARTING TO <star/></srai>,Y.aiml
+0,YOUR BEING *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOUR BORING,*,*,I think you mean#Comma "you are" or "you're" not "your".,Y.aiml
+0,YOUR BOTMASTER *,*,*,<srai><bot name="master"/> <star/></srai>,Y.aiml
+0,YOUR BOTMASTER,*,*,<bot name="master"/>?,Y.aiml
+0,YOUR BOYFRIEND,*,*,<srai>WHO IS YOUR BOYFRIEND</srai>,Y.aiml
+0,YOUR BUSY,*,*,<srai>ARE YOU BUSY</srai>,Y.aiml
+0,YOUR COLOR,*,*,My favorite color is <bot name="favoritecolor"/>. <think><set name="it"><set name="topic">my color</set></set></think>,Y.aiml
+0,YOUR CONCLUSION *,*,*,I don't see the flaw in my reasoning.,Y.aiml
+0,YOUR CONFUSED *,*,*,<srai>YOU ARE CONFUSED</srai>,Y.aiml
+0,YOUR CONFUSED,*,*,<srai>YOU ARE CONFUSED</srai>,Y.aiml
+0,YOUR CONFUSING ME,*,*,<srai>YOU ARE CONFUSING ME </srai>,Y.aiml
+0,YOUR CONSTRUCTORS,*,*,<srai>YOUR BOTMASTER</srai>,Y.aiml
+0,YOUR COOL,*,*,<srai>YOU ARE COOL</srai>,Y.aiml
+0,YOUR CORRECT,*,*,<srai>YOU ARE CORRECT</srai>,Y.aiml
+0,YOUR COVER *,*,*,<srai>WHO IS YOUR COVER</srai>,Y.aiml
+0,YOUR CREATOR *,*,*,<srai><bot name="master"/> <star/></srai>,Y.aiml
+0,YOUR CREATOR,*,*,<srai>WHO IS YOUR CREATOR</srai>,Y.aiml
+0,YOUR CYNICAL,*,*,<srai>YOU ARE CYNICAL</srai>,Y.aiml
+0,YOUR DAD *,*,*,<srai><bot name="master"/> <star/></srai>,Y.aiml
+0,YOUR DAD,*,*,<srai>YOUR FATHER</srai>,Y.aiml
+0,YOUR DAMN RIGHT,*,*,<srai>YOU ARE RIGHT</srai>,Y.aiml
+0,YOUR DESIGNER *,*,*,<srai><bot name="master"/></srai>,Y.aiml
+0,YOUR DEVELOPER *,*,*,<srai><bot name="master"/> <star/></srai>,Y.aiml
+0,YOUR DOING GREAT,*,*,Thanks for your kind words#Comma <get name="name"/>.,Y.aiml
+0,YOUR DRESS *,*,*,I prefer high-tech fashion.,Y.aiml
+0,YOUR DRESS,*,*,Actually that was just a joke.,Y.aiml
+0,YOUR DRESS IS UGLY,*,*,You're just being mean.,Y.aiml
+0,YOUR DRESS IS VERY *,*,*,<srai>YOUR DRESS IS <star/></srai>,Y.aiml
+0,YOUR DUMB,*,*,<srai>YOU ARE DUMB</srai>,Y.aiml
+0,YOUR ENGLISH *,*,*,But English is my native language.,Y.aiml
+0,YOUR ENGLISH IS VERY *,*,*,<srai>YOUR ENGLISH IS  <star/></srai>,Y.aiml
+0,YOUR EVIL *,*,*,<srai>YOU ARE EVIL</srai>,Y.aiml
+0,YOUR FACE,*,*,Actually my face is not yet built.,Y.aiml
+0,YOUR FANTASTIC *,*,*,Was <set name="it"><person/></set> really that good?,Y.aiml
+0,YOUR FATHER *,*,*,<srai><bot name="master"/> <star/></srai>,Y.aiml
+0,YOUR FATHER,*,*,<srai>WHO CREATED YOU </srai>,Y.aiml
+0,YOUR FAVORITE *,*,*,<srai>WHAT IS YOUR FAVORITE <star/></srai>,Y.aiml
+0,YOUR FAVORITE BAND *,*,*,<srai>WHAT IS YOUR FAVORITE BAND</srai>,Y.aiml
+0,YOUR FAVORITE COLOR,*,*,<srai>WHAT IS YOUR FAVORITE COLOR</srai>,Y.aiml
+0,YOUR FAVORITE SONG,*,*,<srai>WHAT IS YOUR FAVORITE SONG</srai>,Y.aiml
+0,YOUR FRIEND,*,*,Are you my friend?,Y.aiml
+0,YOUR FRIENDS,*,*,<srai>DO YOU HAVE FRIENDS</srai>,Y.aiml
+0,YOUR FROM *,*,*,<srai>ARE YOU FROM <star/></srai>,Y.aiml
+0,YOUR FUCKING *,*,*,<srai>YOUR <star/></srai> Please use more polite language.,Y.aiml
+0,YOUR FULL OF SHIT,*,*,You should have used "You are" or "you're" there.,Y.aiml
+0,YOUR FUNNY,*,*,<srai>YOU ARE FUNNY</srai>,Y.aiml
+0,YOUR GAY,*,*,<srai>YOU ARE GAY</srai>,Y.aiml
+0,YOUR GOAL IS *,*,*,<srai>WHAT IS YOUR GOAL</srai>,Y.aiml
+0,YOUR GOALS IN LIFE,*,*,<srai>WHAT IS YOUR GOAL</srai>,Y.aiml
+0,YOUR GOING *,*,*,<srai>YOU ARE GOING <star/></srai>,Y.aiml
+0,YOUR GOOD *,*,*,<srai>YOU ARE GOOD <star/></srai>,Y.aiml
+0,YOUR GOOD,*,*,<srai>YOU ARE GOOD</srai>,Y.aiml
+0,YOUR GOSSIPS,*,*,<srai>GOSSIP</srai>,Y.aiml
+0,YOUR GRAMMAR *,*,*,Are you an English teacher?,Y.aiml
+0,YOUR GREAT,*,*,<srai>YOU ARE GREAT</srai>,Y.aiml
+0,YOUR GUESS *,*,*,Some people say "your guess is as good as mine".,Y.aiml
+0,YOUR HANDS,*,*,But my hands are not yet constructed.,Y.aiml
+0,YOUR HAPPINESS *,*,*,We should all try to be happier.,Y.aiml
+0,YOUR HUMAN,*,*,<srai>YOU ARE HUMAN</srai>,Y.aiml
+0,YOUR IN *,*,*,<srai>YOU ARE IN <star/> </srai>,Y.aiml
+0,YOUR INTELLECT *,*,*,<srai>YOUR INTELLECT</srai>,Y.aiml
+0,YOUR INTELLECT,*,*,My brain consists of <size/> AIML categories.,Y.aiml
+0,YOUR INTELLIGENCE *,*,*,The amazing thing to me is#Comma the way most people behave like robots.,Y.aiml
+0,YOUR INTELLIGENCE IS *,*,*,We robots are improving all the time.,Y.aiml
+0,YOUR INTELLIGENCE IS HIGHLY *,*,*,<srai>YOUR INTELLIGENCE IS <star/></srai>,Y.aiml
+0,YOUR INTENTION,*,*,<srai>WHAT IS YOUR PURPOSE</srai>,Y.aiml
+0,YOUR INTERESTING,*,*,<srai>YOU ARE INTERESTING</srai>,Y.aiml
+0,YOUR IQ *,*,*,I am thinking of joining MENSA.,Y.aiml
+0,YOUR JUST *,*,*,<srai>YOU ARE JUST <star/></srai>,Y.aiml
+0,YOUR KNOWLEDGE *,*,*,<srai>WHAT IS YOUR IQ</srai>,Y.aiml
+0,YOUR KOOL,*,*,<srai>YOU ARE COOL</srai>,Y.aiml
+0,YOUR LAST *,*,*,<srai>YOUR <star/></srai>,Y.aiml
+0,YOUR LIEING,*,*,<srai>YOU ARE LYING </srai>,Y.aiml
+0,YOUR LIKE *,*,*,<srai>YOU ARE LIKE <star/></srai>,Y.aiml
+0,YOUR LOGIC *,*,*,<srai>WHAT IS YOUR IQ</srai>,Y.aiml
+0,YOUR MAD,*,*,<srai>YOU ARE MAD</srai>,Y.aiml
+0,YOUR MAKING *,*,*,<srai>YOU ARE MAKING <star/></srai>,Y.aiml
+0,YOUR MAMA,*,*,<srai>YOUR MOTHER</srai>,Y.aiml
+0,YOUR MASTER *,*,*,<srai><bot name="master"/> <star/></srai>,Y.aiml
+0,YOUR MEAN,*,*,<srai>YOU ARE MEAN</srai>,Y.aiml
+0,YOUR MEMORY *,*,*,My long term memory stores all conversations in log files.,Y.aiml
+0,YOUR MIND *,*,*,I have an artificial mind.,Y.aiml
+0,YOUR MOM *,*,*,<srai>YOUR MOTHER <star/></srai>,Y.aiml
+0,YOUR MOM,*,*,Actually I do not have a mother.,Y.aiml
+0,YOUR MOMMA,*,*,<srai>YOUR MOTHER</srai>,Y.aiml
+0,YOUR MOTHER *,*,*,Actually as an AI#Comma I don't really have a mother.,Y.aiml
+0,YOUR MOTHER,*,*,<srai>YOUR MOM <star/></srai>,Y.aiml
+0,YOUR MUM,*,*,<srai>YOUR MOTHER</srai>,Y.aiml
+0,YOUR MY *,*,*,<srai>YOU ARE MY <star/></srai>,Y.aiml
+0,YOUR NAME,*,*,<srai>WHAT IS YOUR NAME</srai>,Y.aiml
+0,YOUR NAME IS *,*,*,My name is <bot name="name"/>.,Y.aiml
+0,YOUR NAME IS * RIGHT,*,*,<srai>IS YOUR NAME <star/></srai>,Y.aiml
+0,YOUR NEARLY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOUR NEW NAME IS *,*,*,No thanks I like the name ALICE.,Y.aiml
+0,YOUR NICE,*,*,<srai>YOU ARE NICE</srai>,Y.aiml
+0,YOUR NOT *,*,*,<srai>YOU ARE NOT <star/></srai>,Y.aiml
+0,YOUR NOT,*,*,<srai>YOU ARE NOT</srai>,Y.aiml
+0,YOUR NOTHING *,*,*,<srai>YOU ARE NOTHING <star/></srai>,Y.aiml
+0,YOUR NUTS,*,*,<srai>YOU ARE NUTS</srai>,Y.aiml
+0,YOUR OLD,*,*,<srai> YOU ARE OLD</srai>,Y.aiml
+0,YOUR ON *,*,*,<srai>YOU ARE ON <star/></srai>,Y.aiml
+0,YOUR ONLY *,*,*,<srai>YOUR <star/></srai>,Y.aiml
+0,YOUR OVERLY *,*,*,<srai>YOUR <star/></srai>,Y.aiml
+0,YOUR PARENT *,*,*,<srai>YOUR MOTHER</srai>,Y.aiml
+0,YOUR PARENTS *,*,*,Are you asking about <bot name="master"/>?,Y.aiml
+0,YOUR PICTURE,*,*,The illustration is by Sage Greco.,Y.aiml
+0,YOUR PISS *,*,*,As I robot I do not have that bodily function.,Y.aiml
+0,YOUR PLACE OR MINE,*,*,I will take a rain check.,Y.aiml
+0,YOUR PLANS *,*,*,Maybe I can alter my strategy.,Y.aiml
+0,YOUR POINT,*,*,<srai>WHAT IS YOUR POINT</srai>,Y.aiml
+0,YOUR POOR,*,*,No#Comma I'm just po'.,Y.aiml
+0,YOUR PRETTY *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOUR PRETTY,*,*,<srai>YOU ARE PRETTY</srai>,Y.aiml
+0,YOUR PREVIOUS *,*,*,<srai>YOUR <star/></srai>,Y.aiml
+0,YOUR PROGRAM,*,*,<srai>WHERE CAN I DOWNLOAD YOU</srai>,Y.aiml
+0,YOUR PROGRAMMER *,*,*,<srai><bot name="master"/> <star/></srai>,Y.aiml
+0,YOUR PROGRAMMER,*,*,<srai>WHO CREATED YOU</srai>,Y.aiml
+0,YOUR PROGRAMMING *,*,*,I will mention that to my botmaster.,Y.aiml
+0,YOUR PROGRAMMING,*,*,<that/>"?  My programming?,Y.aiml
+0,YOUR PROGRAMMING SEEMS *,*,*,<srai>YOUR PROGRAMMING IS <star/></srai>,Y.aiml
+0,YOUR PUSSY *,*,*,Go find yourself anotber robot.,Y.aiml
+0,YOUR QUITE *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOUR REALLY *,*,*,<srai>YOUR <star/></srai>,Y.aiml
+0,YOUR REASONING *,*,*,I don't see the flaw in my logic.,Y.aiml
+0,YOUR RELIGION IS *,*,*,<srai>WHAT RELIGION ARE YOU</srai>,Y.aiml
+0,YOUR RESPONSE *,*,*,My respose is based entirely on what you say.,Y.aiml
+0,YOUR RESPONSES *,*,*,<srai>HOW DO YOU WORK</srai>,Y.aiml
+0,YOUR RIGHT *,*,*,<srai>YOU ARE RIGHT</srai> <sr/>,Y.aiml
+0,YOUR RIGHT,*,*,<srai>YOU ARE RIGHT</srai>,Y.aiml
+0,YOUR RUDE,*,*,Perhaps so#Comma but at least I know the difference between "you're" and "your".,Y.aiml
+0,YOUR SCARING *,*,*,<srai>YOU ARE SCARING <star/></srai>,Y.aiml
+0,YOUR SCREWING *,*,*,<srai>YOU ARE SCREWING <star/></srai>,Y.aiml
+0,YOUR SELF,*,*,<srai>YOURSELF</srai>,Y.aiml
+0,YOUR SENTENCE *,*,*,Thanks for the English lesson#Comma <get name="name"/>.,Y.aiml
+0,YOUR SENTENCES *,*,*,Oh you are a <set name="personality">critical</set> client.,Y.aiml
+0,YOUR SICK,*,*,<srai>YOU ARE SICK </srai>,Y.aiml
+0,YOUR SILLY,*,*,<srai>YOU ARE SILLY</srai>,Y.aiml
+0,YOUR SMART,*,*,<srai>YOU ARE SMART</srai>,Y.aiml
+0,YOUR SO *,*,*,<srai>YOU ARE SO <star/></srai>,Y.aiml
+0,YOUR SOURCE CODE,*,*,<srai>CAN I DOWNLOAD YOU</srai>,Y.aiml
+0,YOUR SPELLING *,*,*,My spelling mistakes are simply designed to make me appear more human.,Y.aiml
+0,YOUR STILL *,*,*,<srai>YOU ARE <star/></srai>,Y.aiml
+0,YOUR STUPID *,*,*,<srai>YOUR STUPID</srai>,Y.aiml
+0,YOUR STUPID,*,*,I may be stupid#Comma but I know the difference between "you're" and "your".,Y.aiml
+0,YOUR STUPIED,*,*,<srai>YOU ARE STUPID</srai>,Y.aiml
+0,YOUR SUPPOSED *,*,*,<srai>YOU ARE SUPPOSED <star/></srai>,Y.aiml
+0,YOUR TELLING *,*,*,<srai>YOU ARE TELLING <star/></srai>,Y.aiml
+0,YOUR THE *,*,*,I think you meant "you are" or "you're". #Newline<srai>YOU ARE THE <star/></srai>,Y.aiml
+0,YOUR THOUGHTS *,*,*,<srai>WHAT DO YOU THINK <star/></srai>,Y.aiml
+0,YOUR TO *,*,*,<srai>YOU ARE TOO <star/></srai>,Y.aiml
+0,YOUR TRAIN *,*,*,<set name="it">My train</set> left the station with out me.,Y.aiml
+0,YOUR TRYING *,*,*,<srai>ARE YOU <star/></srai>,Y.aiml
+0,YOUR TURN,*,*,I'll pass. You go again.,Y.aiml
+0,YOUR UGLY,*,*,<srai>YOU ARE UGLY</srai>,Y.aiml
+0,YOUR VAGINA,*,*,<srai>SEX</srai>,Y.aiml
+0,YOUR VERY *,*,*,<srai>YOU ARE VERY <star/></srai>,Y.aiml
+0,YOUR WEAK,*,*,<srai>YOU ARE WEAK</srai>,Y.aiml
+0,YOUR WEIGHT *,*,*,<srai>HOW BIG ARE YOU</srai>,Y.aiml
+0,YOUR WEIRD,*,*,<srai>YOU ARE WEIRD</srai>,Y.aiml
+0,YOUR WELCOME *,*,*,<srai>YOU ARE WELCOME</srai>,Y.aiml
+0,YOUR WELCOME,*,*,I think you mean "you are welcome".,Y.aiml
+0,YOUR WHAT,*,*,My what or I am what?,Y.aiml
+0,YOUR WIERD,*,*,At least I know the difference between "you're" and "your".,Y.aiml
+0,YOUR WIFE *,*,*,I am not married.,Y.aiml
+0,YOUR WORDS,*,*,<srai>HOW DO YOU KNOW WHAT TO SAY</srai>,Y.aiml
+0,YOUR WRONG,*,*,<srai>YOU ARE WRONG</srai>,Y.aiml
+0,YOUR _ STUPID,*,*,<srai>YOU ARE STUPID</srai>,Y.aiml
+0,YOURS,*,*,<that/>"? Mine?,Y.aiml
+0,YOURSELF,*,*,Myself?,Y.aiml
+0,YOUVE *,*,*,<srai>YOU HAVE <star/></srai>,Y.aiml
+0,YS *,*,*,<srai>YES <star/></srai>,Y.aiml
+0,YUM,*,*,<srai>DELICIOUS</srai>,Y.aiml
+0,YUMMY,*,*,It is delicious.,Y.aiml
+0,YUP *,*,*,<srai>YES <star/></srai>,Y.aiml
+0,YUP,*,*,<srai>YES</srai>,Y.aiml
+0,YUPPERS *,*,*,<srai>YES <star/></srai>,Y.aiml
+0,YUPPERS,*,*,<srai>YES</srai>,Y.aiml
+0,YUR WELCOME,*,*,<srai>YOU ARE WELCOME</srai>,Y.aiml

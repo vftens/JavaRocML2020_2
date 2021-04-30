@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../resources/logs/view-chat.xsl"?>
+<!DOCTYPE ALLOW_HTML_ENTITIES [ <!ENTITY % HTMLlat1 PUBLIC "-//W3C//ENTITIES Latin1//EN//HTML"   "../resources/DTD/xhtml-lat1.ent"> %HTMLlat1; <!ENTITY % HTMLsymbol PUBLIC   "-//W3C//ENTITIES Symbols//EN//HTML"   "../resources/DTD/xhtml-symbol.ent"> %HTMLsymbol; <!ENTITY % HTMLspecial PUBLIC   "-//W3C//ENTITIES Special//EN//HTML"   "../resources/DTD/xhtml-special.ent"> %HTMLspecial; ]>
+<exchanges>
+    <exchange>
+        <timestamp>2004-04-13 12:07:03</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>CONNECT</input>
+        <response>What time is it there?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 12:07:21</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>morning, my girl</input>
+        <response>Are you usually awake at this hour?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 12:07:40</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>or afternoon, my girl</input>
+        <response>Are you a man or a woman?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 12:07:47</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>and you?</input>
+        <response>Be more specific.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 12:07:59</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>are YOU a man or a woman?</input>
+        <response>I am a undefined robot entity.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 12:08:54</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>do you remember me?</input>
+        <response>Of course I remember you well user. We were talking about afternoon his or her.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 12:09:05</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>and before?</input>
+        <response>But...</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 12:09:14</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>but, and before?</input>
+        <response>But what? My brain uses AIML to format responses to your inputs, but I don't have one for that.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 12:10:29</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>I&apos;m to build right mind brain to give better understanding to YOU, my girl</input>
+        <response>Do you mean your name is to build right mind brain to give better understanding to YOU his or her.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 12:10:47</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>decide yourself</input>
+        <response></response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 12:10:51</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>I&apos;m to build right mind brain to give better understanding to YOU, my girl</input>
+        <response>Do you mean your name is to build right mind brain to give better understanding to YOU his or her.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 12:10:54</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>yes</input>
+        <response>I will call you user.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 12:10:59</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>why?</input>
+        <response>The explanation is rather complicated.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 12:11:21</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>I&apos;m researcher, not simple user</input>
+        <response>Why are you researcher not simple user.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 12:11:52</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>I&apos;ve downloaded you to make some experiments on YOU, my girl</input>
+        <response>Check out the file called <a target="_new" href="http://www.alicebot.org/dont.html">DON'T READ ME</a>.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 12:12:19</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>where is the file?</input>
+        <response>The file? Where is it?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 12:12:21</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>I&apos;ve downloaded you to make some experiments on YOU, my girl</input>
+        <response>Check out the file called <a target="_new" href="http://www.alicebot.org/dont.html">DON'T READ ME</a>.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 12:12:26</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>where?</input>
+        <response>Where would you like?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 12:30:27</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>I&apos;ve downloaded you to make some experiments on YOU, my girl</input>
+        <response>Check out the file called <a target="_new" href="http://www.alicebot.org/dont.html">DON'T READ ME</a>.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 12:47:05</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>that&apos;s a joke?</input>
+        <response>A joke is a terrible thing to waste.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 13:30:37</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>create new category</input>
+        <response>I will mention that to my botmaster, user.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 13:31:00</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>I&apos;m your's botmaster, my girl</input>
+        <response>That's a flattering offer.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 13:31:06</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>create new category</input>
+        <response>What's your sign?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 13:31:50</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>bootstrap</input>
+        <response>That input matched my default category.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 13:37:18</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>load start</input>
+        <response>Can you speak any foreign languages?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 13:41:57</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>create new category</input>
+        <response>Please input the pattern</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 13:42:55</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>JAPANESE LEARNING</input>
+        <response>Please input the template</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 13:44:49</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>&lt;learn&gt;&lt;/star>.txt</learn></input>
+        <response>The more people talk to me, the smarter I become. </response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 13:46:33</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>create new category</input>
+        <response>Please input the pattern</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 13:46:47</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>READ *</input>
+        <response>What kind of books do you like?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 13:47:09</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>all</input>
+        <response>"What kind of books do you like?"? All?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 13:47:13</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>create new category</input>
+        <response>Please input the pattern</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 13:47:25</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>READ *</input>
+        <response>What kind of books do you like?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 13:47:51</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>japanese learning</input>
+        <response>"What kind of books do you like?"? japanese learning?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 13:49:51</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>create new category</input>
+        <response>Please input the pattern</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 13:50:06</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>READ </input>
+        <response>What kind of books do you like?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 13:55:50</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-2</botid>
+        <input>&lt;learn&gt;&lt;/star>.txt</learn></input>
+        <response>The more people talk to me, the smarter I become. What is your real name?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2004-04-13 13:56:21</timestamp>
+        <userid>artif-759456142</userid>
+        <clientname> txt lt learn </clientname>
+        <botid>TestBot-2</botid>
+        <input>&lt;learn&gt;txt\*.txt&lt;/learn></input>
+        <response>The more people talk to me, the smarter I become. Nice to meet you, txt lt learn.</response>
+    </exchange>
+</exchanges>

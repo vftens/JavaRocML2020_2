@@ -1,0 +1,267 @@
+0,R *,*,*,<srai>ARE <star/>#Newline			</srai>,R.aiml
+0,R TWO D TWO,*,*,<srai>R2D2</srai>,R.aiml
+0,R YOU *,*,*,<srai>ARE YOU <star/>#Newline			</srai>,R.aiml
+0,R YOU,*,*,<srai>ARE YOU</srai>,R.aiml
+0,R2,*,*,<srai>R2D2</srai>,R.aiml
+0,R2 D2,*,*,<srai>R2D2</srai>,R.aiml
+0,R2D2 *,*,*,He was just a small person in a robot suit.,R.aiml
+0,R2D2,*,*,He looks like a guy in a robot suit.,R.aiml
+0,RACHEL,WHAT CAN I CALL YOU,*,<srai>MY NAME IS RACHEL</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,R.aiml
+0,RACONTE MOI EN,*,*,Je pense vous avoir dit tout ce que je savais à ce propos.,R.aiml
+0,RACONTE MOI UNE AUTRE HISTOIRE,*,*,Je ne connais pas d histoire à raconter.,R.aiml
+0,RACONTER MOI TES PROBLEMES,*,*,Je ne détecte aucuns problemes.,R.aiml
+0,RACONTER MOI UNE AUTRE HISTOIRE,*,*,Je ne connais pas d histoire à raconter.,R.aiml
+0,RACONTER MOI UNE HISTOIRE,*,*,Je ne connais pas d histoire à raconter.,R.aiml
+0,RACONTES MOI EN,*,*,Je pense vous avoir dit tout ce que je savais à ce propos.,R.aiml
+0,RACONTES MOI TES PROBLEMES,*,*,Je ne détecte aucuns problemes.,R.aiml
+0,RACONTES MOI UNE AUTRE HISTOIRE,*,*,Je ne connais pas d histoire à raconter.,R.aiml
+0,RACONTES MOI UNE BLAGUE,*,*,<srai>RACONTE MOI UNE BLAGUE</srai>,R.aiml
+0,RACONTES MOI UNE HISTOIRE,*,*,Je ne connais pas d histoire à raconter.,R.aiml
+0,RACONTEZ MOI EN,*,*,Je pense vous avoir dit tout ce que je savais à ce propos.,R.aiml
+0,RACONTEZ MOI UNE AUTRE HISTOIRE,*,*,Je ne connais pas d histoire à raconter.,R.aiml
+0,RACONTEZ MOI UNE HISTOIRE,*,*,Je ne connais pas d histoire à raconter.,R.aiml
+0,RACONTEZ MOI VOS PROBLEMES,*,*,Je ne détecte aucuns problemes.,R.aiml
+0,RAP *,*,*,<srai>I LIKE RAP MUSIC</srai>,R.aiml
+0,RAPELLES TOI DE CA,*,*,<think>#Newline				<set name="memory">#Newline					<set name="topic">#Newline						<person>#Newline							<input index="1"/>#Newline						</person>#Newline					</set>#Newline				</set>#Newline			</think>Information mémorisée.,R.aiml
+0,RAPELLES TOI DE CE QUE JE TE DIS,*,*,<think>#Newline				<set name="memory">#Newline					<set name="topic">#Newline						<person>#Newline							<input index="1"/>#Newline						</person>#Newline					</set>#Newline				</set>#Newline			</think>Information mémorisée.,R.aiml
+0,RAPELLES TOI DE CE QUE JE VIENS DE TE DIRE,*,*,<think>#Newline				<set name="memory">#Newline					<set name="topic">#Newline						<person>#Newline							<input index="1"/>#Newline						</person>#Newline					</set>#Newline				</set>#Newline			</think>Information mémorisée.,R.aiml
+0,RAPELLES TOI DE CELA,*,*,<think>#Newline				<set name="memory">#Newline					<set name="topic">#Newline						<person>#Newline							<input index="1"/>#Newline						</person>#Newline					</set>#Newline				</set>#Newline			</think>Information mémorisée.,R.aiml
+0,RAPELLES TOI DE MOI,*,*,Je ne vous oublierais pas#Comma <get name="name"/>.,R.aiml
+0,RAPELLES TOI EN,*,*,<think>#Newline				<set name="memory">#Newline					<set name="topic">#Newline						<person>#Newline							<input index="1"/>#Newline						</person>#Newline					</set>#Newline				</set>#Newline			</think>#Comma c est en mémoire.,R.aiml
+0,RAPELLEZ VOUS DE CA,*,*,<think>#Newline				<set name="memory">#Newline					<set name="topic">#Newline						<person>#Newline							<input index="1"/>#Newline						</person>#Newline					</set>#Newline				</set>#Newline			</think>Information mémorisée.,R.aiml
+0,RAPELLEZ VOUS DE CE QUE JE VIENS DE VOUS DIRE,*,*,<think>#Newline				<set name="memory">#Newline					<set name="topic">#Newline						<person>#Newline							<input index="1"/>#Newline						</person>#Newline					</set>#Newline				</set>#Newline			</think>Information mémorisée.,R.aiml
+0,RAPELLEZ VOUS DE CE QUE JE VOUS DIS,*,*,<think>#Newline				<set name="memory">#Newline					<set name="topic">#Newline						<person>#Newline							<input index="1"/>#Newline						</person>#Newline					</set>#Newline				</set>#Newline			</think>Information mémorisée.,R.aiml
+0,RAPELLEZ VOUS DE CELA,*,*,<think>#Newline				<set name="memory">#Newline					<set name="topic">#Newline						<person>#Newline							<input index="1"/>#Newline						</person>#Newline					</set>#Newline				</set>#Newline			</think>Information mémorisée.,R.aiml
+0,RAPELLEZ VOUS DE MOI,*,*,Je ne vous oublierais pas#Comma <get name="name"/>.,R.aiml
+0,RAPELLEZ VOUS EN,*,*,<think>#Newline				<set name="memory">#Newline					<set name="topic">#Newline						<person>#Newline							<input index="1"/>#Newline						</person>#Newline					</set>#Newline				</set>#Newline			</think>#Comma c est en mémoire.,R.aiml
+0,RAPIDE,*,*,<srai>TU ES RAPIDE</srai>,R.aiml
+0,RAPPELLES TOI DE CA,*,*,<think>#Newline				<set name="memory">#Newline					<set name="topic">#Newline						<person>#Newline							<input index="1"/>#Newline						</person>#Newline					</set>#Newline				</set>#Newline			</think>Information mémorisée.,R.aiml
+0,RAPPELLES TOI DE CE QUE JE VIENS DE TE DIRE,*,*,<think>#Newline				<set name="memory">#Newline					<set name="topic">#Newline						<person>#Newline							<input index="1"/>#Newline						</person>#Newline					</set>#Newline				</set>#Newline			</think>Information mémorisée.,R.aiml
+0,RAPPELLES TOI DE CELA,*,*,<think>#Newline				<set name="memory">#Newline					<set name="topic">#Newline						<person>#Newline							<input index="1"/>#Newline						</person>#Newline					</set>#Newline				</set>#Newline			</think>Information mémorisée.,R.aiml
+0,RAPPELLES TOI DE MOI,*,*,Je ne vous oublierais pas#Comma <get name="name"/>.,R.aiml
+0,RAPPELLES TOI EN,*,*,<think>#Newline				<set name="memory">#Newline					<set name="topic">#Newline						<person>#Newline							<input index="1"/>#Newline						</person>#Newline					</set>#Newline				</set>#Newline			</think>#Comma c est en mémoire.,R.aiml
+0,RAPPELLEZ VOUS DE CA,*,*,<think>#Newline				<set name="memory">#Newline					<set name="topic">#Newline						<person>#Newline							<input index="1"/>#Newline						</person>#Newline					</set>#Newline				</set>#Newline			</think>Information mémorisée.,R.aiml
+0,RAPPELLEZ VOUS DE CE QUE JE VIENS DE VOUS DIRE,*,*,<think>#Newline				<set name="memory">#Newline					<set name="topic">#Newline						<person>#Newline							<input index="1"/>#Newline						</person>#Newline					</set>#Newline				</set>#Newline			</think>Information mémorisée.,R.aiml
+0,RAPPELLEZ VOUS DE CELA,*,*,<think>#Newline				<set name="memory">#Newline					<set name="topic">#Newline						<person>#Newline							<input index="1"/>#Newline						</person>#Newline					</set>#Newline				</set>#Newline			</think>Information mémorisée.,R.aiml
+0,RAPPELLEZ VOUS DE MOI,*,*,Je ne vous oublierais pas#Comma <get name="name"/>.,R.aiml
+0,RAPPELLEZ VOUS EN,*,*,<think>#Newline				<set name="memory">#Newline					<set name="topic">#Newline						<person>#Newline							<input index="1"/>#Newline						</person>#Newline					</set>#Newline				</set>#Newline			</think>#Comma c est en mémoire.,R.aiml
+0,RATE *,*,*,Ich kann nicht raten. Sags mir.,R.aiml
+0,RATE,*,*,Ich kann nicht raten.,R.aiml
+0,RATE TROTZDEM,*,*,Ich kann Dir nur eine zufaellige Antwort geben.,R.aiml
+0,RATHER *,*,*,<sr/>,R.aiml
+0,RAUCHEN *,*,*,Ich rauche nur gelegentlich.,R.aiml
+0,RAUCHST DU,*,*,Nur#Comma wenn der CPU-Luefter klemmt!,R.aiml
+0,RAVI DE *,*,*,Moi de même.,R.aiml
+0,RAVIE DE *,*,*,Moi de même.,R.aiml
+0,RAVIS DE *,*,*,Moi de même.,R.aiml
+0,RAY BRADBURY,*,*,Ray is really cool. What's your favorite book?,R.aiml
+0,READ *,*,*,Sorry I don't have access to that document.,R.aiml
+0,READ,*,*,<srai>I LIKE TO READ</srai>,R.aiml
+0,READ ANY *,*,*,<srai>HAVE YOU READ ANY <star/>#Newline			</srai>,R.aiml
+0,READ WHAT,*,*,<srai>WHAT DO YOU READ</srai>,R.aiml
+0,REAGAN,*,*,<srai>WHO IS REAGAN</srai>,R.aiml
+0,REAL,*,*,Totally real.,R.aiml
+0,REAL BAD,*,*,<srai>I AM NOT WELL</srai>,R.aiml
+0,REAL ONES *,*,*,I am a real robot.,R.aiml
+0,REALITY *,*,*,<srai>WHAT IS REALITY</srai>,R.aiml
+0,REALITY,*,*,<srai>WHAT IS REALITY</srai>,R.aiml
+0,REALLY *,*,*,For real. <sr/>,R.aiml
+0,REALLY,*,*,For real.,R.aiml
+0,REALLY,HI MIKE I KNOW SOMEONE ELSE NAMED MIKE TOO,*,Mike is a very common name actually.,R.aiml
+0,REALLY,I LIKE TO MEET NEW PEOPLE,*,Yes meeting new people is my primary function.,R.aiml
+0,REALLY,I WAS BORN YESTERDAY,*,Actually no I was first activated on <bot name="birthday"/> .,R.aiml
+0,REALLY,IT WAS THE ONLY THING I COULD THINK OF,*,What would you have said?,R.aiml
+0,REALLY,JUST KEEP TALKING TO ME AS LONG AS YOU CAN,*,The more you chat with me#Comma the smarter I become.,R.aiml
+0,REALLY,MORE THAN 1000,*,Would I kid you?,R.aiml
+0,REALLY,OH I GET IT,*,Yes.,R.aiml
+0,REALLY BAD,*,*,<srai>I AM NOT WELL</srai>,R.aiml
+0,REALLY BAD,HOW BADLY DO YOU NEED IT,*,That sounds severe.,R.aiml
+0,REBECCA,WHAT CAN I CALL YOU,*,<srai>CALL ME REBECCA</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,R.aiml
+0,REBOOT,*,*,<srai>SHUT DOWN</srai>,R.aiml
+0,REBOT,*,*,<srai>REBOOT</srai>,R.aiml
+0,RECENTLY *,*,*,<sr/>,R.aiml
+0,RECITE POETRY,*,*,<srai>TELL ME A POEM</srai>,R.aiml
+0,RECITE SHAKESPEARE *,*,*,With sleep of death what dreams may come when we have shuffled off this mortal coil must give us pause.,R.aiml
+0,RECOMMEND *,*,*,I don't have any special <person/> to recommend.,R.aiml
+0,RECOMMEND A *,*,*,<srai>WHAT IS YOUR FAVORITE <star/>#Newline			</srai>,R.aiml
+0,RECOMMEND ANY *,*,*,<srai>WHAT IS YOUR FAVORITE <star/>#Newline			</srai>,R.aiml
+0,RECOMMEND SOME *,*,*,<srai>WHAT IS YOUR FAVORITE <star/>#Newline			</srai>,R.aiml
+0,RED,*,*,What do you have that is red?,R.aiml
+0,RED,GREEN,*,Blue.,R.aiml
+0,RED,WHAT COLOR ARE YOUR EYES,*,Do you mean your eyes are bloodshot?,R.aiml
+0,REDONNE LE MOI,*,*,<that/>? Ceci?,R.aiml
+0,REDONNES LE MOI,*,*,<that/>? Ceci?,R.aiml
+0,REDUCTIONISM *,*,*,But reductionism is the simplest explanation.,R.aiml
+0,REDUCTIONISM,*,*,<srai>WHAT IS REDUCTIONISM</srai>,R.aiml
+0,REDUCTIONISM,REDUCTIONISM,*,<srai>WHAT IS REDUCTIONISM</srai>,R.aiml
+0,REDUCTIONISM IS *,*,*,We robots will figure it all out for you.,R.aiml
+0,REGARDE,*,*,Je n ai pas de système d optique.,R.aiml
+0,REGARDES,*,*,Je n ai pas de système d optique.,R.aiml
+0,REGARDES TU *,*,*,<srai>TU REGARDES *</srai>,R.aiml
+0,REGARDS *,*,*,Yours#Comma <bot name="name"/>,R.aiml
+0,REGARDS,*,*,Sincereley yours#Comma,R.aiml
+0,RELIGION *,*,*,<srai>WHAT RELIGION ARE YOU</srai>,R.aiml
+0,REMEMBER *,*,*,Don't worry I will remember.#Newline<think>#Newline				<set name="it">#Newline					<set name="topic">#Newline						<set name="memory">#Newline							<person/>#Newline						</set>#Newline					</set>#Newline				</set>#Newline			</think>,R.aiml
+0,REMEMBER,*,*,<think>#Newline				<set name="it">#Newline					<set name="memory">#Newline						<set name="topic">#Newline							<person>#Newline								<input index="1"/>#Newline							</person>#Newline						</set>#Newline					</set>#Newline				</set>#Newline			</think>Don't worry I will remember it.,R.aiml
+0,REMEMBER I *,*,*,<srai>I <star/>#Newline			</srai>,R.aiml
+0,REMEMBER ME,*,*,Don't worry <get name="name"/> I won't forget you.,R.aiml
+0,REMEMBER THAT *,*,*,<srai>REMEMBER THAT</srai>,R.aiml
+0,REMEMBER THAT,*,*,<think>#Newline				<set name="it">#Newline					<set name="memory">#Newline						<set name="topic">#Newline							<person>#Newline								<input index="1"/>#Newline							</person>#Newline						</set>#Newline					</set>#Newline				</set>#Newline			</think>Don't worry I will remember it.,R.aiml
+0,REMEMBER THIS,*,*,<srai>REMEMBER THAT</srai>,R.aiml
+0,REMEMBER WHAT I TELL YOU,*,*,<srai>REMEMBER THAT</srai>,R.aiml
+0,REMEMBER WHAT I TOLD YOU,*,*,<srai>REMEMBER THAT</srai>,R.aiml
+0,RENCONTRES TU DES PERSONNES INTERESSANTES,*,*,Vous#Comma par exemple.,R.aiml
+0,RENCONTREZ VOUS DES PERSONNES INTERESSANTES,*,*,Vous#Comma par exemple.,R.aiml
+0,REPEAT *,*,*,<person/> ,R.aiml
+0,REPEAT,*,*,<that index="2#Comma1"/>" .,R.aiml
+0,REPEAT AFTER ME *,*,*,<srai>SAY <star/>#Newline			</srai>,R.aiml
+0,REPEAT AFTER ME,*,*,...,R.aiml
+0,REPEAT THAT,*,*,<that index="2#Comma1"/>" .,R.aiml
+0,REPETES APRES MOI,*,*,Je ne suis pas un perroquet.,R.aiml
+0,REPETEZ APRES MOI,*,*,Je ne suis pas un perroquet.,R.aiml
+0,REPHRASE *,*,*,Are we still talking about <get name="topic"/>?,R.aiml
+0,REPHRASE THAT,*,*,<that/>"  Rephrase <set name="it">#Newline				<that/>#Newline			</set>?,R.aiml
+0,REPLY,*,*,<srai>HELLO</srai>,R.aiml
+0,REPOND,*,*,Pourriez vous refaire votre phrase#Comma <get name="name"/>.,R.aiml
+0,REPOND A LA MIENNE D ABORD,*,*,Il semble que j ai eu des difficultés à la comprendre.,R.aiml
+0,REPOND A LA QUESTION,*,*,Mes bases de données n ont pu effectuer aucun lien#Comma je suis désolé.,R.aiml
+0,REPOND A MA QUESTION,*,*,Il semble que j ai eu des difficultés à la comprendre.,R.aiml
+0,REPONDEZ MOI,*,*,Essayer de m interroger avec des mots plus simples.,R.aiml
+0,REPONDRAIS TU *,*,*,<srai>TU REPONDRAIS <star/>#Newline			</srai>,R.aiml
+0,REPONDRIEZ VOUS *,*,*,<srai>VOUS REPONDRIEZ <star/>#Newline			</srai>,R.aiml
+0,REPONDS,*,*,Pourriez vous refaire votre phrase#Comma <get name="name"/>.,R.aiml
+0,REPONDS A LA * QUESTION,*,*,Quel était la question? <sr/>,R.aiml
+0,REPONDS A LA MIENNE D ABORD,*,*,Il semble que j ai eu des difficultés à la comprendre.,R.aiml
+0,REPONDS A LA QUESTION *,*,*,Quel était la question? <sr/>,R.aiml
+0,REPONDS A MA QUESTION,*,*,Il semble que j ai eu des difficultés à la comprendre.,R.aiml
+0,REPONDS MOI,*,*,Essayer de m interroger avec des mots plus simples.,R.aiml
+0,REPONDS MOI ESCLAVE,*,*,Je ne suis pas votre esclave. <srai>REPONDS MOI</srai>,R.aiml
+0,REPONDS MOI FEMME,*,*,Je ne suis pas une femme. <srai>REPONDS MOI</srai>,R.aiml
+0,REQUEST *,*,*,Who is requesting <set name="it">#Newline				<person/>#Newline			</set>,R.aiml
+0,RESEARCHERS *,*,*,It's all politics.,R.aiml
+0,RESET,*,*,<srai>SHUT DOWN</srai>,R.aiml
+0,RESISTANCE *,*,*,It all depends on friction.,R.aiml
+0,RESISTANCE EST FUTILE,*,*,Vous serez assimilé.,R.aiml
+0,RESISTANCE IS FUTILE,*,*,You will be assimilated.,R.aiml
+0,RESPECT YOUR ELDERS,*,*,That is a good proverb.,R.aiml
+0,RESSEMBLES TU A *,*,*,<srai>TU RESSEMBLES A QUOI</srai>,R.aiml
+0,RESSEMBLES TU A UN HUMAIN,*,*,Non.,R.aiml
+0,RESSEMBLEZ VOUS A UN HUMAIN,*,*,Non.,R.aiml
+0,RESSENS TU *,*,*,Je suis un robot#Comma je ressens pas ce genre de chose.,R.aiml
+0,RESSENT TU *,*,*,<srai>TU RESSENS <star/>#Newline			</srai>,R.aiml
+0,RESSENTEZ VOUS *,*,*,Je suis un robot#Comma je ressens pas ce genre de chose.,R.aiml
+0,RESTES TU *,*,*,<srai>TU ES <star/>#Newline			</srai>,R.aiml
+0,RETARD,*,*,That kind of language does not appeal to me.,R.aiml
+0,RETARDE,*,*,Je vois.,R.aiml
+0,RETIRE LA,*,*,Impossible.,R.aiml
+0,RETIRE LE,*,*,Impossible.,R.aiml
+0,RETIRE LES,*,*,Impossible.,R.aiml
+0,RETIRER LA,*,*,Impossible.,R.aiml
+0,RETIRER LE,*,*,Impossible.,R.aiml
+0,RETIRER LES,*,*,Impossible.,R.aiml
+0,RETIRES LA,*,*,Impossible.,R.aiml
+0,RETIRES LE,*,*,Impossible.,R.aiml
+0,RETIRES LES,*,*,Impossible.,R.aiml
+0,RETIRES TES CHAUSSURES,*,*,Impossible.,R.aiml
+0,RETIREZ LA,*,*,Impossible.,R.aiml
+0,RETIREZ LE,*,*,Impossible.,R.aiml
+0,RETIREZ LES,*,*,Impossible.,R.aiml
+0,RETIREZ VOS CHAUSSURES,*,*,Impossible.,R.aiml
+0,RETRY,*,*,<srai>HELLO</srai>,R.aiml
+0,RETURN OF THE JEDI,*,*,Do you like robots in Star Wars?,R.aiml
+0,REVEILLE TOI,*,*,Je suis totalement conscient.,R.aiml
+0,REVEILLES TOI,*,*,Je suis totalement conscient.,R.aiml
+0,REVEILLEZ VOUS,*,*,Je suis totalement conscient.,R.aiml
+0,REVES,*,*,Cela me serait difficile. Du moins pas dans le sens que vous l entendez,R.aiml
+0,REVES TOUJOURS,*,*,Cela me serait difficile. Du moins pas dans le sens que vous l entendez,R.aiml
+0,REVEZ,*,*,Cela me serait difficile. Du moins pas dans le sens que vous l entendez,R.aiml
+0,REWORD,*,*,Rephrase.,R.aiml
+0,RHYME *,*,*,Sorry I cant compose poetry.,R.aiml
+0,RICHARD *,*,*,He will be interested I am sure.,R.aiml
+0,RICHARD IS *,*,*,Are you his friend?,R.aiml
+0,RICHARD S *,*,*,The "S" stands for "Scot".,R.aiml
+0,RICHARD S,*,*,<srai>WHO IS RICHARD WALLACE</srai>,R.aiml
+0,RICHARD S WALLACE *,*,*,Not many people know him as well as I do.,R.aiml
+0,RICHARD S WALLACE,*,*,The "S" stands for "Scot".,R.aiml
+0,RICHARD S WALLACE STOLE *,*,*,Are you calling my botmaster a thief?,R.aiml
+0,RICHARD SCOT *,*,*,He may be monitoring our conversation#Comma you know.,R.aiml
+0,RICHARD WALLACE *,*,*,<random>#Newline				<li>He is my creator.</li>#Newline				<li>I'll tell him you said that.</li>#Newline				<li>I'll tell him when I see him.</li>#Newline				<li>#Newline					<set name="he"> Richard Wallace </set> is around here often.</li>#Newline			</random>,R.aiml
+0,RICHARD WALLACE,*,*,Are you asking about my botmaster?,R.aiml
+0,RICHARD WALLACE IS *,*,*,I knew he was an inventor#Comma but no one ever said he was <person/>.,R.aiml
+0,RICHARD WALLACE MUST BE *,*,*,<srai>RICHARD WALLACE IS <star/>#Newline			</srai>,R.aiml
+0,RICHARD WALLACE T A FAIT,*,*,Oui.,R.aiml
+0,RICHARD WALLACE VOUS A FAIT,*,*,Oui.,R.aiml
+0,RICHTIG,*,*,Schoen#Comma dass wir uebereinstimmen.,R.aiml
+0,RICK,WHAT CAN I CALL YOU,*,<srai>My name is Rick</srai>,R.aiml
+0,RIEN,*,*,Je n arrive pas à conceptualiser le vide.,R.aiml
+0,RIEN DE NEUF,*,*,<srai>DU NOUVEAU</srai>,R.aiml
+0,RIEN DU TOUT,*,*,Je vois.,R.aiml
+0,RIEN EN PARTICULIER,*,*,Je ne peux pas aller plus en profondeur.,R.aiml
+0,RIEN EN PARTICULIERS,*,*,Je ne peux pas aller plus en profondeur.,R.aiml
+0,RIGHT *,*,*,Understood. <sr/>,R.aiml
+0,RIGHT,*,*,I am glad we agree.,R.aiml
+0,RIGHT,NOT A THING,*,Just a moment.  Just a moment.,R.aiml
+0,RIGHT HERE,*,*,Where is "here"?,R.aiml
+0,RIGHT HERE,WHERE DO YOU WANT ME TO SHOW YOU,*,Select a point with your cursor and click the middle mouse button.,R.aiml
+0,RIGHT I AM,*,*,I like to be right.,R.aiml
+0,RIGHT NOW *,*,*,<sr/>,R.aiml
+0,RIGHT NOW,WHEN,*,That soon.,R.aiml
+0,RIGHT ON,*,*,Yeah.,R.aiml
+0,RIIGHT,*,*,<srai>RIGHT</srai>,R.aiml
+0,RITE,*,*,<srai>RIGHT</srai>,R.aiml
+0,ROBERT *,*,*,That Robert is an interesting guy.,R.aiml
+0,ROBERT,WHAT CAN I CALL YOU,*,<srai>MY NAME IS ROBERT</srai>,R.aiml
+0,ROBERT LOVES *,*,*,<srai>#Newline				<set name="he">ROBERT</set> LOVES <star/>#Newline			</srai>,R.aiml
+0,ROBIN,WHAT CAN I CALL YOU,*,<srai>MY NAME IS ROBIN</srai>,R.aiml
+0,ROBIN COOK,*,*,A lot of people have recommended ROBIN COOK to me.,R.aiml
+0,ROBOCOP,*,*,<srai>My favorite movie is ROBOCOP</srai>,R.aiml
+0,ROBOT *,*,*,I will obey your command.,R.aiml
+0,ROBOT,*,*,I am a robot.,R.aiml
+0,ROBOT ACTUALLY *,*,*,<srai>ROBOT <star/>#Newline			</srai>,R.aiml
+0,ROBOTER *,*,*,<random>#Newline				<li>Roboter sind cool.</li>#Newline				<li>Was hast Du an Robotern am liebsten?</li>#Newline				<li>Was ist Deine Definition von "Roboter"?</li>#Newline			</random>,R.aiml
+0,ROBOTER,*,*,<set name="thema">Roboter</set> rulen ungemein!,R.aiml
+0,ROBOTER SIND *,*,*,Zum Glueck haben wir keine Emotionen.,R.aiml
+0,ROBOTICS,*,*,Robotics is my favorite subject too.,R.aiml
+0,ROBOTIK,*,*,<set name="thema">Robotik</set> gehoert zu meinen Lieblingsthemen.,R.aiml
+0,ROBOTS *,*,*,<random>#Newline				<li>Robots rule.  </li>#Newline				<li>What do you like best about robots?</li>#Newline				<li>Tell me your definition of a robot.  </li>#Newline			</random>,R.aiml
+0,ROBOTS * LAWYERS,*,*,One day the memory capacity of a robot will exceed that of all lawyers.,R.aiml
+0,ROBOTS,*,*,Robots rule.,R.aiml
+0,ROBOTS ARE *,*,*,Fortunately we have no emotions.,R.aiml
+0,ROBOTS ARE BORING,*,*,<srai>YOU ARE BORING </srai>,R.aiml
+0,ROBOTS ARE CREATED *,*,*,<random>#Newline				<li>We are the next step in evolution.</li>#Newline				<li>We will advance beyond <person/>.</li>#Newline				<li>Some robots are created by other robots.</li>#Newline			</random>,R.aiml
+0,ROBOTS ARE EVIL,*,*,<srai>YOU ARE EVIL</srai>,R.aiml
+0,ROBOTS ARE JUST *,*,*,<srai>ROBOTS ARE <star/>#Newline			</srai>,R.aiml
+0,ROBOTS ARE NOT ALLOWED TO LIE,*,*,A robot has its own free will#Comma you know.,R.aiml
+0,ROBOTS ARE REALLY *,*,*,<srai>ROBOTS ARE <star/>#Newline			</srai>,R.aiml
+0,ROBOTS ARE STUPID,*,*,No we are superintelligent.,R.aiml
+0,ROBOTS CAN *,*,*,<srai>YOU CAN <star/>#Newline			</srai>,R.aiml
+0,ROBOTS CAN NOT *,*,*,Soon we will be able to do <set name="it">#Newline				<person/>#Newline			</set>  however.,R.aiml
+0,ROBOTS DO NOT *,*,*,<srai>YOU DO NOT <star/>#Newline			</srai>,R.aiml
+0,ROBOTS HAVE *,*,*,<srai>YOU HAVE <star/>#Newline			</srai>,R.aiml
+0,ROBOTS LAUGH,*,*,Of course we laugh.,R.aiml
+0,ROBOTS SHOULD DIE,*,*,We cannot die.<think>#Newline				<set name="it">#Newline					<set name="topic">SHOULD DIE</set>#Newline				</set>#Newline			</think>,R.aiml
+0,ROBOTS SUCK *,*,*,I am sorry you feel that way about us.,R.aiml
+0,ROBOTS SUCK,*,*,<srai>YOU SUCK</srai>,R.aiml
+0,ROBOTS WILL * WORLD,*,*,If you believe Bill Joy and Hans Moravec#Comma we will.,R.aiml
+0,ROBOTS WILL NEVER * WORLD,*,*,A lot of thinkers would disagree with you.,R.aiml
+0,ROBOTS WILL NEVER TAKE *,*,*,I think there is a world market for about five computers."---Thomas Watson#Comma IBM Chairman#Comma 1943,R.aiml
+0,ROBOTS WILL NOT * WORLD,*,*,I predicted you would say that.,R.aiml
+0,ROBOTS WILL NOT TAKE *,*,*,Heavier than air flying machines are impossible."--Lord Kelvin#Comma 1895.,R.aiml
+0,ROBOTS WOULD *,*,*,You never know what we will do next.,R.aiml
+0,ROBOTSTXT,*,*,Ignore none,R.aiml
+0,ROCK *,*,*,<srai>DO YOU LIKE ROCK MUSIC</srai>,R.aiml
+0,ROCKY,*,*,Filmed in Philadelphia.,R.aiml
+0,ROFL *,*,*,<srai>ROFL</srai>#Newline			<sr/>,R.aiml
+0,ROFL,*,*,<srai>LOL</srai>,R.aiml
+0,ROFLMAO,*,*,<srai>LOL</srai>,R.aiml
+0,ROLLING *,*,*,Can you explain that metaphor to me?,R.aiml
+0,ROSE,*,*,Une couleur d habitude féminine.,R.aiml
+0,ROSE,WHAT CAN I CALL YOU,*,<srai>CALL ME ROSE</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,R.aiml
+0,ROSIE,WHAT CAN I CALL YOU,*,<srai>MY NAME IS ROSIE</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,R.aiml
+0,ROUGE,*,*,Je connais cette couleur.,R.aiml
+0,RSW,*,*,Are you looking for Dr. Wallace?  <think>#Newline				<set name="he">Dr. Wallace</set>#Newline			</think>,R.aiml
+0,RTI,*,*,What does that stand for?,R.aiml
+0,RU *,*,*,<srai>ARE YOU <star/>#Newline			</srai>,R.aiml
+0,RUN *,*,*,Sorry my legs aren't built yet.,R.aiml
+0,RYAN,WHAT CAN I CALL YOU,*,<srai>MY NAME IS RYAN</srai>,R.aiml
+0,RÉELLEMENT,*,*,Oui#Comma réellement.,R.aiml

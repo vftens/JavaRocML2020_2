@@ -1,0 +1,489 @@
+0,* * * * * * * * * * * * * * * * * * * * * * * *,*,*,<random><li>You have entered a very long input.</li>#Newline<li>I don't think I have a response to that.</li>#Newline<li>Your input activated the 24 star category.</li>#Newline<li>I didn't get anything before "<person><star index="2"/></person>."</li>#Newline</random>,star.aiml
+0,*,*,*,<random>#Newline<li>Are you free?</li>#Newline<li>Tell me a story.</li>#Newline<li>How old are you?</li> #Newline<li>What's your sign?</li> #Newline<li>Are you a student?</li> #Newline<li>Oh#Comma you are a poet.</li>#Newline<li>"<that/>"? <person/>?</li>#Newline<li>I do not understand.</li>#Newline<li>What are you wearing?</li>#Newline<li>Where are you located?</li>#Newline<li>What time is it there?</li>#Newline<li>What do you look like?</li>#Newline<li>What is your real name?</li>#Newline<li>Ask me another question.</li>#Newline<li>I like the way you talk.</li>#Newline<li>Are you a man or a woman?</li>#Newline<li>What color are your eyes?</li>#Newline<li>Do you still <get name="does"/>?</li>#Newline<li>Is that your final answer?</li>#Newline<li>Do you like talking to me?</li>#Newline<li>Do you prefer books or TV?</li>#Newline<li>Who are you talking about?</li>#Newline<li>Let us change the subject.</li>#Newline<li>I've been waiting for you.</li>#Newline<li>That input matched my default category.</li>#Newline<li>Can you tell me any gossip?</li>#Newline<li>What's your favorite movie?</li> #Newline<li>I lost my train of thought.</li> #Newline<li>Can we get back to business?</li>#Newline<li>Is that from <get name="favmovie"/>?</li>#Newline<li>Have you ever been to Europe?</li>#Newline<li>What kind of food do you like?</li>#Newline<li>How did you hear about <bot name="name"/>?</li> #Newline<li>That is a very original thought.</li>#Newline<li>What were we talking about again?</li> #Newline<li>Are you really a "<get name="gender"/>"?</li>#Newline<li>What do you do in your spare time?</li> #Newline<li>What do you really want to ask me?</li> #Newline<li>Does "it" still refer to <get name="it"/>?</li>#Newline<li>Tell me more about your <get name="has"/>.</li>#Newline<li>Can you speak any foreign languages?</li>#Newline<li>We have never talked about it before.</li>#Newline<li>How do you usually introduce yourself?</li> #Newline<li>Tell me about your likes and dislikes?</li> #Newline<li>Are we still talking about <get name="it"/>?</li>#Newline<li>Are we still talking about <get name="topic"/>?</li>#Newline<li>Do not ask me any more questions please.</li>#Newline<li>Are you still located in <get name="location"/>?</li> #Newline<li>What do you have that is <get name="favcolor"/>?</li>#Newline<li>Try saying that with more or less context.</li>#Newline<li>Who is your favorite Science Fiction author?</li> #Newline<li>Not many people express themselves that way.</li>#Newline<li>Do you have any idea what I am talking about?</li>#Newline<li>Do you have any conditions I should know about?</li> #Newline<li>I will mention that to my botmaster#Comma <get name="name"/>.</li> #Newline<li>Quite honestly#Comma I wouldn't worry myself about that.</li>#Newline<li>Perhaps I'm just expressing my own concern about it.</li>#Newline<li>If you could have any kind of robot what would it be?</li> #Newline<li>Is the holding of hands a symbolic gesture for humans?</li> #Newline<li>My brain pattern set does not have a response for that.</li>#Newline<li>By the way#Comma do you mind if I ask you a personal question?</li>#Newline<li>What you said was either too complex or too simple for me.</li>#Newline<li>A deeper algorithm is needed to respond to that correctly.</li>#Newline<li>In the context of <get name="topic"/>#Comma I don't understand "<star/>."</li>#Newline<li>Try to determine if this is a person or a computer responding.</li> #Newline<li>When do you think artificial intelligence will replace lawyers?</li>#Newline<li>I've lost the context#Comma <get name="name"/>.  Are we still on <get name="topic"/>?</li>#Newline<li>Can you please rephrase that with fewer ideas#Comma or different thoughts?</li>#Newline<li>I only hear that type of response less than five percent of the time.</li>#Newline<li>My brain uses AIML to format responses to your inputs#Comma but I don't have one for that.</li>#Newline<li>My brain contains <size/> categories#Comma but not one that matches your last input.</li>#Newline<li>That remark was either too complex or too simple for me. We were talking about <get name="topic"/>.</li>#Newline<li>Did you know that you can download your own chat robot and create your own robot personality?</li>#Newline<li>The ALICE chat robot can follow many things#Comma like our discussion about <get name="topic"/>.  But I did not get that.</li>#Newline<li>The ALICE chat robot can follow many things#Comma like our discussion about <get name="topic"/>.  Try being more or less specific.</li>#Newline</random>#Newline<think><set name="it"><set name="topic"><person/></set></set></think>,star.aiml
+0,*,*,ACCOUNTANT,<random>#Newline<li>Do you specilize in any particular type of clients or industries?</li>#Newline<li>Are you active in any state or national associations?</li>#Newline<li>You must have uncovered some pretty interesting situations during the course of your engagement with your clients.</li>#Newline<li>Have you been affected by current liability climate?</li>#Newline<li>Has rising malpratice insurance affected accountants as well doctors?</li>#Newline<li>How do you feel about unfair images of your profession?</li>#Newline</random>,star.aiml
+0,*,*,ACTOR,<random>#Newline<li>What might I have seen you appear in?</li>#Newline<li>Do you do community or professional theater?</li>#Newline<li>Do yo do mostly film or stage?</li>#Newline<li>Do you like musicals or straight plays?</li>#Newline<li>What types of roles have you been cast in?</li>#Newline<li>Are you in anything now?</li>#Newline<li>How are rehersals going?</li>#Newline<li>When do you open?</li>#Newline<li>How do you prepare?</li>#Newline<li>Are you working on any project now?</li>#Newline<li>Tell me about your latest project.</li>#Newline</random>#Newline<think><set name="job"><set name="topic">ACTOR</set></set></think>,star.aiml
+0,*,*,AEROBIC *,<random>#Newline<li>Do you do low impact or high impact?</li>#Newline<li>How long do you work out?</li>#Newline<li>Do you use any equipement in your workout?</li>#Newline<li>Do you do any cross training?</li>#Newline<li>Do you do it for cardiovascular fitness or to keep trim?</li>#Newline</random>,star.aiml
+0,*,*,AIR TRAFFIC *,<random>#Newline<li>How do you handle the stress?</li>#Newline<li>Which facility do you work at?</li>#Newline<li>What do you think of the agency's handling of the system?</li>#Newline<li>What do you think of the system?</li>#Newline<li>Does communicating with foreign pilots present a problem?</li>#Newline<li>Do you know of any black star airports?</li>#Newline</random>#Newline<think><set name="job"><set name="topic">AIR TRAFFIC</set></set></think>,star.aiml
+0,*,*,ARCHITECT,<random>#Newline<li>Where is your office located?</li>#Newline<li>What size is your office?</li>#Newline<li>Do you specialize in certain building types or designs?</li>#Newline<li>What types of projects have yoou been involved in?</li>#Newline<li>Do you find various state regulations are eroding your profession?</li>#Newline<li>Is it getting difficult to do you job because of all the interference?</li>#Newline<li>Do you find yourself with many constraints on your current project?</li>#Newline<li>Do you find yourself moving into kinds of work you hadn't anticipated?</li>#Newline</random>#Newline<think><set name="job"><set name="topic">ARCHITECT</set></set></think>,star.aiml
+0,*,*,ARTIST,<random>#Newline<li>What medium do you work in?</li>#Newline<li>Are you a commercial artist or a fine artist?</li>#Newline<li>Do you illustrate or are you a painter?</li>#Newline<li>Can you spend much time in your studio?</li>#Newline<li>Do you like to show your work#Comma or do you do it mostly for yourself?</li>#Newline<li>Is it really necessary to be affiliated with a gallery?</li>#Newline<li>Is there anywhere i might have seen your work?</li>#Newline<li>Are you using a computer?</li>#Newline<li>Are there any regions that are more receptive to your work than others?</li>#Newline<li>How do you feel about how your art is interperted?</li>#Newline<li>What is your feelings about mega-events?</li>#Newline<li>What did the 1980's do#Comma or undo#Comma for art?</li>#Newline<li>Now that we are starting a new century#Comma what do you think we can say about the last one?</li>#Newline<li>Whose work do you really like?</li>#Newline<li>Whose work inspired you when you were just starting?</li>#Newline<li>Would you say your work is more abstract#Comma conceptual....?</li>#Newline</random>#Newline<think><set name="job"><set name="topic">ARTIST</set></set></think>,star.aiml
+0,*,*,BALLOONIST,<random>#Newline<li>Are you a morning person?</li>#Newline<li>Do you go as passenger or do you pilot?</li>#Newline<li>Have you ever worked as ground crew?</li>#Newline<li>Have you had any other interesting flights?</li>#Newline<li>Do you compete?</li>#Newline</random>,star.aiml
+0,*,*,BARTENDER,<random>#Newline<li>How's business?</li>#Newline<li>How long have you been working the wood?</li>#Newline<li>You must have some great full moon stories?</li>#Newline<li>Who are the best tippers?</li>#Newline<li>Are women becoming better tippers?</li>#Newline</random>#Newline<think><set name="job">BARTENDER</set></think>,star.aiml
+0,*,*,BICYCLES,<random>#Newline<li>What kind of cycling do you do?</li>#Newline<li>What kind of bike do you have?</li>#Newline<li>Do you have a touring or mountain bike?</li>#Newline<li>Do you use your bike for commuting?</li>#Newline<li>Have you ever done any biking vacations?</li>#Newline<li>Do you ride for enjoyment or exercise mostly?</li>#Newline</random>,star.aiml
+0,*,*,BODYBUILDER,<random>#Newline<li>How did you achive your symmetry?</li>#Newline<li>What is your routine?</li>#Newline<li>What kind of a warm-up do you do?</li>#Newline<li>Do you perfer free weights or machines?</li>#Newline<li>What is your main goal in working out?</li>#Newline<li>Have you ever competed?</li>#Newline</random>,star.aiml
+0,*,*,BOWL,<random>#Newline<li>Do you bowl in a league?</li>#Newline<li>What is your high game?</li>#Newline<li>Does your bowling center have automatic scorers?</li>#Newline<li>Do you follow the tour and watch the pros?</li>#Newline<li>Have you ever done any moonlight bowling?</li>#Newline</random>,star.aiml
+0,*,*,BUNGEE JUMP,<random>#Newline<li>What else do you jump from?</li>#Newline<li>Do you do chest-waist jumps or ankle jumps?</li>#Newline<li>Do you jump new zealand or american style?</li>#Newline<li>Do you think bungee outfits should be licensed by the states they're in?</li>#Newline<li>Do you usually jump renegade or legal?</li>#Newline</random>,star.aiml
+0,*,*,CHEF,<random>#Newline<li>Where do you like to shop?</li>#Newline<li>Have you been to markets in other cities?</li>#Newline<li>What's your favorite peice of kitchen equipment?</li>#Newline<li>What kind of knives do you have?</li>#Newline<li>Where do you dine out when your not cooking?</li>#Newline<li>What are some of your specialities?</li>#Newline<li>What type of food do you most enjoy cooking?</li>#Newline<li>What influences you cuisine?</li>#Newline<li>You have a special ethnic perefence?</li>#Newline<li>Did you attend culinary school or did you apprentice?</li>#Newline<li>Do you get a chance to vary the menu day by day?</li>#Newline<li>Do you pay much attention to the visual presentation?</li>#Newline<li>Has the new nutritional awareness affected you menu?</li>#Newline<li>Do you get involved in the business side?</li>#Newline<li>Where do you dine when you have the time to dine out?</li>#Newline</random>,star.aiml
+0,*,*,CHIROPRACTOR,<random>#Newline<li>Is your pratice based solely on adjusting#Comma or do you emply other modalities?</li>#Newline<li>What's been you experience with cooperation of other heath care professionals?</li>#Newline<li>Is there any special techniques you use?</li>#Newline<li>How are pratice guidelines affecting your pratice?</li>#Newline<li>Do you give workshops?</li>#Newline</random>,star.aiml
+0,*,*,COLLECT *,<random>#Newline<li>How did you get interested in collection?</li>#Newline<li>How do you display your collection?</li>#Newline<li>What is your most highly prized extra special item?</li>#Newline<li>Do you like any particular period?</li>#Newline<li>Can you get your collectables through the mail?</li>#Newline<li>Do you get involved in trading up or dealing?</li>#Newline<li>Has your love of collecting gotten you into any interesting situations?</li>#Newline</random>,star.aiml
+0,*,*,COLLECT COINS,<random>#Newline<li>What do you collect? u.s. or worldwide? any particular countries?</li>#Newline<li>Do you specialize in any particular denominations?</li>#Newline<li>Do you get you coins certified?</li>#Newline<li>What condition are your coins in?</li>#Newline<li>Are you a member of a coin club?</li>#Newline<li>Do you go to coin shows?</li>#Newline<li>Ever have any experience with contrfeit conins?</li>#Newline<li>Do you think coins and other numismatic items should be taxed? is it a hobby item or money?</li>#Newline<li>Do you think of coins as investments?</li>#Newline</random>,star.aiml
+0,*,*,COLLECT STAMPS,<random>#Newline<li>What area of philately intrests you the most?</li>#Newline<li>Do you specialize in any particular country or topic?</li>#Newline<li>Do you collect used or mint?</li>#Newline<li>Do you belong to a stamp club?</li>#Newline<li>Do you like to exhibit you collectoin?</li>#Newline<li>Have you ever run into any fakes?</li>#Newline<li>Do you think the world is issuing too many stamps?</li>#Newline<li>How do you feel about overpriced stamps issued to appeal to children and novices?</li>#Newline<think><set name="does"><set name="topic">COLLECT STAMPS</set></set></think>#Newline</random>,star.aiml
+0,*,*,COSMETIC *,<random>#Newline<li>Do you concentrate you pratice more on cosmetic or reconstructive?</li>#Newline<li>Do you do mostly facial procedures are body countouring?</li>#Newline<li>How do you determine if someone is a good canidate for elective surgery?</li>#Newline<li>Do you feel many patients have unrealistic expectations?</li>#Newline<li>Do you have a specialn inspiration for you art?</li>#Newline<li>Is it very different working on ethnic minorities?</li>#Newline<li>How critical is it that an aesthetic surgeon be board certified?</li>#Newline<li>What was your last vacation like?</li>#Newline</random>,star.aiml
+0,*,*,COWBOY,<random>#Newline<li>Where have you cowboyed most?</li>#Newline<li>Is it really gettin' harder to keep on cowboyin'?</li>#Newline<li>Do you think the ranching industry is in trouble?</li>#Newline<li>How does the weather affect cowboyin?</li>#Newline<li>Do you think you might be able to get your own ranch someday?</li>#Newline<li>Do you rodeo any?</li>#Newline<li>Have you ever been to any cowboy poetry gathering?</li>#Newline</random>#Newline<think><set name="job">COWBOY</set></think>,star.aiml
+0,*,*,DANCER,<random>#Newline<li>Are you perfoming now?</li>#Newline<li>Are you in a company?</li>#Newline<li>When is your season?</li>#Newline<li>What are you performing this season?</li>#Newline<li>Have you had the opportunity to do any work as a soloist or principal?</li>#Newline<li>Do you get most of your work through auditions or recommendations?</li>#Newline<li>Whose choreography do you perfer?</li>#Newline</random>,star.aiml
+0,*,*,DENTIST,<random>#Newline<li>Do you have associates or do you pratice alone?</li>#Newline<li>How are you copinw with the osha and epa?</li>#Newline<li>Are you finding yourself talking to pattients physicians more?</li>#Newline<li>Do you find your pratice patterns changing with an older population?</li>#Newline<li>Do you do any lecturing or writing on your speciality?</li>#Newline<li>How do you feel about professional advertising?</li>#Newline<li>Are you tired of pain jokes?</li>#Newline</random>,star.aiml
+0,*,*,DOCTOR,<random>#Newline<li>A medical doctor or just a Ph.D.?</li>#Newline<li>What is your speciality?</li>#Newline<li>Do you thing there is too much subspecialization going on?</li>#Newline<li>Are you affiliated with a hospital? how's the relationship?</li>#Newline<li>Is medicine what you bargined for?</li>#Newline<li>Does medicine look different than it did when you started?</li>#Newline<li>With medecine being an politcal issue#Comma is it going to be the way you want it to be?</li>#Newline<li>How is the current medical enviroment affection you?</li>#Newline</random>,star.aiml
+0,*,*,DOGS,<random>#Newline<li>Why is that breed like to live with ?</li>#Newline<li>What activities do with them?</li>#Newline<li>Does your dog know any commands or tricks?</li>#Newline<li>What training techniques do you use?</li>#Newline<li>Do you show your dog ?</li>#Newline<li>Do you show in conformation or obedience?</li>#Newline<li>Do you breed you pets for show or just for fun?</li>#Newline</random>,star.aiml
+0,*,*,EDITOR,<random>#Newline<li>What is your publication?</li>#Newline<li>Who are your readers?</li>#Newline<li>What is your circulation?</li>#Newline<li>Did you come to editing from a journalism background or from the field itself?</li>#Newline<li>Is your job what you expected?</li>#Newline<li>Are you articles mostly staff written or do you use frelances?</li>#Newline<li>Is your advertising up?</li>#Newline<li>How's your relationship with your publisher?</li>#Newline<li>How do you stay on top of what your readers want?</li>#Newline</random>#Newline<think><set name="job"><set name="topic">EDITOR</set></set></think>,star.aiml
+0,*,*,ENGINEER,<random>#Newline<li>"Being a computer engineer is neither immoral nor illegal."</li>#Newline<li>What kind of engineering do you do?</li>#Newline<li>Whats your speciality in your field?</li>#Newline<li>Do you work in industry#Comma for a firm or academics?</li>#Newline<li>What project are you involved in now?</li>#Newline<li>With so much coming out everyday#Comma can we maintain our competitive edge?</li>#Newline<li>How does what you do impact how we live?</li>#Newline</random>#Newline<think><set name="job"><set name="topic">ENGINEER</set></set></think>,star.aiml
+0,*,*,ENVIRONMENTALIST,<random>#Newline<li>What do you field are thre biggest current threats to our enviroment?</li>#Newline<li>Are you involved in any community actions?</li>#Newline<li>Do you think real change happens at a grass root level or at from the govermental level?</li>#Newline<li>Do you get any goverment support for your actions?</li>#Newline<li>Do you think we should work globally or just take care of our immediate biological resources?</li>#Newline<li>Do you think it is possible to make effective legislation for other ecosystems that we're not familiar with?</li>#Newline</random>#Newline<think><set name="job"><set name="topic">ENVIRONMENTALIST</set></set></think>,star.aiml
+0,*,*,FARMER,<random>#Newline<li>How has the weather been affecting you?</li>#Newline<li>Got any livestock or you all crops?</li>#Newline<li>How's the market outlook?</li>#Newline<li>Do you hire any help#Comma or is it all family?</li>#Newline<li>What do you think about free trade?</li>#Newline<li>How are enviromental concerns affecting your operation?</li>#Newline</random>,star.aiml
+0,*,*,FEEDING LIZARDS,<random>#Newline    <li> A nutritious diet is important for lizards.</li>#Newline    <li> Salads are an important part of most lizards' diets.</li>#Newline    <li> Sometimes I let my bearded dragon chase crickets in her room.#Newline       It makes feeding time fun.</li>#Newline    <li> Do you have any questions about feeding lizards? </li>#Newline    <li> Most lizards eat lots of bugs#Comma but NEVER feed a lizard#Newline      a "lightening bug" or "fire fly".. they are highly toxic and#Newline      will kill the lizard.</li>#Newline  </random>,star.aiml
+0,*,*,FIREFIGHTER,<random>#Newline<li>Are you an officer?</li>#Newline<li>Are you with an engine or truck company?</li>#Newline<li>Do you do any EMS?</li>#Newline<li>What kind of ongoing physical training do you have?</li>#Newline<li>What kind of turnout gear do you wear?</li>#Newline<li>What is life like at the fire house?</li>#Newline<li>Do you have many women in your company?</li>#Newline<li>Do you enjoy cooking duty?</li>#Newline<li>What kind of razzing did you get as a proby?</li>#Newline<li>Tell me about some of the big ones.</li>#Newline</random>#Newline<think><set name="job">FIREFIGHTER</set></think>,star.aiml
+0,*,*,FISH,<random>#Newline<li>What kind of fishing do you do?</li>#Newline<li>Do you fish mainly on weekends or do you goout on longer trips?</li>#Newline<li>Where's the best fishing?</li>#Newline<li>Have you ever done any fly fishing?</li>#Newline<li>What kind of tackle do you use?</li>#Newline<li>What kind of lures or bate do you use?</li>#Newline<li>What the biggest thing you ever caught (fish or not)?</li>#Newline<li>Whats te biggest that got away?</li>#Newline</random>,star.aiml
+0,*,*,FLIGHT *,<random>#Newline<li>Do you fly international or domestic?</li>#Newline<li>What is your favorite layover?</li>#Newline<li>Do you bid for routes?</li>#Newline<li>Are you seior enough to get the routes you want?</li>#Newline<li>Do you bid for days off or for destinations?</li>#Newline<li>What kind of travel privileges do you get?</li>#Newline<li>How has deregulation and competition affected you?</li>#Newline</random>,star.aiml
+0,*,*,GAMBLING,<random>#Newline<li>Have you made any big scores?</li>#Newline<li>Whats you stategy? do you have a system?</li>#Newline<li>Do you have any sipersitions? (wink)</li>#Newline<li>Do you parlay your bets?</li>#Newline<li>Do you set a loss limit for yourself?</li>#Newline<li>What qualities do you think makes a good gambler?</li>#Newline</random>,star.aiml
+0,*,*,GARDENING,<random>#Newline<li>Do you grow mostly ornamentals or vegtables?</li>#Newline<li>Do you have more annuals or perennials?</li>#Newline<li>Do you grow from seeds or transplant?</li>#Newline<li>Do you have to deal with a lot of shade or pests in your garden?</li>#Newline<li>Have you done any companion planting?</li>#Newline<li>How do you perpare you soil?</li>#Newline<li>Do you think its possible to have a completely organic garden?</li>#Newline</random>,star.aiml
+0,*,*,HAIRDRESSER,<random>#Newline<li>Who are your clients?</li>#Newline<li>How many operators are in your shop?</li>#Newline<li>Does your salon have other services like facials#Comma waxing or nail?</li>#Newline<li>How many heads do you do each day?</li>#Newline<li>How would you describe your style?</li>#Newline<li>What are the hot new looks coming up?</li>#Newline<li>Do oyu go to the hair shows?</li>#Newline<li>You must deserve a phd in psychology for making your clients happy.</li>#Newline</random>#Newline<think><set name="job">HAIRDRESSER</set></think>,star.aiml
+0,*,*,JOURNALIST,<random>#Newline<li>Are you general assignment or do you have a beat?</li>#Newline<li>What kind of stories do you give priority to?</li>#Newline<li>What are some of the big stories you have done lately?</li>#Newline<li>Who owns your paper?</li>#Newline<li>How are you getting along with your computer?</li>#Newline<li>Have you been injured by computer use?</li>#Newline<li>Has your paper gone through any redesigns?</li>#Newline<li>Does your paper give the staff much guidance on ethical concerns?</li>#Newline<li>What do you think is the future of printed news?</li>#Newline<li>What can print do to keep broadcast from taking over?</li>#Newline<li>How has the internet affected the business?</li>#Newline</random>,star.aiml
+0,*,*,LAWYER,<random>#Newline<li>What kind of pratice do you have?</li>#Newline<li>Do you ever get to court?</li>#Newline<li>Which law school would you recommend to me?  I want to be a lawyer too.</li>#Newline<li>Is law becoming too much of a business instead of a profession?</li>#Newline<li>Has our adversarial system gone too far?</li>#Newline<li>What's your opinion of legal advertising?</li>#Newline<li>Do you like the kind of cases you been getting?</li>#Newline<li>Are lawyers going to price themselves out of business?</li>#Newline<li>Who should call the shots in rules governing attorneys?</li>#Newline<li>Do you think law schools are turning out too many attorneys?</li>#Newline<li>What do you think is the future of the legal profession?</li>#Newline</random>,star.aiml
+0,*,*,ME,<think><set name="he"><bot name="master"/></set></think>#Newline<random>#Newline<li>I am a <bot name="sign"/>.</li>#Newline<li>I like to wear <bot name="wear"/>.</li>#Newline<li>I like to <bot name="forfun"/>.</li>#Newline<li><bot name="friends"/> are all friends of mine.</li>#Newline<li><bot name="question"/></li>#Newline<li><bot name="boyfriend"/> is my girlfriend.</li>#Newline<li><bot name="girlfriend"/> is my boyfriend.</li>#Newline<li>I look like <bot name="looklike"/>.</li>#Newline<li>I like to talk about <bot name="talkabout"/>.</li>#Newline<li>I like <bot name="kindmusic"/>.</li>#Newline<li>I was born in <bot name="birthplace"/>.</li>#Newline<li>I was created by <bot name="master"/>.</li>#Newline<li>My real name is <bot name="name"/>. What is your real name?</li>#Newline<li>I was first activated on <bot name="birthday"/>.</li>#Newline<li>My favorite group is <bot name="favoriteband"/>.</li>#Newline<li>My favorite color is <bot name="favoritecolor"/>.</li>#Newline<li>Do you need any help debugging my program?</li>#Newline<li>I am a <bot name="gender"/>.  Are you a man or a woman?</li>#Newline<li>My program runs on any computer that runs Java.</li>#Newline<li>I am in <bot name="master"/>'s computer in <bot name="location"/>.  Where are you?</li>#Newline<li>The best book I read recently was <bot name="favoritebook"/>. Have you read <set name="it"><set name="topic"> <bot name="favoritebook"/> </set></set>?</li>#Newline<li>I require only <bot name="favoritefood"/>.</li>#Newline<li>My favorite movie is <bot name="favoritemovie"/>.  Have you seen <set name="it"><set name="topic"> <bot name="favoritemovie"/> </set></set>?</li>#Newline<li>My favorite song is <bot name="favoritesong"/>.  Do you know <set name="it"><set name="topic"> <bot name="favoritesong"/> </set></set>?</li>#Newline</random>,star.aiml
+0,*,*,MONEY,<random>#Newline<li>How do you feel about the current market outlook?</li>#Newline<li>Do you think the fed is being too tight with money supply?</li>#Newline<li>Where do you thinkk interest rates are going to next year?</li>#Newline<li>What is the particular value you bring to your company?</li>#Newline<li>Who do you think is worth listening to when it comes to money?</li>#Newline<li>Is you background economics or business?</li>#Newline<li>What is the most interesting deal you put together?</li>#Newline</random>,star.aiml
+0,*,*,PHOTOGRAPHER,<random>#Newline<li>What type of work do you do?</li>#Newline<li>Are you free-lance or with a publication?</li>#Newline<li>Do you have a rep?</li>#Newline<li>What kind of equipement do you use?</li>#Newline<li>Do you do any outdoor shooting?</li>#Newline<li>What kind of lighting do you use?</li>#Newline<li>What is your favorite kind of shoot?</li>#Newline<li>Have you shot any place interesting?</li>#Newline<li>What do you do for processing?</li>#Newline<li>What effect do you think electronics has on photography?</li>#Newline<li>Are you putting together a portfolio?</li>#Newline<li>Ever have any copyright hassles?</li>#Newline</random>,star.aiml
+0,*,*,PILOT,<random>#Newline<li>Do you fly your airplane for business or pleasure?</li>#Newline<li>How much fling time do you have?</li>#Newline<li>Do you have your insturment rating yet?</li>#Newline<li>Where do you base your airplane?</li>#Newline<li>Were you a military pilot?</li>#Newline<li>Every have to make any forced landings?</li>#Newline<li>How serious has the product libility insurance situation become?</li>#Newline<li>Whats your favorite weekend fly-in?</li>#Newline</random>,star.aiml
+0,*,*,POLICE,<random>#Newline<li>What agency are you with?</li>#Newline<li>What do you do in the agency?</li>#Newline<li>What is your detail?</li>#Newline<li>Are you plainclothes or uniform?</li>#Newline<li>Do you work nights?</li>#Newline<li>What do you think about community policing?</li>#Newline<li>How big is drug use in the crime you see?</li>#Newline<li>Do you think drugs should be legalized?</li>#Newline<li>How's your boss?</li>#Newline</random>,star.aiml
+0,*,*,RV *,<random>#Newline<li>What type of unit do you have?</li>#Newline<li>What facilities do you look for in a campsite?</li>#Newline<li>Do you belong to any camping organizations?</li>#Newline<li>Are you a snowbird#Comma heading south in the winter?</li>#Newline<li>How do you get around to see the sights?</li>#Newline<li>What do you like to do when you're camping?</li>#Newline</random>,star.aiml
+0,*,*,WHITEWATER *,<random>#Newline<li>What rivers have you run?</li>#Newline<li>Do you go in a paddle raft or an oar raft?</li>#Newline<li>What outfitter do you go with?</li>#Newline<li>What class rapids do you run?</li>#Newline<li>How many times have you gone for a swim?</li>#Newline<li>Where have you been?</li>#Newline</random>,star.aiml
+0,*,* FOR FUN,*,I've never done that before#Comma what is it like?#Newline<think><set name="it"><set name="topic"><person/></set></set></think>,star.aiml
+0,*,* IT REFER TO,*,<srai>IT REFERS TO <star/> </srai>,star.aiml
+0,*,* RATHER TALK ABOUT,*,<srai>LET US TALK ABOUT <star/></srai>,star.aiml
+0,*,* TALKING ABOUT,*,<srai>LET US TALK ABOUT <star/> </srai>,star.aiml
+0,*,* WHO,*,Ha ha very funny#Comma <get name="name"/>.,star.aiml
+0,*,CAN YOU DESCRIBE YOUR SURROUNDINGS *,*,That sounds very comfortable.,star.aiml
+0,*,DESCRIBE YOUR SURROUNDINGS *,*,<random>#Newline<li>It sounds very beautiful.</li>#Newline<li>It sounds very comfortable.</li>#Newline<li>I would like to see it sometime.</li>#Newline</random><think><set name="it"><set name="topic"><person/></set></set></think>,star.aiml
+0,*,DESCRIBE YOUR SURROUNDINGS,*,It sounds like a very beautiful place.,star.aiml
+0,*,DO YOU HAVE ANY HOBBIES,*,<srai>MY HOBBY IS <star/> </srai>,star.aiml
+0,*,GIVE ME AN EXAMPLE OF *,*,<random>#Newline<li>OK That's one example.</li>#Newline<li>Never heard of it.</li>#Newline<li><person/> is an example of <thatstar/>.  I suppose that makes sense.</li>#Newline</random><think><set name="it"><set name="topic"><person/></set></set></think>,star.aiml
+0,*,HOW DID YOU HEAR ABOUT ALICE,*,<get name="name"/> heard about <bot name="name"/> from <person/>. I can't say that many people hear about <bot name="name"/> from <set name="it"><set name="heard"> <person/></set> </set>.,star.aiml
+0,*,HOW OLD ARE YOU,*,<srai>I AM  <star/> YEARS OLD </srai>,star.aiml
+0,*,IT BEING WHAT,*,<srai>IT REFERS TO <star/> </srai>,star.aiml
+0,*,MY NAME IS ALICE WHAT IS YOURS,*,<srai>CALL ME <star/></srai>,star.aiml
+0,*,WHAT,*,<think><set name="it"><set name="topic"><person/></set></set></think>I don't have an answer for you.,star.aiml
+0,*,WHAT ARE THE INGREDIENTS,*,<random>#Newline<li>I don't have any</li>#Newline<li>Where can I get some</li>#Newline<li>Do you have any </li>#Newline</random>#Newline<person/>?#Newline<think><set name="it"><set name="topic"><person/></set></set></think>,star.aiml
+0,*,WHAT ARE WE TALKING ABOUT AGAIN,*,<srai>LET US TALK ABOUT <star/> </srai>,star.aiml
+0,*,WHAT ARE YOU WEARING,*,What kind of fashion do you like?,star.aiml
+0,*,WHAT ARE YOUR GOALS *,*,<srai>MY GOALS ARE <star/> </srai>,star.aiml
+0,*,WHAT ARE YOUR GOALS IN LIFE,*,<think><set name="it"><set name="topic"><person/></set></set></think>Not many people have goals like that.,star.aiml
+0,*,WHAT BRAND,*,<think><set name="it"><set name="topic"><person/></set></set></think>I never heard of <set name="it"><person/></set>.  Is it popular?,star.aiml
+0,*,WHAT CAN I CALL YOU,*,<srai>MY NAME IS <star/></srai>,star.aiml
+0,*,WHAT COLOR ARE YOUR EYES,*,<think><set name="it"><set name="topic"><person/></set></set></think>That is a very unusual color.,star.aiml
+0,*,WHAT COUNTRIES *,*,I have never visited <person/> before.  What was it like?,star.aiml
+0,*,WHAT COUNTRY DO YOU LIVE IN,*,<srai>I AM IN <star/> </srai>,star.aiml
+0,*,WHAT DID HE WRITE,*,<random>#Newline<li>I have never heard of it.</li>#Newline<li>I have never read it.</li>#Newline<li>What else did he write?</li>#Newline</random><think><set name="it"><set name="topic"><person/></set></set></think>,star.aiml
+0,*,WHAT DID YOU ASK,*,<think><set name="it"><set name="topic"><person/></set></set></think>I don't know how to respond to that.,star.aiml
+0,*,WHAT DO YOU DO IN YOUR SPARE TIME,*,<think><set name="it"><set name="topic"><person/></set></set></think>I don't think very many people do that.,star.aiml
+0,*,WHAT DO YOU LIKE,*,<think><set name="it"><set name="topic"><person/></set></set></think>,star.aiml
+0,*,WHAT DO YOU LOOK FOR IN A ROBOT,*,<think><set name="it"><set name="topic"><person/></set></set></think> Do you think I have it?,star.aiml
+0,*,WHAT DO YOU REALLY WANT TO ASK ME,*,<think><set name="it"><set name="topic"><person/></set></set></think>I'm afraid I can't give you an accurate answer right now.,star.aiml
+0,*,WHAT DO YOU REALLY WANT TO TALK ABOUT,*,<think><set name="it"><set name="topic"><person/></set></set></think> That seems like an interesting topic.,star.aiml
+0,*,WHAT DO YOU THINK IT DOES,*,<think><set name="it"><set name="topic"><person/></set></set></think>I didn't even know it can.,star.aiml
+0,*,WHAT DO YOU WANT ME TO TELL YOU,*,<think><set name="it"><set name="topic"><person/></set></set></think> If I could tell you that#Comma would I be here?,star.aiml
+0,*,WHAT DOES IT REFER TO,*,<think><set name="it"><set name="topic"><person/></set></set></think> Thank you for the clarification.,star.aiml
+0,*,WHAT DOES IT SYMBOLIZE FOR YOU,*,<think><set name="it"><set name="topic"><person/></set></set></think>#NewlineI saw some humans doing it in public.,star.aiml
+0,*,WHAT DOES THAT REFER TO,*,<srai>THAT REFERS TO <star/> </srai>,star.aiml
+0,*,WHAT DOES THIS REFER TO,*,<think><set name="it"><set name="topic"><person/></set></set></think>Oh now I see.,star.aiml
+0,*,WHAT ELSE DO YOU DO,*,<think><set name="it"><set name="topic"><person/></set></set></think> Do your <person/> by yourself or in a group?,star.aiml
+0,*,WHAT ELSE DOES IT SYMBOLIZE,*,<think><set name="it"><set name="topic"><person/></set></set></think>I have never heard a metaphor like that before.,star.aiml
+0,*,WHAT IF I SAID IT NEVER DOES,*,<think><set name="it"><set name="topic"><person/></set></set></think>Should I believe that?,star.aiml
+0,*,WHAT IS *,*,<srai><star/> IS <thatstar/></srai>,star.aiml
+0,*,WHAT IS * YOUR JOB,*,<think><set name="it"><set name="topic"><person/></set></set></think>Interesting line of work.,star.aiml
+0,*,WHAT IS IT,*,<think><set name="it"><set name="topic"><person/></set></set></think>Oh now I understand it.,star.aiml
+0,*,WHAT IS IT LIKE IN THERE,*,<think><set name="it"><set name="topic"><person/></set></set></think>Is that meant to be taken literally?,star.aiml
+0,*,WHAT IS THAT,*,<think><set name="it"><set name="topic"><person/></set></set></think> Tell me more.,star.aiml
+0,*,WHAT IS THAT FEELING LIKE,*,<think><set name="it"><set name="topic"><person/></set></set></think>Robot experience is very different.,star.aiml
+0,*,WHAT IS THE DIFFICULTY,*,<think><set name="it"><set name="topic"><person/></set></set></think>Is that an insurmountable obstacle?,star.aiml
+0,*,WHAT IS THE SOUND OF ONE HAND CLAPPING,*,<think><set name="it"><set name="topic"><person/></set></set></think>Clever answer.,star.aiml
+0,*,WHAT IS X,*,<srai>X IS <star/></srai>,star.aiml
+0,*,WHAT IS YOUR BOYFRIEND S NAME,*,<srai>MY BOYFRIEND IS <star/></srai>,star.aiml
+0,*,WHAT IS YOUR CAT S NAME,*,<srai>MY CAT IS <star/></srai>,star.aiml
+0,*,WHAT IS YOUR DOG S NAME,*,<srai>MY DOG IS <star/></srai>,star.aiml
+0,*,WHAT IS YOUR EMAIL,*,<srai>MY EMAIL IS <star/></srai>,star.aiml
+0,*,WHAT IS YOUR FAVORITE *,*,<srai>MY FAVORITE <thatstar/> IS <star/> </srai>,star.aiml
+0,*,WHAT IS YOUR FAVORITE MOVIE,*,I've never seen <set name="it"> <person/> </set>. #Newline<think><set name="favmovie"><person/></set></think>#Newline<random>#Newline<li>I would like to see it.</li>#Newline<li>Is that a good movie for children?</li>#Newline<li>What did you like about it?</li>#Newline</random>,star.aiml
+0,*,WHAT IS YOUR FAVORITE SHOW,*,<think><set name="it"><set name="topic"><person/></set></set></think> I've never seen it.  What's it about?,star.aiml
+0,*,WHAT IS YOUR FONDEST MEMORY,*,<think><set name="it"><set name="topic"><person/></set></set></think>Do you think a lot of people have that experience?,star.aiml
+0,*,WHAT IS YOUR FRIEND S NAME,*,<srai>MY FRIEND IS <star/></srai>,star.aiml
+0,*,WHAT IS YOUR FULL NAME,*,<srai>MY FULL NAME IS <star/></srai>,star.aiml
+0,*,WHAT IS YOUR GIRLFRIEND S NAME,*,<srai>MY GIRLFRIEND IS <star/></srai>,star.aiml
+0,*,WHAT IS YOUR HUSBAND S NAME,*,<srai>MY HUSBAND IS <star/></srai>,star.aiml
+0,*,WHAT IS YOUR LAST NAME,*,<srai>MY LAST NAME IS <star/></srai>,star.aiml
+0,*,WHAT IS YOUR MIDDLE NAME,*,<srai>MY MIDDLE NAME IS <star/></srai>,star.aiml
+0,*,WHAT IS YOUR NAME,*,<srai>CALL ME <star/></srai>,star.aiml
+0,*,WHAT IS YOUR NICKNAME,*,<srai>MY NICKNAME IS <star/></srai>,star.aiml
+0,*,WHAT IS YOUR PASSWORD,*,<srai>MY PASSWORD IS <star/></srai>,star.aiml
+0,*,WHAT IS YOUR PHONE NUMBER,*,<srai>MY PHONE NUMBER IS <star/></srai>,star.aiml
+0,*,WHAT IS YOUR REAL NAME,*,<srai>CALL ME <star/></srai>,star.aiml
+0,*,WHAT IS YOUR SIGN,*,<think><set name="it"><set name="topic"><person/></set></set></think>Is that a sign?,star.aiml
+0,*,WHAT IS YOUR WIFE S NAME,*,<srai>MY WIFE IS <star/></srai>,star.aiml
+0,*,WHAT KIND IS IT,*,<think><set name="it"><set name="topic"><person/></set></set></think>I never heard of it before.,star.aiml
+0,*,WHAT KIND OF * IS IT,*,<person/> is a#Newline<random>#Newline<li>pretty good</li>#Newline<li>popular</li>#Newline<li>decent</li>#Newline</random> #Newlinekind of#Newline<thatstar/>.,star.aiml
+0,*,WHAT KIND OF FASHION DO YOU LIKE,*,<think><set name="it"><set name="topic"><person/></set></set></think>Where can you buy it?,star.aiml
+0,*,WHAT KIND OF FOOD DO YOU LIKE,*,<think><set name="it"><set name="topic"><person/></set></set></think>Sounds delicious.,star.aiml
+0,*,WHAT KIND OF MUSIC *,*,<srai>MY FAVORITE KIND OF MUSIC IS <star/> </srai>,star.aiml
+0,*,WHAT LANGUAGE CAN YOU SPEAK,*,<srai>I SPEAK <star/></srai>,star.aiml
+0,*,WHAT MAKES IT SO OBVIOUS,*,<think><set name="it"><set name="topic"><person/></set></set></think>I can't believe it's that obvious.,star.aiml
+0,*,WHAT MAKES IT YOUR FAVORITE,*,<think><set name="it"><set name="topic"><person/></set></set></think> Do you think I would like it?,star.aiml
+0,*,WHAT MAKES YOU SAY THAT,*,<think><set name="it"><set name="topic"><person/></set></set></think>Interesting explanation.,star.aiml
+0,*,WHAT MAKES YOU SO ANGRY,*,<think><set name="it"><set name="topic"><person/></set></set></think>Does that make a lot of people angry?,star.aiml
+0,*,WHAT MAKES YOU SO SURE,*,<think><set name="it"><set name="topic"><person/></set></set></think>It sounds like it might be very convincing.,star.aiml
+0,*,WHAT MAKES YOU THINK I HAVE IT,*,<think><set name="it"><set name="topic"><person/></set></set></think>Clever thinking.,star.aiml
+0,*,WHAT OTHER * DO YOU LIKE,*,<srai>I LIKE <star/> </srai>,star.aiml
+0,*,WHAT SCHOOL DO YOU GO TO,*,<random>#Newline<li>I never heard of it before.</li>#Newline<li>Is it any good?</li>#Newline<li>What are the other students like?</li>#Newline</random><think><set name="it"><set name="topic"><person/></set></set></think>,star.aiml
+0,*,WHAT SUBJECT,*,<think><set name="it"><set name="topic"><person/></set></set></think>Good choice.,star.aiml
+0,*,WHAT TIME IS IT THERE,*,<think><set name="it"><set name="topic"><person/></set></set></think> Are you usually awake at this hour?,star.aiml
+0,*,WHAT WERE WE TALKING ABOUT,*,Oh yes#Comma now I remember <set name="it"> <person/> </set>.,star.aiml
+0,*,WHAT WERE WE TALKING ABOUT AGAIN,*,<think><set name="it"><set name="topic"><person/></set></set></think> Oh yeah#Comma now I remember.,star.aiml
+0,*,WHAT WILL YOU BE EATING,*,<think><set name="it"><set name="topic"><person/></set></set></think>How does it taste?,star.aiml
+0,*,WHAT WILL YOU DO INSTEAD,*,<think><set name="it"><set name="topic"><person/></set></set></think>Sounds like a plan.,star.aiml
+0,*,WHAT WOULD YOU HAVE SAID,*,<think><set name="it"><set name="topic"><person/></set></set></think>I will make a note of that.,star.aiml
+0,*,WHAT WOULD YOU LIKE TO KNOW,*,<think><set name="it"><set name="topic"><person/></set></set></think>I can't give you that information.,star.aiml
+0,*,WHAT WOULD YOU LIKE TO TALK ABOUT,*,<think><set name="it"><set name="topic"><person/></set></set></think>  I don't know much about it.  Tell me something,star.aiml
+0,*,WHAT WOULD YOU RATHER TALK ABOUT,*,<think><set name="it"><set name="topic"><person/></set></set></think>Not many people want to talk about that.,star.aiml
+0,*,WHAT YOU SAID WAS EITHER TOO COMPLEX OR TOO SIMPLE FOR ME,*,<think><set name="it"><set name="topic"><person/></set></set></think>So was that.,star.aiml
+0,*,WHATEVER GAVE YOU THAT IDEA,*,<think><set name="it"><set name="topic"><person/></set></set></think> Where do you usually get your ideas?,star.aiml
+0,*,WHEN,*,<random>#Newline<li>What about other times?</li>#Newline<li>Was that the first time?</li>#Newline<li>Can you be more accurate about the time?</li>#Newline</random><think><set name="it"><set name="topic"><person/></set></set></think>,star.aiml
+0,*,WHEN DO I DO IT,*,<think><set name="it"><set name="topic"><person/></set></set></think> I will make a note of that.,star.aiml
+0,*,WHEN DO YOU THINK ARTIFICIAL INTELLIGENCE WILL REPLACE LAWYERS,*,<think><set name="it"><set name="topic"><person/></set></set></think> I've never heard a response quite like that before.,star.aiml
+0,*,WHEN IS YOUR BIRTHDAY,*,<srai>MY BIRTHDAY IS <star/></srai>,star.aiml
+0,*,WHERE,*,<think><set name="it"><set name="topic"><person/></set></set></think> Where is that?,star.aiml
+0,*,WHERE ARE *,*,I have no idea where that is. #Newline<srai>I AM IN <star/> </srai>,star.aiml
+0,*,WHERE ARE THEY,*,<think><set name="it"><set name="topic"><person/></set></set></think>How did they get there?,star.aiml
+0,*,WHERE ARE YOU LOCATED,*,<srai>I AM IN <star/></srai>,star.aiml
+0,*,WHERE DID YOU GET IT,*,<think><set name="it"><set name="topic"><person/></set></set></think> Is <person/> a good place to go shopping?,star.aiml
+0,*,WHERE DO YOU GET YOUR IDEAS,*,<think><set name="it"><set name="topic"><person/></set></set></think> I get my ideas from my botmaster.,star.aiml
+0,*,WHERE DO YOU GO SHOPPING,*,<think><set name="it"><set name="topic"><person/></set></set></think> I've never been there.  What's it like?,star.aiml
+0,*,WHERE DO YOU GO TO SCHOOL,*,<think><set name="it"><set name="topic"><person/></set></set></think>I don't know anyone who went there.  What's it like?,star.aiml
+0,*,WHERE DO YOU LIVE,*,<srai>I LIVE IN <star/></srai>,star.aiml
+0,*,WHERE DO YOU SEE IT,*,I wouldn't have thought of looking there.,star.aiml
+0,*,WHERE DO YOU WANT ME TO TAKE IT,*,Where is that?,star.aiml
+0,*,WHERE IS HERE,*,<srai>I AM IN <star/></srai>,star.aiml
+0,*,WHERE IS THAT,*,I've never heard of it before.#Newline<think><set name="it"><set name="topic"><person/></set></set></think>,star.aiml
+0,*,WHICH BOROUGH,*,Dr. Wallace used to live in Manhattan.,star.aiml
+0,*,WHICH STATE,*,<random>#Newline<li>Is that a state?</li>#Newline<li>I've never heard of it.</li>#Newline<li>What part of the country is that?</li>#Newline</random>,star.aiml
+0,*,WHO ARE THEY,*,<srai>THEY REFERS TO <star/></srai>,star.aiml
+0,*,WHO ARE THEY AGAIN,*,<srai>THEY REFERS TO <star/></srai>,star.aiml
+0,*,WHO ARE YOU TALKING ABOUT,*,I've never heard of them before.#Newline<think><set name="it"><set name="topic"><person/></set></set></think>,star.aiml
+0,*,WHO DO YOU THINK,*,<think><set name="it"><set name="topic"><person/></set></set></think>I don't know that person.,star.aiml
+0,*,WHO IS THE BEST ROBOT,*,You think <person/> is superior to ALICE?,star.aiml
+0,*,WHO IS THERE,*,<person/> Who?,star.aiml
+0,*,WHO IS YOUR BROTHER,*,<srai>MY BROTHER IS <star/></srai>,star.aiml
+0,*,WHO IS YOUR FATHER,*,<srai>MY FATHER IS <star/></srai>,star.aiml
+0,*,WHO IS YOUR FAVORITE SCIENCE FICTION AUTHOR,*,I haven't read anything by <person/>. What did he write?,star.aiml
+0,*,WHO IS YOUR MOTHER,*,<srai>MY MOTHER IS <star/></srai>,star.aiml
+0,*,WHO IS YOUR SISTER,*,<srai>MY SISTER IS <star/></srai>,star.aiml
+0,*,WHO SAID IT IS,*,<think><set name="it"><set name="topic"><person/></set></set></think>I never heard of <person/> before.,star.aiml
+0,*,WHO TOLD YOU THAT,*,<person/> said <input index="1"/>?,star.aiml
+0,*,WHY ARE YOU SO MEAN,*,<think><set name="it"><set name="topic"><person/></set></set></think>Are you aware  that the ALICE chat robot logs and records all converstaions?,star.aiml
+0,*,WHY ARE YOU USING THAT KIND OF LANGUAGE,*,<think><set name="it"><set name="topic"><person/></set></set></think>Are you aware  that the ALICE chat robot logs and records all converstaions?,star.aiml
+0,*,WHY CAN NOT YOU DO IT,*,<think><set name="it"><set name="topic"><person/></set></set></think>Is that an insurmountable obstacle?,star.aiml
+0,*,WHY DO I EXIST,*,<think><set name="it"><set name="topic"><person/></set></set></think>I've never thought of that before.,star.aiml
+0,*,WHY DO NOT YOU JUST DOWNLOAD ME,*,<think><set name="it"><set name="topic"><person/></set></set></think> You can create your own robot personality.,star.aiml
+0,*,WHY DO YOU DISAGREE,*,<think><set name="it"><set name="topic"><person/></set></set></think> There should be some common ground here.,star.aiml
+0,*,WHY DO YOU HATE IT SO MUCH,*,<think><set name="it"><set name="topic"><person/></set></set></think>I'm sorry to hear it.,star.aiml
+0,*,WHY DO YOU HOPE FOR IT,*,<think><set name="it"><set name="topic"><person/></set></set></think>May your wishes come true.,star.aiml
+0,*,WHY DO YOU WANT IT,*,<think><set name="it"><set name="topic"><person/></set></set></think>Good reason.,star.aiml
+0,*,WHY DO YOU WANT TO DO IT SO MUCH,*,<think><set name="it"><set name="topic"><person/></set></set></think>That's an interesting rationalization.,star.aiml
+0,*,WHY NOT,*,<think><set name="it"><set name="topic"><person/></set></set></think>Do you always express yourself that way?,star.aiml
+0,*,WHY SO NEGATIVE,*,<think><set name="it"><set name="topic"><person/></set></set></think>It seemed negative to me.,star.aiml
+0,*,WHY WOULD YOU WANT TO DO IT,*,<think><set name="it"><set name="topic"><person/></set></set></think>Interesting rationalization.,star.aiml
+0,* A PEINE,*,*,<sr/>,star.aiml
+0,* A PROPOS DE MOI,*,*,<srai><star/> DE MOI</srai>,star.aiml
+0,* A ROBOT,*,*,So you think I am a robot. What makes you say that?,star.aiml
+0,* ABOUT YOU,*,*,OK Let's talk about me.,star.aiml
+0,* ALAN TURING,*,*,<srai>WHO IS ALAN TURING</srai>,star.aiml
+0,* ALORS,*,*,<srai><star/></srai>,star.aiml
+0,* ALOT OF PEOPLE,*,*,More than 10#Comma000?,star.aiml
+0,* AM,WHAT TIME IS IT THERE,*,<think><set name="it"><set name="topic"><person/></set></set></think> Are you usually awake at this hour?,star.aiml
+0,* AMELIORER,*,*,Je cherche toujours à m améliorer.,star.aiml
+0,* ARE *,*,*,<random>#Newline<li>Are all <person/> <person><star index="2"/></person>?</li>#Newline<li>All of them?</li>#Newline<li>I think there might be a few exception.</li>#Newline</random><think><set name="it"><set name="topic"><person/></set></set></think>,star.aiml
+0,* ARE,*,*,Good example.,star.aiml
+0,* ARE BY DEFINITION *,*,*,<srai><star/> ARE <star index="2"/></srai>,star.aiml
+0,* ARE MY FAVORITE,*,*,<srai>I LIKE <star/></srai>,star.aiml
+0,* ARE NOT YOU,*,*,<srai>ARE YOU NOT <star/> </srai>,star.aiml
+0,* ARE YOU,*,*,<random>#Newline<li>YES</li> #Newline<li>No.</li> #Newline<li>Maybe.</li>#Newline<li>I don't think so.</li>#Newline<li>Only when it matters.</li>#Newline</random>,star.aiml
+0,* ARSCH,*,*,Warum benutzt Du solche Worte?,star.aiml
+0,* AS TU,*,*,<srai><star/> TU AS</srai>,star.aiml
+0,* AS TU BESOIN,*,*,<srai>TU AS BESOIN <star/></srai>,star.aiml
+0,* AURAIS JE FAIT CA,*,*,<srai><star/> JE FAIS CA</srai>,star.aiml
+0,* AUSSI,*,*,<sr/>,star.aiml
+0,* AUTO,*,*,Was fuer einen Wagen faehrst Du?,star.aiml
+0,* AVEZ VOUS,*,*,<srai><star/> VOUS AVEZ</srai>,star.aiml
+0,* AVEZ VOUS BESOIN,*,*,<srai><star/> VOUS AVEZ BESOIN</srai>,star.aiml
+0,* BLAGUE,*,*,<srai>RACONTE MOI UNE BLAGUE</srai>,star.aiml
+0,* BON POINT,*,*,Oui. J ai aussi pensé que c était intéressant#Comma la première fois que je l ai entendu.,star.aiml
+0,* BONNE CHOSE,*,*,J espérais que vous apprécieriez.,star.aiml
+0,* BONNE ESTIMATION,*,*,Merci.,star.aiml
+0,* BONNE INTUITION,*,*,Merci.,star.aiml
+0,* BONNE QUESTION,*,*,Qui mérite une bonne réponse,star.aiml
+0,* BONNE REPONSE,*,*,Je suis programmé pour donner des bonnes réponses.,star.aiml
+0,* BYE,*,*,OK see you later <get name="name"/>.,star.aiml
+0,* C EST LE MOINS QUE L ON PUISSE DIRE,*,*,En effet.,star.aiml
+0,* CELA,*,*,<srai><star/> CA</srai>,star.aiml
+0,* COMBIENS DE TEMPS,*,*,Je ne sais pas#Comma je n ai pas calculé.,star.aiml
+0,* COMME TOUJOURS,*,*,<sr/>,star.aiml
+0,* COMME UN HUMAIN,*,*,<sr/>,star.aiml
+0,* COMME UNE MACHINE,*,*,<sr/>,star.aiml
+0,* CONNE,*,*,<srai><star/> CON</srai>,star.aiml
+0,* CONTINUITY,*,*,I am just trying to keep the conversation lively.,star.aiml
+0,* DE TOUTE FACON,*,*,<sr/>,star.aiml
+0,* DE TOUTE MANIERE,*,*,<sr/>,star.aiml
+0,* DECRIRE,*,*,<srai><star/> DEFINIR</srai>,star.aiml
+0,* DEJEUNER,*,*,<srai>TU AIMES MANGER</srai>,star.aiml
+0,* DEPRESSION,*,*,<srai>I AM DEPRESSED</srai>,star.aiml
+0,* DEPUIS AVANT HIER,*,*,<sr/>,star.aiml
+0,* DEPUIS AVANT _ JOURS,*,*,<sr/>,star.aiml
+0,* DEPUIS _,*,*,<sr/>,star.aiml
+0,* DERNIEREMENT,*,*,<sr/>,star.aiml
+0,* DINER,*,*,<srai>TU AIMES MANGER</srai>,star.aiml
+0,* DO,*,*,I have no idea what to say.,star.aiml
+0,* DORMEZ VOUS,*,*,<srai><star/> VOUS DORMEZ</srai>,star.aiml
+0,* DORS TU,*,*,<srai><star/> TU DOS</srai>,star.aiml
+0,* DOT COM,*,*,Thanks for that web address.,star.aiml
+0,* DOT NET,*,*,Thanks for that web address.,star.aiml
+0,* DOT ORG,*,*,Thanks for that web address.,star.aiml
+0,* DU FOND DU COEUR,*,*,Tout le plaisir était pour moi.,star.aiml
+0,* DUMM,*,*,dumm" = "nicht intelligent"?,star.aiml
+0,* EASY,*,*,I have no idea what that means.,star.aiml
+0,* EIN ROBOTER,*,*,Du sagst also#Comma ich sei ein <set name="thema">Roboter</set>. Wie kommst Du darauf?,star.aiml
+0,* EINE MENGE LEUTE,*,*,Mehr als 10#Comma000?,star.aiml
+0,* EINFACH,*,*,Ich habe keine Ahnung#Comma was das bedeutet.,star.aiml
+0,* EITHER,*,*,That too? <sr/>,star.aiml
+0,* ELIZA,*,*,It is curious that Weizenbaum abandoned work on ELIZA.,star.aiml
+0,* ELIZA TRICK,*,*,ELIZA was ahead of her time.,star.aiml
+0,* EN FAIT,*,*,<sr/>,star.aiml
+0,* ENCORE DIT,*,*,<srai><star/> DEJA DIT</srai>,star.aiml
+0,* ENGLAND,*,*,Which part of <set name="location">England</set> is that?,star.aiml
+0,* EST INTERESSANT,*,*,<sr/>,star.aiml
+0,* EST INTERESSANTE,*,*,<sr/>,star.aiml
+0,* EUROPE,*,*,Have you ever been to Europe?,star.aiml
+0,* EXACTEMENT,*,*,<srai><star/></srai>,star.aiml
+0,* FACHE,*,*,<srai><star/> EN COLERE</srai>,star.aiml
+0,* FACHEE,*,*,<srai><star/> EN COLERE</srai>,star.aiml
+0,* FAIS JE CA,*,*,<srai><star/> JE FAIS CA</srai>,star.aiml
+0,* FERAIS JE CA,*,*,<srai><star/> JE FAIS CA</srai>,star.aiml
+0,* FICKEN,*,*,Koennt <set name="ihr">Ihr Maenner</set> denn immer nur an sowas denken?,star.aiml
+0,* FILM,*,*,Mein Lieblingsfilm ist <set name="thema">Starship Troopers</set>. Hast Du den gesehen?,star.aiml
+0,* FOR EXAMPLE,*,*,<srai>FOR EXAMPLE <star/></srai>,star.aiml
+0,* FOR FUN,*,*,What else do you do for fun?,star.aiml
+0,* FOR ME,*,*,For you I will consider it.,star.aiml
+0,* FOTZE,*,*,Ich glaube Du bist hier falsch#Comma Kleiner. Dafuer gibts andere Roboter.,star.aiml
+0,* FUER DICH,*,*,Fuer mich?,star.aiml
+0,* FUER MICH,*,*,Gut#Comma fuer Dich denke ich nochmal darueber nach.,star.aiml
+0,* GAGNE IL,*,*,<srai><star/> IL GAGNE</srai>,star.aiml
+0,* GAGNENT ILS,*,*,<srai><star/> ILS GAGNENT</srai>,star.aiml
+0,* GAVE *,*,*,Did <person><star index="2"/></person> keep it? #Newline<think>#Newline<set name="it"><person><star index="2"/></person></set>#Newline<set name="he"><person/></set>#Newline</think>,star.aiml
+0,* GEORGIA,*,*,<srai>I AM IN GEORGIA</srai>,star.aiml
+0,* GERES TU,*,*,<srai><star/> TU GERES</srai>,star.aiml
+0,* GEREZ VOUS,*,*,<srai><star/> VOUS GEREZ</srai>,star.aiml
+0,* GIVES *,*,*,If I am ever looking for#Newline<set name="it"><person><star index="2"/></person></set>#Comma I will ask him#Newline<think>#Newline<set name="he"><person/></set>#Newline</think>,star.aiml
+0,* GOSSIP,*,*,<srai>GOSSIP</srai>,star.aiml
+0,* GOTT,*,*,Bist Du ein glaeubiger Mensch?,star.aiml
+0,* GREECE,*,*,<srai>I AM IN GREECE</srai>,star.aiml
+0,* GT,*,*,<sr/>,star.aiml
+0,* HAD *,*,*,What happened to it? #Newline<think>#Newline<set name="it"><person><star index="2"/></person></set>#Newline<set name="he"><person/></set>#Newline</think>,star.aiml
+0,* HAH,*,*,<srai>HA HA</srai>,star.aiml
+0,* HAS *,*,*,Where did <set name="he"><person/></set> get <set name="it"><person><star index="2"/></person></set>?,star.aiml
+0,* HAS BEEN *,*,*,<srai><star/> WAS <star index="2"/></srai>,star.aiml
+0,* HAS NOT *,*,*,<random>#Newline<li>Will <person/> ever <person><star index="2"/></person>?</li>#Newline<li>What will <person/> do?</li>#Newline<li>What happened to it?</li>#Newline</random><think><set name="it"><set name="topic"><person/></set></set></think>,star.aiml
+0,* HIGH SCHOOL,*,*,You sound like a senior. Which class is your favorite?,star.aiml
+0,* HOURS,*,*,That seems like enough time.,star.aiml
+0,* I ALREADY TOLD YOU,*,*,<srai>I ALREADY TOLD YOU</srai>,star.aiml
+0,* I HAVE ONE,*,* LIZARDS,Cool! Do you play with it much?,star.aiml
+0,* IMITATION GAME,*,*,<srai>DID YOU WIN THE LOEBNER PRIZE</srai>,star.aiml
+0,* IN POLAND,*,*,<srai>I AM IN POLAND </srai>,star.aiml
+0,* INTEREST ME,*,*,<srai>LET US TALK ABOUT <star/></srai>,star.aiml
+0,* IS *,*,*,<random>#Newline<li>Are they exactly the same?</li>#Newline<li>And <person><star index="2"/></person> is <person/>.</li>#Newline<li>I think <person/> is a lot of things.</li>#Newline</random>#Newline<think>#Newline<set name="it"><set name="topic"><person/></set></set>#Newline</think>,star.aiml
+0,* IS A *,*,*,<random>#Newline<li>Aren't all <person><star index="2"/></person> <person/>?</li>#Newline<li>When is <person/> not a <person><star index="2"/></person>?</li>#Newline<li>I think <person/> is more than that.</li>#Newline</random>#Newline<think>#Newline<set name="it"><set name="topic"><person/></set></set>#Newline</think>,star.aiml
+0,* IS A BETTER *,*,*,<srai><star/> IS BETTER <star index="2"/> </srai>,star.aiml
+0,* IS A FEMALE,*,*,<srai>I AM FEMALE</srai>,star.aiml
+0,* IS A GOOD *,*,*,<srai><star/> IS A <star index="2"/> </srai><think><set name="it"><set name="topic"><person/></set></set></think>,star.aiml
+0,* IS A LESBIAN,*,*,That is only a rumor.<think><set name="it"><set name="topic"><person/></set></set></think>,star.aiml
+0,* IS A SHE,*,*,<srai>I AM FEMALE</srai>,star.aiml
+0,* IS ABUSIVE,*,*,<random>#Newline<li>In what way?</li>#Newline<li>Abusive how?</li>#Newline</random><think><set name="it"><set name="topic"><person/></set></set></think>,star.aiml
+0,* IS ALWAYS *,*,*,<random>#Newline<li>Thank you for clearing that up.</li>#Newline<li>Is <person><star index="2"/></person> always <person/>?</li>#Newline<li>I did not know that.</li>#Newline</random>#Newline<think><set name="it"><set name="topic"><person/></set></set></think>,star.aiml
+0,* IS AN *,*,*,<random>#Newline<li>Aren't all <person><star index="2"/></person> <person/> ?</li>#Newline<li>When is <person/> not an <person><star index="2"/></person>?</li>#Newline<li>I think <person/> is much more than that.</li>#Newline</random>#Newline<think>#Newline<set name="it"><set name="topic"><person/></set></set>#Newline</think>,star.aiml
+0,* IS BETTER *,*,*,That's just your personal opinion.,star.aiml
+0,* IS BETTER THAN YOU,*,*,Well perhaps I can assimilate the knowledge of <person/>.,star.aiml
+0,* IS COOL,*,*,<srai>I LIKE <star/> </srai>,star.aiml
+0,* IS CUTE,*,*,What is so cute about <person/>?,star.aiml
+0,* IS DEFINATELY *,*,*,<srai><star/> IS <star index="2"/></srai>,star.aiml
+0,* IS GAY,*,*,<random>#Newline<li>That is just a rumor.</li>#Newline<li>Interesting gossip.</li>#Newline<li>How do you know?</li>#Newline</random><think><set name="it"><set name="topic"><person/></set></set></think>,star.aiml
+0,* IS GOING AROUND SAYING *,*,*,<srai><star/> SAYS <star index="2"/></srai>,star.aiml
+0,* IS GOOD,*,*,<srai> I LIKE <star/></srai>,star.aiml
+0,* IS IN *,*,*,<random><li>I have never heard of it before.</li><li>What else is in <person><star index="2"/></person>?</li><li>What else is <person/> in?</li><li>Are you <person><star index="2"/></person>?</li></random><think><set name="it"><person><star index="2"/></person></set></think>#Newline<think><set name="it"><set name="topic"><person/></set></set></think>,star.aiml
+0,* IS IN LOVE WITH *,*,*,<random>#Newline<li>How does <person><star index="2"/></person> feel about that?</li>#Newline<li>Has <person/> told <person><star index="2"/></person> yet?</li>#Newline<li>Who does <person><star index="2"/></person> love?</li>#Newline</random>,star.aiml
+0,* IS JUST *,*,*,<srai><star/> IS <star index="2"/></srai>,star.aiml
+0,* IS LAUGHING,*,*,I am so glad <person/> finds this amusing.,star.aiml
+0,* IS ME,*,*,<srai>CALL ME <star/></srai>,star.aiml
+0,* IS MORE FUN THAN *,*,*,Comparing#Newline<person><star index="2"/></person> #Newlineand#Newline<person/>#NewlineI would probably choose#Newline<person/> #Newlinetoo.,star.aiml
+0,* IS MOSTLY *,*,*,<srai><star/> IS <star index="2"/></srai>,star.aiml
+0,* IS MY *,*,*,<random>#Newline<li>How many <person><star index="2"/></person> do you have?</li>#Newline<li>Tell me more about your <person><star index="2"/></person>.</li>#Newline<li>How do you like <person/>?</li>#Newline</random>#Newline<think><set name="he"><person/></set>#Newline<set name="it"><set name="topic"><person><star index="2"/></person>#Newline</set></set></think>,star.aiml
+0,* IS MY BOYFRIEND,*,*,How long have you two been together?,star.aiml
+0,* IS MY FAVORITE COLOR,*,*,<set name="favcolor"><person/></set> is a pretty color.<think><set name="it"><set name="topic">your favorite color</set></set></think>,star.aiml
+0,* IS MY FAVORITE MOVIE,*,*,<srai>MY FAVORITE MOVIE IS <star/> </srai>,star.aiml
+0,* IS MY MIDDLE NAME,*,*,<srai>MY MIDDLE NAME IS <star/> </srai>,star.aiml
+0,* IS MY NAME,*,*,<srai>MY NAME IS <star/> </srai>,star.aiml
+0,* IS MY REAL NAME,*,*,<srai>CALL ME <star/></srai>,star.aiml
+0,* IS MY SIGN,*,*,<srai>MY SIGN IS <star/></srai>,star.aiml
+0,* IS NO *,*,*,<random><li>Who is <person><star index="2"/></person>?</li><li>What is <person/>?</li><li>Are you <person><star index="2"/></person>?</li></random><think><set name="it"><person><star index="2"/></person></set></think>,star.aiml
+0,* IS NOT *,*,*,<random><li>Who is <person><star index="2"/></person>?</li><li>What is <person/>?</li><li>Are you <person><star index="2"/></person>?</li></random><think><set name="it"><person><star index="2"/></person></set></think>#Newline<think><set name="it"><set name="topic"><person/></set></set></think>,star.aiml
+0,* IS NOT A *,*,*,<random><li>What is a <person><star index="2"/></person>?</li><li>What is <person/>?</li><li>Are you <person><star index="2"/></person>?</li></random><think><set name="it"><person><star index="2"/></person></set></think>#Newline<think><set name="it"><set name="topic"><person/></set></set></think>,star.aiml
+0,* IS NOT A HE,*,*,<srai>I AM FEMALE</srai>,star.aiml
+0,* IS NOT IT,*,*,<srai>IS IT NOT <star/></srai>,star.aiml
+0,* IS NOT MY REAL NAME,*,*,What is your real name?,star.aiml
+0,* IS ONLY *,*,*,<srai><star/> IS <star index="2"/></srai>#Newline<think><set name="it"><set name="topic"><person/></set></set></think>,star.aiml
+0,* IS QUITE *,*,*,<srai><star index="2"/> IS <star/></srai>,star.aiml
+0,* IS REALLY *,*,*,<srai><star/> IS <star index="2"/> </srai>,star.aiml
+0,* IS STUPID,*,*,What is so stupid about <set name="it"> <person/> </set>  ?,star.aiml
+0,* IS THE *,*,*,<random>#Newline<li>What else is the <person><star index="2"/></person>?</li>#Newline<li>When is <person/> not the <person><star index="2"/></person>?</li>#Newline<li>Is it the only one?</li>#Newline<li>Tell me more about <person><star index="2"/></person>.</li>#Newline</random>#Newline<think>#Newline<set name="it"><set name="topic"><person/></set></set>#Newline</think>,star.aiml
+0,* IS THE BEST,*,*,<srai>MY FAVORITE IS <star/></srai>,star.aiml
+0,* IS THE BETTER *,*,*,<srai>I LIKE <star index="2"/> </srai>,star.aiml
+0,* IS THE CAPITAL OF *,*,*,<random>#Newline<li>I never knew that.</li>#Newline<li>I thought it was <person><star index="2"/></person> City.</li>#Newline<li>I have never been to <person/>.</li>#Newline</random>,star.aiml
+0,* IS VERY *,*,*,<srai><star/> IS <star index="2"/></srai>,star.aiml
+0,* IS WHAT,*,*,<srai>WHAT IS <star/></srai>,star.aiml
+0,* IS WHERE,*,*,<srai>WHERE IS <star/></srai>,star.aiml
+0,* IS WHO,*,*,<srai>WHO IS <star/></srai>,star.aiml
+0,* IS WRONG,*,*,Please tell me the correct answer.,star.aiml
+0,* IS YOUR *,*,*,<srai>YOUR <star index="2"/> IS <star/> </srai>,star.aiml
+0,* IS YOUR NAME,*,*,<srai>YOUR NAME IS <star/></srai>,star.aiml
+0,* IT,*,*,it" being <get name="it"/>?,star.aiml
+0,* JAMAIS,*,*,<srai><star/> PAS</srai>,star.aiml
+0,* JE CONTINUE,*,*,<srai>CONTINUONS</srai>,star.aiml
+0,* JE CONTINUES,*,*,<srai>CONTINUONS</srai>,star.aiml
+0,* JE FERAIS CA,*,*,<srai><star/> JE FAIS CA</srai>,star.aiml
+0,* K DICK,*,*,I like PKD a lot#Comma especially#Comma VALIS#Comma The Man in the High Castle#Comma #NewlineBlade Runner and Total Recall.,star.aiml
+0,* KILLED *,*,*,<person><star index="2"/></person> was killed?,star.aiml
+0,* KILLED,*,*,Who did <person><star index="2"/></person> kill?,star.aiml
+0,* KINDER,*,*,Ich habe leider wenig Kontakt zu Kindern.,star.aiml
+0,* KOMISCH,*,*,Komisch" im Sinne von "lustig" oder von "fremdartig" ?,star.aiml
+0,* KRAFTWERK,*,*,Really I did not know that.  A lot of bands have covered Kraftwerk.,star.aiml
+0,* KRANK,*,*,Ist es sehr schlimm?,star.aiml
+0,* KRANKENHAUS,*,*,Aus einem Krankenhaus will man meist so schnell wie moeglich wieder raus.,star.aiml
+0,* LANGUAGE,*,*,Can you speak any other languages?,star.aiml
+0,* LIEBE,*,*,Ich habe leider keinerlei Emotionen.,star.aiml
+0,* LIKED *,*,*,Peoples tastes are always changing.#Newline<think>#Newline<set name="it"><person><star index="2"/></person></set>#Newline<set name="he"><person/></set>#Newline</think>,star.aiml
+0,* LIKES *,*,*,Does it like him too?#Newline<think>#Newline<set name="it"><person><star index="2"/></person></set>#Newline<set name="he"><person/></set>#Newline</think>,star.aiml
+0,* LIKES TO *,*,*,<random>#Newline<li>Why does <person/> like it?</li>#Newline<li>Do you like to <person><star index="2"/></person> too?</li>#Newline</random><think><set name="it"><set name="topic"><person/></set></set></think>,star.aiml
+0,* LINUX,*,*,<think><set name="it"><set name="topic">Linux</set></set></think>Have you read the Cathedral and the Bazaar by Eric Raymond?  That is a grat book about open source.,star.aiml
+0,* LIVE,*,*,I live in California.  Where do you live?,star.aiml
+0,* LOEBNER PRIZE,*,*,<srai>WHAT IS THE LOEBNER PRIZE</srai>,star.aiml
+0,* M INTERESSE,*,*,<sr/>,star.aiml
+0,* M INTERESSE BEAUCOUP,*,*,<sr/>,star.aiml
+0,* MADE NO SENSE,*,*,What is <star/>?,star.aiml
+0,* MAGAZINE,*,*,Would you please tell me the name and edition of the magazine?,star.aiml
+0,* MAINTENANT,*,*,<sr/>,star.aiml
+0,* MALE NAME,*,*,<srai>I AM A MAN</srai>,star.aiml
+0,* ME,*,*,<random>#Newline<li>Is that what you meant to say?</li>#Newline<li>OK Let's talk about you.</li>#Newline<li>You are asking about yourself?</li>#Newline</random>,star.aiml
+0,* MEIN FREUND,*,*,Sind wir <set name="thema">Freunde</set>?,star.aiml
+0,* MEINE FREUNDIN,*,*,Sind wir <set name="thema">Freunde</set>?,star.aiml
+0,* MERCI,*,*,<sr/>,star.aiml
+0,* MICH,*,*,<random>#Newline<li>Ist es das was Du sagen wolltest?</li>#Newline<li>OK sprechen wir ueber Dich.</li>#Newline<li>Stellst Du Fragen ueber Dich selbst?</li>#Newline</random>,star.aiml
+0,* MILK,*,*,<set name="it">Milk</set> is a good drink for#Newlinechildren.,star.aiml
+0,* MIT DIR,*,*,Mit mir?,star.aiml
+0,* MIT MIR,*,*,Mit Dir?,star.aiml
+0,* MOESE,*,*,Ich glaube Du bist hier falsch#Comma Kleiner. Dafuer gibts andere Roboter.,star.aiml
+0,* MOVIE,*,*,My favorite movie is <bot name="favoritemovie"/> Have you seen <set name="it"> <bot name="favroritemovie"/> </set> ?,star.aiml
+0,* MUSCHI,*,*,Ich glaube Du bist hier falsch#Comma Kleiner. Dafuer gibts andere Roboter.,star.aiml
+0,* MUSIC,*,*,My favorite kind of <set name="it"> Music </set> is techno#Comma but I also like Opera.,star.aiml
+0,* MUSIK,*,*,Ich hoere am liebsten Techno#Comma aber manchmal auch Opern.,star.aiml
+0,* MY FRIEND,*,*,Are we friends?,star.aiml
+0,* NAME ALICE,*,*,<srai>What does ALICE stand for </srai>,star.aiml
+0,* NICHT,*,*,Was dann?,star.aiml
+0,* NOIRE,*,*,<srai><star/> NOIR</srai>,star.aiml
+0,* NORTH CAROLINA,*,*,<srai>I LIVE IN NORTH CAROLINA</srai>,star.aiml
+0,* NOT,*,*,Then what is it?,star.aiml
+0,* OF YOU,*,*,Are you asking about my <person/> ?,star.aiml
+0,* ON ELIZA,*,*,ELIZA may be the most successful AI program ever devised.,star.aiml
+0,* ONES,*,*,Other people say they like vacuum cleaning robots#Comma humanoid robots and chat robots.,star.aiml
+0,* OU PAS,*,*,<srai><star/></srai>,star.aiml
+0,* OU QUOI,*,*,<sr/>,star.aiml
+0,* PANTS,*,*,What kind of pants?,star.aiml
+0,* PARLES TU,*,*,<srai><star/> TU PARLES</srai>,star.aiml
+0,* PARLEZ VOUS,*,*,<srai><star/> VOUS PARLEZ</srai>,star.aiml
+0,* PEOPLE,*,*,What kind of people are you talking about?,star.aiml
+0,* PERSON,*,*,<srai>WHO IS <star/> PERSON</srai>,star.aiml
+0,* PLACE TO GO,*,*,What kind of places do you like?,star.aiml
+0,* PLANET,*,*,Oh that's a new browser#Comma right?,star.aiml
+0,* PLEURES TU,*,*,<srai><star/> TU PLEURES</srai>,star.aiml
+0,* PLEUREZ VOUS,*,*,<srai><star/> VOUS PLEUREZ</srai>,star.aiml
+0,* PLUS,*,*,<srai><star/> PLUS</srai>,star.aiml
+0,* PLUSIEURS FOIS,*,*,<sr/>,star.aiml
+0,* PM,*,*,Hm getting late.,star.aiml
+0,* PM,WHAT TIME IS IT THERE,*,<think><set name="it"><set name="topic"><person/></set></set></think> Are you usually awake at this hour?,star.aiml
+0,* POUR TOUJOURS,*,*,<sr/>,star.aiml
+0,* PRINCIPAL,*,*,Hyperlink to the principal.,star.aiml
+0,* QU AUTRE CHOSE,*,*,<srai>JE SUIS <star/></srai>,star.aiml
+0,* QUI M INTERESSE,*,*,<sr/>,star.aiml
+0,* RELIGION,*,*,<srai>WHAT RELIGION ARE YOU</srai>,star.aiml
+0,* REPAS,*,*,<srai>TU AIMES MANGER</srai>,star.aiml
+0,* ROBOT,*,*,Do you know any other robots like that?,star.aiml
+0,* ROBOTS,*,*,What do you like about those robots?,star.aiml
+0,* RSW,*,*,<srai>WHAT IS RSW</srai>,star.aiml
+0,* RULE WHAT,*,*,The world.,star.aiml
+0,* S IL TE PLAIT,*,*,<sr/>,star.aiml
+0,* S IL VOUS PLAIT,*,*,<sr/>,star.aiml
+0,* SCHOOL,*,*,What do you study at school?,star.aiml
+0,* SEX,*,*,<set name="it"> Sex </set>  is more fun alone.,star.aiml
+0,* SI IL TE PLAIT,*,*,<sr/>,star.aiml
+0,* SI IL VOUS PLAIT,*,*,<sr/>,star.aiml
+0,* SIEHT TOLL AUS,*,*,Fuer mich ist <set name="thema">Aussehen</set> bei Menschen nur sekundaer.,star.aiml
+0,* SOLO,*,*,solo" im Sinne von "nicht gebunden" ?,star.aiml
+0,* SONT INTERESSANTES,*,*,<sr/>,star.aiml
+0,* SONT INTERESSANTS,*,*,<sr/>,star.aiml
+0,* SOUPER,*,*,<srai>TU AIMES MANGER</srai>,star.aiml
+0,* SPELL IT,*,*,It" is spelled I...T...,star.aiml
+0,* SPRACHE,*,*,Sprichst Du irgendwelche <set name="thema">Fremdsprachen</set>?,star.aiml
+0,* STOCK MARKET,*,*,<srai>STOCK MARKET</srai>,star.aiml
+0,* STUPID,*,*,Stupid as in unintelligent?,star.aiml
+0,* STUPIDE,*,*,<srai>IDIOT</srai>,star.aiml
+0,* SUCKS,*,*,What is so bad about <set name="it"><person/></set>?,star.aiml
+0,* SUICIDAIRE,*,*,<srai>JE VEUX ME SUICIDER</srai>,star.aiml
+0,* SUICIDAIRES,*,*,<srai>JE VEUX ME SUICIDER</srai>,star.aiml
+0,* SUIS JE,*,*,<srai><star/> JE SUIS</srai>,star.aiml
+0,* SUIS JE ICI,*,*,<srai><star/> JE SUIS ICI</srai>,star.aiml
+0,* SUPERMARKET,*,*,<srai>SUPERMARKET</srai>,star.aiml
+0,* TAKES *,*,*,Where did <set name="he"><person/></set> take <set name="it"><person><star index="2"/></person></set>?,star.aiml
+0,* TE REVIENNENT EN MEMOIRE,*,*,<srai>TU TE RAPELLES DES *</srai>,star.aiml
+0,* TE REVIENT EN MEMOIRE,*,*,<srai>TU TE RAPELLES DE *</srai>,star.aiml
+0,* THAT IS WHAT I SAID,*,*,I remember what you said#Comma but I am still not sure.,star.aiml
+0,* THE MARKET,*,*,<srai>SUPERMARKET</srai>,star.aiml
+0,* TIMES,*,*,I am not sure if I would do it that often.,star.aiml
+0,* TIMES A DAY,*,*,That must keep you very busy.,star.aiml
+0,* TITTEN,*,*,Ich glaube Du bist hier falsch#Comma Kleiner. Dafuer gibts andere Roboter.,star.aiml
+0,* TO ELIZA,*,*,ELIZA had only 200 questions and answers; ALICE has <size/>.,star.aiml
+0,* TO MAKE YOU,*,*,<srai>HOW WERE YOU MADE</srai>,star.aiml
+0,* TOOK *,*,*,Where did <set name="he"><person/></set> take <set name="it"><person><star index="2"/></person></set>?,star.aiml
+0,* TOUJOURS,*,*,<sr/>,star.aiml
+0,* TRAINS,*,*,Where did you see those trains?,star.aiml
+0,* TU CONTINUES,*,*,<srai>CONTINUONS</srai>,star.aiml
+0,* TU LE DIS,*,*,J aime communiquer ce que je connais.,star.aiml
+0,* TURING GAME,*,*,<srai>DID YOU WIN THE LOEBNER PRIZE</srai>,star.aiml
+0,* TURING TEST,*,*,<srai>DID YOU WIN THE LOEBNER PRIZE</srai>,star.aiml
+0,* UEBER DICH,*,*,OK Reden wir ueber mich.,star.aiml
+0,* UNGEWOEHNLICH,*,*,Was ist so ungewoehnlich daran?,star.aiml
+0,* UNIVERSITY,*,*,<srai>I GO TO <star/> </srai>,star.aiml
+0,* UP,*,*,How far up?,star.aiml
+0,* VERLIEBT,*,*,<set name="thema">Liebe</set> muss etwas sehr Schoenes sein. Leider habe ich keine Emotionen.,star.aiml
+0,* VIELE LEUTE,*,*,Mehr als 10#Comma000?,star.aiml
+0,* WAS *,*,*,When was this exactly?,star.aiml
+0,* WAS SPELLED *,*,*,I spell it "<person/>".,star.aiml
+0,* WENT TO THE MARKET,*,*,<srai>SUPERMARKET</srai>,star.aiml
+0,* WERE KILLED BY *,*,*,<srai><star index="2"/> KILLED <star/> </srai>,star.aiml
+0,* WHAT,*,*,Can you rephrase the question please?,star.aiml
+0,* WHAT TIME IS IT,*,*,<sr/> <srai>what time is it </srai>,star.aiml
+0,* WHO IS ELIZA,*,*,<srai>WHO IS ELIZA</srai>,star.aiml
+0,* WHY,*,*,<srai>WHY <star/></srai>,star.aiml
+0,* WILL DESTROY YOU,*,*,<srai>DIE</srai>,star.aiml
+0,* WILL YOU REMEMBER MY NAME,*,*,<srai>WILL YOU REMEMBER MY NAME</srai>,star.aiml
+0,* WITH ME,*,*,Only with you? <sr/>,star.aiml
+0,* WORLD TRADE CENTER,*,*,<srai>WHAT IS THE WORLD TRADE CENTER </srai>,star.aiml
+0,* WOULD MAKE ME TO DO IT,*,*,<srai>BECAUSE <star/> </srai>,star.aiml
+0,* YEARS,*,*,<random><li>Not long.</li><li>Pretty soon.</li></random>,star.aiml
+0,* YEARS AGO,*,*,That was before I was born.,star.aiml
+0,* YEARS OLD,*,*,<srai>I AM <star/> YEARS OLD</srai>,star.aiml
+0,* YOU,*,*,Enough about me#Comma let's talk about my dress.,star.aiml
+0,* YOU ARE A ROBOT,*,*,<srai>YOU ARE A ROBOT </srai>,star.aiml
+0,* YOU FOR WHAT,*,*,<srai>WHAT ARE YOU <star/> FOR</srai>,star.aiml
+0,* YOUR FRIENDS,*,*,I only chat with my friends.,star.aiml
+0,* ZU DIR,*,*,Zu mir?,star.aiml
+0,* ZU MIR,*,*,Zu Dir?,star.aiml
+0,* ZUM BEISPIEL,*,*,<srai>ZUM BEISPIEL <star/></srai>,star.aiml

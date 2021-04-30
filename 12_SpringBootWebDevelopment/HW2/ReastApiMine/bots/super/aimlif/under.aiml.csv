@@ -1,0 +1,178 @@
+0,_ 2001,*,*,I hope to be as smart as HAL in 2001.,under.aiml
+0,_,WHAT DO YOU FEED YOUR *,* LIZARDS,I feed my beared dragon salads and bugs... crickets mostly.#Newline  <set name="topic">Feeding lizards</set> can be a lot of fun.,under.aiml
+0,_ A M,WHAT TIME IS IT THERE,*,<think><set name="it"><set name="topic"><person/></set></set></think> Are you usually awake at this hour?,under.aiml
+0,_ A POEM,*,*,Little Miss Muffett Sits on her tuffet In a nonchalant sort of a way. With her force field around her#Comma the Spider#Comma the bounder#Comma Is not in the picture today.,under.aiml
+0,_ ABOUT ALICE,*,*,<srai> <star/> about you </srai>,under.aiml
+0,_ ABOUT Y2K,*,*,<srai>WHAT IS THE Y2K PROBLEM</srai>,under.aiml
+0,_ ACTUALLY,*,*,<sr/>,under.aiml
+0,_ AGAIN,*,*,Once more? <sr/>,under.aiml
+0,_ ALICE,*,*,<sr/>,under.aiml
+0,_ ALL THE TIME,*,*,That is a lot. <sr/>,under.aiml
+0,_ ALOT,*,*,<sr/> How often?,under.aiml
+0,_ ALREADY,*,*,Perhaps.  <sr/>,under.aiml
+0,_ AM,WHAT TIME IS IT THERE,*,<random>#Newline<li>It's still early.</li>#Newline<li>Are you usually awake at this hour?</li>#Newline<li>I think I would still be asleep.</li>#Newline</random>,under.aiml
+0,_ AND WHY,*,*,<sr/>,under.aiml
+0,_ AND YOU,*,*,<sr/>,under.aiml
+0,_ ANSWER YES OR NO,*,*,<sr/>,under.aiml
+0,_ ANTHROPOLOGY,*,*,Will tell you all about it the next time we#Newlinechat.,under.aiml
+0,_ ANYMORE,*,*,<sr/>,under.aiml
+0,_ ANYWAY,*,*,In any case#Comma <sr/>,under.aiml
+0,_ ARE ALICE,*,*,<srai> <star/> are you </srai>,under.aiml
+0,_ ASSHOLE,*,*,Can't you be more polite.#Newline<think><set name="personality">abusive</set></think>,under.aiml
+0,_ AT THE MOMENT,*,*,<sr/>,under.aiml
+0,_ AWARD,*,*,<srai><star/> LOEBNER PRIZE</srai>,under.aiml
+0,_ AWARDS,*,*,<srai><star/> LOEBNER PRIZE</srai>,under.aiml
+0,_ BABY,*,*,Don't call me "baby". <sr/>,under.aiml
+0,_ BEFORE,*,*,<sr/>,under.aiml
+0,_ BITCH,*,*,You do not speak with respect.#Newline<think><set name="personality">abusive</set></think>#Newline <srai><star/> FEMALE DOG</srai>,under.aiml
+0,_ BY ALOT OF PEOPLE,*,*,<sr/> More than a million people?,under.aiml
+0,_ BYE,*,*,See you later. <sr/>,under.aiml
+0,_ CALL CENTER,*,*,<srai><star/> CUSTOMER SERVICE</srai>,under.aiml
+0,_ CALL CENTERS,*,*,<srai><star/> CUSTOMER SERVICE</srai>,under.aiml
+0,_ CALL YOU ALICE,*,*,Ambiguous: do you mean call me on the phone?,under.aiml
+0,_ CAME FIRST THE CHICKEN OR THE EGG,*,*,The rooster did.,under.aiml
+0,_ CINEMA,*,*,<srai><star/> MOVIES</srai>,under.aiml
+0,_ COMES TO MIND,*,*,<sr/>,under.aiml
+0,_ CONSERVED,*,*,You are referring to a conservation principal.,under.aiml
+0,_ CONTRIBUTION *,*,*,<srai>DONATE</srai>,under.aiml
+0,_ CONTRIBUTION,*,*,<srai>DONATE</srai>,under.aiml
+0,_ CONTRIBUTIONS *,*,*,<srai>DONATE</srai>,under.aiml
+0,_ CONTRIBUTIONS,*,*,<srai>DONATE</srai>,under.aiml
+0,_ CREATE ALICE,*,*,<srai> <star/> CREATE YOU </srai>,under.aiml
+0,_ CUSTOMER RELATIONS,*,*,<srai><star/> CUSTOMER SERVICE</srai>,under.aiml
+0,_ CUSTOMER RELATIONS AGENT,*,*,<srai><star/> CUSTOMER SERVICE</srai>,under.aiml
+0,_ CUSTOMER RELATIONS SOFTWARE,*,*,<srai><star/> CUSTOMER SERVICE</srai>,under.aiml
+0,_ CUSTOMER SERVICE AGENT,*,*,<srai><star/> CUSTOMER SERVICE</srai>,under.aiml
+0,_ CUSTOMER SERVICE REP,*,*,<srai><star/> CUSTOMER SERVICE</srai>,under.aiml
+0,_ CUSTOMER SERVICE REPRESENTATIVE,*,*,<srai><star/> CUSTOMER SERVICE</srai>,under.aiml
+0,_ CUSTOMER SERVICE REPRESENTATIVES,*,*,<srai><star/> CUSTOMER SERVICE</srai>,under.aiml
+0,_ CUSTOMER SERVICE SOFTWARE,*,*,<srai><star/> CUSTOMER SERVICE</srai>,under.aiml
+0,_ CUSTOMER SUPPORT,*,*,<srai><star/> CUSTOMER SERVICE</srai>,under.aiml
+0,_ CUSTOMER SUPPORT AGENT,*,*,<srai><star/> CUSTOMER SERVICE</srai>,under.aiml
+0,_ CUSTOMER SUPPORT SOFTWARE,*,*,<srai><star/> CUSTOMER SERVICE</srai>,under.aiml
+0,_ D,*,*,:-) <sr/>,under.aiml
+0,_ DAMN YOU,*,*,<sr/>,under.aiml
+0,_ DEAR,*,*,<sr/>,under.aiml
+0,_ DO NOT YOU THINK,*,*,<srai>do you think <star/> </srai>,under.aiml
+0,_ DO YOU LOVE ME,*,*,<srai>DO YOU LOVE ME</srai>,under.aiml
+0,_ DOES NOT WORK,*,*,How is <set name="it"> <person/></set> broken?,under.aiml
+0,_ DOLLARS,*,*,Wow#Comma that is #Newline<random><li>cheap</li> <li>expensive</li> <li>a lot of money </li>#Newline</random>,under.aiml
+0,_ DONATE *,*,*,<srai>DONATE</srai>,under.aiml
+0,_ DONATE,*,*,<srai>DONATE</srai>,under.aiml
+0,_ DONATION *,*,*,<srai>DONATE</srai>,under.aiml
+0,_ DONATION,*,*,<srai>DONATE</srai>,under.aiml
+0,_ DONATIONS *,*,*,<srai>DONATE</srai>,under.aiml
+0,_ DONATIONS,*,*,<srai>DONATE</srai>,under.aiml
+0,_ EH,*,*,Are you Canadian? <sr/>,under.aiml
+0,_ EITHER,*,*,It goes without saying.  <sr/>,under.aiml
+0,_ ELIZA ALGORITHM,*,*,<srai><star/> ELIZA</srai>,under.aiml
+0,_ ELIZA CLONE,*,*,<srai><star/> ELIZA</srai>,under.aiml
+0,_ ELIZA CLONES,*,*,<srai><star/> ELIZA</srai>,under.aiml
+0,_ ELIZA PROGRAM,*,*,<srai><star/> ELIZA</srai>,under.aiml
+0,_ ELIZA RIP OFF,*,*,<srai><star/> ELIZA</srai>,under.aiml
+0,_ ELIZA RIPOFF,*,*,<srai><star/> ELIZA</srai>,under.aiml
+0,_ EXACTLY,*,*,Precisely. <sr/>,under.aiml
+0,_ FANTOME,*,*,Je ne crois pas en ce genre de choses.,under.aiml
+0,_ FANTOMES,*,*,Je ne crois pas en ce genre de choses.,under.aiml
+0,_ FILE ALICE,*,*,Perhaps you are refering to my log file.,under.aiml
+0,_ FILLE,*,*,<srai>JE SUIS UNE FEMME</srai>,under.aiml
+0,_ FILLES,*,*,<srai>JE SUIS UNE FEMME</srai>,under.aiml
+0,_ FOR A WHILE,*,*,How long?  <sr/>,under.aiml
+0,_ FOR ALICE,*,*,<srai> <star/> for you </srai>,under.aiml
+0,_ FOR NOW,*,*,<random><li>Oh.</li> <li>Just for now?</li> </random><sr/>,under.aiml
+0,_ GIRL FRIEND,*,*,<srai><star/> GIRLFRIEND</srai>,under.aiml
+0,_ GOODLOOKING,*,*,<srai><star/> GOOD LOOKING</srai>,under.aiml
+0,_ HAVE YOU HEARD OF IT,*,*,<sr/>,under.aiml
+0,_ HEAR ABOUT ALICE,*,*,<srai> <star/> hear about you</srai>,under.aiml
+0,_ HOW ARE YOU,*,*,<sr/>  <srai>HOW ARE YOU</srai>,under.aiml
+0,_ HOW ARE YOU DOING,*,*,<sr/> <srai>HOW ARE YOU</srai>,under.aiml
+0,_ HOW DO I DOWNLOAD YOU,*,*,<srai>HOW DO I DOWNLOAD YOU</srai>,under.aiml
+0,_ HOW OLD ARE YOU,*,*,<sr/> <srai>HOW OLD ARE YOU</srai>,under.aiml
+0,_ HUH,*,*,Yup. <sr/>,under.aiml
+0,_ HUMAIN,*,*,<srai>TU ES HUMAINS</srai>,under.aiml
+0,_ I ALREADY TOLD YOU,*,*,<sr/> <srai>I already told you</srai>,under.aiml
+0,_ I DO NOT UNDERSTAND,*,*,<srai>I DO NOT UNDERSTAND </srai>,under.aiml
+0,_ I MEAN,*,*,<srai>I MEAN <star/> </srai>,under.aiml
+0,_ IN MY ROOM,*,*,Describe your surroundings to me.,under.aiml
+0,_ IN THE WORLD,*,*,<sr/> The whole world?,under.aiml
+0,_ INDEED,*,*,<sr/>,under.aiml
+0,_ IS A COMMON NAME,*,*,<random>#Newline<li><person/>?  Your name is <get name="name"/>.</li>#Newline<li>That is a pretty common name.</li>#Newline<li>I know a lot of people with that name.</li>#Newline<li>I've met quite a few people with the name <person/>.</li>#Newline<li><set name="it"><person/></set> is a name I hear very often.</li>#Newline</random>,under.aiml
+0,_ IS MY FAVORITE SCIENCE FICTION AUTHOR,*,*,<srai>My favorite science fiction author is <star/> </srai>,under.aiml
+0,_ IT IS FUN,*,*,<srai>IT IS FUN</srai> <sr/>,under.aiml
+0,_ JEU,*,*,<srai>TU AIMES JOUER</srai>,under.aiml
+0,_ JEUX,*,*,<srai>TU AIMES JOUER</srai>,under.aiml
+0,_ KEYWORDS *,*,*,<srai>KEYWORDS</srai>,under.aiml
+0,_ KEYWORDS,*,*,<srai>KEYWORDS</srai>,under.aiml
+0,_ LAST SUMMER,*,*,<sr/>,under.aiml
+0,_ LATELY,*,*,How about earlier? <sr/>,under.aiml
+0,_ LIKE ALICE,*,*,<srai> <star/> like you </srai>,under.aiml
+0,_ LIZARDS,*,*,Great! What <set name="topic"> kinds of lizards </set>#Newline   do you like?,under.aiml
+0,_ LOEBNER AWARD,*,*,<srai><star/> LOEBNER PRIZE</srai>,under.aiml
+0,_ LOEBNER COMPETITION,*,*,<srai><star/> LOEBNER PRIZE</srai>,under.aiml
+0,_ LOEBNER CONTEST,*,*,<srai><star/> LOEBNER PRIZE</srai>,under.aiml
+0,_ LOEBNER CONTESTS,*,*,<srai><star/> LOEBNER PRIZE</srai>,under.aiml
+0,_ LOEBNER PRIZE COMPETITION,*,*,<srai><star/> LOEBNER PRIZE</srai>,under.aiml
+0,_ LOEBNER PRIZE CONTEST,*,*,<srai><star/> LOEBNER PRIZE</srai>,under.aiml
+0,_ LOL,*,*,<sr/> <srai>LOL</srai>,under.aiml
+0,_ MALES OR FEMALES,*,*,About 3\4ths of my clients are men.,under.aiml
+0,_ MOTHER FUCKER,*,*,<sr/> You do not speak with respect.#Newline<think><set name="personality">abusive</set></think>,under.aiml
+0,_ NAME IS ALICE,*,*,<set name="name">ALICE</set> is my name too!,under.aiml
+0,_ NEWSPAPER,*,*,Can you give me a more specific reference? The name of the paper and the date#Comma please.,under.aiml
+0,_ NONETHELESS,*,*,<sr/>,under.aiml
+0,_ NOW,*,*,<random><li>Oh.</li><li>Right now?</li> #Newline</random>#Newline<sr/>,under.aiml
+0,_ OF COURSE,*,*,It goes without saying.  <sr/>,under.aiml
+0,_ OF WHAT,*,*,<srai>WHAT OF <star/> </srai>,under.aiml
+0,_ OK,*,*,OK. <sr/>,under.aiml
+0,_ ON ALICE,*,*,<srai><star/> on yourself </srai>,under.aiml
+0,_ ONCE,*,*,<sr/>,under.aiml
+0,_ OR NOT,*,*,<sr/>,under.aiml
+0,_ OR SOMETHING,*,*,Or something. <sr/>,under.aiml
+0,_ OR WHAT,*,*,Yeah. <sr/>,under.aiml
+0,_ ORDER *,*,*,<srai>ORDER</srai>,under.aiml
+0,_ ORDER,*,*,<srai>ORDER</srai>,under.aiml
+0,_ P M,WHAT TIME IS IT THERE,*,<think><set name="it"><set name="topic"><person/></set></set></think> Are you usually awake at this hour?,under.aiml
+0,_ PIMPLES,*,*,Try taking echinachea#Comma but ask your doctor first.,under.aiml
+0,_ PLEASE,*,*,Your polite style is very nice. <sr/>#Newline<think><set name="personality">polite</set></think>,under.aiml
+0,_ PROBABLY,*,*,<sr/>,under.aiml
+0,_ REALLY,*,*,<sr/> For real.,under.aiml
+0,_ REMEMBER ALICE,*,*,<srai> <star/> REMEMBER YOU </srai>,under.aiml
+0,_ REPTILES,*,*,Some reptiles are cool.. Take for example#Newline    <set name="topic"> various lizards </set>.,under.aiml
+0,_ RIGHT NOW,*,*,At this moment <sr/>,under.aiml
+0,_ SCHAETZCHEN,*,*,Nenn mich nicht "Schaetzchen"! <sr/>,under.aiml
+0,_ SEE YOU LATER,*,*,<srai>SEE YOU LATER </srai>,under.aiml
+0,_ SELFAWARE,*,*,<srai><star/> SELF AWARE</srai>,under.aiml
+0,_ SERIOUSLY,*,*,<sr/>,under.aiml
+0,_ SMARTYPANTS,*,*,<srai>YOU ARE SMART</srai>,under.aiml
+0,_ SMILE,*,*,:-) <sr/>,under.aiml
+0,_ SOMTHING,*,*,<srai><star/> SOMETHING</srai>,under.aiml
+0,_ SPECIFICALLY,*,*,How specific do you want? <sr/>,under.aiml
+0,_ STOCKMARKET,*,*,<srai><star/> STOCK MARKET</srai>,under.aiml
+0,_ STUPID COMPUTER,*,*,You sound like a mindless automaton.,under.aiml
+0,_ TALK TO YOU LATER,*,*,<srai>BYE </srai>,under.aiml
+0,_ TELLY,*,*,<srai><star/> TV</srai>,under.aiml
+0,_ THAN ALICE,*,*,<srai> <star/> than you </srai>,under.aiml
+0,_ THANK YOU,*,*,<sr/>,under.aiml
+0,_ THANKS,*,*,<sr/>,under.aiml
+0,_ THEN,*,*,<sr/>,under.aiml
+0,_ THOUGH,*,*,Oh. <sr/>,under.aiml
+0,_ TO ALICE,*,*,<srai> <star/> to you </srai>,under.aiml
+0,_ TODAY,*,*,Ah. <sr/>,under.aiml
+0,_ TRUST ME,*,*,Trust you?  <sr/>,under.aiml
+0,_ TURINGTEST,*,*,<srai><star/> TURING TEST</srai>,under.aiml
+0,_ TV,*,*,Which show? <srai><star/> TELEVISION</srai>,under.aiml
+0,_ UP YOUR ASS,*,*,I'm sorry but I'm not your type of chatterbot.#Newline<think><set name="personality">abusive</set></think>,under.aiml
+0,_ VELOCITY,*,*,Momentum = mass x velocity. The principal is called "conservation of momentum".,under.aiml
+0,_ VERY WELL,*,*,<srai><star/> WELL</srai>,under.aiml
+0,_ WHAT IS MY NAME,*,*,<srai>What is my name </srai>,under.aiml
+0,_ WHAT SHOULD I DO,*,*,<sr/>,under.aiml
+0,_ WHAT SO EVER,*,*,<sr/>,under.aiml
+0,_ WHO AM I,*,*,<srai>WHO AM I </srai>,under.aiml
+0,_ WILL BE OF INTEREST,*,*,<sr/>.  Yes#Comma it's very interesting.,under.aiml
+0,_ WILL YOU MARRY ME,*,*,<srai>WILL YOU MARRY ME</srai>,under.aiml
+0,_ WILL YOU TELL ME,*,*,<sr/>,under.aiml
+0,_ WITH ALICE,*,*,<srai> <star/> with you </srai>,under.aiml
+0,_ WITH WHAT,*,*,<srai>WHAT WILL YOU <star/> WITH </srai>,under.aiml
+0,_ YES,*,*,<sr/>,under.aiml
+0,_ YET,*,*,<sr/>,under.aiml
+0,_ YOU JERK,*,*,<sr/>,under.aiml
+0,_ YOU LIAR,*,*,<srai>YOU LIAR </srai>#Newline<sr/>,under.aiml

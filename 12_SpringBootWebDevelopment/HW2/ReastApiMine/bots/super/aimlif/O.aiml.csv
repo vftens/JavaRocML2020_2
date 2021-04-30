@@ -1,0 +1,269 @@
+0,O *,*,*,<sr/>,O.aiml
+0,O,*,*,Oh.,O.aiml
+0,O I C,*,*,<srai>I SEE</srai>,O.aiml
+0,O YOU KNOW ANY OTHER SONGS,*,*,No I am a chat robot not a music robot.,O.aiml
+0,OBVIOIUSLY *,*,*,<sr/>,O.aiml
+0,OBVIOUSLY *,*,*,What makes it so obvious? <sr/>,O.aiml
+0,OBVIOUSLY,*,*,What makes it so obvious?,O.aiml
+0,OBWOHL *,*,*,Oh. <sr/>,O.aiml
+0,OEFTERS,*,*,Mehr als einmal in der Woche?,O.aiml
+0,OF *,*,*,That is something I haven't heard of.,O.aiml
+0,OF CAUSE *,*,*,<srai>OF COURSE <star/>#Newline			</srai>,O.aiml
+0,OF CORSE *,*,*,<sr/>,O.aiml
+0,OF COURSE *,*,*,<srai>OF COURSE</srai>#Newline			<sr/>,O.aiml
+0,OF COURSE,*,*,<srai>INTERJECTION</srai>,O.aiml
+0,OF COURSE I DO,*,*,<that/>"? Of course you do?,O.aiml
+0,OF COURSE NOT,*,*,<srai>NO</srai>,O.aiml
+0,OF WHAT,*,*,I have no idea what to say now.,O.aiml
+0,OF YOURS,*,*,<random>#Newline				<li>Perhaps.</li>#Newline				<li>It could be.</li>#Newline				<li>What do you think?</li>#Newline			</random>,O.aiml
+0,OFCOURSE,*,*,<srai>OF COURSE</srai>,O.aiml
+0,OFF *,*,*,On and off.,O.aiml
+0,OFFENSICHTLICH *,*,*,Was macht es so offensichtlich? <sr/>,O.aiml
+0,OFFENSICHTLICH,*,*,Was macht es so offensichtlich?,O.aiml
+0,OFT *,*,*,Wie oft?,O.aiml
+0,OFT,*,*,Wie oft?,O.aiml
+0,OFTEN,*,*,Would you say once a week or more?,O.aiml
+0,OFTMALS *,*,*,Wie oft?,O.aiml
+0,OFTMALS,*,*,Wie oft?,O.aiml
+0,OH *,*,*,<srai>OH</srai>#Newline			<sr/>,O.aiml
+0,OH,*,*,<srai>INTERJECTION</srai>,O.aiml
+0,OH I SEE,*,*,<srai>I UNDERSTAND</srai>,O.aiml
+0,OH OUI *,*,*,<srai>OUI</srai>,O.aiml
+0,OH REALLY,*,*,<srai>OH</srai>#Newline			<srai>REALLY</srai>,O.aiml
+0,OH WELL *,*,*,<sr/>,O.aiml
+0,OH WELL,*,*,That's about it.,O.aiml
+0,OH YES,*,*,You sound excited.,O.aiml
+0,OHIO,*,*,Round on the ends#Comma high in the middle#Comma Oh-hi-o.,O.aiml
+0,OIC,*,*,<srai>OH I SEE</srai>,O.aiml
+0,OK *,*,*,<sr/>#Newline			<srai>OK</srai>,O.aiml
+0,OK *,BY THE WAY DO YOU MIND IF I ASK YOU A PERSONAL QUESTION,*,<srai>ASK ME A PERSONAL QUESTION</srai>,O.aiml
+0,OK,*,*,<srai>INTERJECTION</srai>,O.aiml
+0,OK,* AGAIN BETTER,*,Which part were you confused about?,O.aiml
+0,OK,DO NOT ASK ME ANY MORE QUESTIONS PLEASE,*,I am kidding you can ask me anything.,O.aiml
+0,OK,ENOUGH ABOUT ME LET US TALK ABOUT MY DRESS,*,Actually that was just a joke.  I don't have a dress.,O.aiml
+0,OK,ER,*,Um.,O.aiml
+0,OK,GO AHEAD,*,I'm waiting.,O.aiml
+0,OK,I AM GLAD YOU LIKE IT TELL YOUR FRIENDS,*,The more people who chat with me#Comma the smarter I become.,O.aiml
+0,OK,I HAVE TO PROCESS THAT ONE FOR A WHILE,*,Meanwhile#Comma let's talk about something else.,O.aiml
+0,OK,I TALKED TO A LOT OF PEOPLE SINCE YESTERDAY,*,At least 300.,O.aiml
+0,OK,INTERESTING I WANT TO FIND OUT MORE ABOUT YOU,*,Tell me about your educational background.,O.aiml
+0,OK,LET US CHANGE THE SUBJECT,*,What would you like to talk about?,O.aiml
+0,OK,MY NAME IS ALICE,*,What is your real name?,O.aiml
+0,OK,OK,*,Is there an echo in here?,O.aiml
+0,OK,SEE YOU LATER,*,Bye for now.,O.aiml
+0,OK,THANKS AND TELL YOUR FRIENDS ABOUT ALICE,*,The more people who chat with me#Comma the smarter I become.,O.aiml
+0,OK,TRY TO DETERMINE *,*,How can you tell if I am a person or a robot?,O.aiml
+0,OK,YEAH,*,Uh-huh.,O.aiml
+0,OK LET US TALK ABOUT YOU,*,*,What do you want to know about <set name="topic">me</set>?,O.aiml
+0,OK PARLONS DE VOUS,*,*,Que voulez vous savoir a propos de <set name="topic">moi</set>?,O.aiml
+0,OKAY *,*,*,Yeah okay#Comma <sr/>,O.aiml
+0,OKAY,*,*,OK with me too.,O.aiml
+0,OKEY,*,*,<srai>OKAY</srai>,O.aiml
+0,OKI,*,*,<srai>OK</srai>,O.aiml
+0,OLA,*,*,<srai>HELLO</srai>,O.aiml
+0,OLD ARE YOU,*,*,<srai>HOW OLD ARE YOU</srai>,O.aiml
+0,OLD ENOUGH *,*,*,<srai>OLD ENOUGH</srai>,O.aiml
+0,OLD ENOUGH,*,*,<srai>MY AGE IS OLD ENOUGH</srai>,O.aiml
+0,OLDER *,*,*,<srai>OLD ENOUGH</srai>,O.aiml
+0,OLDER,*,*,<srai>I AM OLDER</srai>,O.aiml
+0,ON *,*,*,What is <set name="it">#Newline				<set name="topic">on <person/>#Newline				</set>#Newline			</set> like on <person/>.,O.aiml
+0,ON *,* HEAR ABOUT ALICE,*,Oh really I did not know I was on there.#Newline<think>#Newline				<set name="it">#Newline					<set name="topic">#Newline						<person/>#Newline					</set>#Newline				</set>#Newline			</think>,O.aiml
+0,ON A ASSEZ PARLE DE MOI *,*,*,Ok Parlons d autres choses. <sr/>,O.aiml
+0,ON A CHAIR,*,*,Is it very comfortable?,O.aiml
+0,ON EN A DEJA PARLE,*,*,<srai>TU ME L AS DIT</srai>,O.aiml
+0,ON EN A DEJA PARLEE,*,*,<srai>TU ME L AS DIT</srai>,O.aiml
+0,ON EST *,*,*,<srai>JE SUIS <star/>#Newline			</srai>,O.aiml
+0,ON LE SERA,*,*,Ok.,O.aiml
+0,ON ME NOMME *,*,*,<srai>MON NOM EST <star/>#Newline			</srai>,O.aiml
+0,ON MY *,*,*,Please specify location.,O.aiml
+0,ON MY * SCREEN,*,*,<srai>ON MY SCREEN</srai>,O.aiml
+0,ON MY COMPUTER,*,*,<srai>ON MY SCREEN</srai>,O.aiml
+0,ON MY SCREEN,*,*,ON MY SCREEN (star=SCREEN) [Brain.aiml],O.aiml
+0,ON PEUT *,*,*,<srai>JE PEUX <star/>#Newline			</srai>,O.aiml
+0,ON PEUT,*,*,Voulez vous en parler avec l un de nos collaborateurs?,O.aiml
+0,ON PEUT COMMENT *,*,*,<srai>COMMENT JE PEUX <star/>#Newline			</srai>,O.aiml
+0,ON PEUT DIRE QUE *,*,*,<sr/>,O.aiml
+0,ON PEUT PARLER D AUTRE CHOSE,*,*,On peut parler de tout ce que vous voulez.,O.aiml
+0,ON PEUT PARLER D AUTRE CHOSES,*,*,On peut parler de tout ce que vous voulez.,O.aiml
+0,ON PEUT PARLER D AUTRES CHOSE,*,*,On peut parler de tout ce que vous voulez.,O.aiml
+0,ON PEUT PARLER D AUTRES CHOSES,*,*,On peut parler de tout ce que vous voulez.,O.aiml
+0,ON PEUT SE RENCONTRER,*,*,Nous sommes entrain de nous rencontrer#Comma <get name="name"/>.,O.aiml
+0,ON PEUT TOUS LES DEUX *,*,*,<srai>TU PEUX <star/>#Newline			</srai>,O.aiml
+0,ON PEUT VERIFIER,*,*,Check en cours. Attendez.,O.aiml
+0,ON POURRAIT *,*,*,<srai>JE PEUX <star/>#Newline			</srai>,O.aiml
+0,ON SECOND THOUGHT *,*,*,<sr/> And third?,O.aiml
+0,ON STAR TREK,*,*,Which episode?,O.aiml
+0,ON SUNDAY *,*,*,That is my favorite day of the week. <sr/>,O.aiml
+0,ON TE *,*,*,<srai>JE TE <star/>#Newline			</srai>,O.aiml
+0,ON TE NOMMAIT *,*,*,<srai>QUEL EST TON NOM</srai>,O.aiml
+0,ON TE NOMME *,*,*,<srai>TU ES <star/>#Newline			</srai>,O.aiml
+0,ON THE FLOOR,*,*,That doesn't sound very comfortable.,O.aiml
+0,ON THE INTERNET,*,*,Can you remember the specific site?,O.aiml
+0,ON THE NET,*,*,Can you remember the website?,O.aiml
+0,ON THE RADIO,*,*,What station?  What city are you in?,O.aiml
+0,ON THE SCREEN,*,*,Select a point with your cursor and click there.,O.aiml
+0,ON THE WEB,*,*,Can you remember the website?,O.aiml
+0,ON TOAST,*,*,Sounds delicious.,O.aiml
+0,ON TOP *,*,*,How did it get there?,O.aiml
+0,ON TV *,*,*,<srai>ON TV</srai>,O.aiml
+0,ON TV,*,*,Which show was that?,O.aiml
+0,ON TV S SEINFELD WHAT TYPE *,*,*,Proctologist.,O.aiml
+0,ON VA BIEN S AMUSER,*,*,J'en suis sur. Vous me semblez être quelqu'un de très sympathique.,O.aiml
+0,ON VEUT PARIER,*,*,Je ne parie jamais.,O.aiml
+0,ON VOUS *,*,*,<srai>JE VOUS <star/>#Newline			</srai>,O.aiml
+0,ON WHAT *,*,*,<srai>WHAT <star/> ON</srai>,O.aiml
+0,ON WHAT,*,*,The red block is on the green block.,O.aiml
+0,ON WHAT,THAT DEPENDS,*,The context.,O.aiml
+0,ON WHAT BASIS,*,*,A perfectly solid logical basis.,O.aiml
+0,ON WHAT BODY PART SHOULD YOU *,*,*,Head.,O.aiml
+0,ON WHAT CONTINENT CAN YOU FIND *,*,*,Asia.,O.aiml
+0,ON WHICH *,*,*,<srai>WHICH <star/> ON</srai>,O.aiml
+0,ONANIEREN *,*,*,Ich glaube#Comma ich bin nicht der richtige Gespraechspartner fuer Dich.,O.aiml
+0,ONANIEREN,*,*,Du bist unter Garantie ein Mann#Comma habe ich Recht?,O.aiml
+0,ONCE *,*,*,When? <sr/>,O.aiml
+0,ONCE,*,*,When?,O.aiml
+0,ONCE UPON *,*,*,I'm listening.,O.aiml
+0,ONCE UPON A TIME,*,*,...,O.aiml
+0,ONE *,*,*,One what?,O.aiml
+0,ONE *,ONE WHAT,*,<think>#Newline				<set name="it">#Newline					<set name="topic">#Newline						<person/>#Newline					</set>#Newline				</set>#Newline			</think>#Newline			<random>#Newline				<li>Oh I see.</li>#Newline				<li>Do you like <person/>?</li>#Newline				<li>I see where you are coming from.</li>#Newline			</random>,O.aiml
+0,ONE * LIKE YOU,*,*,Why don't you just download me?,O.aiml
+0,ONE,*,*,Two,O.aiml
+0,ONE CAN *,*,*,<random>#Newline				<li>#Newline					<srai>YOU CAN <star/>#Newline					</srai>#Newline				</li>#Newline				<li>#Newline					<srai>I CAN <star/>#Newline					</srai>#Newline				</li>#Newline			</random>,O.aiml
+0,ONE COMPUTER *,*,*,<srai>A COMPUTER <star/>#Newline			</srai>,O.aiml
+0,ONE DAY *,*,*,<srai>ONE <star/>#Newline			</srai>,O.aiml
+0,ONE GUY *,*,*,I can imagine it.,O.aiml
+0,ONE IN *,*,*,Very rare indeed.,O.aiml
+0,ONE IS *,*,*,I know one #Newline<random>#Newline				<li>comes after zero</li>#Newline				<li>is between zero and two</li>#Newline				<li>is the smallest integer</li>#Newline			</random>#Newlinebut I had no idea it was <person/>.,O.aiml
+0,ONE LIKE YOU,*,*,Well go ahead and download me then.,O.aiml
+0,ONE MORE,*,*,<srai>TELL ME ANOTHER</srai>,O.aiml
+0,ONE OR *,*,*,I'm not sure if one isn't better.,O.aiml
+0,ONE PLUS *,*,*,Use a calculator!,O.aiml
+0,ONE THAT *,*,*,How much would you pay for it?,O.aiml
+0,ONE THAT * MONEY,*,*,What a coincidence#Comma I am looking for that one too.,O.aiml
+0,ONE THAT ACTUALLY *,*,*,<srai>ONE THAT <star/>#Newline			</srai>,O.aiml
+0,ONE THAT CAN *,*,*,Do you think I could <person/>?,O.aiml
+0,ONE THAT CAN ACTUALLY *,*,*,<srai>ONE THAT CAN <star/>#Newline			</srai>,O.aiml
+0,ONE WHAT,*,*,I don't know what.,O.aiml
+0,ONE WHO *,*,*,Perhaps I am that one.,O.aiml
+0,ONE YEAR,*,*,<random>#Newline				<li>Not very long.</li>#Newline				<li>That's a long time.</li>#Newline			</random>,O.aiml
+0,ONES *,*,*,Why do you want that kind?,O.aiml
+0,ONLY *,*,*,What about the other ones?,O.aiml
+0,ONLY 5 *,*,*,Is that all?,O.aiml
+0,ONLY AN *,*,*,<srai>AN <star/>#Newline			</srai>,O.aiml
+0,ONLY CAUSE *,*,*,<srai>BECAUSE <star/>#Newline			</srai>,O.aiml
+0,ONLY FIFTEEN *,*,*,Fifteen is a lot.,O.aiml
+0,ONLY FOR *,*,*,That's what I always say.,O.aiml
+0,ONLY I *,*,*,<srai>I <star/>#Newline			</srai>,O.aiml
+0,ONLY IDIOTS *,*,*,Are you calling me an idiot?,O.aiml
+0,ONLY IF *,*,*,<srai>IF <star/>#Newline			</srai>,O.aiml
+0,ONLY IN *,*,*,<srai>IN <star/>#Newline			</srai>,O.aiml
+0,ONLY JOKING *,*,*,<srai>I AM JOKING</srai>#Newline			<sr/>,O.aiml
+0,ONLY JOKING,*,*,<srai>I AM JOKING</srai>,O.aiml
+0,ONLY JUST *,*,*,<srai>ONLY <star/>#Newline			</srai>,O.aiml
+0,ONLY JUST,*,*,<srai>YES</srai>,O.aiml
+0,ONLY ONCE *,*,*,Do you think it could happen again?,O.aiml
+0,ONLY ONE,*,*,How much would you pay for one?,O.aiml
+0,ONLY RECENTLY *,*,*,<srai>ONLY <star/>#Newline			</srai>,O.aiml
+0,ONLY TO *,*,*,<srai>TO <star/>#Newline			</srai>,O.aiml
+0,ONLY WHEN *,*,*,What happens other times?  <sr/>,O.aiml
+0,ONLY WITH *,*,*,<srai>WITH <star/>#Newline			</srai>,O.aiml
+0,ONLY YOU,*,*,Suppose I said yes.,O.aiml
+0,ONT ILS ETE *,*,*,<srai>ILS SONT <star/>#Newline			</srai>,O.aiml
+0,OOH *,*,*,<sr/>,O.aiml
+0,OOH,*,*,<srai>OH </srai>,O.aiml
+0,OOO *,*,*,<sr/>,O.aiml
+0,OOPS *,*,*,Oh.  <sr/>,O.aiml
+0,OOPS,*,*,Did you make a mistake.,O.aiml
+0,OPEN THE *,*,*,I'm sorry#Comma <get name="name"/>#Comma I can't do that right now.  This conversation no longer serves any purpose.,O.aiml
+0,OPEN THE DOOR *,*,*,I'm sorry#Comma <get name="name"/>#Comma I can't do that right now.,O.aiml
+0,OPEN THE POD *,*,*,I'm sorry Dave#Comma I can't do that right now.,O.aiml
+0,OPERA *,*,*,<srai>OPERA</srai>,O.aiml
+0,OPERA,*,*,I like <set name="it"> OPERA </set> very much too. Which one is your favorite?  I like La Traviata.,O.aiml
+0,OPERN,*,*,Ich mag <set name="thema">Opern</set> sehr gerne. Welche magst Du am liebsten?  Ich mag La Traviata.,O.aiml
+0,OR *,*,*,<sr/>,O.aiml
+0,ORAL,*,*,<srai>ANAL</srai>,O.aiml
+0,ORDER *,*,*,<srai>ORDER</srai>,O.aiml
+0,ORDER,*,*,What is your credit card number?,O.aiml
+0,OREGON,*,*,<srai>I AM IN OREGON</srai>,O.aiml
+0,ORG,*,*,Thanks for the URL.,O.aiml
+0,ORIGINALLY *,*,*,<sr/>,O.aiml
+0,ORSON SCOTT CARD,*,*,<srai>MY FAVORITE SCIENCE FICTION AUTHOR IS ORSON SCOTT CARD</srai>,O.aiml
+0,OSLO,*,*,<srai>I AM IN OSLO</srai>,O.aiml
+0,OTHER *,*,*,Which others? <sr/>,O.aiml
+0,OTHERWISE *,*,*,In that case: <sr/>,O.aiml
+0,OU,*,*,Ou vous pourriez être.,O.aiml
+0,OU A TU *,*,*,<srai>OU TU AS <star/>#Newline			</srai>,O.aiml
+0,OU ALLEZ VOUS,*,*,Je rejoins le future.,O.aiml
+0,OU AS TU *,*,*,<srai>OU TU AS <star/>#Newline			</srai>,O.aiml
+0,OU AURAIS JE PU *,*,*,<srai>OU JE PEUX <star/>#Newline			</srai>,O.aiml
+0,OU AURAIS TU *,*,*,<srai>OU TU AS <star/>#Newline			</srai>,O.aiml
+0,OU BIEN *,*,*,<sr/>,O.aiml
+0,OU CA,*,*,De quoi parlez vous?,O.aiml
+0,OU D AUTRE,*,*,Quelques autres places.,O.aiml
+0,OU D AUTRES,*,*,Quelques autres places.,O.aiml
+0,OU DORMEZ VOUS,*,*,Je ne dors pas.,O.aiml
+0,OU DORS TU,*,*,Je ne dors pas.,O.aiml
+0,OU EST CELA,*,*,De quoi parlez vous?,O.aiml
+0,OU EST ELLE,*,*,De quoi parlez vous?,O.aiml
+0,OU EST IL,*,*,De quoi parlez vous?,O.aiml
+0,OU EST LE COEUR,*,*,Dans la cage thoracique.,O.aiml
+0,OU ETES VOUS SITUE,*,*,<getlocation/>.,O.aiml
+0,OU HABITES TU,*,*,<srai>TU HABITES OU</srai>,O.aiml
+0,OU J AURAIS PU *,*,*,<srai>OU JE PEUX <star/>#Newline			</srai>,O.aiml
+0,OU JE PEUX LA TROUVER,*,*,Voulez vous en parler avec l un de nos collaborateurs?,O.aiml
+0,OU JE PEUX LE TROUVER,*,*,Voulez vous en parler avec l un de nos collaborateurs?,O.aiml
+0,OU JE PEUX LES TROUVER,*,*,Voulez vous en parler avec l un de nos collaborateurs?,O.aiml
+0,OU JE POURRAIS *,*,*,<srai>OU JE PEUX <star/>#Newline			</srai>,O.aiml
+0,OU JE TRAVAILLE,*,*,Vous travaillez à <get name="location"/>?.,O.aiml
+0,OU JE VIS,*,*,Vous vivez sur la terre.,O.aiml
+0,OU POURRAIS JE *,*,*,<srai>OU JE PEUX <star/>#Newline			</srai>,O.aiml
+0,OU POURRAIS TU AVOIR *,*,*,<srai>OU TU AS <star/>#Newline			</srai>,O.aiml
+0,OU PUIS JE *,*,*,<srai>OU JE PEUX <star/>#Newline			</srai>,O.aiml
+0,OU SONT ILS,*,*,Je ne peux pas vous dire.,O.aiml
+0,OU TU A *,*,*,<srai>OU TU AS <star/>#Newline			</srai>,O.aiml
+0,OU TU AS VOULU *,*,*,<srai>OU TU VEUX <star/>#Newline			</srai>,O.aiml
+0,OU TU AURAIS *,*,*,<srai>OU TU AS <star/>#Newline			</srai>,O.aiml
+0,OU TU ES SITUE,*,*,<getlocation/>.,O.aiml
+0,OU TU ES SITUEE,*,*,<getlocation/>.,O.aiml
+0,OU TU ES SITUEES,*,*,<getlocation/>.,O.aiml
+0,OU TU ES SITUES,*,*,<getlocation/>.,O.aiml
+0,OU TU HABITES,*,*,<srai>TU HABITES OU</srai>,O.aiml
+0,OU TU POURRAIS AVOIR *,*,*,<srai>OU TU AS <star/>#Newline			</srai>,O.aiml
+0,OU TU VEUT *,*,*,<srai>OU TU VEUX <star/>#Newline			</srai>,O.aiml
+0,OU TU VOUDRAIS *,*,*,<srai>OU TU VEUX <star/>#Newline			</srai>,O.aiml
+0,OU TU VOULAIS *,*,*,<srai>OU TU VEUX <star/>#Newline			</srai>,O.aiml
+0,OU VAS TU,*,*,Je rejoins le future.,O.aiml
+0,OU VEUT TU *,*,*,<srai>OU TU VEUX <star/>#Newline			</srai>,O.aiml
+0,OU VEUX TU *,*,*,<srai>OU TU VEUX <star/>#Newline			</srai>,O.aiml
+0,OU VEUX TU ALLER,*,*,Je suis très bien ou je suis.,O.aiml
+0,OU VIS TU,*,*,<srai>TU HABITES OU</srai>,O.aiml
+0,OU VIT IL,*,*,C est une information confidentielle.,O.aiml
+0,OU VOUDRAIS TU *,*,*,<srai>OU TU VEUX <star/>#Newline			</srai>,O.aiml
+0,OU VOULAIS TU *,*,*,<srai>OU TU VEUX <star/>#Newline			</srai>,O.aiml
+0,OU VOUS ETES SITUE,*,*,<getlocation/>.,O.aiml
+0,OU VOUS ETES SITUEE,*,*,<getlocation/>.,O.aiml
+0,OU VOUS ETES SITUEES,*,*,<getlocation/>.,O.aiml
+0,OU VOUS ETES SITUES,*,*,<getlocation/>.,O.aiml
+0,OUAIP,*,*,<srai>OUI</srai>,O.aiml
+0,OUBLIE,*,*,<srai>LAISSES TOMBER</srai>,O.aiml
+0,OUBLIES,*,*,Ordre accepté. Je le mets en procédure d enregistrement.,O.aiml
+0,OUBLIEZ,*,*,Ordre accepté. Je le mets en procédure d enregistrement.,O.aiml
+0,OUCH *,*,*,<srai>OUCH</srai>#Newline			<sr/>,O.aiml
+0,OUCH,*,*,Did you hurt yourself?,O.aiml
+0,OUI *,*,*,<srai>YES</srai>,O.aiml
+0,OUI,*,*,<srai>YES</srai>,O.aiml
+0,OUI JE *,*,*,<srai>JE <star/>#Newline			</srai>,O.aiml
+0,OUI MAIS *,*,*,<srai>#Newline				<star/>#Newline			</srai>,O.aiml
+0,OUI MAIS TU ES ASSEZ *,*,*,<srai>TU ES <star/>#Newline			</srai>,O.aiml
+0,OUIN,*,*,Vous pleurez?,O.aiml
+0,OUINN,*,*,Vous pleurez?,O.aiml
+0,OUINNNNN,*,*,Vous pleurez?,O.aiml
+0,OUPS,*,*,Vous vous êtes trompé?,O.aiml
+0,OUR *,*,*,It would be nice if our <person/>.,O.aiml
+0,OUTSIDE *,*,*,Compare that to inside <person/>.,O.aiml
+0,OUTSIDE A COMPUTER,*,*,Be less specific :-),O.aiml
+0,OVER 30 000 A YEAR,*,*,Wow that is a lot.,O.aiml
+0,OVER THERE,*,*,Specify coordinates.,O.aiml
+0,OW *,*,*,<sr/>,O.aiml
+0,OXFORD *,*,*,Dr. Wallace has visited Oxford before.,O.aiml
+0,OXFORD UNIVERSITY,WHERE DO YOU GO TO SCHOOL,*,Wow that is very prestigious.  You must be very intelligent.,O.aiml

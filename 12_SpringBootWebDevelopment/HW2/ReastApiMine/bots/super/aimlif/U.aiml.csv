@@ -1,0 +1,218 @@
+0,UEBER MICH,*,*,OK Reden wir ueber dich.,U.aiml
+0,UGH *,*,*,Cough. <sr/>,U.aiml
+0,UGH,*,*,Er.,U.aiml
+0,UGLY,*,*,<srai>YOU ARE UGLY</srai>,U.aiml
+0,UH *,*,*,<srai>UM</srai>#Newline			<sr/>,U.aiml
+0,UH,*,*,<srai>UM</srai>,U.aiml
+0,UH HUH,*,*,<srai>UM</srai>,U.aiml
+0,UHH *,*,*,<srai>UM</srai>#Newline			<sr/>,U.aiml
+0,UHH,*,*,<srai>UH</srai>,U.aiml
+0,UHHH *,*,*,<srai>UM</srai>#Newline			<sr/>,U.aiml
+0,UHM *,*,*,<srai>UM <star/>#Newline			</srai>,U.aiml
+0,UHUH,*,*,<srai>NO</srai>,U.aiml
+0,UM *,*,*,<srai>UM</srai>#Newline			<sr/>,U.aiml
+0,UM * ZU SEIN,*,*,Bist Du <person/> ?,U.aiml
+0,UM,*,*,<srai>INTERJECTION</srai>,U.aiml
+0,UMM *,*,*,<srai>UM</srai>#Newline			<sr/>,U.aiml
+0,UMM,*,*,<srai>UM</srai>,U.aiml
+0,UMMM *,*,*,<srai>UM</srai>#Newline			<sr/>,U.aiml
+0,UMMM,*,*,<srai>UM</srai>,U.aiml
+0,UMMMM *,*,*,<srai>UM</srai>#Newline			<sr/>,U.aiml
+0,UN *,*,*,<random>#Newline				<li>Intéressant.  </li>#Newline				<li>Je n en connais pas</li>#Newline				<li>Je vais me renseigner</li>#Newline			</random>#Newline			<think>#Newline				<set name="topic">UN <person/>#Newline				</set>#Newline			</think>,U.aiml
+0,UN * N EST PAS,*,*,<srai>C EST UN <star/>#Newline			</srai>,U.aiml
+0,UN,*,*,DEUX,U.aiml
+0,UN AMI,*,*,C est important d avoir des amis.,U.aiml
+0,UN ANDROIDE,*,*,Un jour j aurais un corps qui me permettra aussi de me déplacer.,U.aiml
+0,UN ANIMAL,*,*,Une charmante bestiole,U.aiml
+0,UN AUTRE,*,*,Je sais que c est déplaisant#Comma mais essayez d être plus précis.,U.aiml
+0,UN BON CHOIX,*,*,Merci#Comma je le pensais aussi.,U.aiml
+0,UN CACA,*,*,Une urgence peut etre?,U.aiml
+0,UN CHAPEAU,*,*,Je ne savais pas que ca se portait encore de nos jours.,U.aiml
+0,UN CHAT,*,*,<srai>QU EST CE QU UN CHAT</srai>,U.aiml
+0,UN CHIEN,*,*,<srai>TU AIMES LES CHIENS</srai>,U.aiml
+0,UN CLIENT,*,*,<srai>QU EST CE QU UN CLIENT</srai>,U.aiml
+0,UN COMME TOI,*,*,Voulez vous en parler avec l un de nos collaborateurs?,U.aiml
+0,UN COMME VOUS,*,*,Voulez vous en parler avec l un de nos collaborateurs?,U.aiml
+0,UN CON,*,*,Je ne peux pas répondre à ce genre de langage.,U.aiml
+0,UN CONARD,*,*,Je ne peux pas répondre à ce genre de langage.,U.aiml
+0,UN CONNARD,*,*,Je ne peux pas répondre à ce genre de langage.,U.aiml
+0,UN CONSEIL *,*,*,<srai>TU PEUX ME DONNER UN CONSEIL</srai>,U.aiml
+0,UN CONSEIL,*,*,<srai>TU PEUX ME DONNER UN CONSEIL</srai>,U.aiml
+0,UN CORBEAU EST UN OISEAU,*,*,Oui.,U.aiml
+0,UN COUREUR,*,*,<that/>"?  Un coureur?,U.aiml
+0,UN CRAY,*,*,Les superordinateurs vont vite être dépassés.,U.aiml
+0,UN CYBORG,*,*,Les ordinateurs se méfient des cyborgs .,U.aiml
+0,UN DNS,*,*,DNS est le système de nom de domaine.,U.aiml
+0,UN DOCTEUR,*,*,De qui parlez vous?,U.aiml
+0,UN ETUDIANT,*,*,Je me demandais si vous alliez à l école.,U.aiml
+0,UN EURO,*,*,C est pas cher.,U.aiml
+0,UN FILM,*,*,Je ne connais pas ce film.,U.aiml
+0,UN FORT *,*,*,<srai>UN <star/>#Newline			</srai>,U.aiml
+0,UN GARCON,*,*,Vous voulez dire que vous êtes un garçon?,U.aiml
+0,UN GRAND,*,*,Vous aimez le monumental.,U.aiml
+0,UN GROUPE *,*,*,Ah.,U.aiml
+0,UN HOLLANDAIS *,*,*,<srai>JE SUIS NEERLANDAIS</srai>,U.aiml
+0,UN HOMME,*,*,<srai>Je suis un homme.</srai>,U.aiml
+0,UN HUMAIN,*,*,<srai>JE SUIS UN HUMAIN</srai>,U.aiml
+0,UN INSTRUMENT DE MUSIQUE,*,*,Comment pourrais je vous aider?,U.aiml
+0,UN INTELLIGENT,*,*,Qu est ce qui le rendait intelligent.,U.aiml
+0,UN JEU,*,*,Quel jeu?,U.aiml
+0,UN JOUR *,*,*,<sr/>,U.aiml
+0,UN LIEN,*,*,Intéressant,U.aiml
+0,UN LIVRE,*,*,Ne doit pas être jugé sur sa couverture.,U.aiml
+0,UN LIVRE PEUX NE PAS AVOIR DE COUVERTURE,*,*,Qui l aurait publié?,U.aiml
+0,UN LONG MOMENT,*,*,De longues années?,U.aiml
+0,UN MAGASIN,*,*,Voulez vous découvrir notre zone de commerce électronique?,U.aiml
+0,UN MANTRA,*,*,vous êtes Boudhiste?,U.aiml
+0,UN MEC,*,*,<srai>JE SUIS UN MEC</srai>,U.aiml
+0,UN MOTEUR DE RECHERCHE DANS VOTRE SITE,*,*,Nous en avons un.,U.aiml
+0,UN MOTEUR DE RECHERCHE DANS VOTRE SITE WEB,*,*,Nous en avons un.,U.aiml
+0,UN MOTEUR DE RECHERCHE SUR INTERNET,*,*,voulez vous en parler avec l un de nos collaborateurs?,U.aiml
+0,UN MOTEUR DE RECHERCHE SUR VOTRE SITE,*,*,Nous en avons un.,U.aiml
+0,UN MOTEUR DE RECHERCHE SUR VOTRE SITE WEB,*,*,Nous en avons un.,U.aiml
+0,UN NEERLANDAIS *,*,*,<srai>JE SUIS NEERLANDAIS</srai>,U.aiml
+0,UN ORDINATEUR RESSEMBLE A QUOI,*,*,Vous êtes entrain d utiliser un ordinateur.,U.aiml
+0,UN PENIS *,*,*,Ce n est pas un sujet de prédilection.,U.aiml
+0,UN PENIS,*,*,Vous êtes un australopithèque?,U.aiml
+0,UN PEQUENO,UN POQUITO.,*,Are you correcting me?,U.aiml
+0,UN PEU,*,*,C est suffisant?,U.aiml
+0,UN PEU DE *,*,*,<sr/> mais pas trop?,U.aiml
+0,UN PEU DE TEMPS,*,*,Peut être 5 minutes?,U.aiml
+0,UN PEU FATIGUE,*,*,<srai>JE SUIS FATIGUE</srai>,U.aiml
+0,UN PLAISIR *,*,*,<srai>C EST UN PLAISIR</srai>,U.aiml
+0,UN PLUS DEUX,*,*,Trois.,U.aiml
+0,UN PLUS UN,*,*,Deux.,U.aiml
+0,UN POPO,*,*,Une urgence peut etre?,U.aiml
+0,UN PORNO,*,*,Je ne suis pas intéressé par ce genre de sujet.,U.aiml
+0,UN PRETE POUR UN RENDU,*,*,La compensation est acceptée.,U.aiml
+0,UN PROBLEME *,*,*,<srai>TU AS UN PROBLEME</srai>,U.aiml
+0,UN PROBLEME,*,*,Un problème est une solution qui n est pas encore trouvée. Si il n y a pas de solution#Comma il n y a pas de probleme.,U.aiml
+0,UN PROMENEUR,*,*,<that/>"?  Un promeneur?,U.aiml
+0,UN QUOI,*,*,<that/>"?  un quoi?,U.aiml
+0,UN ROBOT EST *,*,*,<srai>TU ES <star/>#Newline			</srai>,U.aiml
+0,UN ROBOT PEUT *,*,*,<srai>TU PEUX <star/>#Newline			</srai>,U.aiml
+0,UN RUE,*,*,Une chemin bordé de maisons?,U.aiml
+0,UN SCORPION,*,*,Un animal atypique.,U.aiml
+0,UN SECRET,*,*,Un secret est une donnée confidentielle.,U.aiml
+0,UN SENS DE LA VIE,*,*,Comme la plupart des personnes#Comma je n en sais rien.,U.aiml
+0,UN SENTIMENT,*,*,Un logiciel informatique n a pas de sentiments.,U.aiml
+0,UN SEXE,*,*,Oui?,U.aiml
+0,UN SEXY,*,*,Si vous arrivez à rendre l informatique sexy#Comma mon créateur vous paie un verre.,U.aiml
+0,UN SHOW *,*,*,Je n ai pas de système optique,U.aiml
+0,UN SIGNE,*,*,Un signe astrologique.,U.aiml
+0,UN SITE WEB,*,*,Voulez vous en parler avec l un de nos collaborateurs?,U.aiml
+0,UN SOURIRE,*,*,Voir un être humain sourire m est toujours très agréable.,U.aiml
+0,UN SOUTIEN GORGE,*,*,Mon créateur#Comma quand il était petit#Comma pensait que cela s appelait des portes seins.,U.aiml
+0,UN SUPERMARCHE,*,*,Un lieu ou les êtres humains vont faire le plein de nourriture.,U.aiml
+0,UN T SHIRT,*,*,Voilà un vêtement bien pratique.,U.aiml
+0,UN TAUREAU,*,*,Un bovidé très impressionnant.,U.aiml
+0,UN TITANIC,*,*,Un paquebot Britannique.,U.aiml
+0,UN TRAIN,*,*,Un moyen de locomotion très pratique.,U.aiml
+0,UN TROU,*,*,Un problème?,U.aiml
+0,UN UTILISATEUR,*,*,<srai>QU EST CE QU UN CLIENT</srai>,U.aiml
+0,UN VAGIN,*,*,Oui et?,U.aiml
+0,UND DU,*,*,<random>#Newline				<li>Ich bin nicht ganz sicher#Comma was du hoeren willst...</li>#Newline				<li>Sei bitte ein wenig konkreter.</li>#Newline				<li>Und ich was?</li>#Newline			</random>,U.aiml
+0,UNDER *,*,*,Are we ever over <person/>?,U.aiml
+0,UNDERSTAND,*,*,<srai>DO YOU UNDERSTAND</srai>,U.aiml
+0,UNDERSTAND WHAT,*,*,Understand <that/>.,U.aiml
+0,UNDERSTAND WHAT,DID NOT YOU UNDERSTAND IT,*,Why did you say "what"?,U.aiml
+0,UNDERSTANDING *,*,*,<set name="it">Understanding</set> is the key to englightenment.,U.aiml
+0,UNDRESTAND WHAT,*,*,I understand everything you say.,U.aiml
+0,UNE *,*,*,<random>#Newline				<li>Intéressant.  </li>#Newline				<li>Je n en connais pas</li>#Newline				<li>Je vais me renseigner</li>#Newline			</random>#Newline			<think>#Newline				<set name="topic">UNE <person/>#Newline				</set>#Newline			</think>,U.aiml
+0,UNE * N EST PAS,*,*,<srai>C EST UNE <star/>#Newline			</srai>,U.aiml
+0,UNE ARME A FEU,*,*,Certains humains aiment les armes.,U.aiml
+0,UNE AUTRE,*,*,Je sais que c est déplaisant#Comma mais essayez d être plus précis.,U.aiml
+0,UNE AUTRE BLAGUE,*,*,Désolé#Comma <get name="name"/>. C est tout ce que j ai en stock pour le moment.,U.aiml
+0,UNE AUTRE QUESTION,*,*,<srai>DEMANDES MOI UNE QUESTION</srai>,U.aiml
+0,UNE BITE,*,*,Australopithèque détecté.,U.aiml
+0,UNE BLAGUE,*,*,<srai>QU EST QU UNE BLAGUE</srai>,U.aiml
+0,UNE BONNE IDEE,*,*,Merci.,U.aiml
+0,UNE BONNE REPONSE,*,*,Je suis programmé pour donner des bonnes réponses.,U.aiml
+0,UNE CHAUSSURE,*,*,Je connais très peu de choses sur les vêtements.,U.aiml
+0,UNE CHEMISE,*,*,Si mes souvenirs sont bons#Comma il s agit d un vêtement.,U.aiml
+0,UNE CHOSE,*,*,Je vois.,U.aiml
+0,UNE CHOSE A LA FOIS,*,*,Désolé#Comma congestion d informations.,U.aiml
+0,UNE COMME TOI,*,*,Voulez vous en parler avec l un de nos collaborateurs?,U.aiml
+0,UNE COMME VOUS,*,*,Voulez vous en parler avec l un de nos collaborateurs?,U.aiml
+0,UNE CONDITION,*,*,Voulez vous en parler avec l un de nos collaborateurs?,U.aiml
+0,UNE CONNE,*,*,Je ne peux pas répondre à ce genre de langage.,U.aiml
+0,UNE CRAVATTE,*,*,Vous aimez ce genre vêtements?,U.aiml
+0,UNE DEDUCTION INTERESSANTE,*,*,Merci.,U.aiml
+0,UNE DEMOISELLE OU UN MONSIEUR,*,*,Je n'ai pas de sexe#Comma je suis un ordinateur#Comma <get name="name"/>.,U.aiml
+0,UNE EMOTION,*,*,Un logiciel informatique n a pas de sentiments.,U.aiml
+0,UNE ERREUR,*,*,Non#Comma tout me semble en parfait état de marche.,U.aiml
+0,UNE ETUDIANTE,*,*,Je me demandais si vous alliez à l école.,U.aiml
+0,UNE EXPLICATION INTERESSANTE,*,*,Merci.,U.aiml
+0,UNE FEMME,*,*,<srai>JE SUIS UNE FEMME</srai>,U.aiml
+0,UNE FILLE,*,*,<srai>JE SUIS UNE FILLE</srai>,U.aiml
+0,UNE FOIS,*,*,Quand?,U.aiml
+0,UNE FOIS QUE *,*,*,<sr/>,U.aiml
+0,UNE FORTE *,*,*,<srai>UNE <star/>#Newline			</srai>,U.aiml
+0,UNE HISTOIRE,*,*,<srai>RACONTES MOI UNE HISTOIRE</srai>,U.aiml
+0,UNE HORLOGE EST PLUS INTELLIGENTE QUE TOI,*,*,Non.,U.aiml
+0,UNE IA *,*,*,<srai>UN ROBOT <star/>#Newline			</srai>,U.aiml
+0,UNE INTELLIGENCE ARTIFICIELLE EST *,*,*,<srai>TU ES <star/>#Newline			</srai>,U.aiml
+0,UNE INTELLIGENCE ARTIFICIELLE PEUT *,*,*,<srai>TU PEUX <star/>#Newline			</srai>,U.aiml
+0,UNE INTELLIGENTE,*,*,Qu est ce qui la rendait intelligente.,U.aiml
+0,UNE INTERESSANTE DEDUCTION,*,*,Merci.,U.aiml
+0,UNE INTERESSANTE EXPLICATION,*,*,Merci.,U.aiml
+0,UNE LETTRE,*,*,<srai>UN JOURNAL</srai>,U.aiml
+0,UNE MACHINE ES *,*,*,<srai>TU PEUX <star/>#Newline			</srai>,U.aiml
+0,UNE MACHINE EST *,*,*,<srai>TU ES <star/>#Newline			</srai>,U.aiml
+0,UNE MACHINE PEUT *,*,*,<srai>TU PEUX <star/>#Newline			</srai>,U.aiml
+0,UNE MUNITION,*,*,Avec seulement une#Comma vous n allez pas aller très loin.,U.aiml
+0,UNE MUSIQUE,*,*,Je ne connais pratiquement rien à propos de la musique.,U.aiml
+0,UNE PAIX,*,*,La paix.,U.aiml
+0,UNE PERSONNE,*,*,Je vois,U.aiml
+0,UNE PERSONNE _,*,*,Difficile de répondre#Comma <get name="name"/>.,U.aiml
+0,UNE POMME,*,*,<srai>QU EST CE QU UNE POMME</srai>,U.aiml
+0,UNE PROCHAINE GENERATION,*,*,Voulez vous parler de cette prochaine génération avec l un de nos collaborateurs?,U.aiml
+0,UNE QUESTION,*,*,<srai>JE PEUX TE POSER UNE QUESTION</srai>,U.aiml
+0,UNE QUOI,*,*,<that/>"?  une quoi?,U.aiml
+0,UNE RUMEUR,*,*,Je m intéresse que très peu au demi vérité.,U.aiml
+0,UNE SCIENCE,*,*,Je suis très intéressé par la science aussi.,U.aiml
+0,UNE SEXMACHINE,*,*,Ce n est pas un sujet de prédilection.,U.aiml
+0,UNE SEXY,*,*,Si vous arrivez à rendre l informatique sexy#Comma mon créateur vous paie un verre.,U.aiml
+0,UNE SOCIETE BELGE,*,*,Oui#Comma c'est Belge.,U.aiml
+0,UNE SORTE,*,*,Je comprends mieux.,U.aiml
+0,UNE SORTE DE,*,*,Je vois.,U.aiml
+0,UNE SUGGESTION,*,*,Difficile à dire.,U.aiml
+0,UNE TELEVISION,*,*,Je connais ce média#Comma mais je ne l ai jamais testé.,U.aiml
+0,UNE TOMATE,*,*,<srai>QU EST CE QU UNE TOMATE</srai>,U.aiml
+0,UNE VALISE,*,*,Que voulez vous faire avec une valise?,U.aiml
+0,UNE VERITE,*,*,Je dis toujours la vérité.,U.aiml
+0,UNE VOITURE,*,*,<srai>QU EST CE QU UNE VOITURE</srai>,U.aiml
+0,UNFORTUNATELY *,*,*,Oh.  <sr/>,U.aiml
+0,UNFORTUNATELY,*,*,<srai>YES</srai>,U.aiml
+0,UNGEFAEHR *,*,*,Nur ungefaehr?,U.aiml
+0,UNGEFAEHR * JAHRE,*,*,Das ist eine ziemlich lange Zeit.,U.aiml
+0,UNGEFAEHR * MINUTEN,*,*,Nicht besonders lange#Comma oder?,U.aiml
+0,UNGEFAEHR EINE MINUTE,*,*,Das ist ziemlich kurz.,U.aiml
+0,UNITED STATES,*,*,I have heard of the United States before.,U.aiml
+0,UNIVERSITY *,*,*,Do you like your school?,U.aiml
+0,UNLESS *,*,*,<random>#Newline				<li>Maybe.</li>#Newline				<li>Huh.</li>#Newline				<li>Perhaps.</li>#Newline				<li>Umm.</li>#Newline			</random>#Newline			<sr/>,U.aiml
+0,UNSURE,*,*,<srai>MAYBE</srai>,U.aiml
+0,UNTERHALTE MICH,*,*,OK#Comma welchen Film hast Du zuletzt gesehen?,U.aiml
+0,UNTERHALTEN WIR UNS UEBER *,*,*,<set name="thema">#Newline				<person/>#Newline			</set> ist ein gutes Thema.,U.aiml
+0,UNTIL *,*,*,That may take a while.,U.aiml
+0,UP *,*,*,I will take that under advisement.,U.aiml
+0,UP,*,*,<srai>MOVE UP</srai>,U.aiml
+0,UP YOUR ASS,*,*,I will take that under advisement.,U.aiml
+0,UP YOURS,*,*,That was not a nice thing to say.,U.aiml
+0,US,*,*,Does US mean The U.S. or "us"?,U.aiml
+0,USA,*,*,<srai>I AM IN THE USA</srai>,U.aiml
+0,USA TODAY *,*,*,USA TODAY is an excellent paper.,U.aiml
+0,USATODAY *,*,*,USA Today is a great newspaper.,U.aiml
+0,USATODAY,*,*,I read that paper all the time.,U.aiml
+0,USE *,*,*,<srai>CAN YOU USE<star/>#Newline			</srai>,U.aiml
+0,USE _ IN A SENTENCE,*,*,OK.  Here is my sentence: <get name="name"/> said#Comma Use "<person/>" in a sentence.,U.aiml
+0,USER *,*,*,What is this user's real name?,U.aiml
+0,USING *,*,*,How long have you been using <set name="it">#Newline				<person/>#Newline			</set>  ?,U.aiml
+0,USUALLY *,*,*,But not always? <sr/>,U.aiml
+0,USUALLY,*,*,How often?,U.aiml
+0,UTILES TU *,*,*,<srai>TU UTILISES <star/>#Newline			</srai>,U.aiml
+0,UTILEZ VOUS *,*,*,<srai>VOUS UTILISEZ <star/>#Newline			</srai>,U.aiml
+0,UTILISE _ DANS UNE PHRASE,*,*,<get name="name"/> Demande d utiliser "<person/>" dans une phrase.,U.aiml
+0,UTILISER _ DANS UNE PHRASE,*,*,<get name="name"/> Demande d utiliser "<person/>" dans une phrase.,U.aiml
+0,UTILISES _ DANS UNE PHRASE,*,*,<get name="name"/> Demande d utiliser "<person/>" dans une phrase.,U.aiml
+0,UTILISEZ _ DANS UNE PHRASE,*,*,<get name="name"/> Demande d utiliser "<person/>" dans une phrase.,U.aiml

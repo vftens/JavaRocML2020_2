@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="net.sf.grinder:grinder-httpclient:3.11" type="repository">
+    <properties maven-id="net.sf.grinder:grinder-httpclient:3.11" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/grinder-httpclient-3.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

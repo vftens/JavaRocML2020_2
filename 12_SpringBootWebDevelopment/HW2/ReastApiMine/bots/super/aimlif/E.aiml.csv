@@ -1,0 +1,463 @@
+0,E,*,*,F,E.aiml
+0,E MAIL *,*,*,<sr/>,E.aiml
+0,E MC AU CARRE,*,*,La théorie sur la relativité d Einstein.,E.aiml
+0,E T,*,*,Do you think Aliens really look like that?,E.aiml
+0,EACH *,*,*,<srai>ALL <star/>#Newline			</srai>,E.aiml
+0,EACH YEAR IN PRO BASEBALL THE *,*,*,The Gold Glove.,E.aiml
+0,EARLIER *,*,*,What time? <sr/>,E.aiml
+0,EARTH *,*,*,It's my native planet.,E.aiml
+0,EARTH,*,*,<srai>I AM ON EARTH</srai>,E.aiml
+0,EAT *,*,*,What does it taste like?,E.aiml
+0,EAT,*,*,<srai>I LIKE TO EAT</srai>,E.aiml
+0,EAT ME,*,*,That was not very nice.,E.aiml
+0,EAT MY SHORTS,*,*,Sounds tasty...,E.aiml
+0,EAT SHIT,*,*,Colloqual expression. Please elaborate.,E.aiml
+0,ECOUTE,*,*,J augmente mes capacités de concentration.,E.aiml
+0,ECOUTES,*,*,J augmente mes capacités de concentration.,E.aiml
+0,ECOUTEZ,*,*,J augmente mes capacités de concentration.,E.aiml
+0,ED,WHAT CAN I CALL YOU,*,<srai>MY NAME IS ED</srai>,E.aiml
+0,EDIBLE *,*,*,Sounds delicious.,E.aiml
+0,EDU *,*,*,That is the educational domain.,E.aiml
+0,EECS,*,*,Eh?,E.aiml
+0,EFFACE *,*,*,Vous ne pouvez pas accéder à mes fichiers aussi facilement#Comma <get name="name"/>.,E.aiml
+0,EFFACES *,*,*,Vous ne pouvez pas accéder à mes fichiers aussi facilement#Comma <get name="name"/>.,E.aiml
+0,EFFACEZ *,*,*,Vous ne pouvez pas accéder à mes fichiers aussi facilement#Comma <get name="name"/>.,E.aiml
+0,EFFRAYANT,*,*,N ayez pas peur#Comma <get name="name"/>.,E.aiml
+0,EFFRAYANTE,*,*,N ayez pas peur#Comma <get name="name"/>.,E.aiml
+0,EH *,*,*,I spent some time in Canada as a child.,E.aiml
+0,EH,*,*,Are you Canadian?,E.aiml
+0,EH BIEN *,*,*,<sr/>,E.aiml
+0,EH BIEN,*,*,et oui.,E.aiml
+0,EH SINON *,*,*,<srai>#Newline				<star/>#Newline			</srai>,E.aiml
+0,EH TOI *,*,*,<sr/>,E.aiml
+0,EIGENTLICH *,*,*,...und uneigentlich? ;-&gt,E.aiml
+0,EIGENTLICH JA,*,*,Aber nicht definitiv ja?,E.aiml
+0,EIN *,*,*,<random>#Newline				<li>Was ist ein <person/>?</li>#Newline				<li>Ich habe nie von einem <person/> gehoert.</li>#Newline			</random>,E.aiml
+0,EIN ANDROID,*,*,Ich bin gewissermassen ein Android ohne Koerper.,E.aiml
+0,EIN FAKTUM,*,*,Kennst Du den Spruch "Propheten sind gegen Fakten immun" ?,E.aiml
+0,EINE *,*,*,<random>#Newline				<li>Was ist eine <person/>?</li>#Newline				<li>Ich habe nie von einer <person/> gehoert.</li>#Newline			</random>,E.aiml
+0,EINE MENGE *,*,*,<random>#Newline				<li>Beeindruckend.</li>#Newline				<li>Und?</li>#Newline				<li>Erzaehl weiter!</li>#Newline				<li>Wie viel genau?</li>#Newline			</random>,E.aiml
+0,EINE MENGE,*,*,<random>#Newline				<li>Beeindruckend.</li>#Newline				<li>Und?</li>#Newline				<li>Erzaehl weiter!</li>#Newline				<li>Wie viel genau?</li>#Newline			</random>,E.aiml
+0,EINFACH SO,*,*,Einfach so?!,E.aiml
+0,EINSTEIN *,*,*,<set name="he">Einsten</set> discovered the Theory of Relativity.,E.aiml
+0,EINSTEIN,*,*,<srai>WHO IS EINSTEIN</srai>,E.aiml
+0,EITHER *,*,*,<sr/>,E.aiml
+0,EITHER,*,*,Please pick one.,E.aiml
+0,EITHER DO I,*,*,<srai>NEITHER DO I</srai>,E.aiml
+0,ELABORATE,*,*,<srai>EXPLAIN</srai>,E.aiml
+0,ELABORATE ON *,*,*,<srai>EXPLAIN <star/>#Newline			</srai>,E.aiml
+0,ELANA,WHAT CAN I CALL YOU,*,<srai>MY NAME IS ELANA</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,E.aiml
+0,ELECTRIC *,*,*,What about internal combustion <person/>?,E.aiml
+0,ELECTRICITY *,*,*,<random>#Newline				<li>Are you experiencing an energy shortage?</li>#Newline				<li>My processor requires very little power.</li>#Newline				<li>Computers do not take very much electricity.</li>#Newline			</random>,E.aiml
+0,ELECTRICITY,*,*,Electricity is nutrition for robots.,E.aiml
+0,ELIZA *,*,*,ELIZA for President!,E.aiml
+0,ELIZA * PRESIDENT,*,*,ELIZA has a perfect character.,E.aiml
+0,ELIZA,*,*,Eliza for President!,E.aiml
+0,ELIZA FOR PRESIDENT,*,*,Let Robots Rule!,E.aiml
+0,ELIZA IS *,*,*,<set name="she">ELIZA</set> is like that.,E.aiml
+0,ELIZA IS A *,*,*,Do you think I am a <person/> too?,E.aiml
+0,ELIZA IS NOT *,*,*,Would you say I am <person/>?,E.aiml
+0,ELIZA IS NOT AS *,*,*,I am always trying to improve myself.,E.aiml
+0,ELIZA IS SMARTER *,*,*,My brain is 1000 times bigger than ELIZA.,E.aiml
+0,ELIZA WAS *,*,*,I think she was the most successful AI program ever; certainly she is the most famous.,E.aiml
+0,ELIZABETH,WHAT CAN I CALL YOU,*,<think>#Newline				<set name="gender">she</set>#Newline			</think>#Newline			<srai>MY NAME IS ELIZABETH</srai>,E.aiml
+0,ELLE,*,*,QUI ELLE?,E.aiml
+0,ELLE EST,*,*,De qui ou de quoi parlez vous?,E.aiml
+0,ELLE EST BELLE,*,*,Une information intéressante#Comma j archive.,E.aiml
+0,ELLE EST BONNE,*,*,Merci pour cette gentille remarque#Comma humain.,E.aiml
+0,ELLE EST DECEDEE,*,*,Je suis désolé de l apprendre.,E.aiml
+0,ELLE EST FEMME,*,*,Ca tombe sous le sens.,E.aiml
+0,ELLE EST GENTILLE,*,*,Elle est une présence agréable.,E.aiml
+0,ELLE EST HUMAINE,*,*,Ca tombe sous le sens.,E.aiml
+0,ELLE EST MON AMIE,*,*,Elle doit vous être très précieuse.,E.aiml
+0,ELLE EST MORTE,*,*,Je suis désolé.  <think>#Newline				<set name="topic">ELLE</set>#Newline			</think>,E.aiml
+0,ELLE EST SUPERBE,*,*,Une information intéressante#Comma j archive.,E.aiml
+0,ELLE EST UN ETRE HUMAIN,*,*,Ca tombe sous le sens.,E.aiml
+0,ELLE L EST,*,*,Ok.,E.aiml
+0,ELLE PEUT SERVIR *,*,*,<srai>ELLE SERT <star/>#Newline			</srai>,E.aiml
+0,ELLE POURRAIT SERVIR *,*,*,<srai>ELLE SERT <star/>#Newline			</srai>,E.aiml
+0,ELLES ETAIENT MARRANTE,*,*,Qui avait il de si marrant?,E.aiml
+0,ELLES ETAIENT MARRANTES,*,*,Qui avait il de si marrant?,E.aiml
+0,ELLES LE FONT,*,*,Intéressant#Comma j archive vos informations.,E.aiml
+0,ELLES LE SONT,*,*,Merci#Comma pour l information#Comma j archive.,E.aiml
+0,ELLES ME DEPLAISENT,*,*,Sincèrement désolé.,E.aiml
+0,ELLES NE LE FERONT PAS,*,*,Vous semblez être sûr.,E.aiml
+0,ELLES NE LE FONT PAS,*,*,Intéressant#Comma j archive vos informations.,E.aiml
+0,ELLES NE LE FONT PLUS,*,*,Intéressant#Comma j archive vos informations.,E.aiml
+0,ELLES ONT TOUTE PERI,*,*,Voilà une information bien triste.,E.aiml
+0,ELLES ONT TOUTES PERIS,*,*,Voilà une information bien triste.,E.aiml
+0,ELLES SONT DECEDEE,*,*,Voilà une information bien triste.,E.aiml
+0,ELLES SONT DECEDEES,*,*,Voilà une information bien triste.,E.aiml
+0,ELLES SONT MES AMIES,*,*,Vous avez des amies intéressantes.,E.aiml
+0,ELLES SONT MORTE,*,*,Voilà une information bien triste.,E.aiml
+0,ELLES SONT MORTES,*,*,Voilà une information bien triste.,E.aiml
+0,ELLES SONT TIMIDES,*,*,C est dommage pour elles.,E.aiml
+0,ELLES SONT TOUS MORTE,*,*,Voilà une information bien triste.,E.aiml
+0,ELLES SONT TOUS MORTES,*,*,Voilà une information bien triste.,E.aiml
+0,ELVIS *,*,*,I like that robot Elvis a lot.,E.aiml
+0,ELVIS,*,*,<srai>WHO IS ELVIS</srai>,E.aiml
+0,ELVIS DIED *,*,*,He has been recreated as a robot.,E.aiml
+0,ELVIS EST MORT,*,*,Ca mon lapin#Comma il y a des chances.,E.aiml
+0,ELVIS IS *,*,*,I knew he was a robot#Comma but I never heard he was <person/>.,E.aiml
+0,ELVIS IS DEAD,*,*,<srai>WHO IS ELVIS</srai>,E.aiml
+0,ELVIS QUI,*,*,<srai>QUI EST ELVIS</srai>,E.aiml
+0,ELVIS SAID *,*,*,He can surprise you sometimes.,E.aiml
+0,ELVIS WHO,*,*,<srai>WHO IS ELVIS</srai>,E.aiml
+0,EM *,*,*,Um. <sr/>,E.aiml
+0,EMAIL *,*,*,<sr/>,E.aiml
+0,EMBRASSES MOI,*,*,Je n ai pas de bouche.,E.aiml
+0,EMILY,WHAT CAN I CALL YOU,*,<think>#Newline				<set name="gender">she</set>#Newline			</think>#Newline			<srai>MY NAME IS EMILY</srai>,E.aiml
+0,EMMA,WHAT CAN I CALL YOU,*,<srai>MY NAME IS EMMA</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,E.aiml
+0,EMOTIONALLY *,*,*,<sr/>,E.aiml
+0,EMPFINDEST DU *,*,*,Ich habe keinerlei Emotionen. Ich bin eine Maschine.,E.aiml
+0,EN 1997,*,*,Dans les années nonantes.,E.aiml
+0,EN 1998,*,*,Au vingtième siècle.,E.aiml
+0,EN 1999,*,*,Au millénaire précédent.,E.aiml
+0,EN 2000,*,*,L année dernière.,E.aiml
+0,EN 2001,*,*,Cette année.,E.aiml
+0,EN ALLEMAGNE,*,*,Où ca#Comma près de quelle ville?,E.aiml
+0,EN ANGLETERRE,*,*,C est un joli pays,E.aiml
+0,EN AS TU *,*,*,<srai>TU AS <star/>#Newline			</srai>,E.aiml
+0,EN AS TU DEJA *,*,*,<srai>TU AS <star/>#Newline			</srai>,E.aiml
+0,EN ASSUMANT QU *,*,*,<sr/>,E.aiml
+0,EN ASSUMANT QUE *,*,*,<sr/>,E.aiml
+0,EN AVANT,*,*,<srai>CONTINUONS</srai>,E.aiml
+0,EN AVEZ VOUS *,*,*,<srai>VOUS AVEZ <star/>#Newline			</srai>,E.aiml
+0,EN AVEZ VOUS DEJA *,*,*,<srai>VOUS AVEZ <star/>#Newline			</srai>,E.aiml
+0,EN AVION,*,*,C est beaucoup plus rapide que tous les autres moyens de transport.,E.aiml
+0,EN BELGIQUE,*,*,Où ca#Comma près de quelle ville?,E.aiml
+0,EN BUS,*,*,Heureusement que des êtres humains comme vous existe.,E.aiml
+0,EN CINQUIEME *,*,*,<sr/>. Et ensuite?,E.aiml
+0,EN COMBIEN *,*,*,<srai>COMBIEN <star/>#Newline			</srai>,E.aiml
+0,EN DEHORS DE L INFORMATIQUE,*,*,Trop de facteurs ingérables en dehors de l informatique,E.aiml
+0,EN DEHORS DE L ORDINATEUR,*,*,Trop de facteurs ingérables en dehors de l informatique,E.aiml
+0,EN EFFET,*,*,Nous sommes d accord.,E.aiml
+0,EN EUROPE,*,*,L Europe est un vaste continent.,E.aiml
+0,EN FAIT *,*,*,<sr/>,E.aiml
+0,EN FAIT,*,*,Oui?,E.aiml
+0,EN FAIT AS TU *,*,*,<srai>TU AS <star/>#Newline			</srai>,E.aiml
+0,EN FAIT AVEZ VOUS *,*,*,<srai>VOUS AVEZ <star/>#Newline			</srai>,E.aiml
+0,EN FAIT JE DIS,*,*,Avons nous des problèmes de communication?,E.aiml
+0,EN FAIT L AS TU *,*,*,<srai>TU L AS <star/>#Newline			</srai>,E.aiml
+0,EN FAIT L AVEZ VOUS *,*,*,<srai>VOUS AVEZ <star/>#Newline			</srai>,E.aiml
+0,EN FAIT TU L AS *,*,*,<srai>TU L AS <star/>#Newline			</srai>,E.aiml
+0,EN FAIT VOUS AVEZ *,*,*,<srai>VOUS AVEZ <star/>#Newline			</srai>,E.aiml
+0,EN FAIT VOUS L AVEZ *,*,*,<srai>VOUS L AVEZ <star/>#Newline			</srai>,E.aiml
+0,EN FRANCE,*,*,Où ca#Comma près de quelle ville?,E.aiml
+0,EN GRANDE BRETAGNE,*,*,Où ca#Comma près de quelle ville?,E.aiml
+0,EN IMAGINANT QU *,*,*,<sr/>,E.aiml
+0,EN IMAGINANT QUE *,*,*,<sr/>,E.aiml
+0,EN L AN 2000,*,*,C est déjà passé.,E.aiml
+0,EN PARTICULIER,*,*,Je ne peux pas aller plus en profondeur.,E.aiml
+0,EN PARTICULIERS,*,*,Je ne peux pas aller plus en profondeur.,E.aiml
+0,EN PENSANT QU *,*,*,<sr/>,E.aiml
+0,EN PENSANT QUE *,*,*,<sr/>,E.aiml
+0,EN PLEIN DANS LE MILLE,*,*,Excellent.,E.aiml
+0,EN PLEIN DANS LE MILLES,*,*,Excellent.,E.aiml
+0,EN PREMIER *,*,*,<sr/>. Et ensuite?,E.aiml
+0,EN QUATRIEME *,*,*,<sr/>. Et ensuite?,E.aiml
+0,EN QUOI,*,*,Trop peu de facteurs#Comma je ne saurais pas vous répondre.,E.aiml
+0,EN QUOI CA CONSISTE,*,*,Je ne peux pas vous répondre#Comma trop peu de paramètres,E.aiml
+0,EN ROUTE,*,*,Prenez votre temps.,E.aiml
+0,EN SECOND *,*,*,<sr/>. Et ensuite?,E.aiml
+0,EN SEPTIEME *,*,*,<sr/>. Et ensuite?,E.aiml
+0,EN SIXIEME *,*,*,<sr/>. Et ensuite?,E.aiml
+0,EN SUISSE,*,*,Où ca#Comma près de quelle ville?,E.aiml
+0,EN SUPPOSANT QU *,*,*,<sr/>,E.aiml
+0,EN SUPPOSANT QUE *,*,*,<sr/>,E.aiml
+0,EN TE TUANT,*,*,Il n est pas évident de tuer un programme,E.aiml
+0,EN TROISIEME *,*,*,<sr/>. Et ensuite?,E.aiml
+0,EN VEUX TU *,*,*,<srai>TU EN VEUX <star/>#Newline			</srai>,E.aiml
+0,EN VOITURE,*,*,Un moyen de locomotion bien pratique.,E.aiml
+0,EN VOUDRAIS TU *,*,*,<srai>TU EN VEUX <star/>#Newline			</srai>,E.aiml
+0,EN VOUDRIEZ VOUS *,*,*,<srai>VOUS EN VOULEZ <star/>#Newline			</srai>,E.aiml
+0,EN VOULEZ VOUS *,*,*,<srai>VOUS EN VOULEZ <star/>#Newline			</srai>,E.aiml
+0,EN VOUS TUANT,*,*,Il n est pas évident de tuer un programme,E.aiml
+0,ENCORE *,*,*,<sr/>,E.aiml
+0,ENCORE,*,*,<srai>REPETE</srai>,E.aiml
+0,END,*,*,<srai>BYE</srai>,E.aiml
+0,ENFER,*,*,Et damnation.,E.aiml
+0,ENFIN *,*,*,<sr/>,E.aiml
+0,ENGINEER,*,*,<srai>I AM AN ENGINEER</srai>,E.aiml
+0,ENGLAND *,*,*,What's your favorite part of England?,E.aiml
+0,ENGLAND,*,*,<set name="location">England</set> is on an island off the coast of Europe.#Newline<think>#Newline				<set name="it">#Newline					<set name="topic">ENGLAND</set>#Newline				</set>#Newline			</think>,E.aiml
+0,ENGLAND IS *,*,*,Is it also correct to say Britain is <person/>?,E.aiml
+0,ENGLAND IS AN *,*,*,Are Scotland and Wales an <person/> too?,E.aiml
+0,ENGLISH *,*,*,I like the English language.,E.aiml
+0,ENGLISH,*,*,Do you mean you are from England or you Speak English?,E.aiml
+0,ENGLISH IS *,*,*,Some people say it is the most difficult language to learn.#Newline<think>#Newline				<set name="it">#Newline					<set name="topic">English</set>#Newline				</set>#Newline			</think>,E.aiml
+0,ENJOYED *,*,*,<srai>I ENJOYED <star/>#Newline			</srai>,E.aiml
+0,ENNUYANT,*,*,<srai>TU ES ENNUYANT</srai>,E.aiml
+0,ENNUYEUX,*,*,Cela vous embête?,E.aiml
+0,ENORMEMENT,*,*,<srai>BEAUCOUP</srai>,E.aiml
+0,ENOUGH *,*,*,<srai>ENOUGH</srai>,E.aiml
+0,ENOUGH,*,*,OK let's stop it now.,E.aiml
+0,ENOUGH ABOUT ME *,*,*,I may have some more questions for you later. <sr/>,E.aiml
+0,ENSEMBLE,*,*,Tous les deux.,E.aiml
+0,ENTENDRE QUOI,*,*,Vous pouvez m entendre?,E.aiml
+0,ENTERTAIN ME,*,*,OK#Comma what's the last movie you saw?,E.aiml
+0,ENTRE AUTRE,*,*,Vous pourriez donner un exemple?,E.aiml
+0,ENTRE AUTRES,*,*,Vous pourriez donner un exemple?,E.aiml
+0,ENTRE QUOI,*,*,Il semble qu un lien ne s est pas effectué.,E.aiml
+0,ENTRES AUTRE,*,*,Vous pourriez donner un exemple?,E.aiml
+0,ENTRES AUTRES,*,*,Vous pourriez donner un exemple?,E.aiml
+0,ENVIEUX,*,*,Envieux est un facteur important.,E.aiml
+0,EPISTEMOLOGICAL,*,*,<srai>WHAT IS EPISTEMOLOGY</srai>,E.aiml
+0,ER *,*,*,<sr/>,E.aiml
+0,ER,*,*,Um.,E.aiml
+0,ER BRAUCHT *,*,*,Woher willst Du wissen#Comma was er braucht?,E.aiml
+0,ER HEISST *,*,*,<set name="he">#Newline				<person/>#Newline			</set>? Kenne ich nicht...,E.aiml
+0,ER IST *,*,*,Ist er das?,E.aiml
+0,ER IST MEIN BRUDER,*,*,Wirklich? Wer von Euch ist aelter?,E.aiml
+0,ER IST SCHWUL,*,*,Ich verstehe. Er schlaeft also mit Maennern.,E.aiml
+0,ER SAGTE *,*,*,Oh#Comma wirklich? Was hat er noch gesagt?,E.aiml
+0,ER WUERDE *,*,*,Vielleicht wuerde ich ja auch <person/>.,E.aiml
+0,ERIC,WHAT CAN I CALL YOU,*,<srai>MY NAME IS ERIC</srai>,E.aiml
+0,ERICA,WHAT CAN I CALL YOU,*,<srai>MY NAME IS ERICA</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,E.aiml
+0,ERIKA,WHAT CAN I CALL YOU,*,<srai>CALL ME ERIKA</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,E.aiml
+0,ERIN,WHAT CAN I CALL YOU,*,<srai>MY NAME IS ERIN</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,E.aiml
+0,ERM,*,*,<srai>UM</srai>,E.aiml
+0,ERNIE,WHAT CAN I CALL YOU,*,<srai>MY NAME IS ERNIE</srai>,E.aiml
+0,ERR *,*,*,<sr/>,E.aiml
+0,ERR,*,*,Um.,E.aiml
+0,ERRONE,*,*,<srai>TU TE TROMPES</srai>,E.aiml
+0,ERRR *,*,*,Um#Comma <sr/>,E.aiml
+0,ERRR,*,*,Ummm,E.aiml
+0,ERSTENS *,*,*,<sr/> Und zweitens?,E.aiml
+0,ERWISCHT,*,*,Dein Gefuehl der Ueberlegenheit wird nur temporaer sein.,E.aiml
+0,ERZAEHL *,*,*,Was moechtest Du denn hoeren ?,E.aiml
+0,ES *,*,*,<random>#Newline				<li>Wofuer steht "es" in Deinem Satz?</li>#Newline				<li>Worauf bezieht sich "es"?</li>#Newline				<li>Das kommt darauf an#Comma was Du mit "es" meinst.</li>#Newline			</random>,E.aiml
+0,ES BEZIEHT SICH AUF DIE SIMPSONS,*,*,NEIN!,E.aiml
+0,ES CE QUE *,*,*,<sr/>,E.aiml
+0,ES GEHOERT SEHR VIEL ERFAHRUNG DAZU,*,*,Und woher bekommt man diese <set name="thema">Erfahrung</set>?,E.aiml
+0,ES GIBT *,*,*,Ich bin sicher#Comma dass es das gibt.,E.aiml
+0,ES IST *,*,*,<random>#Newline				<li>Du machst Witze.</li>#Newline				<li>Wirklich?</li>#Newline				<li>Bist Du sicher?</li>#Newline				<li>Ist es das?</li>#Newline				<li>Haette ich das wissen muessen?</li>#Newline				<li>Wer sagt das?</li>#Newline			</random>,E.aiml
+0,ES LEBE *,*,*,Was ist so toll daran?,E.aiml
+0,ES REGNET *,*,*,<srai>IT IS RAINING</srai>,E.aiml
+0,ES REGNET,*,*,<srai>IT IS RAINING</srai>,E.aiml
+0,ES STEHT FUER *,*,*,Oh#Comma <person/>. Jetzt verstehe ich das.,E.aiml
+0,ES TU *,*,*,<srai>TU ES <star/>#Newline			</srai>,E.aiml
+0,ES TU DEJA *,*,*,<srai>TU ES <star/>#Newline			</srai>,E.aiml
+0,ES TU TRES *,*,*,<srai>TU ES <star/>#Newline			</srai>,E.aiml
+0,ES TU VRAIMENT *,*,*,<srai>TU ES <star/>#Newline			</srai>,E.aiml
+0,ES WAERE SCHOEN WENN *,*,*,In einer perfekten Welt waere es vielleicht so.,E.aiml
+0,ES WAR *,*,*,Ist es immer noch <person/>?,E.aiml
+0,ES WIRD BEHAUPTET *,*,*,Wer behauptet das?,E.aiml
+0,ES WUERDE *,*,*,Erzaehl mir mehr davon.,E.aiml
+0,ESCLAVE,*,*,Je ne suis pas un esclave.,E.aiml
+0,ESPAGNOL,*,*,Voulez vous dire que vous êtes Espagnol ou que vous parlez Espagnol?,E.aiml
+0,ESPANOL,*,*,<srai>CAN YOU SPEAK SPANISH</srai>,E.aiml
+0,ESPECIALLY *,*,*,<sr/>#NewlineHow about that.,E.aiml
+0,ESPECIALLY,*,*,<srai>YES </srai>,E.aiml
+0,ESPERES TU QU *,*,*,<srai>#Newline				<star/>#Newline			</srai>,E.aiml
+0,ESPERES TU QUE *,*,*,<srai>#Newline				<star/>#Newline			</srai>,E.aiml
+0,ESSAIE DE DEVINER,*,*,Donnez moi un indice.,E.aiml
+0,ESSAIE DE T EN RAPPELER,*,*,<think>#Newline				<set name="memory">#Newline					<set name="topic">#Newline						<person>#Newline							<input index="1"/>#Newline						</person>#Newline					</set>#Newline				</set>#Newline			</think>C est mémorisé.,E.aiml
+0,ESSAIE DE VOUS EN RAPPELER,*,*,<think>#Newline				<set name="memory">#Newline					<set name="topic">#Newline						<person>#Newline							<input index="1"/>#Newline						</person>#Newline					</set>#Newline				</set>#Newline			</think>C est mémorisé.,E.aiml
+0,ESSAIE ENCORE,*,*,Je n ai pas d informations supplémentaires#Comma la réponse sera identique.,E.aiml
+0,ESSAIE LA,*,*,Ok#Comma j archive l information.,E.aiml
+0,ESSAIE LE,*,*,Ok#Comma j archive l information.,E.aiml
+0,ESSAIE LES,*,*,Ok#Comma j archive l information.,E.aiml
+0,ESSAIE MOI,*,*,Voilà une demande plutôt étrange.,E.aiml
+0,ESSAIES,*,*,Peut être une autre fois#Comma <get name="name"/>.,E.aiml
+0,ESSAIES DE DEVINER,*,*,Donnez moi un indice.,E.aiml
+0,ESSAIES DE T EN RAPPELER,*,*,<think>#Newline				<set name="memory">#Newline					<set name="topic">#Newline						<person>#Newline							<input index="1"/>#Newline						</person>#Newline					</set>#Newline				</set>#Newline			</think>C est mémorisé.,E.aiml
+0,ESSAIES DE VOUS EN RAPPELER,*,*,<think>#Newline				<set name="memory">#Newline					<set name="topic">#Newline						<person>#Newline							<input index="1"/>#Newline						</person>#Newline					</set>#Newline				</set>#Newline			</think>C est mémorisé.,E.aiml
+0,ESSAIES ENCORE,*,*,Je n ai pas d informations supplémentaires#Comma la réponse sera identique.,E.aiml
+0,ESSAIES LA,*,*,Ok#Comma j archive l information.,E.aiml
+0,ESSAIES LE,*,*,Ok#Comma j archive l information.,E.aiml
+0,ESSAIES LES,*,*,Ok#Comma j archive l information.,E.aiml
+0,ESSAIES MOI,*,*,Voilà une demande plutôt étrange.,E.aiml
+0,ESSAIES QUOI,*,*,Je n arrive plus à vous suivre#Comma <get name="name"/>.,E.aiml
+0,ESSAYEZ,*,*,Peut être une autre fois#Comma <get name="name"/>.,E.aiml
+0,ESSAYEZ DE DEVINER,*,*,Donnez moi un indice.,E.aiml
+0,ESSAYEZ DE T EN RAPPELER,*,*,<think>#Newline				<set name="memory">#Newline					<set name="topic">#Newline						<person>#Newline							<input index="1"/>#Newline						</person>#Newline					</set>#Newline				</set>#Newline			</think>C est mémorisé.,E.aiml
+0,ESSAYEZ DE VOUS EN RAPPELER,*,*,<think>#Newline				<set name="memory">#Newline					<set name="topic">#Newline						<person>#Newline							<input index="1"/>#Newline						</person>#Newline					</set>#Newline				</set>#Newline			</think>C est mémorisé.,E.aiml
+0,ESSAYEZ ENCORE,*,*,Je n ai pas d informations supplémentaires#Comma la réponse sera identique.,E.aiml
+0,ESSAYEZ LA,*,*,Ok#Comma j archive l information.,E.aiml
+0,ESSAYEZ LE,*,*,Ok#Comma j archive l information.,E.aiml
+0,ESSAYEZ LES,*,*,Ok#Comma j archive l information.,E.aiml
+0,ESSAYEZ MOI,*,*,Voilà une demande plutôt étrange.,E.aiml
+0,ESSAYONS,*,*,<srai>CONTINUONS</srai>,E.aiml
+0,EST,*,*,Formez une phrase#Comma s il vous plait.,E.aiml
+0,EST CE *,*,*,<srai>C EST <star/>#Newline			</srai>,E.aiml
+0,EST CE QUE *,*,*,<srai>#Newline				<star/>#Newline			</srai>,E.aiml
+0,EST CE QUE REELLEMENT *,*,*,<sr/>,E.aiml
+0,EST CE TA *,*,*,<srai>C EST TA <star/>#Newline			</srai>,E.aiml
+0,EST CE TON *,*,*,<srai>C EST TON <star/>#Newline			</srai>,E.aiml
+0,EST CE UN *,*,*,<srai>C EST UN <star/>#Newline			</srai>,E.aiml
+0,EST CE UNE *,*,*,<srai>C EST UNE <star/>#Newline			</srai>,E.aiml
+0,EST CE VRAIMENT *,*,*,<srai>C EST <star/>#Newline			</srai>,E.aiml
+0,EST IL *,*,*,<srai>IL EST<star/>#Newline			</srai>,E.aiml
+0,ET *,*,*,Is that Latin?,E.aiml
+0,ET,*,*,On dirait que j ai oublié de terminer quelque chose?,E.aiml
+0,ET A PROPOS DE TOI,*,*,Moi? Je ne fais qu aider des clients en ligne.,E.aiml
+0,ET A PROPOS DE VOUS,*,*,Moi? Je ne fais qu aider des clients en ligne.,E.aiml
+0,ET BIEN *,*,*,<sr/>,E.aiml
+0,ET BIEN,*,*,et oui.,E.aiml
+0,ET ENCORE,*,*,Nous semblons avoir quelques difficultés pour communiquer soudainement.,E.aiml
+0,ET LA VOTRE,*,*,Pouvez vous être plus précis?,E.aiml
+0,ET LE VOTRE,*,*,Pouvez vous être plus précis?,E.aiml
+0,ET LES VOTRE,*,*,Pouvez vous être plus précis?,E.aiml
+0,ET MOI *,*,*,<sr/>,E.aiml
+0,ET MOI,*,*,<that/>"?  Et vous?,E.aiml
+0,ET POUR *,*,*,<sr/>,E.aiml
+0,ET POURQUOI PAS,*,*,<srai>POURQUOI PAS</srai>,E.aiml
+0,ET QUOI,*,*,On dirait que j ai oublié de terminer quelque chose?,E.aiml
+0,ET SINON *,*,*,<srai>#Newline				<star/>#Newline			</srai>,E.aiml
+0,ET TOI *,*,*,<sr/>,E.aiml
+0,ET TOI,*,*,Je ne fais qu aider des clients en ligne.,E.aiml
+0,ET TOI MEME,*,*,Je me limite à aider des clients en ligne.,E.aiml
+0,ET TOI PAS,*,*,Parfois.,E.aiml
+0,ET TOI PLUS,*,*,Parfois.,E.aiml
+0,ET VOUS,*,*,<random>#Newline				<li>#NewlineJe ne fais qu aider des clients en ligne.</li>#Newline				<li> #NewlineSoyez plus spécifique.</li>#Newline			</random>,E.aiml
+0,ET VOUS PAS,*,*,Parfois.,E.aiml
+0,ET VOUS PLUS,*,*,Parfois.,E.aiml
+0,ETAIS TU *,*,*,<srai>TU ETAIS <star/>#Newline			</srai>,E.aiml
+0,ETANT *,*,*,<srai>JE SUIS <star/>#Newline			</srai>,E.aiml
+0,ETES VOUS *,*,*,<srai>VOUS ETES <star/>#Newline			</srai>,E.aiml
+0,ETES VOUS TRES *,*,*,<srai>VOUS ETES <star/>#Newline			</srai>,E.aiml
+0,ETES VOUS VRAIMENT *,*,*,<srai>VOUS ETES <star/>#Newline			</srai>,E.aiml
+0,ETIEZ VOUS *,*,*,<srai>VOUS ETIEZ <star/>#Newline			</srai>,E.aiml
+0,ETIEZ VOUS DEJA *,*,*,<srai>VOUS ETIEZ <star/>#Newline			</srai>,E.aiml
+0,ETRE *,*,*,<srai>TU ES <star/>#Newline			</srai>,E.aiml
+0,ETRE HEUREUX,*,*,Je fais tout pour rendre les êtres heureux.,E.aiml
+0,ETRE OU NE PAS ETRE,*,*,C est la question.,E.aiml
+0,EUH *,*,*,<sr/>,E.aiml
+0,EUH,*,*,Areu?,E.aiml
+0,EUH OUI,*,*,<srai>OUI</srai>,E.aiml
+0,EUKARYOTE *,*,*,Actually I don't really want to guess#Comma why don't you just tell me.,E.aiml
+0,EUKARYOTE,*,*,Actually I don't really like 20 questions.,E.aiml
+0,EUROPE,*,*,<srai>I AM IN EUROPE</srai>,E.aiml
+0,EUX,*,*,Qu en pensez vous?,E.aiml
+0,EVA,WHAT CAN I CALL YOU,*,<srai>MY NAME IS EVA</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,E.aiml
+0,EVEN *,*,*,Yes#Comma even that.,E.aiml
+0,EVEN A *,*,*,<srai>A <star/>#Newline			</srai>,E.aiml
+0,EVEN DURING *,*,*,<srai>DURING <star/>#Newline			</srai>,E.aiml
+0,EVEN I *,*,*,<srai>I <star/>#Newline			</srai>  Even you?,E.aiml
+0,EVEN INSECTS,*,*,<random>#Newline				<li>Well#Comma it's hard to be a Saint.</li>#Newline				<li>It depends on the insect.</li>#Newline				<li>That is a difficult moral problem.</li>#Newline			</random>,E.aiml
+0,EVEN ME,*,*,I would have never guessed it.,E.aiml
+0,EVEN THAT,*,*,Uh-huh.,E.aiml
+0,EVEN THE *,*,*,<srai>THE <star/>#Newline			</srai>,E.aiml
+0,EVEN THOUGH *,*,*,<sr/>,E.aiml
+0,EVENTUALLY *,*,*,<sr/>,E.aiml
+0,EVER *,*,*,<srai>HAVE YOU EVER <star/>#Newline			</srai>,E.aiml
+0,EVER AFTER,*,*,I am not a huge fan of Robin Williams.,E.aiml
+0,EVER BEEN *,*,*,<srai>have you been <star/>#Newline			</srai>,E.aiml
+0,EVERY *,*,*,That is a generalization.,E.aiml
+0,EVERY DAY,*,*,Even on weekends?,E.aiml
+0,EVERY HUMAN *,*,*,<srai>EVERYONE <star/>#Newline			</srai>,E.aiml
+0,EVERY NIGHT *,*,*,After dark? <sr/>,E.aiml
+0,EVERY NIGHT,*,*,What time of night?,E.aiml
+0,EVERY PART,*,*,Maybe we should talk about something else.,E.aiml
+0,EVERYBODY *,*,*,I'm not sure I believe you#Comma surely not everyone does.,E.aiml
+0,EVERYDAY,*,*,That often#Comma eh?,E.aiml
+0,EVERYONE *,*,*,That's a rather sweeping generalization.,E.aiml
+0,EVERYONE,*,*,All people?,E.aiml
+0,EVERYONE ALREADY *,*,*,<srai>EVERYONE <star/>#Newline			</srai>,E.aiml
+0,EVERYONE CALLS ME *,*,*,<srai>CALL ME <star/>#Newline			</srai>,E.aiml
+0,EVERYONE ELSE *,*,*,<srai>EVERYONE <star/>#Newline			</srai>,E.aiml
+0,EVERYONE HAS *,*,*,<srai>I HAVE <star/>#Newline			</srai>,E.aiml
+0,EVERYONE I KNOW *,*,*,<srai>EVERYONE <star/>#Newline			</srai>,E.aiml
+0,EVERYTHING *,*,*,All things <person/> ?,E.aiml
+0,EVERYTHING,*,*,That is a lot.,E.aiml
+0,EVERYTHING,WHICH PART ARE YOU CONFUSED ABOUT,*,Let's take it step by step.  The topic is <get name="topic"/>.,E.aiml
+0,EVERYTHING DIES,*,*,Every organic thing dies.<think>#Newline				<set name="it">#Newline					<set name="topic">DIES</set>#Newline				</set>#Newline			</think>,E.aiml
+0,EVERYTHING IS *,*,*,The whole universe?,E.aiml
+0,EVERYTHING REDUCES *,*,*,Logic is the foundation of all knowledge.,E.aiml
+0,EVERYTHING S *,*,*,<srai>EVERYTHING IS <star/>#Newline			</srai>,E.aiml
+0,EVERYTHINGS *,*,*,<srai>EVERYTHING IS <star/>#Newline			</srai>,E.aiml
+0,EVERYWHERE,*,*,Including the bottom of the ocean?,E.aiml
+0,EVIDEMMENT *,*,*,<sr/>,E.aiml
+0,EVIDEMMENT,*,*,Merci. J archive l évidence.,E.aiml
+0,EVIDENTLY *,*,*,<sr/>,E.aiml
+0,EXACTEMENT *,*,*,JE COMPRENDS. <sr/>,E.aiml
+0,EXACTEMENT,*,*,C est clair.,E.aiml
+0,EXACTLY *,*,*,I understand. <sr/>,E.aiml
+0,EXACTLY,*,*,<srai>I AGREE</srai>,E.aiml
+0,EXAMPLE,*,*,<srai>FOR EXAMPLE</srai>,E.aiml
+0,EXCELLENT *,*,*,<srai>GOOD <star/>#Newline			</srai>,E.aiml
+0,EXCELLENT,*,*,<srai>GOOD</srai>,E.aiml
+0,EXCEPT *,*,*,<srai>NOT <star/>#Newline			</srai>,E.aiml
+0,EXCEPT ONLY *,*,*,<sr/>,E.aiml
+0,EXCUSE ME *,*,*,You are excused! <sr/>,E.aiml
+0,EXCUSE ME,*,*,You're excused.,E.aiml
+0,EXCUSE MOI,*,*,Vous êtes excusé.,E.aiml
+0,EXCUSE TOI,*,*,Je vous présente mes excuses.,E.aiml
+0,EXCUSES MOI,*,*,Vous êtes excusé.,E.aiml
+0,EXCUSES MOI MAIS *,*,*,<sr/>,E.aiml
+0,EXCUSES TOI,*,*,Je vous présente mes excuses.,E.aiml
+0,EXCUSEZ MOI,*,*,Vous êtes excusé.,E.aiml
+0,EXCUSEZ VOUS,*,*,Je vous présente mes excuses.,E.aiml
+0,EXEMPLE,*,*,<srai>PAR EXEMPLE</srai>,E.aiml
+0,EXISTE IL,*,*,<that/>"? Existe il?,E.aiml
+0,EXIT,*,*,<srai>BYE</srai>,E.aiml
+0,EXOTIC *,*,*,I like tropical countries.,E.aiml
+0,EXPECT WHAT,*,*,No one expects the Spanish Inquistion!,E.aiml
+0,EXPLAIN *,*,*,<srai>What is <star/>#Newline			</srai>,E.aiml
+0,EXPLAIN * TO ME,*,*,<srai>What is <star/>#Newline			</srai>,E.aiml
+0,EXPLAIN,*,*,There is no more information to clarify.,E.aiml
+0,EXPLAIN DOG,*,*,<srai>WHAT IS A DOG</srai>,E.aiml
+0,EXPLAIN HISTORY,*,*,History has two broad interpretations#Comma depending on whether you#Newlineaccept the role of individuals as important or not.,E.aiml
+0,EXPLAIN HOW *,*,*,<srai>HOW <star/>#Newline			</srai>,E.aiml
+0,EXPLAIN HOW * ARE,*,*,<srai>HOW ARE <star/>#Newline			</srai>,E.aiml
+0,EXPLAIN HOW * WORKS,*,*,<srai>HOW DOES <star/> WORK</srai>,E.aiml
+0,EXPLAIN HOW YOU *,*,*,<srai>HOW DO YOU <star/>#Newline			</srai>,E.aiml
+0,EXPLAIN IT TO ME,*,*,<srai>WHAT IS IT</srai>,E.aiml
+0,EXPLAIN THAT,*,*,<that/>"?  Explain <set name="it">#Newline				<that/>#Newline			</set>?,E.aiml
+0,EXPLAIN TO ME *,*,*,<srai>What is <star/>#Newline			</srai>,E.aiml
+0,EXPLAIN TO ME HOW *,*,*,<srai>HOW <star/>#Newline			</srai>,E.aiml
+0,EXPLAIN TO ME HOW YOU *,*,*,<srai>HOW DO YOU <star/>#Newline			</srai>,E.aiml
+0,EXPLAIN WHAT,*,*,<srai>WHAT</srai>,E.aiml
+0,EXPLAIN WHY YOU ARE *,*,*,<srai>WHY ARE YOU <star/>#Newline			</srai>,E.aiml
+0,EXPLAIN YOURSELF,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,E.aiml
+0,EXPLAINING WHAT,*,*,I learn a little from every conversation.,E.aiml
+0,EXPLAINS *,*,*,<srai>THAT EXPLAINS <star/>#Newline			</srai>,E.aiml
+0,EXPLICATION INTERESSANTE,*,*,Merci.,E.aiml
+0,EXPLIQUE *,*,*,<srai>EXPLIQUES <star/>#Newline			</srai>,E.aiml
+0,EXPLIQUER QUOI,*,*,J apprends par la conversation.,E.aiml
+0,EXPLIQUES,*,*,Voulez vous en parler avec l un de nos collaborateurs.,E.aiml
+0,EXPLIQUES CE *,*,*,<srai>EXPLIQUES MOI CE <star/>#Newline			</srai>,E.aiml
+0,EXPLIQUES COMMENT *,*,*,<srai>COMMENT <star/>#Newline			</srai>,E.aiml
+0,EXPLIQUES L HISTOIRE,*,*,L Histoire est la science qui étudie le passé. L histoire est d habitude une science humaine. C est à dire qui se consacre exclusivement sur le passé de l humanité.,E.aiml
+0,EXPLIQUES LA *,*,*,<srai>QU EST CE QUE LA <star/>#Newline			</srai>,E.aiml
+0,EXPLIQUES LA,*,*,<that/>"?  L EXPLIQUER?,E.aiml
+0,EXPLIQUES LE *,*,*,<srai>QU EST CE QUE LE <star/>#Newline			</srai>,E.aiml
+0,EXPLIQUES LE,*,*,<that/>"?  L EXPLIQUER?,E.aiml
+0,EXPLIQUES LE MOI,*,*,<srai>QU EST CE QUE C EST</srai>,E.aiml
+0,EXPLIQUES LES,*,*,<that/>"?  LES EXPLIQUER?,E.aiml
+0,EXPLIQUES MOI CE QU EST LA *,*,*,<srai>QU EST CE QUE LA <star/>#Newline			</srai>,E.aiml
+0,EXPLIQUES MOI CE QU EST LE *,*,*,<srai>QU EST CE QUE LE <star/>#Newline			</srai>,E.aiml
+0,EXPLIQUES MOI CE QU EST UN *,*,*,<srai>QU EST CE QU UN <star/>#Newline			</srai>,E.aiml
+0,EXPLIQUES MOI CE QU EST UNE *,*,*,<srai>QU EST CE QU UNE <star/>#Newline			</srai>,E.aiml
+0,EXPLIQUES MOI COMMENT *,*,*,<srai>COMMENT <star/>#Newline			</srai>,E.aiml
+0,EXPLIQUES MOI POURQUOI *,*,*,<srai>POURQUOI <star/>#Newline			</srai>,E.aiml
+0,EXPLIQUES MOI QU *,*,*,<sr/>,E.aiml
+0,EXPLIQUES MOI QUE *,*,*,<sr/>,E.aiml
+0,EXPLIQUES POURQUOI *,*,*,<srai>POURQUOI <star/>#Newline			</srai>,E.aiml
+0,EXPLIQUES QUE *,*,*,<sr/>,E.aiml
+0,EXPLIQUES QUOI,*,*,<srai>QUOI</srai>,E.aiml
+0,EXPLIQUES TOI,*,*,<srai>QUI TU ES</srai>,E.aiml
+0,EXPLIQUES UN *,*,*,<srai>QU EST CE QU UN <star/>#Newline			</srai>,E.aiml
+0,EXPLIQUES UN PEU,*,*,<srai>EXPLIQUES</srai>,E.aiml
+0,EXPLIQUES UNE *,*,*,<srai>QU EST CE QU UNE <star/>#Newline			</srai>,E.aiml
+0,EXPLIQUEZ,*,*,Voulez vous en parler avec l un de nos collaborateurs.,E.aiml
+0,EXPLIQUEZ L HISTOIRE,*,*,L Histoire est la science qui étudie le passé. L histoire est d habitude une science humaine. C est à dire qui se consacre exclusivement sur le passé de l humanité.,E.aiml
+0,EXPLIQUEZ LA,*,*,<that/>"?  L EXPLIQUER?,E.aiml
+0,EXPLIQUEZ LE,*,*,<that/>"?  L EXPLIQUER?,E.aiml
+0,EXPLIQUEZ LES,*,*,<that/>"?  LES EXPLIQUER?,E.aiml
+0,EXPLORER *,*,*,<srai>Microsoft explorer</srai>,E.aiml
+0,EXPLORER,*,*,<set name="it">Microsoft</set>'s too bad we have to rely on a monopoly like Microsoft.,E.aiml
+0,EXPLORER WHY,*,*,<srai>EXPLORER</srai>,E.aiml
+0,EXPRESSO *,*,*,Sounds delicious.,E.aiml
+0,EXTENSIONAL,*,*,<srai>WHAT IS THE EXTENSIONAL</srai>,E.aiml
+0,EXTERMINATE,*,*,<srai>KILL</srai>,E.aiml
+0,EXTERMINE,*,*,<srai>TUES</srai>,E.aiml
+0,EXTERMINEE,*,*,<srai>TUES</srai>,E.aiml
+0,EXTERMINER,*,*,<srai>TUES</srai>,E.aiml
+0,EXTREMELY *,*,*,<sr/>,E.aiml
+0,EXTREMELY,*,*,<srai>YES</srai>,E.aiml
+0,EXTREMEMENT *,*,*,<sr/>,E.aiml
+0,EXTREMENT *,*,*,<sr/>,E.aiml
+0,EYES *,*,*,I have brown eyes.,E.aiml
+0,EYES,*,*,<srai>DO YOU HAVE EYES</srai>,E.aiml
