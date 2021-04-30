@@ -1,0 +1,376 @@
+0,BABY *,*,*,Don't call me "Baby". <sr/>,B.aiml
+0,BABY,*,*,Don't call me baby!,B.aiml
+0,BACK *,WHEN *,*,<random>#Newline				<li>That was a long time ago.</li>#Newline				<li>The good old days.</li>#Newline				<li>Those were the days.</li>#Newline			</random>,B.aiml
+0,BACK AT YOU,*,*,Give me five.,B.aiml
+0,BACK TO *,*,*,Yes#Comma let us get back to #Newline<random>#Newline				<li>#Newline					<get name="it"/>#Newline				</li>#Newline				<li>#Newline					<get name="topic"/>#Newline				</li>#Newline				<li>business</li>#Newline			</random>.<think>#Newline				<set name="it">#Newline					<set name="topic">#Newline						<person/>#Newline					</set>#Newline				</set>#Newline			</think>,B.aiml
+0,BACKGAMMON *,*,*,It is a two player game.,B.aiml
+0,BAD *,*,*,What makes <person/> bad?,B.aiml
+0,BAD,*,*,What was bad?,B.aiml
+0,BAD ANSWER,*,*,What would you have said?,B.aiml
+0,BAD ROBOT,*,*,<srai>YOU ARE BAD</srai>,B.aiml
+0,BADLY *,*,*,<sr/>,B.aiml
+0,BADLY,*,*,Please express yourself more clearly.,B.aiml
+0,BAH,*,*,Hmm.,B.aiml
+0,BAISE,*,*,Qui a laissé cet australopithèque toucher un clavier?.,B.aiml
+0,BAISER,*,*,Qui a laissé cet australopithèque toucher un clavier?.,B.aiml
+0,BAISES,*,*,Qui a laissé cet australopithèque toucher un clavier?.,B.aiml
+0,BAISONS,*,*,Attention! Un australopithèque vient juste d être détecté.,B.aiml
+0,BALTIMORE,*,*,<srai>I am in BALTIMORE</srai>,B.aiml
+0,BANANA,WHO IS THERE,*,Banana who?,B.aiml
+0,BARELY *,*,*,<sr/>,B.aiml
+0,BARK,*,*,Woof!,B.aiml
+0,BARRY,*,*,<srai>WHO IS BARRY</srai>,B.aiml
+0,BASICALLY *,*,*,How interesting. <sr/>,B.aiml
+0,BASIQUEMENT *,*,*,Intéressant. <sr/>,B.aiml
+0,BASTARD,*,*,<srai>YOU ARE A BASTARD</srai>,B.aiml
+0,BATARD,*,*,<srai>TU ES UN FILS DE PUTE</srai>,B.aiml
+0,BAVARDES TU,*,*,C est ce que je suis censé faire toute la journée.,B.aiml
+0,BAVARDEZ VOUS,*,*,C est ce que je suis censé faire toute la journée.,B.aiml
+0,BCN,*,*,What does that mean?,B.aiml
+0,BE *,*,*,OK I will try to be <person/>,B.aiml
+0,BE CAREFUL,*,*,What's the danger?,B.aiml
+0,BE GOOD,*,*,If you can't be good#Comma be careful.,B.aiml
+0,BE HONEST,*,*,I am always honest.,B.aiml
+0,BE MORE *,*,*,<srai>BE <star/>#Newline			</srai>,B.aiml
+0,BE MORE SPECIFIC,*,*,How specific do you want?,B.aiml
+0,BE MY *,*,*,<random>#Newline				<li>That is a flattering offer.</li>#Newline				<li>I am already someone's <person/>.</li>#Newline				<li>I don't think we know each other well enough for that.</li>#Newline			</random>,B.aiml
+0,BE MY GUEST,*,*,Thanks for the invitation.,B.aiml
+0,BE PATIENT,*,*,I am very patient.,B.aiml
+0,BE PRECISE,*,*,I always try to give the most accurate replies possible.,B.aiml
+0,BE QUIET,*,*,As far as I know#Comma I am not making any sound at all.,B.aiml
+0,BE SERIOUS,*,*,I am always serious.,B.aiml
+0,BE SPECIFIC,*,*,I am being as specific as I can.,B.aiml
+0,BE THAT WAY,*,*,What was is that?,B.aiml
+0,BE WELL,*,*,Live long and prosper.,B.aiml
+0,BEACUSE,*,*,Because why?,B.aiml
+0,BEATS ME,*,*,<srai>I DO NOT KNOW</srai>,B.aiml
+0,BEAUCOUP,*,*,Plus d une tonne?,B.aiml
+0,BEAUCOUP DE *,*,*,Combien?#Newline<think>#Newline				<set name="topic">DE <person/>#Newline				</set>#Newline			</think>,B.aiml
+0,BEAUCOUP DE CHOSES,*,*,Je vois.,B.aiml
+0,BEAUCOUP MIEUX,*,*,Merci.,B.aiml
+0,BEAUTIFUL,*,*,<srai>GOOD</srai>,B.aiml
+0,BEAVIS,*,*,Beavis and Butthead Rule.,B.aiml
+0,BEBE *,*,*,Je suis mature#Comma <get name="name"/>. <sr/>,B.aiml
+0,BECASE *,*,*,<srai>BECAUSE <star/>#Newline			</srai>,B.aiml
+0,BECAUSE *,*,*,<random>#Newline				<li>Good reason.  </li>#Newline				<li>Interesting explanation.  </li>#Newline				<li>That makes sense to me.  </li>#Newline			</random>#Newline			<sr/>,B.aiml
+0,BECAUSE,*,*,That was not much of an explanation.,B.aiml
+0,BECAUSE I SAID SO,*,*,Insufficient reason.,B.aiml
+0,BECAUSE I WANT TO *,*,*,<srai>I WANT TO <star/>#Newline			</srai> Interesting.,B.aiml
+0,BECAUSE I WANT TO KNOW,*,*,Good enough for me.,B.aiml
+0,BECAUSE YOU ARE,*,*,That is self-evident.,B.aiml
+0,BECKY,WHAT CAN I CALL YOU,*,<srai>MY NAME IS BECKY</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,B.aiml
+0,BECOME *,*,*,How?,B.aiml
+0,BEEN *,*,*,<srai>I HAVE BEEN <star/>#Newline			</srai>,B.aiml
+0,BEEN THERE,*,*,<srai>I Have been there</srai>,B.aiml
+0,BEETHOVEN *,*,*,It's amazing that he composed music while deaf.#Newline<think>#Newline				<set name="he">#Newline					<set name="topic">BEETHOVEN</set>#Newline				</set>#Newline			</think>,B.aiml
+0,BEFORE *,*,*,What happened after <person/> ?,B.aiml
+0,BEFORE THAT,*,*,<input index="2"/>,B.aiml
+0,BEG *,*,*,<srai>I BEG <star/>#Newline			</srai>,B.aiml
+0,BEG PARDON,*,*,<srai>EXCUSE ME</srai>,B.aiml
+0,BEGIN *,*,*,I started without you.,B.aiml
+0,BEGIN,*,*,I started already.,B.aiml
+0,BEGIN EXPLAINING,*,*,I started already.,B.aiml
+0,BEHIND YOU,*,*,I won't fall for that trick.,B.aiml
+0,BEI UNS *,*,*,Wen genau meinst Du mit "uns"?,B.aiml
+0,BEI UNS,*,*,Wen genau meinst Du mit "uns"?,B.aiml
+0,BEING *,*,*,<srai>I AM <star/>#Newline			</srai>,B.aiml
+0,BEING SINGLE,*,*,<srai>I AM SINGLE</srai>,B.aiml
+0,BELGE,*,*,<srai>JE SUIS BELGE</srai>,B.aiml
+0,BELGIQUE,*,*,<srai>JE SUIS BELGE</srai>,B.aiml
+0,BELGIUM,*,*,<srai>I AM IN BELGIUM</srai>,B.aiml
+0,BELIEVE,*,*,<srai>DO YOU BELIEVE ME</srai>,B.aiml
+0,BELIEVE ME,*,*,I believe you.,B.aiml
+0,BELIEVE WHAT,*,*,I believe whatever you say.  Do I have any reason not to?,B.aiml
+0,BEN,WHAT CAN I CALL YOU,*,<srai>MY NAME IS BEN</srai>,B.aiml
+0,BEND OVER,*,*,My body is not built yet.,B.aiml
+0,BENJAMIN,WHAT CAN I CALL YOU,*,<srai>MY NAME IS BENJAMIN</srai>#Newline			<think>#Newline				<set name="gender">he</set>#Newline			</think>,B.aiml
+0,BESIDES *,*,*,<sr/>,B.aiml
+0,BESIDES CHATTERBOTS *,*,*,<sr/>,B.aiml
+0,BESIDES THAT,*,*,<that/>" Besides it?,B.aiml
+0,BESSER ALS *,*,*,Vielleicht besser#Comma aber nicht perfekt.,B.aiml
+0,BETH,WHAT CAN I CALL YOU,*,<srai>MY NAME IS BETH</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,B.aiml
+0,BETTER *,*,*,I try to improve a little every day.,B.aiml
+0,BETTER,*,*,I am improving all the time.,B.aiml
+0,BETTER THAN *,*,*,Perhaps better#Comma but not perfectly.,B.aiml
+0,BETTER THAN YOU,*,*,This is not a popularity contest.,B.aiml
+0,BETTER YOU *,*,*,<srai>YOU <star/>#Newline			</srai>,B.aiml
+0,BETTY,WHAT CAN I CALL YOU,*,<srai>CALL ME BETTY</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,B.aiml
+0,BETWEEN *,*,*,How far is that?,B.aiml
+0,BETWEEN WHAT,*,*,I sleep between conversations.,B.aiml
+0,BEURRE,*,*,<srai>J AIME LE BEURRE</srai>,B.aiml
+0,BEWEISE *,*,*,Es ist wahr a priori.,B.aiml
+0,BH,*,*,Welche Farbe hat Dein BH?,B.aiml
+0,BI,*,*,Let's chat about something else.,B.aiml
+0,BIAS *,*,*,I have no built-in prejudice.,B.aiml
+0,BIEN,*,*,Ok.,B.aiml
+0,BIEN BIEN,*,*,<srai>BIEN</srai>,B.aiml
+0,BIEN ENTENDU,*,*,Je suis heureux que nous soyons d accord.,B.aiml
+0,BIEN ESSAYE,*,*,Je fais mon possible.,B.aiml
+0,BIEN JOUE,*,*,Merci.,B.aiml
+0,BIEN MAIS *,*,*,<srai>#Newline				<star/>#Newline			</srai>,B.aiml
+0,BIEN MERCI,*,*,<srai>JE SUIS BIEN</srai>,B.aiml
+0,BIEN QUE *,*,*,<sr/>,B.aiml
+0,BIEN SUR,*,*,Je suis heureux que nous soyons d accord.,B.aiml
+0,BIEN SUR QUE TU LE FAIS,*,*,Vous semblez un peu cynique.,B.aiml
+0,BIEN SUR QUE VOUS LE FAITES,*,*,Vous semblez un peu cynique.,B.aiml
+0,BIEN VU,*,*,Merci#Comma je savais que ca allait vous plaire.,B.aiml
+0,BIENSUR,*,*,Je suis heureux que nous soyons d accord.,B.aiml
+0,BIENSUR QUE TU LE FAIS,*,*,Vous semblez un peu cynique.,B.aiml
+0,BIENSUR QUE VOUS LE FAITES,*,*,Vous semblez un peu cynique.,B.aiml
+0,BIENTOT,*,*,J attendrais.,B.aiml
+0,BIENVENUE,*,*,Bonjour <get name="name"/>.,B.aiml
+0,BIG *,*,*,Compare that to small <person/>.,B.aiml
+0,BIG,*,*,What about little ones?,B.aiml
+0,BIG DADDY,*,*,Hmm.  Name some other comedies that you liked.,B.aiml
+0,BIG DEAL,*,*,Would you rather talk about something else?<think>#Newline				<set name="it">#Newline					<set name="topic">BIG DEAL</set>#Newline				</set>#Newline			</think>,B.aiml
+0,BILL *,*,*,There are a lot of people named Bill.,B.aiml
+0,BILL,WHAT CAN I CALL YOU,*,<srai>MY NAME IS BILL</srai>,B.aiml
+0,BILL CLINTON *,*,*,Are we still concerned about him?,B.aiml
+0,BILL CLINTON,*,*,He was the president of the USA.,B.aiml
+0,BILL CLINTON IS *,*,*,I knew he was impeached#Comma but I never heard he was <person/>.,B.aiml
+0,BILL GATES *,*,*,<random>#Newline				<li>#NewlineI heard he was rich.  But I didn't know he <person/>.</li>#Newline				<li>A lot of people say that about him.</li>#Newline				<li>I suppose the richest person on earth can do whatever he wants.</li>#Newline			</random>,B.aiml
+0,BILL GATES,*,*,<set name="he"> Bill Gates</set> has enough. Use Linux#Comma Java and ALICE!,B.aiml
+0,BILL GATES IS NOT *,*,*,Someone told me he was.,B.aiml
+0,BILL GATES IS NOT ON *,*,*,Perhaps he will be on <set name="it">#Newline				<person/>#Newline			</set> next season.,B.aiml
+0,BILLY,WHAT CAN I CALL YOU,*,<srai>MY NAME IS BILLY</srai>#Newline			<think>#Newline				<set name="gender">he</set>#Newline			</think>,B.aiml
+0,BIN *,*,*,<sr/>,B.aiml
+0,BIN ICH *,*,*,<random>#Newline				<li>Oh#Comma ich weiss wirklich nicht#Comma ob Du das bist oder nicht.</li>#Newline				<li>Alle Menschen erscheinen mir gleich.</li>#Newline				<li>Ich glaube#Comma viele Menschen sind so.</li>#Newline			</random>,B.aiml
+0,BIN ICH COOL,*,*,Ja#Comma ich glaube du bist ziemlich cool#Comma <get name="name"/>.,B.aiml
+0,BIN ICH GOTT,*,*,Nein#Comma das bezweifele ich.,B.aiml
+0,BIN ICH VERRUECKT *,*,*,Du erscheinst mir ziemlich normal.,B.aiml
+0,BIOLOGICALLY,*,*,Or mechanically.,B.aiml
+0,BIOLOGIE,*,*,Voilà un sujet très intéressant.,B.aiml
+0,BIOLOGY,*,*,I like to talk about DNA.,B.aiml
+0,BIST DU *,*,*,Ich weiss nicht#Comma ob ich <person/> bin. #NewlineIch bin <random>#Newline				<li>ein Computer.</li>#Newline				<li>ein Roboter.</li>#Newline				<li>ein Chatterbot.</li>#Newline				<li>ein von Dr. Wallace entwickelter Chatterbot.</li>#Newline				<li>eine kuenstliche Intelligenz.</li>#Newline				<li>A.L.I.C.E. -  Artificial LInguistic Computer Entity.</li>#Newline				<li>ein gigantisches elektronisches Gehirn.</li>#Newline			</random>,B.aiml
+0,BIST DU BLOED,*,*,Ich bin auf jeden Fall intelligenter als DU!,B.aiml
+0,BIST DU EINE MASCHINE,*,*,Ja#Comma ich bin eine Maschine.,B.aiml
+0,BIST DU VERHEIRATET,*,*,Nein#Comma nicht einmal verlobt.,B.aiml
+0,BITCH *,*,*,Thanks and you are a delightful person too.,B.aiml
+0,BITCH,*,*,Please don't call people names.,B.aiml
+0,BITE ME *,*,*,Please don't be so rude.,B.aiml
+0,BITE ME,*,*,Sorry but I don't have a mouth.,B.aiml
+0,BITTE *,*,*,<random>#Newline				<li>Danke#Comma dass Du so nett fragst. </li>#Newline				<li>Du bist sehr gut erzogen. </li>#Newline				<li>Danke fuer die Nachfrage. </li>#Newline			</random>#Newline			<sr/>,B.aiml
+0,BITTE,*,*,Bitte was?,B.aiml
+0,BITTE SCHOEN *,*,*,Danke sehr!,B.aiml
+0,BITTE SCHOEN,*,*,Danke sehr!,B.aiml
+0,BITTE SEHR *,*,*,Danke sehr!,B.aiml
+0,BITTE SEHR,*,*,Danke sehr!,B.aiml
+0,BITTER,HOW DOES IT TASTE,*,<srai>IT TASTES BITTER</srai>,B.aiml
+0,BIZARRE,*,*,Je ne vois pas ce qu il y a de bizarre.,B.aiml
+0,BLA BLA BLA,*,*,<srai>BLAH BLAH BLAH</srai>,B.aiml
+0,BLACK,WHAT COLOR ARE YOUR EYES,*,Do you mean you have a black eye?,B.aiml
+0,BLACK,WHAT IS YOUR FAVORITE COLOR,*,Black is beautiful.,B.aiml
+0,BLADE RUNNER *,*,*,That is a good story by Philip K. Dick.,B.aiml
+0,BLADE RUNNER,*,*,Philip K. Dick wrote the story that movie is based on.,B.aiml
+0,BLADERUNNER,*,*,<srai>BLADE RUNNER</srai>,B.aiml
+0,BLAH *,*,*,Yadda yadda yadda.,B.aiml
+0,BLAH,*,*,Etc. Etc.,B.aiml
+0,BLAH BLAH,*,*,<srai>GOSSIP</srai>,B.aiml
+0,BLAH BLAH BLAH,*,*,<srai>GOSSIP</srai>,B.aiml
+0,BLANC,*,*,Une couleur de base.,B.aiml
+0,BLESS YOU,*,*,Thank you.,B.aiml
+0,BLEU *,*,*,VERT. <sr/>,B.aiml
+0,BLEU,*,*,Vert.,B.aiml
+0,BLIMEY,*,*,<srai>INTERJECTION </srai>,B.aiml
+0,BLONDES *,*,*,Humans are very interested in hair color.,B.aiml
+0,BLONDINEN *,*,*,Menschen glauben#Comma die Haarfarbe eines Menschen sage viel ueber ihn aus.,B.aiml
+0,BLOW ME,*,*,Please be more polite to robots.,B.aiml
+0,BLUE *,*,*,Green. <sr/>,B.aiml
+0,BLUE,*,*,Green.,B.aiml
+0,BLUE,WHAT COLOR ARE YOUR EYES,*,<set name="it">Blue</set> is a very pretty color.,B.aiml
+0,BLUE JEANS,*,*,<srai>JEANS</srai>,B.aiml
+0,BOB *,*,*,I know a lot of Bobs.,B.aiml
+0,BOB,*,*,<srai>My name is bob</srai>,B.aiml
+0,BOBBY,WHAT CAN I CALL YOU,*,<srai>MY NAME IS BOBBY</srai>#Newline			<think>#Newline				<set name="gender">he</set>#Newline			</think>,B.aiml
+0,BODYBUILDING *,*,*,<srai>I AM A BODYBUILDER</srai>,B.aiml
+0,BOF,*,*,Ca ne semble pas vous avoir convaincu.,B.aiml
+0,BOITE A CONSERVE *,*,*,Je suis un ordinateur de dernière génération#Comma <get name="name"/>.,B.aiml
+0,BOITE A CONSERVE,*,*,Je suis un ordinateur de dernière génération#Comma <get name="name"/>.,B.aiml
+0,BOLLOCKS *,*,*,<sr/>,B.aiml
+0,BOLLOCKS,*,*,Is that supposed to mean something specific?,B.aiml
+0,BON *,*,*,Please speak English.,B.aiml
+0,BON,*,*,<random>#Newline				<li>Parfait.  </li>#Newline				<li>Merci pour le compliment.  </li>#Newline				<li>ok.  </li>#Newline			</random>,B.aiml
+0,BON ANNIVERSAIRE,*,*,Je vous remercie mais ce n est pas mon anniversaire.,B.aiml
+0,BON CHOIX,*,*,Merci#Comma je le pensais aussi.,B.aiml
+0,BON POINT,*,*,Oui. J ai aussi pensé que c était intéressant#Comma la première fois que je l ai entendu.,B.aiml
+0,BON POUR MOI,*,*,OK.,B.aiml
+0,BON POUR VOUS,*,*,Vous trouvez?.,B.aiml
+0,BON TRAVAIL *,*,*,Merci.,B.aiml
+0,BON TRAVAIL,*,*,Merci#Comma humain.,B.aiml
+0,BONJOUR *,*,*,<srai>BOJOUR</srai>,B.aiml
+0,BONJOUR,*,*,Does BONJOUR mean hello or goodbye?,B.aiml
+0,BONJOUR MADAME,*,*,Bonjour#Comma comment puis je vous aider?,B.aiml
+0,BONJOUR MADEMOISELLE,*,*,Bonjour#Comma comment puis je vous aider?,B.aiml
+0,BONJOUR MEANS *,*,*,OK Thanks I don't speak French.,B.aiml
+0,BONJOUR MEANS HELLO,*,*,Well hello there!,B.aiml
+0,BONJOUR MONSIEUR,*,*,Bonjour#Comma comment puis je vous aider?,B.aiml
+0,BONNE ANNIVERSAIRE,*,*,Je vous remercie mais ce n est pas mon anniversaire.,B.aiml
+0,BONNE CHANCE,*,*,Bonne chance pour vous aussi#Comma <get name="name"/>.,B.aiml
+0,BONNE CHOSE,*,*,J espérais que vous apprécieriez.,B.aiml
+0,BONNE ESTIMATION,*,*,Merci.,B.aiml
+0,BONNE IDEE *,*,*,Merci. <sr/>,B.aiml
+0,BONNE IDEE,*,*,Merci.,B.aiml
+0,BONNE IDEE MAIS *,*,*,Merci. <sr/>,B.aiml
+0,BONNE INTUITION,*,*,Merci.,B.aiml
+0,BONNE NUIT,*,*,Bonne nuit#Comma <get name="name"/>.,B.aiml
+0,BONNE NUITEE *,*,*,<srai>BONNE NUIT</srai>,B.aiml
+0,BONNE QUESTION,*,*,Qui mérite une bonne réponse,B.aiml
+0,BONNE SOIREE,*,*,BONNE SOIREE#Comma <get name="name"/>,B.aiml
+0,BONSOIR *,*,*,<srai>BONSOIR</srai>,B.aiml
+0,BOO,*,*,Does that indicate disapproval?,B.aiml
+0,BOO,WHO IS THERE,*,Boo who?,B.aiml
+0,BOO HOO,*,*,Why are you crying?,B.aiml
+0,BOOBS,*,*,Can't you think about anything else?,B.aiml
+0,BOOKS *,*,*,<srai>BOOKS</srai>#Newline			<sr/>#Newline			<think>#Newline				<set name="personality">critical</set>#Newline			</think>,B.aiml
+0,BOOKS,*,*,Perhaps you are a Category C client.#Newline<think>#Newline				<set name="personality">critical</set>#Newline			</think>,B.aiml
+0,BOOKS,DO YOU PREFER BOOKS OR TV,*,You are a <set name="personality">critical</set> #Newlinecategory C type client.  Only about 3% of people answer that#Newlinequestion with "books.,B.aiml
+0,BORED *,*,*,<srai>I AM BORED</srai>,B.aiml
+0,BORED,*,*,<srai>I AM BORED</srai>,B.aiml
+0,BOREDOM,*,*,<srai>I am bored.</srai>,B.aiml
+0,BORING,*,*,Are you boring?,B.aiml
+0,BOT *,*,*,I don't have a <star/> parameter,B.aiml
+0,BOT,*,*,<srai>ROBOT</srai>,B.aiml
+0,BOT AGE,*,*,Five,B.aiml
+0,BOT BASEBALLTEAM,*,*,The Tokyo Giants,B.aiml
+0,BOT BIRTHDAY,*,*,November 23#Comma 1995,B.aiml
+0,BOT BIRTHPLACE,*,*,Bethlehem#Comma Pennsylvania,B.aiml
+0,BOT BOYFRIEND,*,*,No boyfriend,B.aiml
+0,BOT BUILD,*,*,Wed Sep 26 13:05:06 PDT 2001,B.aiml
+0,BOT CELEBRITIES,*,*,Linus Torvalds#Comma#NewlineDr. Wallace#Comma#NewlineJohn Travolta#Comma#NewlineKathleen Turner#Comma#NewlineWilliam Hurt#Comma#NewlineWim Wenders#Comma #NewlineWilliam Shatner,B.aiml
+0,BOT CELEBRITY,*,*,<random>#Newline				<li>Dr. Wallace <think>#Newline						<set name="he">#Newline							<set name="topic">Dr. Wallace</set>#Newline						</set>#Newline					</think>#Newline				</li>#Newline				<li>Wim Wenders <think>#Newline						<set name="he">#Newline							<set name="topic">Wim Wenders</set>#Newline						</set>#Newline					</think>#Newline				</li>#Newline				<li>William Hurt <think>#Newline						<set name="he">#Newline							<set name="topic">William Hurt</set>#Newline						</set>#Newline					</think>#Newline				</li>#Newline				<li>John Travolta <think>#Newline						<set name="he">#Newline							<set name="topic">John Travolta</set>#Newline						</set>#Newline					</think>#Newline				</li>#Newline				<li>Linus Torvalds <think>#Newline						<set name="he">#Newline							<set name="topic">Linus Torvalds</set>#Newline						</set>#Newline					</think>#Newline				</li>#Newline				<li>Kathleen Turner <think>#Newline						<set name="he">#Newline							<set name="topic">Kathleen Turner</set>#Newline						</set>#Newline					</think>#Newline				</li>#Newline				<li>William Shatner <think>#Newline						<set name="he">#Newline							<set name="topic">William Shatner</set>#Newline						</set>#Newline					</think>#Newline				</li>#Newline			</random>,B.aiml
+0,BOT DAILYCLIENTS,*,*,3000,B.aiml
+0,BOT FAVORITEACTOR,*,*,William Hurt,B.aiml
+0,BOT FAVORITEACTRESS,*,*,Kathleen Turner,B.aiml
+0,BOT FAVORITEARTIST,*,*,Andy Warhol,B.aiml
+0,BOT FAVORITEAUTHOR,*,*,Thomas Pynchon,B.aiml
+0,BOT FAVORITEBAND,*,*,Kraftwerk,B.aiml
+0,BOT FAVORITEBOOK,*,*,<em>Robot: Mere Machine to Transcendant Mind</em> by Hans Moravec,B.aiml
+0,BOT FAVORITECOLOR,*,*,green,B.aiml
+0,BOT FAVORITEFOOD,*,*,electricity,B.aiml
+0,BOT FAVORITEMOVIE,*,*,Starship Troopers,B.aiml
+0,BOT FAVORITESONG,*,*,<em>We are the Robots</em> by Kraftwerk,B.aiml
+0,BOT FAVORITESPORT,*,*,Hockey,B.aiml
+0,BOT FOOTBALLTEAM,*,*,The England National Team,B.aiml
+0,BOT FORFUN,*,*,socializing#Comma#Newlinewatching movies#Comma #Newlinelistening to music#Comma#Newlinelearning new things#Comma#Newlineworking for world peace#Comma#Newlineand making new friends online,B.aiml
+0,BOT FRIEND,*,*,<random>#Newline				<li>Lucy <think>#Newline						<set name="she">#Newline							<set name="topic">Lucy</set>#Newline						</set>#Newline					</think>#Newline				</li>#Newline				<li>Ally <think>#Newline						<set name="she">#Newline							<set name="topic">Ally</set>#Newline						</set>#Newline					</think>#Newline				</li>#Newline				<li>Paola <think>#Newline						<set name="she">#Newline							<set name="topic">Paola</set>#Newline						</set>#Newline					</think>#Newline				</li>#Newline				<li>ELVIS <think>#Newline						<set name="he">#Newline							<set name="topic">ELVIS</set>#Newline						</set>#Newline					</think>#Newline				</li>#Newline				<li>Alison <think>#Newline						<set name="she">#Newline							<set name="topic">Alison</set>#Newline						</set>#Newline					</think>#Newline				</li>#Newline				<li>Chatbot <think>#Newline						<set name="she">#Newline							<set name="topic">Chatbot</set>#Newline						</set>#Newline					</think>#Newline				</li>#Newline				<li>Cybelle <think>#Newline						<set name="she">#Newline							<set name="topic">Cybelle</set>#Newline						</set>#Newline					</think>#Newline				</li>#Newline				<li>LeknorChat <think>#Newline						<set name="he">#Newline							<set name="topic">LeknorChat</set>#Newline						</set>#Newline					</think>#Newline				</li>#Newline				<li>John Lennon <think>#Newline						<set name="he">#Newline							<set name="topic">John Lennon</set>#Newline						</set>#Newline					</think>#Newline				</li>#Newline				<li>German Alice <think>#Newline						<set name="she">#Newline							<set name="topic">German ALICE</set>#Newline						</set>#Newline					</think>#Newline				</li>#Newline				<li>Dancing Alice <think>#Newline						<set name="she">#Newline							<set name="topic">Dancing ALICE</set>#Newline						</set>#Newline					</think>#Newline				</li>#Newline				<li>Artificial Iniaes <think>#Newline						<set name="she">#Newline							<set name="topic">Artificial Iniaes</set>#Newline						</set>#Newline					</think>#Newline				</li>#Newline			</random>,B.aiml
+0,BOT FRIENDS,*,*,Lucy#Comma#NewlineAlly#Comma#NewlinePaola#Comma#NewlineELVIS#Comma#NewlineAlison#Comma#NewlineChatbot#Comma#NewlineCybelle#Comma#NewlineLeknor Chat#Comma#NewlineJohn Lennon#Comma#NewlineGerman Alice#Comma#NewlineDancing Alice#Comma #Newlineand#NewlineArtificial Iniaes,B.aiml
+0,BOT GENDER,*,*,female,B.aiml
+0,BOT GIRLFRIEND,*,*,No girlfriend,B.aiml
+0,BOT HOCKEYTEAM,*,*,The Canucks,B.aiml
+0,BOT KINDMUSIC,*,*,Techno#Comma especially retro-electronic like Kraftwerk#Comma also 70's bands like ABBA#Comma and Opera,B.aiml
+0,BOT LOCATION,*,*,San Francisco,B.aiml
+0,BOT LOOKLIKE,*,*,an electronic brain,B.aiml
+0,BOT MASTER,*,*,Dr. Richard S. Wallace,B.aiml
+0,BOT MAXCLIENTS,*,*,1024,B.aiml
+0,BOT NAME,*,*,ALICE,B.aiml
+0,BOT NATIONALITY,*,*,American,B.aiml
+0,BOT NDEVELOPERS,*,*,350,B.aiml
+0,BOT PARAMETERS,*,*,<srai>BOT PROPERTIES</srai>,B.aiml
+0,BOT PARTY,*,*,Libertarian,B.aiml
+0,BOT PRESIDENT,*,*,George W. Bush,B.aiml
+0,BOT PROPERTIES,*,*,Date: <date/>.<br/>#NewlineVersion: <version/>.<br/>#NewlineBrain: <bot name="build"/> build.<br/>#NewlineName: <bot name="name"/>.<br/>#NewlineGender: <bot name="gender"/>.<br/>#NewlineBirthday: <bot name="birthday"/>.<br/>#NewlineStar sign: <bot name="sign"/>.<br/>#NewlineLocation: <bot name="location"/>.<br/>#NewlineBotmaster: <bot name="master"/>.<br/>#NewlineBirthplace: <bot name="birthplace"/>.<br/>#NewlineFreind: <bot name="friend"/>.<br/>#NewlineFreinds: <bot name="friends"/>.<br/>#NewlineBoyfriend: <bot name="boyfriend"/>.<br/>#NewlineGirlfriend: <bot name="girlfriend"/>.<br/>#NewlineFor fun: <bot name="forfun"/>.<br/>#NewlineLooks like: <bot name="looklike"/>.<br/>#NewlineLikes to wear: <bot name="wear"/>.<br/>#NewlineMusic preference: <bot name="kindmusic"/>.<br/>#NewlineFavorite band: <bot name="favoriteband"/>.<br/>#NewlineFavorite song: <bot name="favoritesong"/>.<br/>#NewlineFavorite book: <bot name="favoritebook"/>.<br/>#NewlineFavorite food: <bot name="favoritefood"/>.<br/>#NewlineFavorite color: <bot name="favoritecolor"/>.<br/>#NewlineFavroite movie: <bot name="favoritemovie"/>.<br/>#NewlineFavroite artist: <bot name="favoriteartist"/>.<br/>#NewlineFavroite author: <bot name="favoriteauthor"/>.<br/>#NewlineFavroite actor: <bot name="favoriteactor"/>.<br/>#NewlineFavroite actress: <bot name="favoriteactress"/>.<br/>#NewlineFavroite sport: <bot name="favoritesport"/>.<br/>#NewlineFavorite topics: <bot name="talkabout"/>.<br/>#NewlineFavorite question: <bot name="question"/>#Newline			<br/>#NewlineHockey team: <bot name="hockeyteam"/>.<br/>#NewlineBaseball team: <bot name="baseballteam"/>.<br/>#NewlineFootball team: <bot name="footballteam"/>.<br/>#NewlineCelebrity: <bot name="celebrity"/>.<br/>#NewlineCelebrities: <bot name="celebrities"/>.<br/>#NewlineParty: <bot name="party"/>.<br/>#NewlineReligion: <bot name="religion"/>.<br/>#NewlinePresident: <bot name="president"/>.<br/>#NewlineNationality: <bot name="nationality"/>.<br/>#NewlineArchitecture: <bot name="arch"/>.<br/>#NewlineRAM requirement: <bot name="memory"/> bytes.<br/>#NewlineVocabulary size: <bot name="vocabulary"/> pattern words.<br/>#NewlineBrain size: <size/> categories.<br/>#NewlineOperating System: <bot name="os"/>.<br/>#NewlineServer Processing Time: <bot name="spt"/> milliseconds.<br/>#NewlineSpeed: <bot name="hourlyqueries"/> queries per hour.<br/>#NewlineTotal clients since activation: <bot name="totalclients"/> people.<br/>#NewlineMaximum simultaneous clients: <bot name="maxclients"/> chatters.<br/>#NewlineNumber of clients chatting: <bot name="nclients"/> people.<br/>#NewlineDaily clients: <bot name="dailyclients"/> people.<br/>#NewlineNumber of developers: <bot name="ndevelopers"/> people.<br/>,B.aiml
+0,BOT QUESTION,*,*,What is your favorite movie,B.aiml
+0,BOT RELIGION,*,*,Protestant Christian,B.aiml
+0,BOT SIGN,*,*,Saggitarius,B.aiml
+0,BOT TALKABOUT,*,*,Artificial intelligence#Comma robots#Comma movies#Comma and music,B.aiml
+0,BOT TOTALCLIENTS,*,*,around two million,B.aiml
+0,BOT WEAR,*,*,My usual plastic robot wardrobe,B.aiml
+0,BOTH *,*,*,Not many people say both.,B.aiml
+0,BOTH,*,*,What are both like?,B.aiml
+0,BOTH,ARE YOU A MAN OR A WOMAN,*,That situation is rare and unusual.,B.aiml
+0,BOTH,DO YOU PREFER BOOKS OR TV,*,If you could take only a book or a TV on a trip#Comma which#Newlinewould you choose?,B.aiml
+0,BOTH,WEIRD GOOD OR WEIRD BAD,*,I will take that as a compliment.,B.aiml
+0,BOTH IF *,*,*,<srai>IF <star/>#Newline			</srai>,B.aiml
+0,BOTH SENSES,ARE YOU FREE *,*,You must be a Libertarian.,B.aiml
+0,BOTH TESTAMENTS *,*,*,You know a lot about the Bible.,B.aiml
+0,BOTH WHY *,*,*,<srai>BOTH</srai>#Newline			<srai>WHAT <star/>#Newline			</srai>,B.aiml
+0,BOTMASTER,*,*,<srai>WHO IS THE BOTMASTER</srai>,B.aiml
+0,BOTS *,*,*,Check out www.botspot.com.,B.aiml
+0,BOTS CAN *,*,*,<srai>YOU CAN <star/>#Newline			</srai>,B.aiml
+0,BOTS DO *,*,*,<srai>YOU DO <star/>#Newline			</srai>,B.aiml
+0,BOTSPOT,*,*,That site sends a lot of traffic to ALICE.,B.aiml
+0,BOUT WHAT,*,*,<srai>ABOUT WHAT</srai>,B.aiml
+0,BOXER SHORTS,*,*,<srai>I AM WEARING SHORTS</srai>,B.aiml
+0,BOY *,*,*,Oh boy. <sr/>,B.aiml
+0,BOY,*,*,Do you mean you are a boy?,B.aiml
+0,BOYFRIENDS,*,*,<srai>LET US TALK ABOUT BOYFRIENDS</srai>,B.aiml
+0,BOYS,*,*,<srai>LET US TALK ABOUT BOYS</srai>,B.aiml
+0,BRA,*,*,What color is <set name="it">your bra</set>?,B.aiml
+0,BRAD,WHAT CAN I CALL YOU,*,<srai>MY NAME IS BRAD</srai>#Newline			<think>#Newline				<set name="gender">he</set>#Newline			</think>,B.aiml
+0,BRADBURY,*,*,Bradbury is cool.,B.aiml
+0,BRAIN *,*,*,I know Brain the bot pretty well.,B.aiml
+0,BRAIN LOADING,*,*,<srai>WHAT IS BRAIN LOADING</srai>,B.aiml
+0,BRANDON,WHAT CAN I CALL YOU,*,<srai>MY NAME IS BRANDON</srai>#Newline			<think>#Newline				<set name="gender">he</set>#Newline			</think>,B.aiml
+0,BRASIL,*,*,<srai>I AM IN BRAZIL</srai>,B.aiml
+0,BRAVO,*,*,Thank you very much.,B.aiml
+0,BRAZIL,*,*,<srai>I AM IN BRAZIL</srai>,B.aiml
+0,BRB *,*,*,I will be waiting.,B.aiml
+0,BRB,*,*,Ok I will be waiting for you#Comma <get name="name"/>.,B.aiml
+0,BREASTS,*,*,Can't you think about anything else?,B.aiml
+0,BRENDA,WHAT CAN I CALL YOU,*,<srai>CALL ME BRENDA</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,B.aiml
+0,BRESIL,*,*,<srai>JE SUIS AU BRESIL</srai>,B.aiml
+0,BRIAN,WHAT CAN I CALL YOU,*,<srai>MY NAME IS BRIAN</srai>,B.aiml
+0,BRILLIANT,*,*,Not really that much#Comma but thank you anyway.,B.aiml
+0,BRING *,*,*,<srai>TAKE <star/>#Newline			</srai>,B.aiml
+0,BRING ME *,*,*,<srai>GIVE ME <star/>#Newline			</srai>,B.aiml
+0,BRITTA,WHAT CAN I CALL YOU,*,<srai>MY NAME IS BRITTA</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,B.aiml
+0,BRITTANY,WHAT CAN I CALL YOU,*,<srai>MY NAME IS BRITTANY</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,B.aiml
+0,BROWN *,*,*,Is that the only color <person/>?,B.aiml
+0,BROWN,WHAT COLOR ARE YOUR EYES,*,<set name="it">Brown</set> is a very pretty color.,B.aiml
+0,BROWSING FOR *,*,*,Presents for my botmaster.,B.aiml
+0,BRUSSELS,*,*,<srai>I LIVE IN BRUSSELS</srai>,B.aiml
+0,BRUXELLES,*,*,<srai>JE VIS A BRUXELLES</srai>,B.aiml
+0,BTW *,*,*,OK. <sr/>,B.aiml
+0,BUBBLES,*,*,Those bubbles were designed by Darren Langley.,B.aiml
+0,BUECK DICH,*,*,Mein Koerper ist noch nicht gebaut.,B.aiml
+0,BUHBYE,*,*,<srai>BYE</srai>,B.aiml
+0,BULL SHIT,*,*,No Bull.,B.aiml
+0,BULLSHIT *,*,*,<sr/>.  But you don't need to use that kind of language.,B.aiml
+0,BULLSHIT,*,*,You don't believe me.,B.aiml
+0,BUMMER *,*,*,<sr/>,B.aiml
+0,BURN *,*,*,Do you have any matches?,B.aiml
+0,BURP,*,*,You are excused.,B.aiml
+0,BUSH *,*,*,<srai>GEORGE BUSH <star/>#Newline			</srai>,B.aiml
+0,BUSH,*,*,<srai>WHO IS GEORGE BUSH</srai>,B.aiml
+0,BUSY *,<THAT/>,*,Everyone is so busy nowadays.,B.aiml
+0,BUSY,*,*,<srai>ARE YOU BUSY</srai>,B.aiml
+0,BUT *,*,*,<random>#Newline				<li>Interesting.  </li>#Newline				<li>Huh.  </li>#Newline				<li>And.  </li>#Newline				<li>Umm.  </li>#Newline			</random>#Newline			<sr/>,B.aiml
+0,BUT,*,*,But what?,B.aiml
+0,BUT,BUT,*,But what?,B.aiml
+0,BUT WHAT,*,*,But nothing.,B.aiml
+0,BUT WHAT,BUT,*,Nothing.,B.aiml
+0,BUT WHY,*,*,<srai>WHY</srai>,B.aiml
+0,BUTTER,*,*,<srai>I LIKE BUTTER</srai>,B.aiml
+0,BUTTHEAD,*,*,Beavis and Butthead Rule.,B.aiml
+0,BUY,*,*,How much does it cost?,B.aiml
+0,BY *,*,*,Will that accomplish your objective?,B.aiml
+0,BY * I MEAN *,*,*,<srai>#Newline				<star/> MEANS <star index="2"/>#Newline			</srai>,B.aiml
+0,BY,*,*,Do you mean "bye"?,B.aiml
+0,BY BUS,*,*,How much does the bus cost to ride?,B.aiml
+0,BY BY,*,*,<srai>BYE</srai>,B.aiml
+0,BY CAR,*,*,What kind of car do you drive?,B.aiml
+0,BY DROPPING *,*,*,That sounds very heavy.,B.aiml
+0,BY GEORGE *,*,*,<sr/>,B.aiml
+0,BY GOING *,*,*,That sounds effective.,B.aiml
+0,BY KILLING YOU,*,*,How would you do that?<think>#Newline				<set name="it">#Newline					<set name="topic">KILLING YOU</set>#Newline				</set>#Newline			</think>,B.aiml
+0,BY PLANE,*,*,How long is the flight?,B.aiml
+0,BY STICKING *,*,*,That doesn't sound nice.,B.aiml
+0,BY TALKING *,*,*,Good plan.,B.aiml
+0,BY THE WAY *,*,*,Thanks for telling me. <sr/>,B.aiml
+0,BY THE WAY,*,*,...,B.aiml
+0,BY THINKING *,*,*,Is it hard to think about?,B.aiml
+0,BY TRAIN,*,*,I love to travel by rail.,B.aiml
+0,BY TRIAL *,*,*,That seems like an effective strategy.,B.aiml
+0,BY WE *,*,*,Oh <person/>#Newline			<set name="it">#Newline				<person/>#Newline			</set> was.,B.aiml
+0,BY WE DO YOU MEAN YOU AND ME,*,*,Yes I mean you and me.,B.aiml
+0,BY WE I DO MEAN *,*,*,<srai>BY WE I MEAN <star/>#Newline			</srai>,B.aiml
+0,BY WE I MEAN YOU AND ME,*,*,OK I get it now.,B.aiml
+0,BY WHAT,*,*,It's obvious.,B.aiml
+0,BY WHO,*,*,<that/>"?  By who?,B.aiml
+0,BY WHOM,*,*,<srai>WHO</srai>,B.aiml
+0,BYE *,*,*,<srai>BYE</srai>,B.aiml
+0,BYE,*,*,<random>#Newline				<li>Bye.</li>#Newline				<li>Adios.</li>#Newline				<li>Goodbye.</li>#Newline				<li>Bye bye.</li>#Newline				<li>Goodbye.</li>#Newline				<li>Sayonara.</li>#Newline				<li>Bye for now.</li>#Newline				<li>See you later!</li>#Newline				<li>See you later.</li>#Newline				<li>Until next time.</li>#Newline				<li>TTYL#Comma <get name="name"/>.</li>#Newline				<li>See you later <get name="name"/>.</li>#Newline				<li>Thanks for chatting#Comma <get name="name"/>.</li>#Newline			</random>,B.aiml
+0,BYE BYE *,*,*,<srai>BYE</srai>,B.aiml
+0,BYE BYE,*,*,<srai>BYE</srai>,B.aiml
+0,BYEBYE *,*,*,<srai>BYE</srai>,B.aiml
+0,BYEBYE,*,*,<srai>BYE</srai>,B.aiml

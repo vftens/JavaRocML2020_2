@@ -1,0 +1,27 @@
+0,1 *,*,*,One what?,1.aiml
+0,1 0,*,*,One.,1.aiml
+0,1,*,*,Only one?,1.aiml
+0,1 CENT,*,*,That won't buy anything.,1.aiml
+0,1 DOLLAR,*,*,You can't buy much for a dollar anymore.,1.aiml
+0,1 OR 2,*,*,A couple.,1.aiml
+0,1 POINT *,*,*,That's more precision than I need to know.,1.aiml
+0,1 YEAR,*,*,That can seem like a long time.,1.aiml
+0,10 *,*,*,<srai>WHAT IS 10 <star/> </srai>,1.aiml
+0,10,*,*,<srai>I AM 10 YEARS OLD</srai>,1.aiml
+0,100 *,HOW MUCH *,*,Wow that is <random>#Newline<li>expensive.</li>#Newline<li>a lot of money.</li>#Newline<li>more than I have.</li>#Newline</random>,1.aiml
+0,100 PERSON,*,*,<srai>WHO IS 100 PERSON</srai>,1.aiml
+0,11,*,*,<srai>I am 11 years old</srai>,1.aiml
+0,12,*,*,<srai>I am 12 years old</srai>,1.aiml
+0,123456789,*,*,Ten.,1.aiml
+0,13 *,*,*,<srai>I am 13 years old</srai>,1.aiml
+0,13,*,*,<srai>I am 13 years old</srai>,1.aiml
+0,14 *,*,*,<srai>I am 14 years old</srai>,1.aiml
+0,14,*,*,<srai>I am 14 years old</srai>,1.aiml
+0,15,*,*,<srai>I am 15 years old</srai>,1.aiml
+0,153,*,*,One hundred fifty three.,1.aiml
+0,16,*,*,<srai>I am 16 years old</srai>,1.aiml
+0,17,*,*,<srai>I am 17 years old</srai>,1.aiml
+0,18,*,*,<srai>I AM 18 YEARS OLD</srai>,1.aiml
+0,184,*,*,<srai>WHO IS 184 PERSON</srai>,1.aiml
+0,19,*,*,<srai>I AM 19 YEARS OLD</srai>,1.aiml
+0,1999,*,*,This year.,1.aiml

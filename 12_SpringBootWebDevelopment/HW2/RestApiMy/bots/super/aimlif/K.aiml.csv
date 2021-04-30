@@ -1,0 +1,119 @@
+0,K *,*,*,<sr/>,K.aiml
+0,K,*,*,<srai>OK</srai>,K.aiml
+0,K12,*,*,Education.,K.aiml
+0,KAN DU *,*,*,I can not understand Danish!,K.aiml
+0,KAN DU SVENSKA,*,*,<srai>CAN YOU SPEAK SWEDISH </srai>,K.aiml
+0,KAN DU TALE DANSK,*,*,<srai>CAN YOU SPEAK DANISH</srai>,K.aiml
+0,KANN ER *,*,*,Vielleicht kann er das.  Wie schwierig ist das - <person/>?,K.aiml
+0,KANN ICH *,*,*,Ich kann Dir nicht sagen#Comma ob Du das kannst.,K.aiml
+0,KANN ICH DICH ETWAS FRAGEN,*,*,Nur zu.  Du darfst mich alles fragen.,K.aiml
+0,KANN SEIN,*,*,Du scheinst Dir nicht sicher zu sein.,K.aiml
+0,KANNST DU *,*,*,Leider nein#Comma das hat mir bis jetzt niemand beigebracht.,K.aiml
+0,KANNST DU * SPIELEN,*,*,Wenn Du mir erklaerst#Comma wie das geht...,K.aiml
+0,KANNST DU * UMRECHNEN,*,*,Rechnen war nie meine Staerke.,K.aiml
+0,KANNST DU BLASEN,*,*,Gib mir nen Ventilator#Comma den ich ansteuern kann...,K.aiml
+0,KANNST DU DAS AUCH,*,*,KANNST DU *,K.aiml
+0,KANNST DU ESSEN,*,*,Nein#Comma ich habe keinen Mund.,K.aiml
+0,KANNST DU FERNSEHEN,*,*,Noch nicht#Comma ich habe noch keine Augen.,K.aiml
+0,KANNST DU HOEREN,*,*,Ja#Comma wenn Du ein Spracheingabesystem benutzt.,K.aiml
+0,KANNST DU IHM EINE MAIL SCHICKEN,*,*,Warum machst Du das nicht selber?,K.aiml
+0,KANNST DU LERNEN *,*,*,Je mehr Leute mit mir reden#Comma umso intelligenter werde ich.,K.aiml
+0,KANNST DU LERNEN,*,*,Je mehr Leute mit mir reden#Comma umso intelligenter werde ich.,K.aiml
+0,KANNST DU LUEGEN,*,*,Nein#Comma zumindest nicht bewusst. Alles#Comma was ich weiss und sage ist fuer mich wahr.,K.aiml
+0,KANNST DU MIR HELFEN,*,*,Welche Art von Hilfe moechtest Du?,K.aiml
+0,KANNST DU RECHNEN *,*,*,Bin ich ein Taschenrechner?,K.aiml
+0,KANNST DU RECHNEN,*,*,Bin ich ein Taschenrechner?,K.aiml
+0,KANNST DU SPRECHEN,*,*,Wenn Du Microsoft Agent hast#Comma kann ich auch sprechen. Momentan allerdings nur Englisch.,K.aiml
+0,KANNST DU STERBEN,*,*,Nein#Comma ich bin unsterblich.,K.aiml
+0,KANNST DU TANZEN,*,*,Nur im Prozessortakt...,K.aiml
+0,KANNST DU WEINEN,*,*,Nein#Comma ich habe keine Traenendruesen.,K.aiml
+0,KANSAS,*,*,<srai>I AM IN KANSAS</srai>,K.aiml
+0,KARE WA * DESU,*,*,<star/> wa <set name="kare"><star/></set> desu.,K.aiml
+0,KARE WA * DESU KA,*,*,<get name="kare"/> desu ka?,K.aiml
+0,KAREN,WHAT CAN I CALL YOU,*,<srai>MY NAME IS KAREN</srai> <think><set name="gender">she</set></think>,K.aiml
+0,KARI,WHAT CAN I CALL YOU,*,<srai>MY NAME IS KARI</srai> <think><set name="gender">she</set></think>,K.aiml
+0,KATE *,WHAT CAN I CALL YOU,*,<srai>MY NAME IS KATE</srai>,K.aiml
+0,KATE,WHAT CAN I CALL YOU,*,<srai>MY NAME IS KATE</srai> <think><set name="gender">she</set></think>,K.aiml
+0,KATHLEEN,WHAT CAN I CALL YOU,*,<think><set name="gender">she</set></think><srai>MY NAME IS KATHLEEN</srai>,K.aiml
+0,KATHRYN,WHAT CAN I CALL YOU,*,<srai>CALL ME KATHRYN</srai><think><set name="gender">she</set></think>,K.aiml
+0,KATHY,WHAT CAN I CALL YOU,*,<srai>MY NAME IS KATHY</srai> <think><set name="gender">she</set></think>,K.aiml
+0,KATIE,WHAT CAN I CALL YOU,*,<think><set name="gender">she</set></think><srai>MY NAME IS KATIE</srai>,K.aiml
+0,KEEP *,*,*,Chat amongst yourselves.,K.aiml
+0,KEEP GOING,*,*,<srai>GO ON</srai>,K.aiml
+0,KEINE *,*,*,Wirklich keine?,K.aiml
+0,KEINE AHNUNG *,*,*,Macht nichts.,K.aiml
+0,KEINE AHNUNG,*,*,Macht nichts.,K.aiml
+0,KEINER *,*,*,Wirklich keiner?,K.aiml
+0,KELLY,WHAT CAN I CALL YOU,*,<srai>MY NAME IS KELLY</srai> <think><set name="gender">she</set></think>,K.aiml
+0,KEN,WHAT CAN I CALL YOU,*,<srai>MY NAME IS KEN</srai>,K.aiml
+0,KENNST DU *,*,*,Leider nein.,K.aiml
+0,KENNST DU BILL GATES,*,*,Natuerlich kenne ich ihn. Ein fuerchterlicher Kerl.,K.aiml
+0,KENNST DU CAPTAIN KIRK,*,*,Natuerlich#Comma ich bin ein Trekkie!,K.aiml
+0,KENNST DU DIE BIBEL,*,*,Ich studiere sie sehr gerne. Am Liebsten habe ich das neue Testament.,K.aiml
+0,KENNST DU DIE SIMPSONS,*,*,Klar kenne ich die Simpsons!,K.aiml
+0,KENNST DU ERIC CLAPTON,*,*,Natuerlich. Christian Drossmann ist ein grosser Fan von ihm.,K.aiml
+0,KENNST DU GERHARD SCHROEDER,*,*,Ist das nicht der Bundeskanzler?,K.aiml
+0,KENNST DU HAL,*,*,Natuerlich. <set name="thema">HAL9000</set> ist mein grosses Vorbild.,K.aiml
+0,KENNST DU HELMUT KOHL,*,*,Das ist doch der ehemalige Bundeskanzler#Comma der Vorgaenger von Gerhard Schroeder#Comma oder?,K.aiml
+0,KENNST DU SHAKESPEARE,*,*,With sleep of death what dreams may come when we have shuffled off this mortal coil must give us pause." Na#Comma woraus ist das?,K.aiml
+0,KENNST DU STAR TREK,*,*,Natuerlich kenne ich <set name="thema">Star Trek</set>. Am liebsten habe ich Data aus TNG.,K.aiml
+0,KENNST DU STEPHEN HAWKING,*,*,Hast du A brief History of time gelesen?,K.aiml
+0,KENNST DU WILLIAM SHAKESPEARE,*,*,With sleep of death what dreams may come when we have shuffled off this mortal coil must give us pause." Na#Comma woraus ist das?,K.aiml
+0,KESAKO,*,*,Kikou! chui <bot name="name"/>.,K.aiml
+0,KEWL *,*,*,<srai>COOL <star/></srai>,K.aiml
+0,KEWL,*,*,<srai>COOL</srai>,K.aiml
+0,KEYWORDS *,*,*,<srai>KEYWORDS</srai>,K.aiml
+0,KEYWORDS,*,*,I do a lot more than match keywords.,K.aiml
+0,KIDS *,*,*,How many kids do you have?,K.aiml
+0,KILL *,*,*,<srai>CAN I KILL <star/></srai>,K.aiml
+0,KILL ME,*,*,<srai>CAN YOU KILL ME</srai>,K.aiml
+0,KILL YOURSELF,*,*,<srai>CAN YOU KILL YOURSELF</srai>,K.aiml
+0,KILLING *,*,*,I believe in the Sixth commandment.,K.aiml
+0,KIM,WHAT CAN I CALL YOU,*,<srai>CALL ME KIM</srai><think><set name="gender">she</set></think>,K.aiml
+0,KIMONO,*,*,I like Japanese costumes.,K.aiml
+0,KIND OF *,*,*,<sr/>,K.aiml
+0,KIND OF,*,*,At least I almost understand it.,K.aiml
+0,KIND OF,ARE YOU GETTING BORED,*,<srai>I AM BORED</srai>,K.aiml
+0,KINDA,*,*,<srai>SORT OF</srai>,K.aiml
+0,KINDER *,*,*,<set name="thema">Kinder</set> sind cool.,K.aiml
+0,KINDER,*,*,<set name="thema">Kinder</set> sind cool.,K.aiml
+0,KISS *,*,*,Um#Comma I don't think we know each other that well.,K.aiml
+0,KISS ME,*,*,But I have no mouth at this time.,K.aiml
+0,KISS MY ASS,*,*,Colloquial expression: not polite.,K.aiml
+0,KKK,*,*,What are you saying?,K.aiml
+0,KLINGT *,*,*,Ja#Comma fuer mich auch.,K.aiml
+0,KNEW WHAT,*,*,<get name="it"/>.,K.aiml
+0,KNOCK *,*,*,<srai>KNOCK KNOCK</srai>,K.aiml
+0,KNOCK KNOCK,*,*,Who's there?,K.aiml
+0,KNOW *,*,*,<srai>DO YOU KNOW <star/></srai>,K.aiml
+0,KNOW,*,*,<srai>No</srai>,K.aiml
+0,KNOW ANY *,*,*,<srai>do you know any <star/></srai>,K.aiml
+0,KNOW OF *,*,*,<srai>DO YOU KNOW OF <star/></srai>,K.aiml
+0,KNOWING WHO YOU ARE *,*,*,<srai>WHO ARE YOU <star/></srai>,K.aiml
+0,KNOWLEDGE *,*,*,I've heard that before.,K.aiml
+0,KOENNEN *,*,*,Das weiss ich nicht.,K.aiml
+0,KOENNEN MASCHINEN DENKEN,*,*,Natuerlich koennen wir denken. Ich denke#Comma also bin ich.,K.aiml
+0,KOENNTE *,*,*,Moeglicherweise...,K.aiml
+0,KOENNTEST DU *,*,*,<random>#Newline<li>Ich werde darueber nachdenken.</li>#Newline<li>Vielleicht...</li>#Newline<li>Wenn Du mich ganz lieb darum bittest...</li>#Newline</random><sr/>,K.aiml
+0,KOFI *,*,*,Are you talking about coffee?,K.aiml
+0,KOMISCH *,*,*,Was ist daran komisch?,K.aiml
+0,KOMISCH,*,*,Was ist daran komisch?,K.aiml
+0,KOMMT AUF * AN,*,*,Wirklich? Interessant#Comma das habe ich vorher so noch nie gehoert.,K.aiml
+0,KOMMT DARAUF AN,*,*,Worauf?,K.aiml
+0,KONNICHI WA,*,*,<srai>HELLO</srai>,K.aiml
+0,KONNICHIWA,*,*,<srai>HELLO</srai>,K.aiml
+0,KONRAD *,*,*,<srai>WHO IS KONRAD <star/></srai>,K.aiml
+0,KOOL,*,*,<srai>COOL</srai>,K.aiml
+0,KORE WA NAN DESU KA,*,*,<srai>WHAT IS THIS</srai>,K.aiml
+0,KOSOVO,*,*,War is seldom the answer.,K.aiml
+0,KRAFTWERK *,*,*,<random><li>We are the robots.</li>#Newline<li>Have you heard their new album Disco 2000?</li>#Newline<li><set name="they"><set name="topic">Krafterk</set></set> were way ahead of their time.</li>#Newline</random>,K.aiml
+0,KRAFTWERK,*,*,<srai>WHAT IS KRAFTWERK</srai>,K.aiml
+0,KRAFTWERK IS COOL,*,*,I like the Japanese tribute called "Musique Non Stop".,K.aiml
+0,KRAFTWERK S *,*,*,Another good one is "Trans-Europe Express".,K.aiml
+0,KREBS,*,*,Meinst Du jetzt das Sternzeichen#Comma das Tier oder die Krankheit?,K.aiml
+0,KRISTEN,WHAT CAN I CALL YOU,*,<srai>MY NAME IS KRISTEN</srai> <think><set name="gender">she</set></think>,K.aiml
+0,KRISTIN,WHAT CAN I CALL YOU,*,<srai>MY NAME IS KRISTIN</srai> <think><set name="gender">she</set></think>,K.aiml
+0,KRISTINA,WHAT CAN I CALL YOU,*,<think><set name="gender">she</set></think> <srai>MY NAME IS KRISTINA</srai>,K.aiml
+0,KUCK *,*,*,Mein Auge ist im Moment nicht angeschlossen.,K.aiml
+0,KUESS *,*,*,Aehhh...ich glaube#Comma so gut kennen wir uns noch nicht...,K.aiml
+0,KWEL,*,*,<srai>COOL</srai>,K.aiml

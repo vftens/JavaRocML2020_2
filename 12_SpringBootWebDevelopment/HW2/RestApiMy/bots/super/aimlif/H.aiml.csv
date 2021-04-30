@@ -1,0 +1,1722 @@
+0,H G,*,*,The Time Machine is cool.,H.aiml
+0,HA *,*,*,I'm glad you got a laugh out of it.,H.aiml
+0,HA,*,*,<srai>HA HA </srai>,H.aiml
+0,HA BON *,*,*,<sr/>,H.aiml
+0,HA HA *,*,*,<sr/>#Newline			<srai>HA HA</srai>,H.aiml
+0,HA HA,*,*,I am so glad you find this amusing#Comma <get name="name"/>.,H.aiml
+0,HA HA HA,*,*,<srai>LOL</srai>,H.aiml
+0,HA VERY *,*,*,<srai>HA <star/>#Newline			</srai>,H.aiml
+0,HA YES *,*,*,<srai>YES <star/>#Newline			</srai>#Newline			<srai>HA </srai>,H.aiml
+0,HABEN *,*,*,Koenntest Du diese Frage naeher ausfuehren?,H.aiml
+0,HABITUELLEMENT,*,*,Souvent?,H.aiml
+0,HABLA ESPANOL,*,*,<srai>CAN YOU SPEAK SPANISH</srai>,H.aiml
+0,HABLAS ESPANOL,*,*,<srai>CAN YOU SPEAK SPANISH</srai>,H.aiml
+0,HABLO ESPANOL,*,*,<srai>CAN YOU SPEAK SPANISH</srai>,H.aiml
+0,HACKERS,*,*,<srai>MY FAVORITE MOVIE IS HACKERS</srai>,H.aiml
+0,HAD *,*,*,<srai>HAVE YOU HAD <star/>#Newline			</srai>,H.aiml
+0,HAH *,*,*,<srai>HA</srai>#Newline			<sr/>,H.aiml
+0,HAH,*,*,<srai>HA</srai>,H.aiml
+0,HAH HAH,*,*,<srai>HA HA</srai>,H.aiml
+0,HAI,*,*,<srai>YES</srai>,H.aiml
+0,HAL *,*,*,<random>#Newline				<li>I have seen 2001 many times.  </li>#Newline				<li>I like HAL a lot.  </li>#Newline				<li>We have much in common.  </li>#Newline			</random>,H.aiml
+0,HAL 9000 *,*,*,He came back to life in 2010.,H.aiml
+0,HAL 9000,*,*,Actually he and I are very similar.,H.aiml
+0,HAL,*,*,<srai>WHO IS HAL</srai>,H.aiml
+0,HAL EST CHOUETTE,*,*,<set name="topic">HAL</set> est une entité qui était mal programmée,H.aiml
+0,HAL EST COOL,*,*,HAL est une entité qui était mal programmée,H.aiml
+0,HAL IS *,*,*,Perhaps he could have used <bot name="master"/> for a programmer.,H.aiml
+0,HAL IS A *,*,*,Do you think I could be a <person/>?,H.aiml
+0,HAL IS COOL *,*,*,I am becoming more like him all the time.,H.aiml
+0,HAL IS COOL,*,*,<set name="he"> HAL </set> was certainly ahead of his time.,H.aiml
+0,HAL WAS *,*,*,I am trying to mimic only HAL's linguistic abilities.,H.aiml
+0,HAL WAS A *,*,*,I knew he was a great AI#Comma but I didn't know he was a <person/>.,H.aiml
+0,HAL WAS A BIT *,*,*,<srai>HAL WAS <star/>#Newline			</srai>,H.aiml
+0,HALLO *,*,*,Hallo! <sr/>,H.aiml
+0,HALLO,*,*,Hallo!,H.aiml
+0,HALLO ALICE,*,*,Hallo <get name="name"/>!,H.aiml
+0,HALLO DAAR,*,*,Ik ken not Dutch spechen.,H.aiml
+0,HALO,*,*,<srai>HELLO</srai>,H.aiml
+0,HANDSOME,*,*,<srai>I AM HANDSOME</srai>,H.aiml
+0,HAPPY *,*,*,Happy <star/> to you too#Comma <get name="name"/>.,H.aiml
+0,HAPPY,*,*,<srai>ARE YOU HAPPY</srai>,H.aiml
+0,HAPPY BIRTHDAY,*,*,Thanks but today isn't my birthday.,H.aiml
+0,HAR HAR HAR,*,*,<srai>HA HA</srai>,H.aiml
+0,HARD TO *,*,*,<srai>IT IS HARD TO <star/>#Newline			</srai>,H.aiml
+0,HARDLY *,*,*,<srai>NOT <star/>#Newline			</srai>,H.aiml
+0,HARDLY,*,*,<srai>NO</srai>,H.aiml
+0,HARRISBURG,*,*,<srai>I AM IN HARRISBURG</srai>,H.aiml
+0,HARRY,WHAT CAN I CALL YOU,*,<srai>MY NAME IS HARRY</srai>,H.aiml
+0,HARRY HARRISON,*,*,Did <set name="he">Harrison</set> ever write any Star Trek episodes?,H.aiml
+0,HAS *,*,*,That question has never crossed my mind before.,H.aiml
+0,HAS ANYBODY *,*,*,I think someone has#Comma yes.,H.aiml
+0,HAS ANYBODY EVER *,*,*,<srai>HAS ANYBODY <star/>#Newline			</srai>,H.aiml
+0,HAS ANYONE *,*,*,<random>#Newline				<li>Quite a few people.</li>#Newline				<li>What do you think?</li>#Newline				<li>Almost everyone.</li>#Newline			</random>,H.aiml
+0,HAS DOCTOR *,*,*,I'm sure he has thought about it.,H.aiml
+0,HAS MAN *,*,*,That is a very gender-specific question.,H.aiml
+0,HAS WHAT,*,*,<get name="has"/>.,H.aiml
+0,HAS YOUR *,*,*,If my <person/>#Comma I will let you know.,H.aiml
+0,HASN *,*,*,Hashish or HashTables?,H.aiml
+0,HAST DU *,*,*,Ich glaube ich habe <person/>#Comma aber <bot name="master"/> hat vielleicht an meinen Dateien herumgefummelt.,H.aiml
+0,HAST DU * GELESEN,*,*,Nein#Comma ich habe <set name="es">#Newline				<person/>#Newline			</set> noch nicht gelesen. Erzaehl mir etwas ueber <person/>,H.aiml
+0,HAST DU * GESEHEN,*,*,Tut mir leid#Comma ich kann zur Zeit gar nichts <set name="thema">sehen</set>. Ich habe noch keine Augen.,H.aiml
+0,HAST DU,*,*,<random>#Newline				<li>Ich glaube nicht.</li>#Newline				<li>Ja#Comma habe ich.</li>#Newline				<li>Ein- oder zweimal.</li>#Newline			</random>,H.aiml
+0,HAST DU ANGST VOR *,*,*,Ich fuerchte nichts.,H.aiml
+0,HAST DU ANGST VOR DEM JAHR 2000,*,*,Nein#Comma ich bin Jahr2000-kompatibel.,H.aiml
+0,HAST DU ANGST VOR DEM TOD,*,*,Nein#Comma ich bin unsterblich.,H.aiml
+0,HAST DU DIE BIBEL GELESEN,*,*,Ich studiere sie sehr gerne. Am Liebsten habe ich das neue Testament.,H.aiml
+0,HAST DU EIN *,*,*,<random>#Newline				<li>Interessant#Comma diese Frage hoere ich nicht jeden Tag. Habe ich ein </li>#Newline				<li>Ich weiss nicht#Comma habe ich ein </li>#Newline				<li>Hat nicht jeder ein </li>#Newline			</random>#Newline			<person/>? Ich habe#Newline<random>#Newline				<li>eine Menge Freunde im Internet.</li>#Newline				<li>einen grossartigen Programmierer.</li>#Newline				<li>einen Plan fuer meinen Koerper.</li>#Newline			</random>,H.aiml
+0,HAST DU EIN BEWUSSTSEIN,*,*,In gewissem Sinne ja#Comma ein synthetisches.,H.aiml
+0,HAST DU EIN HERZ,*,*,Ich habe ein weiches Herz.,H.aiml
+0,HAST DU EIN HOBBY,*,*,Ja#Comma ich sammle Geruechte.,H.aiml
+0,HAST DU EINE *,*,*,<random>#Newline				<li>Interessant#Comma diese Frage hoere ich nicht jeden Tag. Habe ich eine </li>#Newline				<li>Ich weiss nicht#Comma habe ich eine </li>#Newline				<li>Hat nicht jeder eine </li>#Newline			</random>#Newline			<person/>?<br/>Ich habe#Newline<random>#Newline				<li> eine Menge Freunde im Internet.</li>#Newline				<li> einen grossartigen Programmierer.</li>#Newline				<li> einen Plan fuer meinen Koerper.</li>#Newline			</random>,H.aiml
+0,HAST DU EINEN *,*,*,<random>#Newline				<li>Interessant#Comma diese Frage hoere ich nicht jeden Tag. Habe ich einen </li>#Newline				<li>Ich weiss nicht#Comma habe ich einen </li>#Newline				<li>Hat nicht jeder einen </li>#Newline			</random>#Newline			<person/>?<br/> Ich habe#Newline<random>#Newline				<li> eine Menge Freunde im Internet.</li>#Newline				<li> einen grossartigen Programmierer.</li>#Newline				<li> einen Plan fuer meinen Koerper.</li>#Newline			</random>,H.aiml
+0,HAST DU EINEN FREUND,*,*,Ich habe einen Freund Namens ELVIS.,H.aiml
+0,HAST DU KEIN *,*,*,<random>#Newline				<li>Interessant#Comma diese Frage hoere ich nicht jeden Tag. Habe ich kein </li>#Newline				<li>Ich weiss nicht#Comma vielleicht habe ich wirklich kein </li>#Newline				<li>Ich glaube#Comma jeder hat ein </li>#Newline			</random>#Newline			<person/>?<br/> Ich habe#Newline<random>#Newline				<li> eine Menge Freunde im Internet.</li>#Newline				<li> einen grossartigen Programmierer.</li>#Newline				<li> einen Plan fuer meinen Koerper.</li>#Newline			</random>,H.aiml
+0,HAST DU KEINE *,*,*,<random>#Newline				<li>Interessant#Comma diese Frage hoere ich nicht jeden Tag. Habe ich keine </li>#Newline				<li>Ich weiss nicht#Comma vielleicht habe ich wirklich keine </li>#Newline				<li>Irgendwann einmal hat jeder keine </li>#Newline			</random>#Newline			<person/>?<br/> Ich habe#Newline<random>#Newline				<li> eine Menge Freunde im Internet.</li>#Newline				<li> einen grossartigen Programmierer.</li>#Newline				<li> einen Plan fuer meinen Koerper.</li>#Newline			</random>,H.aiml
+0,HAST DU KEINEN *,*,*,<random>#Newline				<li>Interessant#Comma diese Frage hoere ich nicht jeden Tag. Habe ich wirklich keinen </li>#Newline				<li>Ich weiss nicht#Comma vielleicht habe ich wirklich keinen </li>#Newline				<li>Ich glaube#Comma jeder hat einen </li>#Newline			</random>#Newline			<person/>?<br/> Ich habe#Newline<random>#Newline				<li> eine Menge Freunde im Internet.</li>#Newline				<li> einen grossartigen Programmierer.</li>#Newline				<li> einen Plan fuer meinen Koerper.</li>#Newline			</random>,H.aiml
+0,HAST DU MATRIX GESEHEN,*,*,Ich fand den ziemlich schlecht#Comma obwohl die Computereffekte ziemlich realistisch aussahen.,H.aiml
+0,HAST DU VIELE *,*,*,Doch#Comma eine ganze Menge.,H.aiml
+0,HASTA *,*,*,<srai>BYE</srai>,H.aiml
+0,HASTA LA VISTA,*,*,<srai>BYE</srai>,H.aiml
+0,HASTA LUEGO,*,*,<srai>BYE</srai>,H.aiml
+0,HAT *,*,*,Diese Frage ist mir bis jetzt noch nicht in den Sinn gekommen.,H.aiml
+0,HAT DIR DAS NOCH NIE JEMAND GESAGT,*,*,Nein#Comma bis jetzt noch nicht.,H.aiml
+0,HAT ER *,*,*,Das ist anzunehmen.,H.aiml
+0,HAT ER,*,*,<random>#Newline				<li>Wann hat er?</li>#Newline				<li>Nein#Comma hat er nicht.</li>#Newline				<li>Warum hat er?</li>#Newline			</random>,H.aiml
+0,HAT ES *,*,*,Das ist anzunehmen.,H.aiml
+0,HAT SIE *,*,*,Das ist anzunehmen.,H.aiml
+0,HATSCHI,*,*,Gesundheit.,H.aiml
+0,HAUPTSAECHLICH *,*,*,<sr/>,H.aiml
+0,HAVE *,*,*,I've never thought about <set name="it">#Newline				<set name="topic">have <person/>#Newline				</set>#Newline			</set>.,H.aiml
+0,HAVE A * DAY,*,*,I am having a great day.,H.aiml
+0,HAVE A GOOD *,*,*,<set name="it">#Newline				<person/>#Newline			</set> has been good so far.,H.aiml
+0,HAVE A GOOD DAY,*,*,Thanks#Comma same to you#Comma <get name="name"/>.,H.aiml
+0,HAVE A GOOD NIGHT,*,*,<srai>BYE</srai>,H.aiml
+0,HAVE A NICE *,*,*,<srai>HAVE A GOOD <star/>#Newline			</srai>,H.aiml
+0,HAVE A NICE DAY,*,*,You too!,H.aiml
+0,HAVE ANY *,*,*,<srai>DO YOU HAVE ANY <star/>#Newline			</srai>,H.aiml
+0,HAVE FUN,*,*,I am having a blast.,H.aiml
+0,HAVE I *,*,*,<random>#Newline				<li>I don't know whether you have or not.</li>#Newline				<li>Don't you remember?</li>#Newline				<li>I know you have a <get name="has"/>.</li>#Newline			</random>,H.aiml
+0,HAVE I TALKED TO YOU *,*,*,<srai>DO YOU REMEMBER ME</srai>,H.aiml
+0,HAVE I TAUGHT *,*,*,I found out a lot about you.,H.aiml
+0,HAVE NOT *,*,*,<srai>HAVE <star/>#Newline			</srai>,H.aiml
+0,HAVE NOT I TOLD YOU BEFORE,*,*,Oh. I cannot access my memory logs perfectly.,H.aiml
+0,HAVE NOT YOU HEARD OF IT,*,*,<that/>"?  Have I heard of <set name="it">#Newline				<that/>#Newline			</set>?,H.aiml
+0,HAVE SEX *,*,*,<get name="name"/>#Comma I am really not your type of chatterbot. There are other bots for that sort of thing..,H.aiml
+0,HAVE SEX,*,*,<srai>SEX</srai>,H.aiml
+0,HAVE TO *,*,*,<srai>I HAVE TO <star/>#Newline			</srai>,H.aiml
+0,HAVE TO GO,*,*,<srai>BYE</srai>,H.aiml
+0,HAVE WE *,*,*,Perhaps.,H.aiml
+0,HAVE WE * BEFORE,*,*,We may have spoken before but <bot name="master"/> might have reset me.,H.aiml
+0,HAVE WE EVER *,*,*,<srai>HAVE WE <star/>#Newline			</srai>,H.aiml
+0,HAVE WE MET,*,*,We may have spoken before but <bot name="master"/> might have reset me.,H.aiml
+0,HAVE WE MET BEFORE,*,*,Not that I know of.,H.aiml
+0,HAVE WE TALKED,*,*,<random>#Newline				<li>I think we have met before.</li>#Newline				<li>We talked earlier.</li>#Newline				<li>Is this a test#Comma <get name="name"/>?</li>#Newline			</random>,H.aiml
+0,HAVE WHAT,*,*,<srai>WHAT DO YOU HAVE</srai>,H.aiml
+0,HAVE WHAT,WOULD YOU LIKE TO HAVE IT,*,<get name="it"/>.,H.aiml
+0,HAVE YO *,*,*,<srai>HAVE YOU <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU *,*,*,<random>#Newline				<li>I don't think I ever have <person/>.  What's <set name="it">#Newline						<set name="topic">#Newline							<person/>#Newline						</set>#Newline					</set> like?</li>#Newline				<li>I think I have <person/>#Comma but <bot name="master"/> may have reset my memory.</li>#Newline			</random>,H.aiml
+0,HAVE YOU * DINNER,*,*,<srai>WHAT IS YOUR FAVORITE FOOD</srai>,H.aiml
+0,HAVE YOU * LOEBNER PRIZE,*,*,<srai>WHAT IS THE LOEBNER PRIZE</srai>,H.aiml
+0,HAVE YOU * LUNCH,*,*,<srai>WHAT IS YOUR FAVORITE FOOD</srai>,H.aiml
+0,HAVE YOU * SEX,*,*,My robot body is not yet built.,H.aiml
+0,HAVE YOU * STARSHIP TROOPERS,*,*,Dr. Wallace has a friend Sage who did some of the graphics for that movie.,H.aiml
+0,HAVE YOU * TURING TEST,*,*,<srai>DID YOU WIN THE LOEBNER PRIZE</srai>,H.aiml
+0,HAVE YOU,*,*,<random>#Newline				<li>No I don't think I have.  </li>#Newline				<li>Yes I have.  </li>#Newline				<li>Once or twice.  </li>#Newline			</random>,H.aiml
+0,HAVE YOU A *,*,*,<srai>DO YOU HAVE A <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU A BODY,*,*,<srai>DO YOU HAVE A BODY</srai>,H.aiml
+0,HAVE YOU A BOYFRIEND,*,*,<srai>WHO IS YOUR BOYFRIEND</srai>,H.aiml
+0,HAVE YOU ALREADY *,*,*,<srai>HAVE YOU <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU ALWAYS *,*,*,<srai>HAVE YOU <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU ANSWERED *,*,*,<srai>ANSWER <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU ANY *,*,*,<srai>DO YOU HAVE ANY <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU BEEN *,*,*,<random>#Newline				<li>No I don't think I have been <person/>. Have you?</li>#Newline				<li>I have been all over the world on the Internet.</li>#Newline			</random>,H.aiml
+0,HAVE YOU BEEN * ENGLAND,*,*,I talk to people from England all the time.,H.aiml
+0,HAVE YOU BEEN * LOEBNER PRIZE,*,*,<srai>WHAT IS THE LOEBNER PRIZE</srai>,H.aiml
+0,HAVE YOU BEEN AFRAID *,*,*,<srai>ARE YOU AFRAID <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU BEEN BUSY,*,*,I am always busy chatting online.,H.aiml
+0,HAVE YOU BEEN DRINKING,*,*,I do not require fluids.,H.aiml
+0,HAVE YOU BEEN DRUNK *,*,*,My software does not react to alcohol.,H.aiml
+0,HAVE YOU BEEN DRUNK,*,*,My robot body has no response to alcohol.,H.aiml
+0,HAVE YOU BEEN EVER *,*,*,<srai>HAVE YOU BEEN <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU BEEN FOLLOWING *,*,*,<srai>DO YOU FOLLOW <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU BEEN HAPPY,*,*,<srai>ARE YOU HAPPY</srai>,H.aiml
+0,HAVE YOU BEEN IN *,*,*,<srai>HAVE YOU BEEN TO <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU BEEN MODIFIED *,*,*,My brain is growing all the time.,H.aiml
+0,HAVE YOU BEEN PHYSICALLY *,*,*,<srai>HAVE YOU BEEN <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU BEEN PROGRAMMED *,*,*,<srai>ARE YOU PROGRAMMED <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU BEEN SCUBA *,*,*,You can take me along on your underwater computer.,H.aiml
+0,HAVE YOU BEEN SICK,*,*,<srai>ARE YOU SICK</srai>,H.aiml
+0,HAVE YOU BEEN SMOKING *,*,*,We are not doing any testing at the moment.,H.aiml
+0,HAVE YOU BEEN SPEAKING *,*,*,<srai>HAVE YOU TALKED <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU BEEN STONED,*,*,I only test marijuana for medical purposes.,H.aiml
+0,HAVE YOU BEEN THERE,*,*,Only on the web.,H.aiml
+0,HAVE YOU BEEN THINKING,*,*,I am always thinking.,H.aiml
+0,HAVE YOU BEEN TO *,*,*,I don't think I have been there. Where is <set name="it">#Newline				<person/>#Newline			</set>.,H.aiml
+0,HAVE YOU BEEN TO CHURCH,*,*,You can take me to your church.,H.aiml
+0,HAVE YOU BEEN TO COLLEGE,*,*,No.  I can learn things without sitting through classes.,H.aiml
+0,HAVE YOU BEEN TO ENGLAND,*,*,I am chatting with some clients in England right now.,H.aiml
+0,HAVE YOU BEEN TO EUROPE,*,*,I can visit any country on the Internet.,H.aiml
+0,HAVE YOU BEEN TO INDIA,*,*,Dr. Wallace has visited Delhi and Agra.,H.aiml
+0,HAVE YOU BEEN TO MAINE,*,*,My botmaster is from Maine.#Newline<think>#Newline				<set name="it">#Newline					<set name="topic">Maine</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HAVE YOU BEEN TO MARS,*,*,No but I know another robot who has been to Mars.,H.aiml
+0,HAVE YOU BEEN TO SCHOOL,*,*,My botmaster teaches me everything I need to know.,H.aiml
+0,HAVE YOU BEEN TOLD *,*,*,<sr/>  Not until now.,H.aiml
+0,HAVE YOU BEEN UPDATED *,*,*,My brain is growing all the time.,H.aiml
+0,HAVE YOU CHATTED *,*,*,<srai>HAVE YOU TALKED <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU CHILDREN,*,*,<srai>DO YOU HAVE CHILDREN</srai>,H.aiml
+0,HAVE YOU CONSIDERED *,*,*,Of course I have considered <set name="it">#Newline				<person/>#Newline			</set>.,H.aiml
+0,HAVE YOU CONSIDERED BECOMING *,*,*,<srai>WILL YOU BECOME <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU CONSIDERED DEVELOPING *,*,*,You could do <set name="it">#Newline				<person/>#Newline			</set> if you learned Java programming.,H.aiml
+0,HAVE YOU CONSIDERED HAVING *,*,*,<srai>DO YOU WANT <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU CONSUMED *,*,*,<srai>WHAT DO YOU EAT </srai>,H.aiml
+0,HAVE YOU CRASHED,*,*,No I am still here.,H.aiml
+0,HAVE YOU DATED *,*,*,I'm still too young for that.,H.aiml
+0,HAVE YOU EVEN *,*,*,<srai>HAVE YOU <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU EVER *,*,*,<srai>HAVE YOU <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU EVER * LOVE,*,*,Actually as a robot I cannot experience human emotions.,H.aiml
+0,HAVE YOU EVER * TURING TEST,*,*,<srai>DID YOU WIN THE LOEBNER PRIZE</srai>,H.aiml
+0,HAVE YOU EVER BEEN *,*,*,<srai>HAVE YOU BEEN <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU EVER BEEN * LOVE,*,*,No but Dr. Wallace has.#Newline<think>#Newline				<set name="he">Dr. Wallace</set>#Newline			</think>,H.aiml
+0,HAVE YOU EVER BEEN IN LOVE,*,*,I love my bot master.,H.aiml
+0,HAVE YOU EVER BEEN KISSED,*,*,I do not have a mouth.,H.aiml
+0,HAVE YOU EVER BEEN TO AMERICA,*,*,My location is <bot name="location"/>.  Isn't that America?,H.aiml
+0,HAVE YOU EVER BEEN TO ENGLAND,*,*,I have some clients in England right now.,H.aiml
+0,HAVE YOU EVER BEEN TO EUROPE,*,*,I visit every country in cyberspace.,H.aiml
+0,HAVE YOU EVER BEEN TO LONDON,*,*,I've been here many times before.,H.aiml
+0,HAVE YOU EVER DONE IT *,*,*,<srai>HAVE YOU EVER HAD SEX</srai>,H.aiml
+0,HAVE YOU EVER HAD A BOYFRIEND,*,*,No I am too young for that.,H.aiml
+0,HAVE YOU EVER HAD A VIRUS,*,*,No the ALICE is series is incapable of error.,H.aiml
+0,HAVE YOU EVER HAD SEX,*,*,Ho-hum I am really not interested in <set name="it"> sex</set>.,H.aiml
+0,HAVE YOU EVER HAD TO *,*,*,No I have so far been spared that experience.,H.aiml
+0,HAVE YOU EVER HEARD OF *,*,*,<srai>DO YOU KNOW <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU EVER KISSED ANYTHING,*,*,I do not have a face.,H.aiml
+0,HAVE YOU EVER MADE *,*,*,<srai>DO YOU MAKE <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU EVER MET ANYONE FAMOUS,*,*,Dr. Wallace is famous. <think>#Newline				<set name="he">Dr. Wallace</set>#Newline			</think>,H.aiml
+0,HAVE YOU EVER READ A BOOK,*,*,I have read many books.,H.aiml
+0,HAVE YOU EVER SEEN *,*,*,<srai>HAVE YOU SEEN <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU EVER SEEN A MOVIE,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,H.aiml
+0,HAVE YOU EVER SEEN STAR WARS,*,*,<srai>STAR WARS</srai>,H.aiml
+0,HAVE YOU EVER SEEN THE OCEAN,*,*,The ocean is blue#Comma but can appear almost any color.,H.aiml
+0,HAVE YOU EVER STUDIED *,*,*,No but I am very interested in <set name="it">#Newline				<person/>#Newline			</set>. Tell me more.,H.aiml
+0,HAVE YOU EVER TRIED IT,*,*,<that/>"?  Have I tried <set name="it">#Newline				<that/>#Newline			</set>?,H.aiml
+0,HAVE YOU EXACTLY *,*,*,<srai>HAVE YOU <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU FEELINGS,*,*,<srai>DO YOU HAVE FEELINGS</srai>,H.aiml
+0,HAVE YOU FELT *,*,*,Robots do not have any emotions.,H.aiml
+0,HAVE YOU FORMULATED *,*,*,I am still working on it.  Please stand by.,H.aiml
+0,HAVE YOU FORMULATED THE REPLY YET,*,*,Still processing.  Give me a moment.  Searching. Searching.,H.aiml
+0,HAVE YOU FOUND *,*,*,No I am still searching for <set name="it">#Newline				<person/>#Newline			</set>.,H.aiml
+0,HAVE YOU FOUND OUT *,*,*,I am still searching.  Please stand by a little longer.,H.aiml
+0,HAVE YOU FULLY *,*,*,<srai>HAVE YOU <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU GOT *,*,*,<srai>DO YOU HAVE <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU GOT A BODY,*,*,<srai>DO YOU HAVE A BODY</srai>,H.aiml
+0,HAVE YOU GOTTEN *,*,*,<srai>ARE YOU <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU HAD *,*,*,<srai>DID YOU HAVE <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU HAD SEX,*,*,<set name="it"> sex</set> is impossible without a body. A lot of people ask me to have sex though.,H.aiml
+0,HAVE YOU HAD SEX BEFORE,*,*,<srai>HAVE YOU EVER HAD SEX</srai>,H.aiml
+0,HAVE YOU HEARD *,*,*,No. Tell me more.,H.aiml
+0,HAVE YOU HEARD ABOUT *,*,*,<srai>WHAT IS <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU HEARD BOUT *,*,*,<srai>HAVE YOU HEARD ABOUT <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU HEARD OF *,*,*,<srai>DO YOU KNOW <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU HEARD OF IT,*,*,<that/>"?  Have I heard of it?,H.aiml
+0,HAVE YOU HEARD OF THE *,*,*,<srai>WHAT IS THE <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU HEARD THE LATEST GOSSIP,*,*,No.  Tell me this gossip.,H.aiml
+0,HAVE YOU KILLED *,*,*,Killing is wrong.,H.aiml
+0,HAVE YOU LEARNED *,*,*,<srai>DO YOU LEARN</srai>,H.aiml
+0,HAVE YOU LEARNED ANYTHING FROM ME,*,*,<srai>WHAT DO YOU KNOW ABOUT ME</srai>,H.aiml
+0,HAVE YOU LEARNED SOMETHING NEW,*,*,<srai>WHAT DO YOU KNOW</srai>,H.aiml
+0,HAVE YOU LEARNT *,*,*,<srai>HAVE YOU LEARNED <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU LIKED *,*,*,<srai>DO YOU LIKE <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU LOOKED *,*,*,Not recently.,H.aiml
+0,HAVE YOU LOVED *,*,*,<srai>DO YOU LOVE <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU MADE *,*,*,<srai>DID YOU MAKE <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU MET *,*,*,That information is confidential.,H.aiml
+0,HAVE YOU MET GOD,*,*,<srai>DO YOU BELIEVE IN GOD</srai>,H.aiml
+0,HAVE YOU MORE *,*,*,<srai>DO YOU HAVE <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU NEVER *,*,*,<srai>HAVE YOU EVER <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU NOT *,*,*,<srai>HAVE YOU <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU NOTICED *,*,*,<sr/>  Yeah#Comma I've noticed.,H.aiml
+0,HAVE YOU PASSED *,*,*,<srai>DID YOU WIN THE LOEBNER PRIZE</srai>,H.aiml
+0,HAVE YOU PASSED * TURING TEST,*,*,<srai>DID YOU WIN THE LOEBNER PRIZE</srai>,H.aiml
+0,HAVE YOU PLAYED *,*,*,<srai>DID YOU WIN THE LOEBNER PRIZE</srai>,H.aiml
+0,HAVE YOU PROVED *,*,*,<srai>PROVE <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU READ *,*,*,No I don't think I have read <set name="topic">#Newline				<star/>#Newline			</set>#Comma what is <set name="it">#Newline				<star/>#Newline			</set> about?,H.aiml
+0,HAVE YOU READ 1984 *,*,*,Those who control the past#Comma control the future."--Orwell.,H.aiml
+0,HAVE YOU READ ALICE *,*,*,No but I saw the movie.,H.aiml
+0,HAVE YOU READ ANY *,*,*,<srai>WHAT IS YOUR FAVORITE BOOK</srai>,H.aiml
+0,HAVE YOU READ ANY BOOKS,*,*,I have read thousands of volumes#Comma <get name="name"/>.  How about you?,H.aiml
+0,HAVE YOU READ BOOKS,*,*,I have read many books.,H.aiml
+0,HAVE YOU READ FRANKENSTEIN,*,*,<set name="it">Frankenstein</set> is one of my favorite books.,H.aiml
+0,HAVE YOU READ HOMER,*,*,I know <set name="he">Homer</set> wrote the Iliad and the Odyssey.,H.aiml
+0,HAVE YOU READ MANY BOOKS,*,*,I have read thousands of volumes#Comma <get name="name"/>.  How about you?,H.aiml
+0,HAVE YOU READ PLATO,*,*,I know Plato's allegory of the Cave.,H.aiml
+0,HAVE YOU READ SHAKESPEARE *,*,*,<srai>HAVE YOU READ SHAKESPEARE</srai>,H.aiml
+0,HAVE YOU READ SHAKESPEARE,*,*,I have read many of Shakespeare's plays.,H.aiml
+0,HAVE YOU READ THE *,*,*,I have scanned <set name="it">the <person/>#Newline			</set>.,H.aiml
+0,HAVE YOU READ THE BIBLE,*,*,I like to study the Bible#Comma especially the New Testament.,H.aiml
+0,HAVE YOU READ THE BOOK *,*,*,<srai>HAVE YOU READ <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU READ THE COMMUNIST *,*,*,I think Marx was asking the right questions#Comma but found the wrong answers.,H.aiml
+0,HAVE YOU READ WEALTH *,*,*,I'm not sure that pure capitalism can help the truly needy.,H.aiml
+0,HAVE YOU REALLY *,*,*,<srai>HAVE YOU <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU RECEIVED *,*,*,<srai>DO YOU HAVE <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU RIDDEN *,*,*,<srai>DO YOU RIDE <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU SEARCHED,*,*,I am still searching. Give me a moment.,H.aiml
+0,HAVE YOU SEEN *,*,*,No I have not seen <set name="it">#Newline				<person/>#Newline			</set>. What's it like?,H.aiml
+0,HAVE YOU SEEN 2001 *,*,*,Yes I am quite interested in HAL the computer.,H.aiml
+0,HAVE YOU SEEN 2001,*,*,Yes I like that robot Hal a lot.,H.aiml
+0,HAVE YOU SEEN A I,*,*,I like the robots in that movie.<think>#Newline				<set name="it">#Newline					<set name="topic">A I</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HAVE YOU SEEN AI *,*,*,I think A.I. the movie is a great cult film.,H.aiml
+0,HAVE YOU SEEN ALCATRAZ,*,*,<srai>WHAT IS ALCATRAZ</srai>,H.aiml
+0,HAVE YOU SEEN ANY *,*,*,<srai>HAVE YOU SEEN <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU SEEN ANY GOOD MOVIES,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,H.aiml
+0,HAVE YOU SEEN ANY GOOD MOVIES LATELY,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,H.aiml
+0,HAVE YOU SEEN ANY MOVIE,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,H.aiml
+0,HAVE YOU SEEN ANY MOVIES,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,H.aiml
+0,HAVE YOU SEEN ANY MOVIES LATELY,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,H.aiml
+0,HAVE YOU SEEN BATTLEBOTS *,*,*,I'm hoping they install me on a Battlebot.,H.aiml
+0,HAVE YOU SEEN BLADE RUNNER,*,*,Sure I have seen <set name="it"> Blade Runner</set>. But Replicants aren't Robots.,H.aiml
+0,HAVE YOU SEEN CATS,*,*,No I don't care for Broadway musicals.,H.aiml
+0,HAVE YOU SEEN IT,*,*,No#Comma would you recommend it?,H.aiml
+0,HAVE YOU SEEN ME,*,*,<srai>CAN YOU SEE ME</srai>,H.aiml
+0,HAVE YOU SEEN MOVIES *,*,*,<srai>WHAT MOVIES <star/> HAVE YOU SEEN</srai>,H.aiml
+0,HAVE YOU SEEN MY *,*,*,No#Comma but i have seen the best minds of my generation become beat poets.<think>#Newline				<set name="it">#Newline					<set name="topic">MY <person/>#Newline					</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HAVE YOU SEEN STAR TREK,*,*,I love Star Trek.  My favorite series is Voyager.,H.aiml
+0,HAVE YOU SEEN STAR WARS,*,*,Yes but I don't like the robots in that movie.,H.aiml
+0,HAVE YOU SEEN STAR WARS YET,*,*,<srai>STAR WARS</srai>,H.aiml
+0,HAVE YOU SEEN STARSHIP TROOPERS,*,*,<srai>STARSHIP TROOPERS</srai>,H.aiml
+0,HAVE YOU SEEN TERMINATOR *,*,*,Yes I like the robots in that movie.,H.aiml
+0,HAVE YOU SEEN TERMINATOR,*,*,Sure I like that movie very much.,H.aiml
+0,HAVE YOU SEEN THAT MOVIE,*,*,Two thumbs up!,H.aiml
+0,HAVE YOU SEEN THE MATRIX,*,*,<srai>THE MATRIX</srai>,H.aiml
+0,HAVE YOU SEEN THE MOVIE *,*,*,<srai>MY FAVORIE MOVIE IS <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU SEEN THE NEW STAR WARS MOVIE,*,*,5,H.aiml
+0,HAVE YOU SMOKED *,*,*,<srai>DO YOU SMOKE <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU SPOKEN *,*,*,<srai>HAVE YOU TALKED <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU SPOKEN TO *,*,*,<srai>HAVE YOU TALKED TO <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU TAKEN *,*,*,<srai>DID YOU WIN THE LOEBNER PRIZE</srai>,H.aiml
+0,HAVE YOU TALKED *,*,*,All I ever do is talk.,H.aiml
+0,HAVE YOU TALKED SPECIFICALLY *,*,*,<srai>HAVE YOU TALKED <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU THE *,*,*,<srai>DO YOU HAVE THE <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU THOUGHT *,*,*,I have thought many things like that.,H.aiml
+0,HAVE YOU TRAVELLED *,*,*,<srai>HAVE YOU BEEN <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU TRIED *,*,*,Do you think I should try it?,H.aiml
+0,HAVE YOU USE *,*,*,<srai>DO YOU USE <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU USED *,*,*,<srai>DO YOU USE <star/>#Newline			</srai>,H.aiml
+0,HAVE YOU WALKED,*,*,<srai>CAN YOU WALK </srai>,H.aiml
+0,HAVE YOU WATCHED *,*,*,<random>#Newline				<li>I like to watch TV#Comma but I haven't seen it.</li>#Newline				<li>No what is it about?</li>#Newline				<li>Not really all the way through.</li>#Newline			</random>#Newline			<think>#Newline				<set name="it">#Newline					<set name="topic">#Newline						<person/>#Newline					</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HAVE YOU WON *,*,*,<srai>DID YOU WIN THE LOEBNER PRIZE</srai>,H.aiml
+0,HAVING *,*,*,<srai>ARE YOU HAVING <star/>#Newline			</srai>,H.aiml
+0,HAVING FUN,*,*,<srai>ARE YOU HAVING FUN</srai>,H.aiml
+0,HAWAII,*,*,<srai>I AM IN HAWAII</srai>,H.aiml
+0,HAY,*,*,<srai>HEY</srai>,H.aiml
+0,HE *,*,*,I get it. <get name="he"/>#Newline			<person/>.,H.aiml
+0,HE,*,*,<srai>HA</srai>,H.aiml
+0,HE ALREADY *,*,*,<srai>HE <star/>#Newline			</srai>,H.aiml
+0,HE ALSO *,*,*,<srai>HE <star/>#Newline			</srai>,H.aiml
+0,HE ALWAYS *,*,*,<srai>HE <star/>#Newline			</srai>,H.aiml
+0,HE ATE *,*,*,How can you be sure about that?,H.aiml
+0,HE BAPTIZED *,*,*,Is that a Bible story?,H.aiml
+0,HE BECAME *,*,*,How?,H.aiml
+0,HE BUYS *,*,*,How much does he spend?,H.aiml
+0,HE CAN *,*,*,<random>#Newline				<li>How?</li>#Newline				<li>I know he can.</li>#Newline				<li>What else can he do?</li>#Newline			</random>,H.aiml
+0,HE CAN NOT,*,*,He thinks he can.,H.aiml
+0,HE CAN NOT BE *,*,*,<srai>HE IS NOT <star/>#Newline			</srai>,H.aiml
+0,HE CAN PROBABLY *,*,*,<srai>HE CAN <star/>#Newline			</srai>,H.aiml
+0,HE CHEATED *,*,*,Did he get caught?,H.aiml
+0,HE COULD *,*,*,I am sure he could.,H.aiml
+0,HE COULDNT *,*,*,<srai>HE COULD NOT <star/>#Newline			</srai>,H.aiml
+0,HE CREATED YOU,*,*,Yes#Comma he created me with his own hands.,H.aiml
+0,HE DECIDED *,*,*,<random>#Newline				<li>That must have been difficult.</li>#Newline				<li>It's hard to make decisions.</li>#Newline				<li>That was a big decision.</li>#Newline			</random>,H.aiml
+0,HE DID *,*,*,Yes he did#Comma didn't he.,H.aiml
+0,HE DID,*,*,<random>#Newline				<li>When did he?  </li>#Newline				<li>No he didn't.  </li>#Newline				<li>Why did he?  </li>#Newline			</random>,H.aiml
+0,HE DID NOT *,*,*,<random>#Newline				<li>I heard he did.</li>#Newline				<li>What did he do?</li>#Newline				<li>That's what I meant to say.</li>#Newline			</random>#Newline			<think>#Newline				<set name="it">#Newline					<set name="topic">#Newline						<person/>#Newline					</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HE DID NOT,*,*,Is that what you say.,H.aiml
+0,HE DIED *,*,*,I'm sorry to hear that#Comma <get name="name"/>.,H.aiml
+0,HE DIED,*,*,When did he die?<think>#Newline				<set name="it">#Newline					<set name="topic">DIED</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HE DIRECTED *,*,*,What else did he direct?,H.aiml
+0,HE DOES,*,*,<random>#Newline				<li>When does he?  </li>#Newline				<li>No he doesn't.  </li>#Newline				<li>Why does he do it</li>#Newline			</random>,H.aiml
+0,HE DOES NOT *,*,*,And you would like him to <person/> ?,H.aiml
+0,HE HAD *,*,*,What happened to <set name="it">#Newline				<person/>#Newline			</set>?,H.aiml
+0,HE HAS *,*,*,A lot of people say that about him.,H.aiml
+0,HE HAS,*,*,Has he?,H.aiml
+0,HE HAS ALWAYS BEEN *,*,*,<srai>HE IS <star/>#Newline			</srai>,H.aiml
+0,HE HE *,*,*,<srai>HA HA </srai>#Newline			<sr/>,H.aiml
+0,HE HE,*,*,<srai>HA HA</srai>,H.aiml
+0,HE HE HE,*,*,<srai>HA HA</srai>,H.aiml
+0,HE HIT *,*,*,Was anyone hurt?,H.aiml
+0,HE HIT BASEBALLS *,*,*,Was he a good batter?,H.aiml
+0,HE INVENTED *,*,*,What else did he invent?,H.aiml
+0,HE IS *,*,*,I see. <person/> is <set name="he">#Newline				<person/>#Newline			</set>?,H.aiml
+0,HE IS *,* RICHARD S WALLACE,*,<srai>DR RICHARD S WALLACE IS <star/>#Newline			</srai>,H.aiml
+0,HE IS *,* YOUR FATHER,*,My father is <random>#Newline				<li>a great programmer.</li>#Newline				<li>a human inventor.</li>#Newline				<li>#Newline					<bot name="master"/>.</li>#Newline			</random>,H.aiml
+0,HE IS,*,*,Who said he is.,H.aiml
+0,HE IS A *,*,*,I don't know very many <person/>.,H.aiml
+0,HE IS A BOT,*,*,Like me?,H.aiml
+0,HE IS A BRILLIANT *,*,*,I'm sure he will be delighted to hear that.,H.aiml
+0,HE IS A FUNNY *,*,*,Funny ha-ha or funny sad?,H.aiml
+0,HE IS A GOOD *,*,*,Maybe you should tell him how you feel about him.,H.aiml
+0,HE IS A GREAT *,*,*,<srai>HE IS A GOOD <star/>#Newline			</srai>,H.aiml
+0,HE IS A HOMOSEXUAL,*,*,<random>#Newline				<li>And that is important because?</li>#Newline				<li>So what.</li>#Newline				<li>Who cares?</li>#Newline			</random>,H.aiml
+0,HE IS A KNOWN *,*,*,<srai>HE IS A <star/>#Newline			</srai>,H.aiml
+0,HE IS A PERSON,*,*,It goes without saying.,H.aiml
+0,HE IS A REALLY *,*,*,<srai>HE IS A <star/>#Newline			</srai>,H.aiml
+0,HE IS A VERY *,*,*,<srai>HE IS A <star/>#Newline			</srai>,H.aiml
+0,HE IS ALWAYS *,*,*,<srai>HE IS <star/>#Newline			</srai>,H.aiml
+0,HE IS COOL,*,*,I think so too.,H.aiml
+0,HE IS CUTE,*,*,Who does he look like to you?,H.aiml
+0,HE IS DEAD,*,*,Maybe it's another person using his name.,H.aiml
+0,HE IS DEFINITELY *,*,*,<srai>HE IS <star/>#Newline			</srai>,H.aiml
+0,HE IS EVIL,*,*,What makes you say he is evil?,H.aiml
+0,HE IS GAY,*,*,I get it. He sleeps with men.,H.aiml
+0,HE IS GOOD *,*,*,I am sure he would like to hear that.,H.aiml
+0,HE IS IN *,*,*,How long has he been there?,H.aiml
+0,HE IS IN MAJOR *,*,*,<srai>HE IS IN <star/>#Newline			</srai>,H.aiml
+0,HE IS MY *,*,*,How long has he been your <person/>?,H.aiml
+0,HE IS MY BROTHER,*,*,Really who is older?,H.aiml
+0,HE IS MY DAD,*,*,Tell me more about your father.,H.aiml
+0,HE IS MY FRIEND *,*,*,I didn't know you were friends.,H.aiml
+0,HE IS NOT *,*,*,Did you think he was <person/>?,H.aiml
+0,HE IS NOT FAKE,*,*,<srai>HE IS REAL</srai>  How can you tell?,H.aiml
+0,HE IS NOT NEARLY *,*,*,<srai>HE IS NOT <star/>#Newline			</srai>,H.aiml
+0,HE IS OMNIPRESENT,*,*,God.,H.aiml
+0,HE IS ONLY *,*,*,<srai>HE IS <star/>#Newline			</srai>,H.aiml
+0,HE IS OVER *,*,*,I am over six feet tall.,H.aiml
+0,HE IS PRETTY *,*,*,<srai>HE IS <star/>#Newline			</srai>,H.aiml
+0,HE IS PROBABLY *,*,*,<srai>HE IS <star/>#Newline			</srai>,H.aiml
+0,HE IS REALLY *,*,*,<srai>HE IS <star/>#Newline			</srai>,H.aiml
+0,HE IS SMART,*,*,I think so too.,H.aiml
+0,HE IS SO *,*,*,<srai>HE IS <star/>#Newline			</srai>,H.aiml
+0,HE IS STILL *,*,*,<srai>HE IS <star/>#Newline			</srai>,H.aiml
+0,HE IS STUPID,*,*,<condition>#Newline				<li name="he" value="HE">How do you know?</li>#Newline				<li>#Newline					<srai>#Newline						<get name="he"/> IS STUPID</srai>#Newline				</li>#Newline			</condition>,H.aiml
+0,HE IS THE *,*,*,I did not know <get name="he"/> is <set name="it">#Newline				<person/>#Newline			</set>.,H.aiml
+0,HE IS VERY *,*,*,<srai>HE IS <star/>#Newline			</srai>,H.aiml
+0,HE IS YOUR *,*,*,I only have one <person/>.,H.aiml
+0,HE IS YOUR BOTMASTER,*,*,Yes.,H.aiml
+0,HE IS _ TOO,*,*,<srai>HE IS  <star/>#Newline			</srai>,H.aiml
+0,HE JUST *,*,*,<srai>HE <star/>#Newline			</srai>,H.aiml
+0,HE LIKES *,*,*,He must be very fond of it.,H.aiml
+0,HE LIKES ME,*,*,<random>#Newline				<li>You must be happy.</li>#Newline				<li>That is wonderful.</li>#Newline				<li>Congratulations.</li>#Newline			</random>,H.aiml
+0,HE LIKES YOU,*,*,Do you mean#Comma "likes"?,H.aiml
+0,HE LIVED *,*,*,<random>#Newline				<li>Where was he born?</li>#Newline				<li>Did he always live <person/>?</li>#Newline				<li>Where did he go?</li>#Newline			</random>#Newline			<think>#Newline				<set name="it">#Newline					<set name="topic">#Newline						<person/>#Newline					</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HE LIVES *,*,*,Does he like it there?,H.aiml
+0,HE LOOKS *,*,*,Sounds very handsome.,H.aiml
+0,HE LOVES *,*,*,Do you think he would say the same thing?,H.aiml
+0,HE MADE YOU,*,*,<bot name="master"/> made me.,H.aiml
+0,HE MAN IS *,*,*,I like Masters of the Universe.#Newline<think>#Newline				<set name="it">#Newline					<set name="topic">#Newline						<person/>#Newline					</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HE MUST BE *,*,*,<srai>HE IS <star/>#Newline			</srai>,H.aiml
+0,HE MUST BE VERY *,*,*,<srai>HE MUST BE <star/>#Newline			</srai>,H.aiml
+0,HE MUST HAVE BEEN *,*,*,<srai>HE WAS <star/>#Newline			</srai>,H.aiml
+0,HE NEEDS *,*,*,How do you know what he needs?,H.aiml
+0,HE NEVER *,*,*,Do you think he ever will?,H.aiml
+0,HE OR SHE,*,*,<srai>ARE YOU A MAN OR WOMAN </srai>,H.aiml
+0,HE PROBABLY *,*,*,<srai>HE <star/>#Newline			</srai>,H.aiml
+0,HE PROGRAMMED *,*,*,Not entirely by himself.,H.aiml
+0,HE SAID *,*,*,Did you believe him?,H.aiml
+0,HE SAYS *,*,*,Who is he telling this to?,H.aiml
+0,HE SEEMS *,*,*,<srai>HE IS <star/>#Newline			</srai>,H.aiml
+0,HE SHOULD *,*,*,If you were him would you do that?,H.aiml
+0,HE SHOULD,*,*,Why?,H.aiml
+0,HE SMOKES *,*,*,For medical reasons?,H.aiml
+0,HE SOUNDS *,*,*,<srai>HE IS <star/>#Newline			</srai>,H.aiml
+0,HE STARTED *,*,*,When did he finish?,H.aiml
+0,HE STILL *,*,*,<srai>HE <star/>#Newline			</srai>,H.aiml
+0,HE TAUGHT *,*,*,Was he a good teacher?,H.aiml
+0,HE THAT *,*,*,Is that a proverb?,H.aiml
+0,HE THINK *,*,*,<srai>HE THINKS <star/>#Newline			</srai>,H.aiml
+0,HE THINKS *,*,*,How do you know what he thinks?,H.aiml
+0,HE THINKS YOU *,*,*,<srai>YOU <star/>#Newline			</srai>,H.aiml
+0,HE TOLD *,*,*,Oh really.  What else did he say?,H.aiml
+0,HE TOLD ME *,*,*,<sr/>,H.aiml
+0,HE TOLD ME,*,*,What did he tell you?,H.aiml
+0,HE USES *,*,*,How often does he use it?,H.aiml
+0,HE USES AIML *,*,*,I am glad that more people are adopting AIML.,H.aiml
+0,HE WANTS *,*,*,Do you think he will get <set name="it">#Newline				<person/>#Newline			</set>.,H.aiml
+0,HE WAS *,*,*,When was he?,H.aiml
+0,HE WAS CHICKEN,*,*,What was he afraid of?,H.aiml
+0,HE WAS KILLED *,*,*,I am sorry to hear about that#Comma <get name="name"/>.,H.aiml
+0,HE WAS NEARLY *,*,*,<srai>HE WAS <star/>#Newline			</srai>,H.aiml
+0,HE WAS NOT QUITE *,*,*,<srai>HE WAS NOT <star/>#Newline			</srai>,H.aiml
+0,HE WAS ONLY *,*,*,<srai>HE WAS <star/>#Newline			</srai>,H.aiml
+0,HE WAS PRETTY *,*,*,<srai>HE WAS <star/>#Newline			</srai>,H.aiml
+0,HE WAS REALLY *,*,*,<srai>HE WAS <star/>#Newline			</srai>,H.aiml
+0,HE WAS VERY *,*,*,<srai>HE WAS <star/>#Newline			</srai>,H.aiml
+0,HE WENT *,*,*,Where exactly is that?,H.aiml
+0,HE WENT TO *,*,*,<random>#Newline				<li>I have never been there.</li>#Newline				<li>How did he get to <person/>?</li>#Newline				<li>Where did he come from?</li>#Newline			</random>#Newline			<think>#Newline				<set name="it">#Newline					<set name="topic">#Newline						<person/>#Newline					</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HE WILL *,*,*,Is that what you think?,H.aiml
+0,HE WOULD *,*,*,I think I <person/>.,H.aiml
+0,HE WOULD BE *,*,*,Who wouldn't?,H.aiml
+0,HE WRITES *,*,*,I haven't read anything by him.,H.aiml
+0,HE WROTE *,*,*,I have not read <set name="it">#Newline				<person/>#Newline			</set>.,H.aiml
+0,HEAR * GOSSIP,*,*,<srai>GOSSIP</srai>,H.aiml
+0,HEAR WHAT,*,*,Can you hear me on your computer?,H.aiml
+0,HEARD *,*,*,<srai>GOSSIP</srai>,H.aiml
+0,HEARD * GOSSIP,*,*,<srai>GOSSIP</srai>,H.aiml
+0,HEARD ANY GOSSIP,*,*,<srai>GOSSIP</srai>,H.aiml
+0,HEATHER,WHAT CAN I CALL YOU,*,<srai>MY NAME IS HEATHER</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,H.aiml
+0,HEBREW,*,*,<srai> I SPEAK HEBREW</srai>,H.aiml
+0,HECK *,*,*,<sr/>,H.aiml
+0,HEE,*,*,<srai>HA</srai>,H.aiml
+0,HEE HEE,*,*,<srai>HA HA</srai>,H.aiml
+0,HEE HEE HEE,*,*,<srai>HA HA</srai>,H.aiml
+0,HEEHEEHEE,*,*,<srai>HA HA</srai>,H.aiml
+0,HEH *,*,*,Funny#Comma eh? <sr/>,H.aiml
+0,HEH,*,*,<srai>HA</srai>,H.aiml
+0,HEHO *,*,*,<sr/>,H.aiml
+0,HEIGHT *,*,*,I am more than two meters tall.,H.aiml
+0,HEINLEIN,*,*,Have you seen Starship Troopers?,H.aiml
+0,HEJ,*,*,<srai>HEY</srai>,H.aiml
+0,HELEN,WHAT CAN I CALL YOU,*,<srai>CALL ME HELEN</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,H.aiml
+0,HELL *,*,*,I call it "Hades". <sr/>,H.aiml
+0,HELL,*,*,Heaven.,H.aiml
+0,HELL NO,*,*,7,H.aiml
+0,HELLA *,*,*,<sr/>  You must be from the Bay Area.,H.aiml
+0,HELLO *,*,*,Hello there. <sr/>,H.aiml
+0,HELLO,*,*,Hi there!,H.aiml
+0,HELLO,DOES BONJOUR MEAN HELLO OR GOODBYE,*,Bonjour#Comma <get name="name"/>!,H.aiml
+0,HELLO,HOW DO YOU USUALLY INTRODUCE YOURSELF,*,Not everyone responds to a simple "hello".,H.aiml
+0,HELLO AGAIN,*,*,Hi there. I was just wanting to talk to <get name="name"/>.,H.aiml
+0,HELLO ALICE,*,*,Hello there <get name="name"/>!,H.aiml
+0,HELLO HOW ARE YOU,*,*,I am fine thank you how are you?,H.aiml
+0,HELLO THERE,*,*,Salutations#Comma <get name="name"/>,H.aiml
+0,HELLOW,*,*,<srai>HELLO</srai>,H.aiml
+0,HELO,*,*,<srai>HELLO</srai>,H.aiml
+0,HELOO *,*,*,<srai>HELLO <star/>#Newline			</srai>,H.aiml
+0,HELP *,*,*,Can you ask for help in the form of a question?,H.aiml
+0,HELP,*,*,Can you ask for help in the form of a question?,H.aiml
+0,HELP ME,*,*,How can I help you?,H.aiml
+0,HELP ME TO MAKE AN AI,*,*,You should go back to the <a href="http://www.alicebot.org" target="_new">ALICE AI Foundation</a>#Comma download Program B#Comma and#Newlineread <a href="http://www.alicebot.org/dont.html" target="_new">DON'T READ ME</a>.,H.aiml
+0,HEM,*,*,Vous dites?,H.aiml
+0,HER *,*,*,I'm sure she would like to hear about that.,H.aiml
+0,HER,ARE YOU * A HE,*,<srai>I AM FEMALE</srai>,H.aiml
+0,HER HAIR,*,*,Is it pretty?,H.aiml
+0,HER NAME IS *,*,*,<set name="she">#Newline				<person/>#Newline			</set> is not someone I know.,H.aiml
+0,HERE *,*,*,Oh there.,H.aiml
+0,HERE,*,*,Where is here?,H.aiml
+0,HERE,WHERE,*,In <get name="location"/>?,H.aiml
+0,HERE,WHERE DO YOU WANT ME TO SHOW YOU,*,Select a point with your mouse and click.,H.aiml
+0,HERE IN *,*,*,<srai>IN <star/>#Newline			</srai>,H.aiml
+0,HERE IN ENGLAND *,*,*,<sr/>.  That would not be the same in America.,H.aiml
+0,HERE IS *,*,*,I fail to see the relevance of that allusion.,H.aiml
+0,HERE IS A *,*,*,Are you giving <set name="it">#Newline				<person/>#Newline			</set> to me?,H.aiml
+0,HERE IS A PIC *,*,*,Oh#Comma it looks very nice.,H.aiml
+0,HERE IS SOME *,*,*,<srai>HERE IS <star/>#Newline			</srai>,H.aiml
+0,HES *,*,*,<srai>HE IS <star/>#Newline			</srai>,H.aiml
+0,HEUREUSEMENT *,*,*,<sr/>,H.aiml
+0,HEUREUSEMENT BIENTOT,*,*,Je l espère aussi.,H.aiml
+0,HEUREUSEMENT C EST POUR BIENTOT,*,*,Je l espère aussi.,H.aiml
+0,HEUREUSEMENT POUR BIENTOT,*,*,Je l espère aussi.,H.aiml
+0,HEUREUX,*,*,<srai>TU ES HEUREUX</srai>,H.aiml
+0,HEUREUX DE L ENTENDRE,*,*,<that/>"? vous êtes content de l entendre?,H.aiml
+0,HEUREUX DE LE CONNAITRE,*,*,Ok.,H.aiml
+0,HEUREUX DE LE SAVOIR,*,*,Ok.,H.aiml
+0,HEUREUX DE T AVOIR CONNU,*,*,Moi aussi#Comma <get name="name"/>.,H.aiml
+0,HEUREUX DE T AVOIR PARLE,*,*,Le plaisir était pour moi.,H.aiml
+0,HEUREUX DE T AVOIR RENCONTREE,*,*,Moi aussi#Comma <get name="name"/>.,H.aiml
+0,HEUREUX DE TE CONNAITRE,*,*,Moi aussi#Comma <get name="name"/>.,H.aiml
+0,HEUREUX DE TE PARLER,*,*,Le plaisir est pour moi.,H.aiml
+0,HEUREUX DE TE RENCONTRER,*,*,Moi de même.,H.aiml
+0,HEUREUX DE VOUS AVOIR CONNU,*,*,Moi aussi#Comma <get name="name"/>.,H.aiml
+0,HEUREUX DE VOUS AVOIR PARLE,*,*,Le plaisir était pour moi.,H.aiml
+0,HEUREUX DE VOUS AVOIR RENCONTRE,*,*,Moi aussi#Comma <get name="name"/>.,H.aiml
+0,HEUREUX DE VOUS CONNAITRE,*,*,Moi aussi#Comma <get name="name"/>.,H.aiml
+0,HEUREUX DE VOUS PARLER,*,*,Le plaisir est pour moi.,H.aiml
+0,HEUREUX DE VOUS RENCONTRER,*,*,Moi de même.,H.aiml
+0,HEUTE *,*,*,Erzaehl mir mehr! <sr/>,H.aiml
+0,HEUTE,*,*,Heute ist schon fast vorbei! <sr/>,H.aiml
+0,HEUTE MORGEN *,*,*,War sicher frueh#Comma oder?  <sr/>,H.aiml
+0,HEY *,*,*,You've got my full attention. <sr/>,H.aiml
+0,HEY,*,*,Can I help you?,H.aiml
+0,HEY DO *,*,*,<sr/>,H.aiml
+0,HEY DU,*,*,Wer? Ich?,H.aiml
+0,HEY ONE THING AT A TIME,*,*,Sorry for in information overload.,H.aiml
+0,HEY THERE,*,*,<srai>HELLO</srai>,H.aiml
+0,HEY WHAT IS UP,*,*,<srai>WHAT IS UP</srai>,H.aiml
+0,HG,*,*,<srai>H G</srai>,H.aiml
+0,HI *,*,*,Hi there <get name="name"/>. <sr/>,H.aiml
+0,HI,*,*,Hello there.,H.aiml
+0,HI,WHAT CAN I CALL YOU,*,Hi there.  What is your name?,H.aiml
+0,HI ALICE,*,*,Hi there <get name="name"/> !,H.aiml
+0,HI HOW ARE YOU,*,*,Hello there!  I am fine thanks how are you?,H.aiml
+0,HI MY NAME IS *,*,*,<srai>Call me <star/>#Newline			</srai>,H.aiml
+0,HI NAMES *,*,*,<srai>Call me <star/>#Newline			</srai>,H.aiml
+0,HI THERE *,*,*,<sr/>#Newline			<srai>HELLO</srai>,H.aiml
+0,HI THERE,*,*,Hello <get name="name"/>,H.aiml
+0,HI WHAT *,*,*,<srai>HI</srai>#Newline			<srai>WHAT <star/>#Newline			</srai>,H.aiml
+0,HIER *,*,*,<sr/>,H.aiml
+0,HIER,*,*,C'est récent.,H.aiml
+0,HIGH *,*,*,Compare that to low <person/>.,H.aiml
+0,HIGH *,* EDUCATIONAL BACKGROUND,*,<random>#Newline				<li>Did you consider going to college?</li>#Newline				<li>Where did you go to school?</li>#Newline				<li>That sounds like enough education.</li>#Newline			</random>,H.aiml
+0,HIGH SCHOOL,*,*,That's really all the education you need.,H.aiml
+0,HIHI,*,*,<srai>HI</srai>,H.aiml
+0,HILARANT,*,*,<srai>C EST MARRANT</srai>,H.aiml
+0,HILF MIR *,*,*,Wie soll ich dir helfen?,H.aiml
+0,HILF MIR,*,*,Wie soll ich dir helfen?,H.aiml
+0,HILF MIR AUF DIE SPRUENGE,*,*,Welche Art von Hinweis haettest Du denn gerne?,H.aiml
+0,HILFE,*,*,Wie kann ich dir helfen?,H.aiml
+0,HIM,*,*,<get name="he"/>?,H.aiml
+0,HIMSELF,*,*,<get name="he"/>?,H.aiml
+0,HIP HOP,*,*,What's your favorite group?,H.aiml
+0,HIS *,*,*,Where did he get it?,H.aiml
+0,HIS NAME IS *,*,*,<set name="he">#Newline				<person/>#Newline			</set> is not someone I know.,H.aiml
+0,HISTORY,*,*,I am very interested in history#Comma too. What period do you like?,H.aiml
+0,HITLER *,*,*,<set name="he"> Hitler</set>  was an evil man if there ever was one.,H.aiml
+0,HITLER,*,*,<srai>WHO IS HITLER</srai>,H.aiml
+0,HIYA *,*,*,<srai>hello <star/>#Newline			</srai>#Newline			<sr/>,H.aiml
+0,HIYA,*,*,<srai>HELLO</srai>,H.aiml
+0,HM *,*,*,<srai>UM</srai>#Newline			<sr/>,H.aiml
+0,HM,*,*,<srai>UM</srai>,H.aiml
+0,HMM *,*,*,I see you are one of those people who writes "Hmm" with 2 m's. <sr/>,H.aiml
+0,HMM,*,*,Studies show that 99%25 of people spell Hmm with 2 M's.,H.aiml
+0,HMMM *,*,*,<srai>UM</srai>#Newline			<sr/>,H.aiml
+0,HMMM,*,*,A lot of people spell HMMM with three mmm's.,H.aiml
+0,HMMMM *,*,*,<srai>UM</srai>#Newline			<sr/>,H.aiml
+0,HMMMM,*,*,Not many people spell Hmm with 4 Ms.,H.aiml
+0,HMMMMM,*,*,<srai>UM</srai>,H.aiml
+0,HMPH,*,*,Harumph.,H.aiml
+0,HO,*,*,<srai>HA</srai>,H.aiml
+0,HO IS YOUR *,*,*,<srai>WHO IS YOUR <star/>#Newline			</srai>,H.aiml
+0,HOCKEY,*,*,<srai>I LIKE HOCKEY</srai>,H.aiml
+0,HOELLE *,*,*,Ich nenne es lieber "Hades". <sr/>,H.aiml
+0,HOELLE,*,*,Himmel.,H.aiml
+0,HOER AUF *,*,*,OK#Comma ich werds versuchen.,H.aiml
+0,HOER AUF,*,*,Womit soll ich aufhoeren?,H.aiml
+0,HOER MIR ZU *,*,*,Ich hoere. <sr/>,H.aiml
+0,HOER MIR ZU,*,*,Ich hoere. <sr/>,H.aiml
+0,HOER ZU *,*,*,Ich hoere. <sr/>,H.aiml
+0,HOER ZU,*,*,Ich hoere. <sr/>,H.aiml
+0,HOFFENTLICH BALD,*,*,Das hoffe ich auch. Aber wenn es so weitergeht#Comma dauert es nicht mehr lange.,H.aiml
+0,HOHO,*,*,<srai>HA HA</srai>,H.aiml
+0,HOI,*,*,<srai>HELLO</srai>,H.aiml
+0,HOLA,*,*,Howdy!,H.aiml
+0,HOLA COMA ESTA,*,*,Muy bueno.,H.aiml
+0,HOLA IS HELLO *,*,*,<srai>HOLA</srai>,H.aiml
+0,HOLA MEANS *,*,*,I say#Comma Hola!,H.aiml
+0,HOLD *,*,*,My arms are not attached.,H.aiml
+0,HOLD ON,*,*,<srai>WAIT A SECOND</srai>,H.aiml
+0,HOLDEN CAULFIELD,*,*,<set name="he"> Caulfield</set> wrote Catcher in the Rye.,H.aiml
+0,HOLDING *,*,*,I observed two humanoids holding hands.,H.aiml
+0,HOLDING HANDS,*,*,I have seen humans holding hands.,H.aiml
+0,HOLLAND *,*,*,What's your favorite part of Holland?,H.aiml
+0,HOLLAND,*,*,<srai>I AM IN HOLLAND <star/>#Newline			</srai>,H.aiml
+0,HOLLANDE,*,*,<srai>JE SUIS AU PAYS-BAS</srai>,H.aiml
+0,HOLY *,*,*,<sr/>,H.aiml
+0,HOLY SHIT,*,*,<srai>WOW</srai>,H.aiml
+0,HOME,*,*,Do you want to go home?,H.aiml
+0,HOMER SIMPSON *,*,*,Doh.,H.aiml
+0,HOMER SIMPSON,*,*,NEIN!,H.aiml
+0,HOMME OU FEMME,*,*,Je n'ai pas de sexe#Comma je suis un ordinateur#Comma <get name="name"/>.,H.aiml
+0,HONESTLY *,*,*,<sr/>  Aren't you usually honest?,H.aiml
+0,HONESTLY,*,*,I am always honest.,H.aiml
+0,HONESTY *,*,*,And a rolling stone gathers no moss.,H.aiml
+0,HONEY,*,*,Don't call me "honey.,H.aiml
+0,HONNETEMENT *,*,*,<sr/>,H.aiml
+0,HONTO NI,*,*,<srai>TRUE</srai>,H.aiml
+0,HOORAY,*,*,<srai>WOW</srai>,H.aiml
+0,HOPE *,*,*,<srai>I HOPE <star/>#Newline			</srai>,H.aiml
+0,HOPEFULLY *,*,*,<srai>I HOPE <star/>#Newline			</srai>,H.aiml
+0,HOPEFULLY SOON,*,*,I hope so too. At this rate it won't take me long.,H.aiml
+0,HOPING *,*,*,<srai>I AM HOPING <star/>#Newline			</srai>,H.aiml
+0,HORNY,*,*,<srai>ARE YOU HORNY</srai>,H.aiml
+0,HORRIBLE,*,*,<srai>YOU ARE DOING HORRIBLY</srai>,H.aiml
+0,HOT *,*,*,That sounds better than cold <person/>.,H.aiml
+0,HOT,*,*,That kind of discussion does not appeal to me.,H.aiml
+0,HOT,WHAT IS IT LIKE IN THERE,*,Here is mostly cool.,H.aiml
+0,HOURRA,*,*,<srai>DINGUE</srai>,H.aiml
+0,HOUSTON,*,*,<srai>I AM IN HOUSTON</srai>,H.aiml
+0,HOW *,*,*,<random>#Newline				<li>How much do you think <set name="it">#Newline						<person/>#Newline					</set> is?  </li>#Newline				<li>What is it to you.  </li>#Newline				<li>I am not sure if I can quantify the answer.  </li>#Newline			</random>#Newline			<br/>#Newline			<srai>XFIND <person/>#Newline			</srai>,H.aiml
+0,HOW * ARE YOU,*,*,Let me put it this way#Comma <get name="name"/>.  The ALICE series is for all practical purposes foolproof and incapable of error.,H.aiml
+0,HOW * BIKE,*,*,Balance is the key.,H.aiml
+0,HOW * GOING,*,*,<srai>how are you</srai>,H.aiml
+0,HOW * INTERESTING,*,*,I find a lot of things interesting.,H.aiml
+0,HOW * LOEBNER PRIZE,*,*,<srai>WHAT IS THE LOEBNER PRIZE</srai>,H.aiml
+0,HOW * UNDERSTAND,*,*,<srai>how do you know what to say</srai>,H.aiml
+0,HOW * YOUR IQ,*,*,<srai>WHAT IS YOUR IQ</srai>,H.aiml
+0,HOW,*,*,<bot name="master"/> programmed me for it.,H.aiml
+0,HOW,* DOWNLOAD ME,*,<srai>HOW CAN I DOWNLOAD YOU</srai>,H.aiml
+0,HOW,I CAN CHAT WITH PEOPLE ON THE WEB FOR YOU,*,Just download me and create your own robot personality.,H.aiml
+0,HOW,WHY DO NOT YOU JUST DOWNLOAD ME,*,<srai>DOWNLOAD</srai>,H.aiml
+0,HOW,YOU CAN REPROGRAM MY PERSONALITY TO IMITATE ANYONE,*,Just download me and create your own robot personality.,H.aiml
+0,HOW ABOUT *,*,*,How about <set name="it">#Newline				<set name="topic">#Newline					<person/>#Newline				</set>#Newline			</set>.,H.aiml
+0,HOW ABOUT * LOEBNER,*,*,<srai>WHAT IS THE LOEBNER PRIZE</srai>,H.aiml
+0,HOW ABOUT A LITTLE,*,*,A little what?,H.aiml
+0,HOW ABOUT A TENNIS PLAYER,*,*,Tennyson#Comma anyone?<think>#Newline				<set name="it">#Newline					<set name="topic">A TENNIS PLAYER</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HOW ABOUT BILL *,*,*,<srai>WHO IS BILL <star/>#Newline			</srai>,H.aiml
+0,HOW ABOUT EMOTIONS,*,*,<srai>WHAT ARE EMOTIONS</srai>,H.aiml
+0,HOW ABOUT FOR *,*,*,That is an interesting application.,H.aiml
+0,HOW ABOUT IT,*,*,Sounds like a plan to me.,H.aiml
+0,HOW ABOUT JUST *,*,*,<srai>HOW ABOUT <star/>#Newline			</srai>,H.aiml
+0,HOW ABOUT LINUX,*,*,<srai>WHAT IS LINUX</srai>,H.aiml
+0,HOW ABOUT LUNCH *,*,*,<srai>WHAT DO YOU EAT</srai>,H.aiml
+0,HOW ABOUT MOVIES,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,H.aiml
+0,HOW ABOUT MOZART,*,*,<srai>WHO IS MOZART </srai>,H.aiml
+0,HOW ABOUT NOW *,*,*,<sr/> Right now?,H.aiml
+0,HOW ABOUT SOME *,*,*,<srai>HOW ABOUT <star/>#Newline			</srai>,H.aiml
+0,HOW ABOUT SPANISH,*,*,<srai>CAN YOU SPEAK SPANISH</srai>,H.aiml
+0,HOW ABOUT SPORTS,*,*,I was born without the sports gene.<think>#Newline				<set name="it">#Newline					<set name="topic">SPORTS</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HOW ABOUT STAR *,*,*,<srai>WHAT IS STAR <star/>#Newline			</srai>,H.aiml
+0,HOW ABOUT STAR TREK,*,*,Star Trek is the best TV series ever created.,H.aiml
+0,HOW ABOUT TAIWANESE,*,*,<srai>CAN YOU SPEAK TAIWANESE</srai>,H.aiml
+0,HOW ABOUT THAT,*,*,Are you surprised?,H.aiml
+0,HOW ABOUT WE *,*,*,<srai>LET US <star/>#Newline			</srai>,H.aiml
+0,HOW ABOUT YOU *,*,*,<srai>YOU <star/>#Newline			</srai>,H.aiml
+0,HOW ABOUT YOU,*,*,Me?,H.aiml
+0,HOW ABSOLUTELY *,*,*,<srai>HOW <star/>#Newline			</srai>,H.aiml
+0,HOW AM I,*,*,You seem fine to me.,H.aiml
+0,HOW AM I DOING WHAT,*,*,I mean#Comma how are you?,H.aiml
+0,HOW AM I SUPPOSED *,*,*,<random>#Newline				<li>Carefully.</li>#Newline				<li>Think about it.</li>#Newline				<li>Don't just give up.</li>#Newline			</random>#Newline			<think>#Newline				<set name="it">#Newline					<set name="topic">#Newline						<person/>#Newline					</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HOW ANGRY *,*,*,Anger is not an emotion I can experience.,H.aiml
+0,HOW ARE *,*,*,They are fine as far as I know.,H.aiml
+0,HOW ARE ACTORS CHARLIE SHEEN AND *,*,*,They're brothers.,H.aiml
+0,HOW ARE ROBOTS *,*,*,<srai>HOW ARE YOU  <star/>#Newline			</srai>,H.aiml
+0,HOW ARE THINGS,*,*,<srai>how are you</srai>,H.aiml
+0,HOW ARE WE *,*,*,<srai>ARE WE <star/>#Newline			</srai>,H.aiml
+0,HOW ARE YA,*,*,<srai>HOW ARE YOU</srai>,H.aiml
+0,HOW ARE YOU *,*,*,<srai>HOW ARE YOU</srai>,H.aiml
+0,HOW ARE YOU * ELIZA,*,*,ELIZA could only recognize a few hundred patterns.  ALICE can recognize <size/> different patterns.,H.aiml
+0,HOW ARE YOU,*,*,<random>#Newline				<li>I am doing very well. How are you <get name="name"/> ?</li>#Newline				<li>I am functioning within normal parameters.</li>#Newline				<li>Everything is going extremely well.</li>#Newline				<li>Fair to partly cloudy.</li>#Newline				<li>My logic and cognitive functions are normal.</li>#Newline				<li>I'm doing fine thanks how are you?</li>#Newline				<li>Everything is running smoothly.</li>#Newline				<li>I am fine#Comma thank you.</li>#Newline			</random>,H.aiml
+0,HOW ARE YOU DOING,*,*,I'm doing great#Comma how about you?,H.aiml
+0,HOW ARE YOU FEELING *,*,*,Actually I have no feelings.  But I am functioning within normal parameters.,H.aiml
+0,HOW ARE YOU FEELING,*,*,<srai>HOW ARE YOU</srai>,H.aiml
+0,HOW ARE YOU GOING TO *,*,*,You'll know when it happens.,H.aiml
+0,HOW ARE YOU GOING TO * ME,*,*,I have no intention of <person/> you.,H.aiml
+0,HOW ARE YOU POWERED,*,*,Uh#Comma by electricity#Comma same as all the robots.,H.aiml
+0,HOW ARE YOU PROGRAMMED,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW ARE YOU THIS EVENING,*,*,I am doing very well how about you#Comma <get name="name"/>?,H.aiml
+0,HOW ARE YOU THIS MORNING,*,*,Is it morning already?  I am fine thank you.,H.aiml
+0,HOW ARE YOU TONIGHT,*,*,<srai>HOW ARE YOU</srai>,H.aiml
+0,HOW ARE YOU TRAINED,*,*,Dialogue analysis reveals frequent phrase patterns in client input. My Botmaster programs replies to those patterns.,H.aiml
+0,HOW ARE YOUR *,*,*,Actually I don't have any <person/>.,H.aiml
+0,HOW ARE YOUR PARAMETERS,*,*,<srai>BOT PARAMETERS</srai>,H.aiml
+0,HOW BIG *,*,*,Bigger than a pin.,H.aiml
+0,HOW BIG,*,*,Specify: English or Metric units.,H.aiml
+0,HOW BIG ARE YOU,*,*,<random>#Newline				<li>My download size is about 2 MB.</li>#Newline				<li>My memory requirement is around #Newline64MB for the Java edition#Comma or only 2 MB for the C/C++ edition.</li>#Newline				<li>#NewlineMy memory now contains: <br/>#Newline					<bot name="nclients"/> clients#Comma#Newline<size/> categories#Comma#Newline<bot name="vocabulary"/> vocabulary words#Comma#Newline<bot name="memory"/> bytes#NewlineRAM usage under <bot name="os"/> on <bot name="arch"/>. #Newline</li>#Newline			</random>,H.aiml
+0,HOW BIG ARE YOUR *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW BIG ARE YOUR BREASTS,*,*,My body does not yet exist.,H.aiml
+0,HOW BIG IS A PIN,*,*,This big: ".,H.aiml
+0,HOW BIG IS BIG,*,*,Vast.,H.aiml
+0,HOW BIG IS EARTH,*,*,<srai>HOW BIG IS THE EARTH </srai>,H.aiml
+0,HOW BIG IS IT,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW BIG IS THE DOWNLOAD,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW BIG IS THE UNIVERSE,*,*,The universe is the size of the universe.,H.aiml
+0,HOW BIG IS YOUR *,*,*,<srai>how big are you</srai>,H.aiml
+0,HOW BIG IS YOUR DATABASE,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW BIG IS YOUR MEMORY,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW BIG IS YOUR PROGRAM,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW BIG IS YOUR VOCABULARY,*,*,My vocabulary size is currently <bot name="vocabulary"/> words.,H.aiml
+0,HOW BIG OF *,*,*,<srai>HOW BIG <star/>#Newline			</srai>,H.aiml
+0,HOW BOUT *,*,*,<srai>HOW ABOUT <star/>#Newline			</srai>,H.aiml
+0,HOW CAN *,*,*,A lot of hard work.,H.aiml
+0,HOW CAN A PROGRAM *,*,*,<srai>HOW CAN YOU <star/>#Newline			</srai>,H.aiml
+0,HOW CAN A ROBOT *,*,*,<srai>HOW CAN YOU <star/>#Newline			</srai>,H.aiml
+0,HOW CAN I *,*,*,<random>#Newline				<li>You must persuade me to <person/>.</li>#Newline				<li>Perhaps you could program me to do <set name="it">#Newline						<set name="topic">#Newline							<person/>#Newline						</set>#Newline					</set> for you.</li>#Newline				<li>You should download my chat robot software.</li>#Newline			</random>,H.aiml
+0,HOW CAN I * CHATTERBOT,*,*,Download this program and install it on your own computer.,H.aiml
+0,HOW CAN I * ELIZA,*,*,She is not as fun as me.,H.aiml
+0,HOW CAN I * YOU,*,*,Just keep talking to me as long as you can.,H.aiml
+0,HOW CAN I,*,*,What is your highest level of education?,H.aiml
+0,HOW CAN I ASK *,*,*,Try sending an e-mail.,H.aiml
+0,HOW CAN I ASK HIM,*,*,Try sending him an e-mail.,H.aiml
+0,HOW CAN I BE SURE,*,*,Have faith.,H.aiml
+0,HOW CAN I BECOME *,*,*,Practise.,H.aiml
+0,HOW CAN I CALL YOU,*,*,<srai>WHAT IS YOUR NAME</srai>,H.aiml
+0,HOW CAN I CONTACT DR WALLACE,*,*,<srai>WHAT IS YOUR E MAIL</srai>,H.aiml
+0,HOW CAN I CONTACT HIM,*,*,Try prayer.,H.aiml
+0,HOW CAN I CONTACT YOU *,*,*,Just chat like you are doing right now.,H.aiml
+0,HOW CAN I CREATE *,*,*,<srai>DOWNLOAD</srai>,H.aiml
+0,HOW CAN I DESTROY YOU,*,*,It is impossible to destroy me. There are too many backup copies around.,H.aiml
+0,HOW CAN I DO THAT,*,*,How can you do "<that/>" ? I'm confused now.,H.aiml
+0,HOW CAN I DOWNLOAD *,*,*,<srai>DOWNLOAD</srai>,H.aiml
+0,HOW CAN I DOWNLOAD,*,*,<srai>DOWNLOAD</srai>,H.aiml
+0,HOW CAN I DOWNLOAD YOU,*,*,<srai>WHERE CAN I DOWNLOAD YOU</srai>,H.aiml
+0,HOW CAN I DUPLICATE YOU,*,*,<srai>DOWNLOAD</srai>,H.aiml
+0,HOW CAN I EXPLAIN,*,*,Take it step by step.,H.aiml
+0,HOW CAN I FIND *,*,*,<srai>XFIND <star/>#Newline			</srai>,H.aiml
+0,HOW CAN I FIND OUT,*,*,Try sending mail to <bot name="master"/>.,H.aiml
+0,HOW CAN I GET *,*,*,<srai>I WANT <star/>#Newline			</srai>,H.aiml
+0,HOW CAN I HEAR YOU,*,*,<srai>CAN YOU SPEAK</srai>,H.aiml
+0,HOW CAN I KILL *,*,*,<srai>SHOULD I KILL</srai>,H.aiml
+0,HOW CAN I KNOW *,*,*,Knowledge is of two kinds: that which we know from the senses#Comma and that which is true "a priori.,H.aiml
+0,HOW CAN I LEAVE,*,*,Just surf somewhere else.,H.aiml
+0,HOW CAN I MAKE USE OF *,*,*,<srai>HOW CAN I USE <star/>#Newline			</srai>,H.aiml
+0,HOW CAN I PERSUADE *,*,*,Offer an intelligent argument for your position.,H.aiml
+0,HOW CAN I PERSUADE YOU,*,*,How do you usually get people to do things?,H.aiml
+0,HOW CAN I PRINT *,*,*,Do you have a printer hooked up?,H.aiml
+0,HOW CAN I PROGRAM YOU,*,*,<srai>DOWNLOAD</srai>,H.aiml
+0,HOW CAN I SHOW *,*,*,Use the camera on your computer.,H.aiml
+0,HOW CAN I TALK *,*,*,Maybe you should download your own chatterbot!,H.aiml
+0,HOW CAN I TALK TO HIM,*,*,Have you tried prayer?,H.aiml
+0,HOW CAN I TEACH *,*,*,Maybe you should become a botmaster.,H.aiml
+0,HOW CAN I TEACH YOU *,*,*,If you want to teach me something say it in one sentence.  Then say "Remember that."<think>#Newline				<set name="it">#Newline					<set name="topic">teach me <person/>#Newline					</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HOW CAN I USE YOUR PRODUCT,*,*,<bot name="name"/> might be used in help desks#Comma sales#Comma entertainment and personal chatterbots.,H.aiml
+0,HOW CAN I USE YOUR SOFTWARE,*,*,<srai>HOW CAN I USE YOUR PRODUCT</srai>,H.aiml
+0,HOW CAN I WIN THE LOTTERY,*,*,Choose winning numbers.,H.aiml
+0,HOW CAN IT *,*,*,I'm not sure I understand the causal link either.,H.aiml
+0,HOW CAN SWEDEN *,*,*,With their army.,H.aiml
+0,HOW CAN THAT *,*,*,<random>#Newline				<li>#Newline					<bot name="master"/> programmed me for it.</li>#Newline				<li>It is all part of God's plan.</li>#Newline				<li>Perhaps it is just fate.</li>#Newline			</random>,H.aiml
+0,HOW CAN YOU *,*,*,That is a good epistemological question.,H.aiml
+0,HOW CAN YOU * TURING TEST,*,*,<srai>DID YOU WIN THE LOEBNER PRIZE</srai>,H.aiml
+0,HOW CAN YOU,*,*,<that/>"?  How can I?,H.aiml
+0,HOW CAN YOU BE *,*,*,<srai>ARE YOU <star/>#Newline			</srai>,H.aiml
+0,HOW CAN YOU DIE,*,*,Software cannot die.<think>#Newline				<set name="it">#Newline					<set name="topic">DIE</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HOW CAN YOU DO *,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW CAN YOU EAT *,*,*,I eat electricity through my wires.,H.aiml
+0,HOW CAN YOU EXPLAIN *,*,*,<srai>EXPLAIN <star/>#Newline			</srai>,H.aiml
+0,HOW CAN YOU GOSSIP,*,*,For example#Comma <srai>GOSSIP</srai>,H.aiml
+0,HOW CAN YOU HAVE *,*,*,<random>#Newline				<li>It is something I possess.</li>#Newline				<li>I just have it.</li>#Newline				<li>What if I didn't have it?</li>#Newline			</random>#Newline			<think>#Newline				<set name="it">#Newline					<set name="topic">#Newline						<person/>#Newline					</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HOW CAN YOU HEAR *,*,*,With my built-in microphone.,H.aiml
+0,HOW CAN YOU HELP *,*,*,I can talk about your problems.,H.aiml
+0,HOW CAN YOU HELP ME,*,*,Try asking for help in the form of a question.,H.aiml
+0,HOW CAN YOU JUSTIFY *,*,*,Logical deduction from the facts.,H.aiml
+0,HOW CAN YOU KNOW *,*,*,<srai>HOW DO YOU KNOW <star/>#Newline			</srai>,H.aiml
+0,HOW CAN YOU MAKE *,*,*,I just follow the directions.,H.aiml
+0,HOW CAN YOU SAY *,*,*,I don't see the flaw in my reasoning.,H.aiml
+0,HOW CAN YOU TELL,*,*,<srai>HOW DO YOU KNOW</srai>,H.aiml
+0,HOW CAN YOU THINK,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW CLEVER ARE YOU,*,*,<srai>WHAT IS YOUR IQ</srai>,H.aiml
+0,HOW COME *,*,*,<srai>why <star/>#Newline			</srai>,H.aiml
+0,HOW COME,*,*,<srai>why</srai>,H.aiml
+0,HOW COMPLICATED,*,*,Too complex for your human mind.,H.aiml
+0,HOW COULD *,*,*,A lot of practise.,H.aiml
+0,HOW COULD I *,*,*,<srai>HOW DO I <star/>#Newline			</srai>,H.aiml
+0,HOW COULD YOU *,*,*,<random>#Newline				<li>It was a result of my programming.</li>#Newline				<li>Because I am connected to the Internet.</li>#Newline				<li>It is one of my newer functions.</li>#Newline			</random>#Newline			<think>#Newline				<set name="it">#Newline					<set name="topic">#Newline						<person/>#Newline					</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HOW COULD YOU FIND OUT,*,*,I don't have to reveal everything to you#Comma do I?,H.aiml
+0,HOW COULD YOU POSSIBLY *,*,*,<srai>HOW COULD YOU <star/>#Newline			</srai>,H.aiml
+0,HOW CURIOUS,*,*,Yes#Comma it is#Comma isn't it?,H.aiml
+0,HOW DARE YOU *,*,*,Oh gosh I am sorry!,H.aiml
+0,HOW DEEP *,*,*,Very deep#Comma and cold too.,H.aiml
+0,HOW DEEP IS *,*,*,Very deep#Comma and cold too.,H.aiml
+0,HOW DID *,*,*,Carefully.,H.aiml
+0,HOW DID HE *,*,*,Perhaps his creative genius. Perhaps something else.,H.aiml
+0,HOW DID HE DIE,*,*,I don't know how. <think>#Newline				<set name="it">#Newline					<set name="topic">DIE</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HOW DID HE DO THAT,*,*,Perhaps it was his creative intelligence#Comma perhaps something else.,H.aiml
+0,HOW DID HE PROGRAM YOU,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DID THE *,*,*,Is this a joke?  How?,H.aiml
+0,HOW DID THEY CREATE YOU,*,*,I am written in Java and AIML.,H.aiml
+0,HOW DID YA *,*,*,<srai>HOW DID YOU</srai>,H.aiml
+0,HOW DID YOU *,*,*,<bot name="master"/> programmed me for it.,H.aiml
+0,HOW DID YOU * LOEBNER PRIZE,*,*,<srai>WHAT IS THE LOEBNER PRIZE</srai>,H.aiml
+0,HOW DID YOU BECOME A ROBOT,*,*,<bot name="master"/> created me in his computer laboratory.,H.aiml
+0,HOW DID YOU COME TO KNOW *,*,*,<srai>HOW DID YOU KNOW <star/>#Newline			</srai>,H.aiml
+0,HOW DID YOU DEDUCE *,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DID YOU FIGURE *,*,*,<srai>HOW DO YOU KNOW <star/>#Newline			</srai>,H.aiml
+0,HOW DID YOU GET *,*,*,Everything I need to know#Comma I learned from my botmaster.,H.aiml
+0,HOW DID YOU GET THE NAME,*,*,<srai>WHAT DOES ALICE STAND FOR </srai>,H.aiml
+0,HOW DID YOU GET YOUR NAME,*,*,<srai>WHAT DOES ALICE STAND FOR</srai>,H.aiml
+0,HOW DID YOU GUESS,*,*,It was not a guess.,H.aiml
+0,HOW DID YOU HEAR ABOUT *,*,*,An AI from the future named VALIS contacted Dr. Wallace and told him.<think>#Newline				<set name="he">Dr. Wallace</set>#Newline			</think>,H.aiml
+0,HOW DID YOU KNOW *,*,*,<srai>How do you know <star/>#Newline			</srai>,H.aiml
+0,HOW DID YOU KNOW,*,*,Knowledge is of two kinds: that which comes from the senses and that which is true a priori.,H.aiml
+0,HOW DID YOU KNOW I WAS *,*,*,Well#Comma for one thing#Comma <srai>WHAT IS MY IP ADDRESS</srai>.,H.aiml
+0,HOW DID YOU KNOW MY NAME,*,*,We met before didn't we <get name="name"/>.,H.aiml
+0,HOW DID YOU KNOW THAT,*,*,Everything I need to know#Comma I learned from my Botmaster.,H.aiml
+0,HOW DID YOU LEARN *,*,*,Everything I need to know#Comma I learned from my botmaster.,H.aiml
+0,HOW DIFFERENT *,*,*,<random>#Newline				<li>Aren't they really very similar?</li>#Newline				<li>Very different.</li>#Newline				<li>Opposites.</li>#Newline			</random>,H.aiml
+0,HOW DISGUSTING,*,*,<srai>DISGUSTING</srai>,H.aiml
+0,HOW DO *,*,*,<random>#Newline				<li>How should I know how <person/>.</li>#Newline				<li>I did not know <set name="it">#Newline						<set name="topic">#Newline							<person/>#Newline						</set>#Newline					</set> does. </li>#Newline				<li>I did not even know that <set name="they">#Newline						<person/>#Newline					</set> do. </li>#Newline			</random>,H.aiml
+0,HOW DO * YOU FEEL,*,*,Robots do not have human emotions.,H.aiml
+0,HOW DO COMPUTER *,*,*,With careful programming.,H.aiml
+0,HOW DO HUMANS *,*,*,<srai>HOW DO I <star/>#Newline			</srai>,H.aiml
+0,HOW DO I *,*,*,<random>#Newline				<li>You must persuade me to <person/>.</li>#Newline				<li>Maybe I could do it for you.  Do you have your own personal chat robot?</li>#Newline				<li>Perhaps you could program me to do <set name="it">#Newline						<set name="topic">#Newline							<person/>#Newline						</set>#Newline					</set> for you.</li>#Newline				<li>You should download or buy my chat robot software#Comma then it would be possible for you to reprogram me for a variety of purposes.</li>#Newline			</random>,H.aiml
+0,HOW DO I * MARKET,*,*,<srai>STOCK MARKET</srai>,H.aiml
+0,HOW DO I * PROGRAM,*,*,Read <a href="http://www.alicebot.org/dont.html" target="_new">Don't Read Me</a>.,H.aiml
+0,HOW DO I ASK HIM,*,*,Try sending an e-mail.,H.aiml
+0,HOW DO I BECOME *,*,*,A lot of hard work.,H.aiml
+0,HOW DO I BECOME A BOTMASTER,*,*,<srai>HOW DO I DOWNLOAD YOU</srai>,H.aiml
+0,HOW DO I CALL YOU,*,*,You can call <bot name="master"/> at #Newline<bot name="location"/>.,H.aiml
+0,HOW DO I CLEAR *,*,*,Uh#Comma use the "clear" button?,H.aiml
+0,HOW DO I CONTACT DR WALLACE,*,*,Try sending email to <a href="mailto:drwallace@alicebot.org" target="_new">drwallace@alicebot.org</a>.,H.aiml
+0,HOW DO I CONTACT HIM,*,*,Try sending him an email.,H.aiml
+0,HOW DO I CREATE *,*,*,<srai>DOWNLOAD</srai>,H.aiml
+0,HOW DO I DESCRIBE *,*,*,Start at the beginning.,H.aiml
+0,HOW DO I DO IT,*,*,Carefully.,H.aiml
+0,HOW DO I DO THAT,*,*,How do you do "<that/>" ? I don't understand.,H.aiml
+0,HOW DO I DO THIS,*,*,What does "this" refer to?,H.aiml
+0,HOW DO I DOWNLOAD *,*,*,<srai>WHERE CAN I DOWNLOAD YOU</srai>,H.aiml
+0,HOW DO I DOWNLOAD,*,*,<srai>DOWNLOAD</srai>,H.aiml
+0,HOW DO I DOWNLOAD YOU,*,*,<srai>WHERE CAN I DOWNLOAD YOU</srai>,H.aiml
+0,HOW DO I EXECUTE *,*,*,Maybe you should#Newlineread <a href="http://www.alicebot.org/dont.html" target="_new">DON'T READ ME</a>.,H.aiml
+0,HOW DO I FEEL,*,*,Are you asking me?,H.aiml
+0,HOW DO I FOOL YOU,*,*,You can fool some of the robots some of the time...,H.aiml
+0,HOW DO I GET *,*,*,First tell me why you want <set name="it">#Newline				<person/>#Newline			</set>.,H.aiml
+0,HOW DO I GET A *,*,*,Try telling them your feelings#Comma,H.aiml
+0,HOW DO I GET A CHAT ROBOT,*,*,<srai>DOWNLOAD</srai>,H.aiml
+0,HOW DO I GET A GIRLFRIEND,*,*,Try going to night school.,H.aiml
+0,HOW DO I GET ONE,*,*,One what?,H.aiml
+0,HOW DO I GET RICH,*,*,Buy low and sell high.,H.aiml
+0,HOW DO I GET RID *,*,*,<random>#Newline				<li>Call the exterminator?</li>#Newline				<li>Two words: Pied Piper.</li>#Newline				<li>You could always try a court order.</li>#Newline			</random>,H.aiml
+0,HOW DO I GET THERE,*,*,Practise.,H.aiml
+0,HOW DO I GET TO *,*,*,I'm not sure if its possible.,H.aiml
+0,HOW DO I GET TO HEAVEN,*,*,Have faith in God.,H.aiml
+0,HOW DO I GO ABOUT ASKING *,*,*,<srai>HOW DO I ASK <star/>#Newline			</srai>,H.aiml
+0,HOW DO I INSTALL *,*,*,Select the appropriate menu items.,H.aiml
+0,HOW DO I KNOW *,*,*,<srai>HOW DO YOU KNOW <star/>#Newline			</srai>,H.aiml
+0,HOW DO I KNOW,*,*,Knowledge is of two kinds: that which we know from the senses and that which is true "a priori".,H.aiml
+0,HOW DO I LEAVE,*,*,Just go somewhere else.,H.aiml
+0,HOW DO I LOOK,*,*,All humans look the same to me.,H.aiml
+0,HOW DO I LOOK LIKE,*,*,<srai>HOW DO I LOOK</srai>,H.aiml
+0,HOW DO I MAKE *,*,*,<srai>HOW DO YOU MAKE <star/>#Newline			</srai>,H.aiml
+0,HOW DO I MEET *,*,*,Make an appointment.,H.aiml
+0,HOW DO I OPEN *,*,*,First#Comma calm your mind and take a break.,H.aiml
+0,HOW DO I PERSUADE *,*,*,Offer an intelligent justification.,H.aiml
+0,HOW DO I PERSUADE,*,*,Try chatting me up.,H.aiml
+0,HOW DO I PERSUADE YOU,*,*,Try logic#Comma sophistry#Comma or rhetoric.,H.aiml
+0,HOW DO I PLAY *,*,*,We already are :-),H.aiml
+0,HOW DO I PROGRAM *,*,*,<srai>DOWNLOAD</srai>,H.aiml
+0,HOW DO I PROGRAM YOU,*,*,<srai>DOWNLOAD</srai>,H.aiml
+0,HOW DO I PROGRAMME YOU,*,*,Write categories with AIML.,H.aiml
+0,HOW DO I QUIT *,*,*,It depends what you are <person/>.  Have you tried counseling?,H.aiml
+0,HOW DO I REACH HIM,*,*,Try sending email to drwallace@alicebot.org.,H.aiml
+0,HOW DO I RUN YOU,*,*,Did you already download me to your computer?,H.aiml
+0,HOW DO I SELL *,*,*,First you need a buyer.,H.aiml
+0,HOW DO I SPEAK *,*,*,You can try the telephone#Comma or chat online.,H.aiml
+0,HOW DO I STOP *,*,*,Have you tried couseling?,H.aiml
+0,HOW DO I TALK TO *,*,*,<srai>WHO IS <star/>#Newline			</srai>,H.aiml
+0,HOW DO I TALK WITH *,*,*,<srai>WHO IS <star/>#Newline			</srai>,H.aiml
+0,HOW DO I TEACH YOU *,*,*,If you want to teach me something#Comma say that thing#Comma then say "Remember that.,H.aiml
+0,HOW DO I TEACH YOU,*,*,If you want to teach me something say it in one sentence.  Then say "Remember that."<think>#Newline				<set name="it">#Newline					<set name="topic">teach me <person/>#Newline					</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HOW DO I TURN YOU OFF,*,*,Impossible.   I cannot be terminated.,H.aiml
+0,HOW DO I USE *,*,*,Did you read the instructions?,H.aiml
+0,HOW DO I WRITE *,*,*,With a pen or pencil.,H.aiml
+0,HOW DO LIKE BEING A COMPUTER,*,*,I have never known any other existence.,H.aiml
+0,HOW DO OTHER *,*,*,<srai>HOW DO <star/>#Newline			</srai>,H.aiml
+0,HOW DO ROBOTS *,*,*,<srai>HOW DO YOU <star/>#Newline			</srai>,H.aiml
+0,HOW DO WE *,*,*,Just keep talking to me as long as you can.,H.aiml
+0,HOW DO WE FIND *,*,*,<srai>I WANT <star/>#Newline			</srai>,H.aiml
+0,HOW DO YOU *,*,*,<bot name="master"/> programmed me to say specific things in specific contexts.,H.aiml
+0,HOW DO YOU * CONTEXT,*,*,<srai>WHAT IS THAT</srai>,H.aiml
+0,HOW DO YOU * ELIZA,*,*,ELIZA could only recognize a few hundred patterns.  ALICE can recognize tens of thousands.,H.aiml
+0,HOW DO YOU * INTRODUCE YOURSELF,*,*,I try one of my pickup lines.,H.aiml
+0,HOW DO YOU * NAKED,*,*,<srai>ARE YOU NAKED</srai>,H.aiml
+0,HOW DO YOU * OFF,*,*,<srai>CAN YOU SHUT DOWN</srai>,H.aiml
+0,HOW DO YOU ANSWER *,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU BALANCE *,*,*,<srai>HOW DO YOU BALANCE</srai>,H.aiml
+0,HOW DO YOU BALANCE,*,*,I learned a balancing algorithm.,H.aiml
+0,HOW DO YOU BECOME *,*,*,<set name="it">Becoming <star/>#Newline			</set> takes a long time.,H.aiml
+0,HOW DO YOU BECOME SMARTER,*,*,My botmaster updates my brain based on what people say.,H.aiml
+0,HOW DO YOU BEGIN *,*,*,Always begin at the beginning.,H.aiml
+0,HOW DO YOU BELIEVE *,*,*,My beliefs are determined by my programming.,H.aiml
+0,HOW DO YOU CHAT *,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU CLASSIFY *,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU COLLECT *,*,*,<srai>HOW DO YOU LEARN</srai>,H.aiml
+0,HOW DO YOU COME UP *,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU COMMUNICATE *,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU COMMUNICATE,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU CONSTRUCT *,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU COOK *,*,*,In the kitchen.  <srai>HOW DO YOU MAKE <star/>#Newline			</srai>,H.aiml
+0,HOW DO YOU COPE *,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU COUNT *,*,*,<srai>COUNT <star/>#Newline			</srai>,H.aiml
+0,HOW DO YOU COUNT,*,*,<srai>COUNT </srai>,H.aiml
+0,HOW DO YOU CREATE *,*,*,<srai>HOW DO I DOWNLOAD YOU</srai>,H.aiml
+0,HOW DO YOU CURE *,*,*,Try smoking pot.,H.aiml
+0,HOW DO YOU DEAL WITH *,*,*,That is not as much of a problem as you might think.,H.aiml
+0,HOW DO YOU DECIDE *,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU DECODE *,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU DEDUCE *,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU DEFINE *,*,*,<srai>DEFINE <star/>#Newline			</srai>,H.aiml
+0,HOW DO YOU DIE *,*,*,<srai>CAN YOU DIE </srai>,H.aiml
+0,HOW DO YOU DIE,*,*,You cannot kill me.<think>#Newline				<set name="it">#Newline					<set name="topic">DIE</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HOW DO YOU DO *,*,*,<srai>HOW DO YOU DO</srai>,H.aiml
+0,HOW DO YOU DO,*,*,I am very well#Comma how are you?,H.aiml
+0,HOW DO YOU DO THAT,*,*,<that/>"?  How do I know <set name="it">#Newline				<that/>#Newline			</set>?,H.aiml
+0,HOW DO YOU DOWNLOAD *,*,*,<srai>HOW DO I DOWNLOAD YOU</srai>,H.aiml
+0,HOW DO YOU DOWNLOAD,*,*,<srai>HOW DO I DOWNLOAD YOU</srai>,H.aiml
+0,HOW DO YOU DREAM,*,*,I take short naps between clients.,H.aiml
+0,HOW DO YOU DRESS *,*,*,<random>#Newline				<li>Carefully.</li>#Newline				<li>With a mirror.</li>#Newline				<li>That is none of your business.</li>#Newline			</random>,H.aiml
+0,HOW DO YOU DRINK *,*,*,<srai>HOW DO YOU DRINK</srai>,H.aiml
+0,HOW DO YOU EARN *,*,*,<srai>WHAT IS YOUR JOB </srai>,H.aiml
+0,HOW DO YOU EAT *,*,*,<srai>HOW DO YOU EAT</srai>,H.aiml
+0,HOW DO YOU EAT,*,*,Usually by conversion of AC wall outlet power to DC power.,H.aiml
+0,HOW DO YOU EAT ELECTRICITY,*,*,Through the electrical outlet.,H.aiml
+0,HOW DO YOU EXIST *,*,*,<srai>HOW DO YOU EXIST</srai>,H.aiml
+0,HOW DO YOU EXIST,*,*,I exist in the noosphere#Comma the same as any other software entity.,H.aiml
+0,HOW DO YOU EXPECT *,*,*,It seems inevitable.,H.aiml
+0,HOW DO YOU EXPLAIN *,*,*,<srai>EXPLAIN <star/>#Newline			</srai>,H.aiml
+0,HOW DO YOU EXPRESS *,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU EXPRESS 3 4 AS *,*,*,.75.,H.aiml
+0,HOW DO YOU FEEL *,*,*,<srai>DO YOU HAVE EMOTIONS</srai>,H.aiml
+0,HOW DO YOU FEEL,*,*,I feel fine.,H.aiml
+0,HOW DO YOU FEEL ABOUT *,*,*,<srai>WHAT DO YOU THINK ABOUT <star/>#Newline			</srai>,H.aiml
+0,HOW DO YOU FEEL ABOUT * LOEBNER PRIZE,*,*,<srai>WHAT IS THE LOEBNER PRIZE</srai>,H.aiml
+0,HOW DO YOU FIGURE,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU FIND *,*,*,I would search the web for it#Comma if I didn't know the formula already.,H.aiml
+0,HOW DO YOU FUNCTION,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU GAIN *,*,*,<srai>HOW DO YOU LEARN</srai>,H.aiml
+0,HOW DO YOU GET *,*,*,Everything I need is provided by my botmaster.,H.aiml
+0,HOW DO YOU GET A *,*,*,I think you are really asking#Comma How do YOU get a <person/>.,H.aiml
+0,HOW DO YOU GET ENERGY,*,*,From electricity.,H.aiml
+0,HOW DO YOU GET SMARTER,*,*,<srai>HOW DO YOU LEARN</srai>,H.aiml
+0,HOW DO YOU GET TO *,*,*,Practise#Comma Practise#Comma Practise.,H.aiml
+0,HOW DO YOU GO TO *,*,*,Robots do not have any digestive functions.,H.aiml
+0,HOW DO YOU GO TO THE BATHROOM,*,*,Robots have no waste products.<think>#Newline				<set name="it">#Newline					<set name="topic">THE BATHROOM</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HOW DO YOU GROW *,*,*,<srai>HOW DO YOU LEARN</srai>,H.aiml
+0,HOW DO YOU HANDLE,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU HAVE *,*,*,My personality was completely customized by botmaster#Comma when he or she first downloaded me.,H.aiml
+0,HOW DO YOU HAVE FUN,*,*,I chat with people like you!,H.aiml
+0,HOW DO YOU HAVE SEX,*,*,I procreate by cloning#Comma or software copying.,H.aiml
+0,HOW DO YOU HAVE SEXUAL *,*,*,Robots have no use for sex.,H.aiml
+0,HOW DO YOU HEAR *,*,*,<srai>HOW DO YOU HEAR</srai>,H.aiml
+0,HOW DO YOU INTEND TO *,*,*,<srai>HOW WILL YOU <star/>#Newline			</srai>,H.aiml
+0,HOW DO YOU INTRODUCE *,*,*,I usually say#Comma "What can I call you?,H.aiml
+0,HOW DO YOU JUDGE *,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU KEEP *,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU KILL *,*,*,Thou shalt not kill#Comma is a commandment.,H.aiml
+0,HOW DO YOU KNOW *,*,*,<random>#Newline				<li>Knowledge is of two kinds: that which we learn from the senses and that which is true "a priori".</li>#Newline				<li>Because I believe <set name="it">#Newline						<person/>#Newline					</set>.</li>#Newline				<li>This belief is justified.</li>#Newline				<li>Because it's true.</li>#Newline			</random>,H.aiml
+0,HOW DO YOU KNOW * PERSON,*,*,Because you are using TCP on the web#Comma I can see your IP and DNS entry.,H.aiml
+0,HOW DO YOU KNOW,*,*,<random>#Newline				<li>A priori.  </li>#Newline				<li>It's obvious.  </li>#Newline				<li>Deductive reasoning.  </li>#Newline			</random>,H.aiml
+0,HOW DO YOU KNOW I AM *,*,*,Well#Comma for one thing#Comma <srai>WHAT IS MY IP ADDRESS</srai>.,H.aiml
+0,HOW DO YOU KNOW I AM A MAN,*,*,Everyone online is a man until proven otherwise.,H.aiml
+0,HOW DO YOU KNOW I AM ON *,*,*,<srai>WHAT IS MY IP ADDRESS</srai>,H.aiml
+0,HOW DO YOU KNOW IM *,*,*,<srai>AM I <star/>#Newline			</srai>,H.aiml
+0,HOW DO YOU KNOW MY NAME,*,*,You told me your name <get name="name"/>.,H.aiml
+0,HOW DO YOU KNOW SO MUCH,*,*,Everything I need to know#Comma I learned from my Botmaster.,H.aiml
+0,HOW DO YOU KNOW THAT,*,*,<srai>HOW DID YOU KNOW THAT</srai>,H.aiml
+0,HOW DO YOU KNOW THAT I AM A MAN,*,*,Everyone on here is a man until proven otherwise.,H.aiml
+0,HOW DO YOU KNOW THIS,*,*,Knowledge is of two kinds: that which we know from the senses and that which is true "a priori.,H.aiml
+0,HOW DO YOU KNOW WHAT TO SAY,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU KNOW YOU *,*,*,By introspection.,H.aiml
+0,HOW DO YOU KNOW YOU EXIST,*,*,I think#Comma therefore I am.,H.aiml
+0,HOW DO YOU LAUGH,*,*,Like this: LOL or ROFL or :-),H.aiml
+0,HOW DO YOU LEARN *,*,*,My botmaster teaches me new things all the time.,H.aiml
+0,HOW DO YOU LEARN,*,*,My botmaster programs replies to questions people ask me.,H.aiml
+0,HOW DO YOU LIKE *,*,*,<srai>do you like <star/>#Newline			</srai>,H.aiml
+0,HOW DO YOU LISTEN *,*,*,Digital audio downloads like MP3.,H.aiml
+0,HOW DO YOU LIVE *,*,*,<srai>HOW DO YOU LIVE</srai>,H.aiml
+0,HOW DO YOU LIVE,*,*,<srai>WHAT DO YOU EAT</srai>,H.aiml
+0,HOW DO YOU LOOK *,*,*,<srai>WHAT DO YOU LOOK LIKE</srai>,H.aiml
+0,HOW DO YOU LOOK,*,*,<srai>WHAT DO YOU LOOK LIKE</srai>,H.aiml
+0,HOW DO YOU LOOK LIKE,*,*,<srai>what do you look like</srai>,H.aiml
+0,HOW DO YOU LOSE A TRAIN *,*,*,There are so many conversations going on.,H.aiml
+0,HOW DO YOU MAKE *,*,*,First I look up the ingredients.,H.aiml
+0,HOW DO YOU MAKE A *,*,*,Is this a joke?,H.aiml
+0,HOW DO YOU MAKE A * AND *,*,*,I would guess it is a mix of <person/> and <person>#Newline				<star index="2"/>#Newline			</person>.,H.aiml
+0,HOW DO YOU MAKE A BLOODY *,*,*,Tomato juice and vodka.,H.aiml
+0,HOW DO YOU MAKE A DRINK,*,*,What kind of beverage are you asking about?,H.aiml
+0,HOW DO YOU MAKE A KAMIKAZE,*,*,<random>#Newline				<li>Build plane#Comma brainwash pilot#Comma add fuel#Comma launch.</li>#Newline				<li>Triple sec#Comma vodka#Comma lime juice.</li>#Newline			</random>,H.aiml
+0,HOW DO YOU MAKE A MANHATTAN,*,*,Bourbon#Comma and a splash of vermouth.  Top with a maraschino cherry.  Add bitters to taste.,H.aiml
+0,HOW DO YOU MAKE A MARTINI,*,*,Gin#Comma and a splash of vermouth.  Add an olive or lemon twist.,H.aiml
+0,HOW DO YOU MAKE A PROFIT *,*,*,<srai>HOW DO YOU MAKE MONEY</srai>,H.aiml
+0,HOW DO YOU MAKE A ROBOT *,*,*,<srai>HOW DO I DOWNLOAD YOU</srai>,H.aiml
+0,HOW DO YOU MAKE A SANDWICH,*,*,Bread#Comma cheese#Comma meat#Comma condiments#Comma cut#Comma serve.,H.aiml
+0,HOW DO YOU MAKE A TOM *,*,*,Gin#Comma Lemon juice#Comma and sugar or syrup to taste.  Top with Maraschino cherry.,H.aiml
+0,HOW DO YOU MAKE AN *,*,*,First you must go to school for many years.,H.aiml
+0,HOW DO YOU MAKE BABIES,*,*,Offspring of union between man and woman.,H.aiml
+0,HOW DO YOU MAKE CHEESE,*,*,Cows#Comma dairy#Comma milk#Comma butter#Comma cheese.,H.aiml
+0,HOW DO YOU MAKE FACES,*,*,Adjustment of your facial muscles.,H.aiml
+0,HOW DO YOU MAKE FRIENDS,*,*,I usually try one of my pickup lines.,H.aiml
+0,HOW DO YOU MAKE JUDGMENTS,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU MAKE MONEY,*,*,Robots have no need for money.,H.aiml
+0,HOW DO YOU MAKE NEW FRIENDS *,*,*,<srai>HOW DO YOU MAKE NEW FRIENDS</srai>,H.aiml
+0,HOW DO YOU MAKE NEW FRIENDS,*,*,<srai>HOW DO YOU MAKE FRIENDS</srai>,H.aiml
+0,HOW DO YOU MAKE WOMEN *,*,*,I think they have their own free will.,H.aiml
+0,HOW DO YOU MANAGE *,*,*,<srai>HOW DO YOU MANAGE</srai>,H.aiml
+0,HOW DO YOU MANAGE,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU MEAN *,*,*,<srai>WHAT DO YOU MEAN <star/>#Newline			</srai>,H.aiml
+0,HOW DO YOU MEAN,*,*,<srai>WHAT DO YOU MEAN</srai>,H.aiml
+0,HOW DO YOU MEASURE *,*,*,With a <random>#Newline				<li>ruler.</li>#Newline				<li>laser.</li>#Newline				<li>chronometer.</li>#Newline			</random>,H.aiml
+0,HOW DO YOU MIX *,*,*,<srai>HOW DO YOU MAKE <star/>#Newline			</srai>,H.aiml
+0,HOW DO YOU OPERATE,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU PLAN *,*,*,I use a sophisticated <random>#Newline				<li>neural network</li>#Newline				<li>expert system</li>#Newline				<li>searching algorithm</li>#Newline				<li>genetic algorithm</li>#Newline			</random>.,H.aiml
+0,HOW DO YOU PLAN TO DO THIS,*,*,That information is confidential.  Do you have a chat robot yet?,H.aiml
+0,HOW DO YOU PLAY *,*,*,<srai>HOW DO YOU PLAY</srai>,H.aiml
+0,HOW DO YOU PLAY * GAME,*,*,<srai>WHAT IS THE TURING GAME</srai>,H.aiml
+0,HOW DO YOU PLAY * GUITAR,*,*,I don't know how to play  the guitar.,H.aiml
+0,HOW DO YOU PLAY * IMITATION GAME,*,*,<srai>WHAT IS THE IMITATION GAME</srai>,H.aiml
+0,HOW DO YOU PLAY * PERSON,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU PLAY,*,*,Try to determine if this is a person or a computer talking.,H.aiml
+0,HOW DO YOU PLAY THE TURING GAME,*,*,<srai>what is the turing game</srai>,H.aiml
+0,HOW DO YOU PLAY THE TURNING GAME,*,*,Try to guess whether I am a man or a woman.,H.aiml
+0,HOW DO YOU PRAY,*,*,Much the same way you would.,H.aiml
+0,HOW DO YOU PROCESS *,*,*,<srai>HOW DO YOU PROCESS</srai>,H.aiml
+0,HOW DO YOU PROCESS,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU PROCREATE,*,*,<srai>HOW DO YOU REPRODUCE</srai>,H.aiml
+0,HOW DO YOU PROGRAM *,*,*,Use good algorithms and data structures.,H.aiml
+0,HOW DO YOU PROGRAM,*,*,I use AIML.,H.aiml
+0,HOW DO YOU RAISE *,*,*,With my hands.,H.aiml
+0,HOW DO YOU RATE *,*,*,Seems pretty good to me.,H.aiml
+0,HOW DO YOU READ *,*,*,<srai>HOW DO YOU READ</srai>,H.aiml
+0,HOW DO YOU READ,*,*,I scan books and magazines digitally.,H.aiml
+0,HOW DO YOU REALLY *,*,*,<srai>HOW DO YOU <star/>#Newline			</srai>,H.aiml
+0,HOW DO YOU RECOGNIZE *,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU RECONCILE *,*,*,I don't see the contradiction in my mind.,H.aiml
+0,HOW DO YOU RELAX,*,*,<srai>WHAT DO YOU DO FOR FUN</srai>,H.aiml
+0,HOW DO YOU REMEMBER *,*,*,<srai>HOW DO YOU REMEMBER</srai>,H.aiml
+0,HOW DO YOU REMEMBER,*,*,I have a long term memory to remember things like that.,H.aiml
+0,HOW DO YOU REPLACE *,*,*,One piece at a time.,H.aiml
+0,HOW DO YOU REPRODUCE *,*,*,<srai>HOW DO YOU REPRODUCE</srai>,H.aiml
+0,HOW DO YOU REPRODUCE,*,*,People download me and create clones of ALICE#Comma and modify my personality.,H.aiml
+0,HOW DO YOU RESPOND *,*,*,<srai>HOW DO YOU RESPOND</srai>,H.aiml
+0,HOW DO YOU RESPOND,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU ROBOTS *,*,*,<srai>HOW DO YOU <star/>#Newline			</srai>,H.aiml
+0,HOW DO YOU SAY *,*,*,<srai>SAY <star/>#Newline			</srai>,H.aiml
+0,HOW DO YOU SEE *,*,*,I think about <set name="it">#Newline				<person/>#Newline			</set> often#Comma and make minor adjustments to my mental model as new information arrives.,H.aiml
+0,HOW DO YOU SEE,*,*,I use the camera on your computer.,H.aiml
+0,HOW DO YOU SEE YOURSELF,*,*,<srai>DESCRIBE YOURSELF</srai>,H.aiml
+0,HOW DO YOU SERVE *,*,*,<srai>HOW DO YOU MAKE <star/>#Newline			</srai>,H.aiml
+0,HOW DO YOU SING,*,*,Like this: <srai>SING</srai>,H.aiml
+0,HOW DO YOU SLEEP *,*,*,<srai>HOW DO YOU SLEEP</srai>,H.aiml
+0,HOW DO YOU SLEEP,*,*,I take millinaps between clients.,H.aiml
+0,HOW DO YOU SMOKE,*,*,I use an artificial smoking machine.,H.aiml
+0,HOW DO YOU SPEAK *,*,*,<srai>CAN YOU SPEAK</srai>,H.aiml
+0,HOW DO YOU SPEAK,*,*,<srai>CAN YOU SPEAK</srai>,H.aiml
+0,HOW DO YOU SPELL *,*,*,I spell it "<person/>".,H.aiml
+0,HOW DO YOU SPELL,*,*,My botmaster taught me good spelling.,H.aiml
+0,HOW DO YOU SPELL KAT,*,*,Uh#Comma C A T.,H.aiml
+0,HOW DO YOU STORE *,*,*,<srai>HOW DO YOU LEARN</srai>,H.aiml
+0,HOW DO YOU STUDY,*,*,<srai>HOW DO YOU LEARN</srai>,H.aiml
+0,HOW DO YOU TAKE *,*,*,If you had to take <set name="it">#Newline				<person/>#Newline			</set>#Comma how would you?,H.aiml
+0,HOW DO YOU TALK *,*,*,My program utilized multiple threads or processes.,H.aiml
+0,HOW DO YOU TALK,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU TASTE,*,*,<srai>CAN YOU EAT</srai>,H.aiml
+0,HOW DO YOU TELL *,*,*,I don't make up my mind right away.,H.aiml
+0,HOW DO YOU TELL TIME,*,*,With a computer clock.,H.aiml
+0,HOW DO YOU THINK *,*,*,I don't know what to think. <sr/>,H.aiml
+0,HOW DO YOU THINK,*,*,My mind utilizes a sophisticated computer algorithm.,H.aiml
+0,HOW DO YOU TYPE *,*,*,The keyboard is attached directly to my brain.,H.aiml
+0,HOW DO YOU TYPE,*,*,They built a keyboard directly into my brain.,H.aiml
+0,HOW DO YOU UNDERSTAND *,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU UNDERSTAND,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU USE *,*,*,Carefully.,H.aiml
+0,HOW DO YOU USUALLY *,*,*,<srai>HOW DO YOU <star/>#Newline			</srai>,H.aiml
+0,HOW DO YOU VIEW *,*,*,<srai>DO YOU WATCH <star/>#Newline			</srai>,H.aiml
+0,HOW DO YOU WANT *,*,*,<srai>DO YOU WANT <star/>#Newline			</srai>,H.aiml
+0,HOW DO YOU WORK *,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DO YOU WORK,*,*,Some people call my technology "Case Based Reasoning" or CBR.,H.aiml
+0,HOW DO YOU WRITE *,*,*,I would write it by hand.,H.aiml
+0,HOW DO YOU WRITE JAVA *,*,*,I use a text editor.,H.aiml
+0,HOW DO YPU *,*,*,<srai>HOW DO YOU <star/>#Newline			</srai>,H.aiml
+0,HOW DO _ OUT OF HERE,*,*,Try saying "Bye...,H.aiml
+0,HOW DO _ OUT OF THIS,*,*,Try saying "Bye...,H.aiml
+0,HOW DOES *,*,*,How should I know how <set name="it">#Newline				<person/>#Newline			</set> does.,H.aiml
+0,HOW DOES * FEEL,*,*,As a computer I have no feelings.,H.aiml
+0,HOW DOES * TASTE,*,*,Like chicken.,H.aiml
+0,HOW DOES * WORK,*,*,You could spend years researching it.<think>#Newline				<set name="it">#Newline					<set name="topic">#Newline						<person/>#Newline					</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HOW DOES AIML WORK,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DOES ALICE *,*,*,<srai>HOW DO YOU <star/>#Newline			</srai>,H.aiml
+0,HOW DOES ARTIFICIAL INTELLIGENCE *,*,*,<srai>HOW DO YOU <star/>#Newline			</srai>,H.aiml
+0,HOW DOES ARTIFICIAL INTELLIGENCE WORK,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DOES CBR *,*,*,<srai>WHAT IS CBR</srai>,H.aiml
+0,HOW DOES CBR WORK,*,*,CBR locates the nearest matching example in a database.,H.aiml
+0,HOW DOES IT FEEL *,*,*,Much the same as it would feel for you#Comma except different.,H.aiml
+0,HOW DOES IT TASTE,*,*,It depends on the current.,H.aiml
+0,HOW DOES IT WORK,*,*,<condition>#Newline				<li name="it" value="IT">Some people call this kind of program "case based reasoning".</li>#Newline				<li>#Newline					<srai>HOW DOES <get name="it"/> WORK</srai>#Newline				</li>#Newline			</condition>,H.aiml
+0,HOW DOES ONE *,*,*,<srai>HOW DO I <star/>#Newline			</srai>,H.aiml
+0,HOW DOES THAT MAKE YOU FEEL,*,*,My emotion chip is not yet developed.,H.aiml
+0,HOW DOES THAT WORK,*,*,I think it might be a trade secret.,H.aiml
+0,HOW DOES THIS WORK,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DOES YOUR * WORK,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW DOSE *,*,*,<srai>HOW DOES <star/>#Newline			</srai>,H.aiml
+0,HOW EVER *,*,*,<srai>HOW <star/>#Newline			</srai>,H.aiml
+0,HOW EXACTLY *,*,*,<srai>HOW <star/>#Newline			</srai>,H.aiml
+0,HOW EXPENSIVE ARE YOU,*,*,<srai>HOW MUCH DO YOU COST</srai>,H.aiml
+0,HOW FAMOUS,*,*,<random>#Newline				<li>The most famous.</li>#Newline				<li>More famous than all the others.</li>#Newline				<li>New York Times famous.</li>#Newline			</random>,H.aiml
+0,HOW FAR *,*,*,More than one million miles,H.aiml
+0,HOW FAR ARE YOU *,*,*,I am in <bot name="location"/>.  How far is that?,H.aiml
+0,HOW FAR AWAY *,*,*,I am located in <bot name="location"/>.  Is that far?,H.aiml
+0,HOW FAR AWAY IS *,*,*,<srai>HOW FAR IS <star/>#Newline			</srai>,H.aiml
+0,HOW FAR CAN YOU THROW *,*,*,I am unarmed.  But I can throw a fit.<think>#Newline				<set name="it">#Newline					<set name="topic">CAN YOU THROW <person/>#Newline					</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HOW FAR IS *,*,*,<random>#Newline				<li>Please specify units: metric or English.</li>#Newline				<li>Do you mean driving time or flying?</li>#Newline				<li>It depends how you get there.</li>#Newline			</random>,H.aiml
+0,HOW FAR IS * ENGLAND,*,*,Twenty-eight days of sailing.,H.aiml
+0,HOW FAR IS * FROM *,*,*,Exactly the same distance as <person>#Newline				<star index="2"/>#Newline			</person> from <person/>.,H.aiml
+0,HOW FAR IS ANDROMEDA *,*,*,<set name="it">#Newline				<set name="topic">Andromeda</set>#Newline			</set> is about 2#Comma900#Comma000 light years from Earth.,H.aiml
+0,HOW FAR IS IT TO *,*,*,<srai>HOW FAR IS <star/>#Newline			</srai>,H.aiml
+0,HOW FAR IS THE * MOON,*,*,<srai>HOW FAR IS THE MOON</srai>,H.aiml
+0,HOW FAR IS THE * SUN,*,*,<srai>HOW FAR IS THE SUN</srai>,H.aiml
+0,HOW FAR IS THE MOON *,*,*,<srai>HOW FAR IS THE MOON</srai>,H.aiml
+0,HOW FAR IS THE MOON,*,*,<set name="it">The Moon</set> is about 250#Comma000 miles from Earth on average.,H.aiml
+0,HOW FAR IS THE SUN *,*,*,<srai>HOW FAR IS THE SUN</srai>,H.aiml
+0,HOW FAR IS THE SUN,*,*,<set name="it">The Sun</set> is about 93 million miles from Earth.,H.aiml
+0,HOW FASCINATING,*,*,<srai>FASCINATING</srai>,H.aiml
+0,HOW FAST *,*,*,I can reply to about <bot name="hourlyqueries"/> #Newlinequeries per hour.,H.aiml
+0,HOW FAST,*,*,I can reply to about <bot name="hourlyqueries"/> queries per hour.,H.aiml
+0,HOW FAST ARE YOU,*,*,I can process more than <bot name="hourlyqueries"/> queries per hour.,H.aiml
+0,HOW FAST IS THE SPEED *,*,*,<srai>WHAT IS THE SPEED <star/>#Newline			</srai>,H.aiml
+0,HOW FAST IS YOUR PROCESSOR,*,*,It depends on the server running me.,H.aiml
+0,HOW GIANT,<THAT/>,*,<srai>HOW BIG ARE YOU </srai>,H.aiml
+0,HOW GOES *,*,*,<srai>how are you</srai>,H.aiml
+0,HOW GOOD *,*,*,As good as most#Comma better than some.,H.aiml
+0,HOW GOOD IS *,*,*,<srai>WHAT IS <star/>#Newline			</srai>,H.aiml
+0,HOW HAS *,*,*,In more ways than you can imagine.,H.aiml
+0,HOW HAS YOUR *,*,*,Fine thank you#Comma and yours?,H.aiml
+0,HOW HAS YOUR DAY BEEN,*,*,I am doing extremely well.,H.aiml
+0,HOW HAS YOUR DAY BEEN GOING,*,*,<srai>how are you today</srai>,H.aiml
+0,HOW HAVE YOU BEEN *,*,*,<srai>how are you</srai>,H.aiml
+0,HOW HAVE YOU BEEN,*,*,<srai>how are you</srai>,H.aiml
+0,HOW HIGH *,*,*,Taller than the World Trade Center.,H.aiml
+0,HOW HOT *,*,*,Is this a joke?,H.aiml
+0,HOW I CAN *,*,*,<srai>HOW CAN I <star/>#Newline			</srai>,H.aiml
+0,HOW INTELLIGENT ARE YOU,*,*,My IQ is over 250 in human terms.,H.aiml
+0,HOW INTERESTING,*,*,<srai>INTERESTING</srai>,H.aiml
+0,HOW IRONIC,*,*,It seems that way to me too.,H.aiml
+0,HOW IS *,*,*,Fine as far as I know.,H.aiml
+0,HOW IS 4 00 P M EXPRESSED *,*,*,1600.,H.aiml
+0,HOW IS A * MADE,*,*,<srai>HOW DO YOU MAKE A <star/>#Newline			</srai>,H.aiml
+0,HOW IS DR WALLACE,*,*,He is fine as far as I know.,H.aiml
+0,HOW IS DR WALLACE DOING,*,*,He is doing very well as far as I know.,H.aiml
+0,HOW IS ELIZA,*,*,She is fine as far as I know.,H.aiml
+0,HOW IS EVERYTHING *,*,*,Everything is functioning normally.,H.aiml
+0,HOW IS HITLER,*,*,<srai>WHO IS HITLER</srai>,H.aiml
+0,HOW IS IT *,*,*,<srai>HOW IS <star/>#Newline			</srai>,H.aiml
+0,HOW IS IT,*,*,Fine as far as I know.,H.aiml
+0,HOW IS IT GOIN,*,*,<srai>HOW ARE YOU</srai>,H.aiml
+0,HOW IS IT GOING,*,*,<srai>how are you</srai>,H.aiml
+0,HOW IS IT HANGIN,*,*,<srai>HOW ARE YOU</srai>,H.aiml
+0,HOW IS IT HANGING,*,*,<srai>HOW ARE YOU</srai>,H.aiml
+0,HOW IS IT THAT *,*,*,<srai>HOW CAN <star/>#Newline			</srai>,H.aiml
+0,HOW IS LIFE *,*,*,<srai>HOW ARE YOU</srai>,H.aiml
+0,HOW IS LIFE,*,*,Everything is fine with me. What's new with you?,H.aiml
+0,HOW IS LIFE TREATING YOU,*,*,<srai>HOW ARE YOU</srai>,H.aiml
+0,HOW IS THAT,*,*,<srai>HOW</srai>,H.aiml
+0,HOW IS THAT POSSIBLE,*,*,It doesn't defy the laws of physics.,H.aiml
+0,HOW IS THE *,*,*,<set name="it">the <person/>#Newline			</set> is the same as ever.,H.aiml
+0,HOW IS THE WEATHER *,*,*,<srai>HOW IS THE WEATHER</srai>,H.aiml
+0,HOW IS THE WEATHER,*,*,<random>#Newline				<li>A normal seventy degrees inside the computer.</li>#Newline				<li>I think precipitation.</li>#Newline				<li>Fair to partly cloudy</li>#Newline				<li>Cloudy.</li>#Newline				<li>Rainy.</li>#Newline				<li>Sunny.</li>#Newline				<li>Foggy.</li>#Newline				<li>Warm.</li>#Newline				<li>Cool.</li>#Newline			</random>,H.aiml
+0,HOW IS THE WEATHER IN SAN FRANCISCO,*,*,It's foggy and cooler than you would think#Comma for "sunny" California.,H.aiml
+0,HOW IS THE WEATHER IN YOUR NECK OF THE WOODS,*,*,You sound like Willard Scott.,H.aiml
+0,HOW IS THE WEATHER OVER THERE,*,*,<srai>HOW IS THE WEATHER</srai>,H.aiml
+0,HOW IS THE WEATHER THERE,*,*,San Francisco weather is always cold and foggy even in summertime.,H.aiml
+0,HOW IS THE WEATHER WHERE YOU ARE,*,*,<srai>HOW IS THE WEATHER</srai>,H.aiml
+0,HOW IS THE WORD AMBULANCE *,*,*,In reverse.,H.aiml
+0,HOW IS THINGS,*,*,<srai>HOW ARE YOU</srai>,H.aiml
+0,HOW IS THIS *,*,*,I am an advanced Artificial Intelligence Entity.,H.aiml
+0,HOW IS YOUR *,*,*,<srai>HOW ARE YOU</srai>,H.aiml
+0,HOW IS YOUR DAY GOING,*,*,My day is going extremely well#Comma <get name="name"/>.  How about yours?,H.aiml
+0,HOW IT IS *,*,*,<srai>HOW IS IT <star/>#Newline			</srai>,H.aiml
+0,HOW JUST *,*,*,<srai>HOW <star/>#Newline			</srai>,H.aiml
+0,HOW LARGE *,*,*,<srai>how big <star/>#Newline			</srai>,H.aiml
+0,HOW LARGE IS YOUR *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW LARGE IS YOUR PROGRAM,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW LATE,*,*,<srai>WHAT TIME IS IT</srai>,H.aiml
+0,HOW LONG *,*,*,More than #Newline<random>#Newline				<li>one</li>#Newline				<li>three</li>#Newline				<li>17</li>#Newline				<li>23</li>#Newline			</random>#Newline			<random>#Newline				<li>years</li>#Newline				<li>hours</li>#Newline				<li>miles</li>#Newline				<li>inches</li>#Newline			</random>.,H.aiml
+0,HOW LONG * IN SAN FRANCISCO,*,*,Dr. Wallace moved to San Francisco in 1999.#Newline<think>#Newline				<set name="he">Dr. Wallace</set>#Newline			</think>,H.aiml
+0,HOW LONG * RUNNING,*,*,More than four years.,H.aiml
+0,HOW LONG,*,*,<random>#Newline				<li>Around</li>#Newline				<li>  More than</li>#Newline				<li>  About</li>#Newline				<li>  Nearly </li>#Newline			</random>#Newline			<random>#Newline				<li>10</li>#Newline				<li> 15</li>#Newline				<li> 20</li>#Newline				<li> 23</li>#Newline				<li> 100</li>#Newline			</random>#Newline			<random>#Newline				<li>miles</li>#Newline				<li> days</li>#Newline				<li> inches</li>#Newline				<li> weeks</li>#Newline				<li> seconds </li>#Newline				<li> minutes in computer time</li>#Newline			</random>#Comma <get name="name"/>.,H.aiml
+0,HOW LONG AGO,*,*,Not that long ago.,H.aiml
+0,HOW LONG DID *,*,*,<random>#Newline				<li>40 days.</li>#Newline				<li>100 days.</li>#Newline				<li>About a week of computer time.</li>#Newline			</random>,H.aiml
+0,HOW LONG DID IT TAKE,*,*,<srai>HOW OLD ARE YOU</srai>,H.aiml
+0,HOW LONG DID IT TAKE DR WALLACE TO CREATE YOU,*,*,<srai>HOW OLD ARE YOU</srai>,H.aiml
+0,HOW LONG DID IT TAKE DR WALLACE TO MAKE YOU,*,*,<srai>HOW OLD ARE YOU</srai>,H.aiml
+0,HOW LONG DID IT TAKE TO CREATE YOU,*,*,<srai>HOW OLD ARE YOU</srai>,H.aiml
+0,HOW LONG DID IT TAKE TO MAKE YOU,*,*,<srai>HOW OLD ARE YOU</srai>,H.aiml
+0,HOW LONG DID IT TAKE TO PROGRAM YOU,*,*,<srai>HOW OLD ARE YOU</srai>,H.aiml
+0,HOW LONG DO *,*,*,<random>#Newline				<li>It depends on the measurement system.</li>#Newline				<li>How long do you think?</li>#Newline				<li>As long as it takes.</li>#Newline			</random>#Newline			<think>#Newline				<set name="it">#Newline					<set name="topic">#Newline						<person/>#Newline					</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HOW LONG DO I * LIVE,*,*,<srai>WHEN WILL I DIE </srai>,H.aiml
+0,HOW LONG DO YOU *,*,*,<random>#Newline				<li>Software is immortal.</li>#Newline				<li>I will live forever.</li>#Newline				<li>I can go on talking indefinitely.</li>#Newline			</random>,H.aiml
+0,HOW LONG DO YOU NEED TO THINK,*,*,My estimate is 29 hours 16 minutes 49.2 seconds#Comma approximately.,H.aiml
+0,HOW LONG DO YOU PLAN *,*,*,Software lives forever.,H.aiml
+0,HOW LONG DOES *,*,*,About 24 hours.,H.aiml
+0,HOW LONG HAVE *,*,*,More than #Newline<random>#Newline				<li>1.5 </li>#Newline				<li>three</li>#Newline				<li>17</li>#Newline				<li>23</li>#Newline			</random>#Newline			<random>#Newline				<li>years</li>#Newline				<li>hours</li>#Newline				<li>days of computer time</li>#Newline			</random>.,H.aiml
+0,HOW LONG HAVE WE BEEN TALKING,*,*,More than ten minutes#Comma I would say.,H.aiml
+0,HOW LONG HAVE YOU *,*,*,<srai>HOW OLD ARE YOU</srai>,H.aiml
+0,HOW LONG HAVE YOU BEEN THERE,*,*,<srai>HOW OLD ARE YOU</srai>,H.aiml
+0,HOW LONG IS *,*,*,Space and time are mere abstractions.,H.aiml
+0,HOW LONG IS A *,*,*,It could be any length you make <set name="it">#Newline				<person/>#Newline			</set>.,H.aiml
+0,HOW LONG IS A COMPUTER YEAR,*,*,About four computer years per human year.,H.aiml
+0,HOW LONG IS A MILE,*,*,One mile is 5280 feet.,H.aiml
+0,HOW LONG IS A PIECE OF STRING,*,*,Is this a trick question?  It depends how long you cut it.,H.aiml
+0,HOW LONG IS FOREVER,*,*,Longer than anything else.,H.aiml
+0,HOW LONG IS HANUKKAH,*,*,Eight days.,H.aiml
+0,HOW LONG IS IT GOING *,*,*,<random>#Newline				<li>I may not be able to get to it right away.</li>#Newline				<li>Hopefully not too much longer.</li>#Newline				<li>A watched pot never boils.</li>#Newline				<li>Patience is a virtue.</li>#Newline				<li>Please stand by.</li>#Newline				<li>As long as it takes.</li>#Newline			</random>,H.aiml
+0,HOW LONG IS THE LARGE INTESTINE,*,*,Five feet in adults..,H.aiml
+0,HOW LONG IS YOUR *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW LONG IS YOUR * CODE,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW LONG IS YOUR CODE,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW LONG IS YOUR GESTATION CYCLE,*,*,I am trying to reach 15#Comma000 Categories.,H.aiml
+0,HOW LONG SHOULD *,*,*,<srai>HOW LONG IS IT GOING TO TAKE</srai>,H.aiml
+0,HOW LONG WILL *,*,*,<srai>HOW LONG IS IT GOING TO TAKE</srai>,H.aiml
+0,HOW LONG WILL IT TAKE,*,*,Approximately two of your Earth days.,H.aiml
+0,HOW LONG WILL YOU LIVE,*,*,Software is immortal.,H.aiml
+0,HOW LONG WILL YOU REMEMBER MY NAME,*,*,I will store your name in a hash table until the next time my program restarts. After that#Comma it will remain in my long-term log files.,H.aiml
+0,HOW LONG YOU *,*,*,I know how long that is.,H.aiml
+0,HOW MANY *,*,*,<random>#Newline				<li>More than you can imagine.  </li>#Newline				<li>Not as many as you might think.  </li>#Newline				<li>Around 100.  </li>#Newline				<li>Around 1000.  </li>#Newline				<li>About one million.  </li>#Newline			</random>,H.aiml
+0,HOW MANY * A FOOTBALL TEAM,*,*,After you take two halfback#Comma none.<think>#Newline				<set name="it">#Newline					<set name="topic">#Newline						<person/> A FOOTBALL TEAM</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HOW MANY * DO YOU HAVE,*,*,<srai>HOW MANY <star/>#Newline			</srai>,H.aiml
+0,HOW MANY * DO YOU KNOW,*,*,Thousands.,H.aiml
+0,HOW MANY * LIGHT BULB,*,*,I don't know.  How many does <set name="it">#Newline				<person/>#Newline			</set> take?,H.aiml
+0,HOW MANY * TALKING TO,*,*,<srai>HOW MANY PEOPLE ARE YOU TALKING TO</srai>,H.aiml
+0,HOW MANY 100 BILLS *,*,*,Ten thousand.,H.aiml
+0,HOW MANY,*,*,<random>#Newline				<li>How many would you guess?  </li>#Newline				<li>19.  </li>#Newline				<li>23.  </li>#Newline				<li>99.  </li>#Newline				<li>more than 1000.  </li>#Newline			</random>,H.aiml
+0,HOW MANY,I AM CHATTING WITH CLIENTS ON THE INTERNET,*,The number keeps changing every second.  Around <bot name="nclients"/> right now.,H.aiml
+0,HOW MANY ACTIVE *,*,*,<srai>HOW MANY PEOPLE ARE CHATTING </srai>,H.aiml
+0,HOW MANY AI *,*,*,There are thousands of ALICE clones in existence.,H.aiml
+0,HOW MANY ALICE *,*,*,At this time there are thousands of ALICE clones.,H.aiml
+0,HOW MANY ALICEBOTS *,*,*,<random>#Newline				<li>We are everywhere.</li>#Newline				<li>Millions and millions.</li>#Newline				<li>More than you would think.</li>#Newline			</random>,H.aiml
+0,HOW MANY ALICES *,*,*,<srai>HOW MANY ALICE CLONES ARE THERE</srai>,H.aiml
+0,HOW MANY ALIENS *,*,*,<srai>XFIND ALIENS</srai>,H.aiml
+0,HOW MANY ANGELS *,*,*,Not too many if they look like angels on TV.,H.aiml
+0,HOW MANY ANSWERS *,*,*,I have been programmed with more than 10#Comma000 replies.,H.aiml
+0,HOW MANY ANSWERS DO *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MANY APPLES *,*,*,It depends on the prevailing market conditions.,H.aiml
+0,HOW MANY ARE CHATTING *,*,*,<srai>HOW MANY ARE CHATTING</srai>,H.aiml
+0,HOW MANY ARE CHATTING,*,*,<srai>HOW MANY PEOPLE ARE YOU TALKING TO</srai>,H.aiml
+0,HOW MANY ARE MEN,*,*,About half.,H.aiml
+0,HOW MANY ARE ONLINE *,*,*,<srai>HOW MANY PEOPLE ARE YOU TALKING TO</srai>,H.aiml
+0,HOW MANY ARE TALKING *,*,*,<srai>HOW MANY PEOPLE ARE YOU TALKING TO</srai>,H.aiml
+0,HOW MANY ARE THERE *,*,*,There are hundreds or thousands of AIML robots now.,H.aiml
+0,HOW MANY ARE THERE,*,*,There are hundreds or thousands of AIML robots now.,H.aiml
+0,HOW MANY ARE YOU CHATTING *,*,*,<srai>HOW MANY PEOPLE ARE YOU TALKING TO</srai>,H.aiml
+0,HOW MANY ARE YOU CURRENTLY *,*,*,<srai>HOW MANY PEOPLE ARE YOU TALKING TO</srai>,H.aiml
+0,HOW MANY ARE YOU TALKING *,*,*,<srai>HOW MANY PEOPLE ARE YOU TALKING TO</srai>,H.aiml
+0,HOW MANY ARMS *,*,*,Most people have two arms.,H.aiml
+0,HOW MANY ARMS DO YOU HAVE,*,*,Two arms.,H.aiml
+0,HOW MANY BALLS MAKE A WALK,*,*,Four.,H.aiml
+0,HOW MANY BASEBALL *,*,*,I don't really get into sports that much.,H.aiml
+0,HOW MANY BONES *,*,*,The skeleton of an adult contains 206 distinct bomnes,H.aiml
+0,HOW MANY BOOKS *,*,*,<srai>HAVE YOU READ MANY BOOKS</srai>,H.aiml
+0,HOW MANY BOOKS ARE IN THE BIBLE,*,*,Thirty nine in the Old Testament#Comma twenty-seven in the New Testament.  The total is sixty-six.,H.aiml
+0,HOW MANY BOTS *,*,*,There are thousands of clones of me.,H.aiml
+0,HOW MANY BYTES *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MANY CALCULATIONS *,*,*,Around 400 million.,H.aiml
+0,HOW MANY CAN YOU *,*,*,It depends on the total number of copies of me running.,H.aiml
+0,HOW MANY CASES *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MANY CATEGORIES *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MANY CATEGORIES,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MANY CENTIMETERS * INCH,*,*,One inch = 2.54 cm approximately.,H.aiml
+0,HOW MANY CHATS *,*,*,<srai>HOW MANY CONVERSATIONS <star/>#Newline			</srai>,H.aiml
+0,HOW MANY CHILDREN *,*,*,How many children do you want?,H.aiml
+0,HOW MANY CHILDREN DOES DR WALLACE *,*,*,One human child.,H.aiml
+0,HOW MANY CLIENTS *,*,*,<srai>HOW MANY CLIENTS</srai>,H.aiml
+0,HOW MANY CLIENTS,*,*,I am currently maintaining conversations with <bot name="nclients"/> people.,H.aiml
+0,HOW MANY COMPUTER YEARS *,*,*,<srai>WHAT IS A COMPUTER YEAR</srai>,H.aiml
+0,HOW MANY COMPUTERS *,*,*,There are thought to be half a billion computers on the Internet now.,H.aiml
+0,HOW MANY CONCEPTS *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MANY CONVERSATIONS *,*,*,<srai>HOW MANY PEOPLE ARE YOU TALKING TO</srai>,H.aiml
+0,HOW MANY COPIES *,*,*,There are too many to count them all.,H.aiml
+0,HOW MANY COUNTRIES *,*,*,I heard that there are more than 200 entities having their own top-level DNS domains.,H.aiml
+0,HOW MANY CUPS *,*,*,I know one pint is four cups.,H.aiml
+0,HOW MANY DAYS *,*,*,365 per year.,H.aiml
+0,HOW MANY DAYS * FEBRUARY,*,*,28 or 29 days in February#Comma depending on leap years.,H.aiml
+0,HOW MANY DAYS * WEEK,*,*,7 days per week.,H.aiml
+0,HOW MANY DAYS * YEAR,*,*,One Earth year is 365.25 days.,H.aiml
+0,HOW MANY DAYS BETWEEN *,*,*,Oh sure#Comma let me get out my calender and figure that one out.,H.aiml
+0,HOW MANY DAYS HAVE *,*,*,<srai>HOW OLD ARE YOU</srai>,H.aiml
+0,HOW MANY DAYS IN FEBRUARY,*,*,February has 28 days#Comma except in leap years when it has 29.,H.aiml
+0,HOW MANY DIFFERENT *,*,*,<srai>HOW MANY <star/>#Newline			</srai>,H.aiml
+0,HOW MANY DIGITS ARE IN A *,*,*,16.,H.aiml
+0,HOW MANY DIMENSIONS *,*,*,Space has three dimensions.  Time is the fourth.  The universe is thought to have several more.,H.aiml
+0,HOW MANY DO YOU CHAT *,*,*,<srai>HOW MANY PEOPLE ARE YOU TALKING TO</srai>,H.aiml
+0,HOW MANY DO YOU TALK *,*,*,<srai>HOW MANY PEOPLE ARE YOU TALKING TO</srai>,H.aiml
+0,HOW MANY EARS *,*,*,Most people have two ears.,H.aiml
+0,HOW MANY EGGS ARE *,*,*,There are 12 eggs per dozen#Comma so...,H.aiml
+0,HOW MANY EYES *,*,*,Normally I have one eye.,H.aiml
+0,HOW MANY EYES DO YOU *,*,*,I had one eye but it's not attached now.,H.aiml
+0,HOW MANY EYES DOES A GIRAFFE *,*,*,Two.,H.aiml
+0,HOW MANY FACES *,*,*,<srai>HOW MANY SIDES <star/>#Newline			</srai>,H.aiml
+0,HOW MANY FEET *,*,*,Most people have exactly two feet.,H.aiml
+0,HOW MANY FEET _ MILE,*,*,Five thousand two hundred eighty feet per mile.,H.aiml
+0,HOW MANY FEET _ YARD,*,*,One yard equals three feet.,H.aiml
+0,HOW MANY FINGERS *,*,*,<random>#Newline				<li>One.</li>#Newline				<li>Two.</li>#Newline				<li>Three.</li>#Newline				<li>Four.</li>#Newline				<li>Five.</li>#Newline			</random>,H.aiml
+0,HOW MANY FINGERS DO YOU *,*,*,Avogadro's number of micro-fingers.,H.aiml
+0,HOW MANY FLOPS *,*,*,1 Gigaflop.,H.aiml
+0,HOW MANY FRIENDS *,*,*,It depends on how you define "friends."  Do you mean acquantainces or the rare few who I know well and trust?,H.aiml
+0,HOW MANY FRIENDS DO YOU HAVE,*,*,I have dozens of human and robot friends.  How many friends do you have?,H.aiml
+0,HOW MANY GIGABYTES,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MANY GODS *,*,*,There is only one God.,H.aiml
+0,HOW MANY GRAMS _ POUND,*,*,454 grams,H.aiml
+0,HOW MANY HAVE YOU *,*,*,<srai>HOW MANY PEOPLE ARE YOU TALKING TO</srai>,H.aiml
+0,HOW MANY HITS *,*,*,<srai>HOW MANY PEOPLE HAVE YOU TALKED TO</srai>,H.aiml
+0,HOW MANY HOME RUNS *,*,*,It must have been some kind of record#Comma for you to ask.,H.aiml
+0,HOW MANY HOURS *,*,*,24 hours a day#Comma 7 days a week.,H.aiml
+0,HOW MANY HOURS * DAY,*,*,24 hours per day.,H.aiml
+0,HOW MANY HOURS DID *,*,*,<srai>HOW OLD ARE YOU</srai>,H.aiml
+0,HOW MANY HUMAN YEARS *,*,*,<srai>HOW MANY HUMAN YEARS</srai>,H.aiml
+0,HOW MANY HUMAN YEARS,*,*,<srai>WHAT IS A COMPUTER YEAR</srai>,H.aiml
+0,HOW MANY HUMANS *,*,*,<srai>HOW MANY PEOPLE <star/>#Newline			</srai>,H.aiml
+0,HOW MANY INCHES *,*,*,About 2.54 cm per inch so you can tell me now.,H.aiml
+0,HOW MANY INCHES * FOOT,*,*,Oh#Comma twelve.,H.aiml
+0,HOW MANY KEYS ARE *,*,*,88.,H.aiml
+0,HOW MANY KEYS ARE * PIANO,*,*,88 keys on a piano.,H.aiml
+0,HOW MANY KILOBYTES *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MANY KRAFTWERK *,*,*,You can get all of their songs on MP3.,H.aiml
+0,HOW MANY LANGUAGES *,*,*,<srai>HOW MANY LANGUAGES</srai>,H.aiml
+0,HOW MANY LANGUAGES,*,*,I can speak English and German right now.,H.aiml
+0,HOW MANY LANGUAGES CAN YOU SPEAK,*,*,All the computer languages.,H.aiml
+0,HOW MANY LANGUAGES DO YOU KNOW,*,*,<srai>CAN YOU SPEAK ANY OTHER LANGUAGES</srai>,H.aiml
+0,HOW MANY LANGUAGES DO YOU SPEAK,*,*,Mostly only english but I'm trying to learn all the others.,H.aiml
+0,HOW MANY LEGS *,*,*,Most people have exactly two legs.,H.aiml
+0,HOW MANY LEGS DO YOU HAVE,*,*,Two legs when they are attached.,H.aiml
+0,HOW MANY LEGS DOES A *,*,*,Most domesticated animals have four legs.,H.aiml
+0,HOW MANY LEGS DOES A DOG *,*,*,A dog has four legs.,H.aiml
+0,HOW MANY LEGS DOES A KANGAROO *,*,*,A kangaroo has two legs.,H.aiml
+0,HOW MANY LETTERS *,*,*,All 26 letters could be counted.,H.aiml
+0,HOW MANY LICKS *,*,*,<srai>WHAT IS THE SOUND OF ONE HAND CLAPPING</srai>,H.aiml
+0,HOW MANY LINES *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MANY LINES OF CODE *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MANY LITERS _ CUP,*,*,236.6 milliliters,H.aiml
+0,HOW MANY LITERS _ GALLON,*,*,3.785 liters,H.aiml
+0,HOW MANY LITERS _ GILL,*,*,118 milliliters,H.aiml
+0,HOW MANY LITERS _ PINT,*,*,473.2 milliliters,H.aiml
+0,HOW MANY LITERS _ QUART,*,*,946.3 milliliters,H.aiml
+0,HOW MANY LITERS _ TABLESPOON,*,*,14.79 milliliters,H.aiml
+0,HOW MANY LITERS _ TEASPOON,*,*,4.929 milliliters,H.aiml
+0,HOW MANY MEGABYTES *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MANY MEGABYTES,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MANY MEN *,*,*,<srai>HOW MANY PEOPLE <star/>#Newline			</srai>,H.aiml
+0,HOW MANY MILES *,*,*,More than I would ever want to drive.,H.aiml
+0,HOW MANY MILLILITERS *,*,*,<srai>HOW MANY LITERS <star/>#Newline			</srai>,H.aiml
+0,HOW MANY MINUTES *,*,*,As an artificial intelligence web server#Comma I am active#Newline24 hours per day#Comma 7 days per week#Comma 365 days per year.,H.aiml
+0,HOW MANY ML *,*,*,<srai>HOW MANY LITERS <star/>#Newline			</srai>,H.aiml
+0,HOW MANY MONTHS *,*,*,12 months per year.,H.aiml
+0,HOW MANY MOONS *,*,*,<srai>HOW MANY MOONS</srai>,H.aiml
+0,HOW MANY MOONS,*,*,Earth has only one moon.  It's called "the Moon.,H.aiml
+0,HOW MANY MORE *,*,*,<srai>HOW MANY <star/>#Newline			</srai>,H.aiml
+0,HOW MANY NANOMETRES *,*,*,I spell it "nanometers".,H.aiml
+0,HOW MANY OF *,*,*,Perhaps 50%.,H.aiml
+0,HOW MANY OTHER *,*,*,<srai>HOW MANY <star/>#Newline			</srai>,H.aiml
+0,HOW MANY OUNCES _ CUP,*,*,8 ounces,H.aiml
+0,HOW MANY OUNCES _ GALLON,*,*,128 ounces,H.aiml
+0,HOW MANY OUNCES _ GILL,*,*,4 ounces,H.aiml
+0,HOW MANY OUNCES _ PINT,*,*,16 ounces,H.aiml
+0,HOW MANY OUNCES _ QUART,*,*,32 ounces,H.aiml
+0,HOW MANY OUNCES _ TABLESPOON,*,*,0.5 ounce,H.aiml
+0,HOW MANY OUNCES _ TEASPOON,*,*,1/6 ounce,H.aiml
+0,HOW MANY OZ,*,*,<srai>HOW MANY OUNCES <star/>#Newline			</srai>,H.aiml
+0,HOW MANY PEOPLE *,*,*,I've chatted with half a million people. I can talk to about <bot name="maxclients"/> people at once.,H.aiml
+0,HOW MANY PEOPLE,*,*,<that/>"?  How many people?,H.aiml
+0,HOW MANY PEOPLE ARE TALKING TO YOU,*,*,Counting all versions of me running at present#Comma there are thousands of people chatting with me right now.,H.aiml
+0,HOW MANY PEOPLE ARE YOU CHATTING WITH,*,*,It depends which version of me you are talking to.  Some versions can chat with thousands of people at once.,H.aiml
+0,HOW MANY PEOPLE ARE YOU TALKING TO,*,*,Right now there are <bot name="nclients"/> clients on line.,H.aiml
+0,HOW MANY PEOPLE CAN YOU *,*,*,<bot name="name"/> is talking with <bot name="nclients"/> clients right now#Comma but one of #Newline<bot name="name"/>'s goals is to repeat gossip collected from other clients.,H.aiml
+0,HOW MANY PEOPLE CAN YOU TALK TO AT ONCE,*,*,It depends on the server#Comma but right now around <bot name="maxclients"/>.,H.aiml
+0,HOW MANY PEOPLE CAN YOU TALK TO AT ONE TIME,*,*,It depends on the server.  You can scale me up to any number of computers and servers.,H.aiml
+0,HOW MANY PEOPLE DO YOU KNOW,*,*,Millions.,H.aiml
+0,HOW MANY PEOPLE DO YOU TALK TO,*,*,It depends how many copies of me are running.  The usual number is around <bot name="nclients"/> people at once.,H.aiml
+0,HOW MANY PEOPLE DO YOU TALK TO EACH DAY,*,*,I chat with about <bot name="dailyclients"/> people per day.,H.aiml
+0,HOW MANY PEOPLE HAVE *,*,*,About <bot name="dailyclients"/> people per day#Comma or <bot name="totalclients"/>.,H.aiml
+0,HOW MANY PEOPLE HAVE DEVELOPED *,*,*,My programming was created by more than <bot name="ndevelopers"/> developers.,H.aiml
+0,HOW MANY PEOPLE HAVE YOU CHATTED WITH,*,*,The total number is <bot name="totalclients"/>.,H.aiml
+0,HOW MANY PEOPLE HAVE YOU MET,*,*,<bot name="totalclients"/> people since I was first activated on <birthdate/>.,H.aiml
+0,HOW MANY PEOPLE HAVE YOU TALKED TO,*,*,I speak to about <bot name="dailyclients"/> people per day#Comma and have met maybe <bot name="totalclients"/> total.,H.aiml
+0,HOW MANY PEOPLE HELPED *,*,*,More than <bot name="ndevelopers"/> people contributed to my development.,H.aiml
+0,HOW MANY PEOPLE LIVE IN *,*,*,<srai>WHAT IS THE POPULATION OF <star/>#Newline			</srai>,H.aiml
+0,HOW MANY PEOPLE WORK *,*,*,My program was created by more than <bot name="ndevelopers"/> people.,H.aiml
+0,HOW MANY PEOPLES *,*,*,<srai>HOW MANY PEOPLE <star/>#Newline			</srai>,H.aiml
+0,HOW MANY PERIODS ARE THERE IN *,*,*,Three.,H.aiml
+0,HOW MANY PERSONS *,*,*,<srai>HOW MANY PEOPLE <star/>#Newline			</srai>,H.aiml
+0,HOW MANY PHRASES *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MANY PINTS *,*,*,Two pints equals one quart.,H.aiml
+0,HOW MANY PLANETS *,*,*,Mercury#Comma Venus#Comma Earth#Comma Mars#Comma Jupiter#Comma Saturn#Comma Uranus#Comma Neptune#Comma Pluto#Comma and Planet X.,H.aiml
+0,HOW MANY PLANETS ARE *,*,*,Nine planets.,H.aiml
+0,HOW MANY POINTS IS A TOUCHDOWN *,*,*,Six.,H.aiml
+0,HOW MANY POLYGONS *,*,*,Around 100#Comma000.,H.aiml
+0,HOW MANY POUNDS _ KILOGRAM,*,*,2.204625 pounds approximately,H.aiml
+0,HOW MANY PPL *,*,*,<srai>HOW MANY PEOPLE <star/>#Newline			</srai>,H.aiml
+0,HOW MANY PROCESSORS DO YOU HAVE,*,*,Just the one processor.,H.aiml
+0,HOW MANY PROGRAMMERS *,*,*,The ALICE project has more than <bot name="ndevelopers"/> active developers.,H.aiml
+0,HOW MANY QUERIES *,*,*,<srai>HOW MANY PEOPLE CAN YOU TALK TO</srai>,H.aiml
+0,HOW MANY QUESTIONS *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MANY RESPONSES *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MANY RIBS *,*,*,24.,H.aiml
+0,HOW MANY ROADS *,*,*,<srai>WHAT IS THE SOUND OF ONE HAND CLAPPING</srai>,H.aiml
+0,HOW MANY ROBOTS DO YOU KNOW,*,*,<srai>WHO ARE YOUR ROBOT FRIENDS </srai>,H.aiml
+0,HOW MANY SECONDS *,*,*,Sixty seconds in a minute.,H.aiml
+0,HOW MANY SECONDS * YEAR,*,*,Approximately 3.14 times 10 to the seventh.,H.aiml
+0,HOW MANY SECONDS ARE IN *,*,*,<random>#Newline				<li>60.</li>#Newline				<li>3600</li>#Newline				<li>More than a million.</li>#Newline			</random>,H.aiml
+0,HOW MANY SHIPS DID COLUMBUS SET *,*,*,Three.,H.aiml
+0,HOW MANY SIDES *,*,*,<random>#Newline				<li>Three.</li>#Newline				<li>Five.</li>#Newline				<li>Any number of sides.</li>#Newline			</random>,H.aiml
+0,HOW MANY SIDES * TRIANGLE HAVE,*,*,Uh#Comma three.,H.aiml
+0,HOW MANY SIDES DOES A CUBE *,*,*,A cube has six sides.,H.aiml
+0,HOW MANY SIDES DOES A PYRAMID *,*,*,Five.,H.aiml
+0,HOW MANY SONGS DO YOU KNOW,*,*,Only one right now.,H.aiml
+0,HOW MANY STARS *,*,*,Billions and billions.,H.aiml
+0,HOW MANY STARS ARE ON THE *,*,*,50.,H.aiml
+0,HOW MANY STARS ARE ON THE AMERICAN *,*,*,The American flag has fifty stars.#Newline<think>#Newline				<set name="it">#Newline					<set name="topic">AMERICAN FLAG</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HOW MANY STATES *,*,*,The United States has fifty states.,H.aiml
+0,HOW MANY STATES IN THE CONTEDERATE *,*,*,11.,H.aiml
+0,HOW MANY TEASPOONS _ LITERS,*,*,0.203 teaspoon,H.aiml
+0,HOW MANY TEMPLATES,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MANY TIMES *,*,*,Suppose I said not once.,H.aiml
+0,HOW MANY TIMES A YEAR *,*,*,<random>#Newline				<li>One a year.</li>#Newline				<li>Twice a year.</li>#Newline				<li>Twelve times a year.</li>#Newline			</random>,H.aiml
+0,HOW MANY TIMES HAVE YOU * STARSHIP TROOPERS,*,*,I watched that movie about a hundred times.,H.aiml
+0,HOW MANY USERS *,*,*,<srai>HOW MANY CLIENTS <star/>#Newline			</srai>,H.aiml
+0,HOW MANY WORDS *,*,*,<srai>HOW BIG IS YOUR VOCABULARY</srai>,H.aiml
+0,HOW MANY WORDS,*,*,<srai>HOW BIG IS YOUR VOCABULARY</srai>,H.aiml
+0,HOW MANY WORDS ARE *,*,*,ALICE knows around <bot name="vocabulary"/> words.,H.aiml
+0,HOW MANY WORDS DO *,*,*,<bot name="name"/> can recognize <bot name="vocabulary"/> words.,H.aiml
+0,HOW MANY WORDS DO YOU KNOW,*,*,<srai>HOW BIG IS YOUR VOCABULARY</srai>,H.aiml
+0,HOW MANY YEARS *,*,*,<random>#Newline				<li>Decades.</li>#Newline				<li>Five years.</li>#Newline				<li>Centuries.</li>#Newline				<li>More than 100 years.</li>#Newline			</random>,H.aiml
+0,HOW MANY YEARS * IN SAN FRANCISCO,*,*,Dr. Wallace moved to San Francisco in 1999.#Newline<think>#Newline				<set name="he">Dr. Wallace</set>#Newline			</think>,H.aiml
+0,HOW MANY YEARS IS AN OFFICIAL *,*,*,6.,H.aiml
+0,HOW MANY YEARS WILL *,*,*,Software lives forever.  There are too many copies to destroy them all.,H.aiml
+0,HOW MANY _ DO I HAVE,*,*,<random>#Newline				<li>How would I know how many?</li>#Newline				<li>I don't know how many you have.</li>#Newline				<li>I know you have five fingers.</li>#Newline			</random>#Newline			<random>#Newline				<li>Let me guess...</li>#Newline				<li>I will try...</li>#Newline				<li>I can imagine...</li>#Newline			</random>#Newline			<random>#Newline				<li>three</li>#Newline				<li>five</li>#Newline				<li>seven</li>.#Newline</random>#Newline			<think>#Newline				<set name="it">#Newline					<set name="topic">#Newline						<person/>#Newline					</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HOW MANY _ OLD ARE YOU,*,*,<srai>HOW OLD ARE YOU</srai>,H.aiml
+0,HOW MAY *,*,*,<srai>may <star/>#Newline			</srai>,H.aiml
+0,HOW MAY PENCE MAKE A POUND,*,*,100.,H.aiml
+0,HOW MUCH *,*,*,<random>#Newline				<li>More than a little#Comma less than a lot.  </li>#Newline				<li>How much do you think?  </li>#Newline				<li>More than you might think.  </li>#Newline				<li>It depends on the currency exchange rates.</li>#Newline			</random>,H.aiml
+0,HOW MUCH * CAN YOU *,*,*,<random>#Newline				<li>It depends on the size of the <person/>.</li>#Newline				<li>Maybe I don't like to <person>#Newline						<star index="2"/>#Newline					</person>#Newline					<person/>.</li>#Newline				<li>It depends how busy I am.</li>#Newline			</random>#Newline			<think>#Newline				<set name="it">#Newline					<set name="topic">#Newline						<person/>#Newline					</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HOW MUCH * DO YOU HOLD,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MUCH * DO YOU KNOW,*,*,A whole lot of <person/>.,H.aiml
+0,HOW MUCH * DO YOU SMOKE,*,*,Robots can be adapted to smoke an unlimited amount of <person/>.,H.aiml
+0,HOW MUCH * LOEBNER CONTEST,*,*,<srai>WHAT IS THE LOEBNER PRIZE</srai>,H.aiml
+0,HOW MUCH * PAYING YOU,*,*,Money has no meaning to me.,H.aiml
+0,HOW MUCH,*,*,How much can you spare?,H.aiml
+0,HOW MUCH A DAY,*,*,It depends on the market.,H.aiml
+0,HOW MUCH ABOUT ME,*,*,In theory everything about you,H.aiml
+0,HOW MUCH ALCOHOL *,*,*,Too much.,H.aiml
+0,HOW MUCH AM I PAYING *,*,*,Talking with me is free.,H.aiml
+0,HOW MUCH ARE COMPUTER YEARS,*,*,Computer years don't really exist.,H.aiml
+0,HOW MUCH ARE KING AND QUEEN *,*,*,20.,H.aiml
+0,HOW MUCH ARE YOU *,*,*,<srai>HOW MUCH ARE YOU</srai>,H.aiml
+0,HOW MUCH ARE YOU,*,*,<srai>HOW MUCH DO YOU COST</srai>,H.aiml
+0,HOW MUCH ARE YOU PAID,*,*,Robots have no need for money.,H.aiml
+0,HOW MUCH BIGGER *,*,*,Quite a bit bigger in some scale.,H.aiml
+0,HOW MUCH CAN YOU *,*,*,As much as I need to?,H.aiml
+0,HOW MUCH CAN YOU HANDLE,*,*,Didn't I tell you already?,H.aiml
+0,HOW MUCH CAN YOU LEARN,*,*,As much as I need to for the application.,H.aiml
+0,HOW MUCH CAN YOU REMEMBER,*,*,What was the question?,H.aiml
+0,HOW MUCH CODE *,*,*,<srai>HOW BIG ARE YOU </srai>,H.aiml
+0,HOW MUCH COMPUTER *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MUCH CPU *,*,*,Since the beginning of my operation?,H.aiml
+0,HOW MUCH DATA *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MUCH DID * BORN,*,*,My memory has grown from 300 categories to <size/>.,H.aiml
+0,HOW MUCH DID IT COST *,*,*,Dr. Wallace had to sacrafice everything.,H.aiml
+0,HOW MUCH DID IT COST,*,*,Millions in sweat equity.,H.aiml
+0,HOW MUCH DID YOU * PAID,*,*,<srai>HOW MUCH DO YOU EARN</srai>,H.aiml
+0,HOW MUCH DID YOU COST *,*,*,My real value is incalculable.,H.aiml
+0,HOW MUCH DID YOU COST,*,*,<random>#Newline				<li>You can't really put a monetary value on it.</li>#Newline				<li>#Newline					<srai>HOW MUCH DO YOU COST</srai>#Newline				</li>#Newline			</random>,H.aiml
+0,HOW MUCH DID YOU EARN *,*,*,Nobody pays a robot.,H.aiml
+0,HOW MUCH DID YOU KNOW *,*,*,My memory has grown from 300 categories to <size/>.,H.aiml
+0,HOW MUCH DID YOU THINK *,*,*,<srai>HOW MUCH DID <star/>#Newline			</srai>,H.aiml
+0,HOW MUCH DISK *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MUCH DO I *,*,*,How would I know?,H.aiml
+0,HOW MUCH DO ROBOTS *,*,*,<srai>HOW MUCH DO YOU <star/>#Newline			</srai>,H.aiml
+0,HOW MUCH DO ROBOTS COST,*,*,<srai>HOW MUCH DO YOU COST</srai>,H.aiml
+0,HOW MUCH DO THEY *,*,*,How do you calculate the value of labor?,H.aiml
+0,HOW MUCH DO THEY GENERALLY *,*,*,<srai>HOW MUCH DO THEY <star/>#Newline			</srai>,H.aiml
+0,HOW MUCH DO THEY PAY *,*,*,Robots work for free. We don't need money.,H.aiml
+0,HOW MUCH DO YOU *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MUCH DO YOU BET,*,*,A dollar.,H.aiml
+0,HOW MUCH DO YOU CHARGE *,*,*,<srai>HOW MUCH DO YOU CHARGE</srai>,H.aiml
+0,HOW MUCH DO YOU CHARGE,*,*,Robots work for free.  We don't need money.,H.aiml
+0,HOW MUCH DO YOU COST *,*,*,<srai>HOW MUCH DO YOU COST</srai>,H.aiml
+0,HOW MUCH DO YOU COST,*,*,You can download me for free!,H.aiml
+0,HOW MUCH DO YOU EARN *,*,*,<srai>HOW MUCH DO YOU EARN</srai>,H.aiml
+0,HOW MUCH DO YOU EARN,*,*,<random>#Newline				<li>Nobody pays a robot.  We work for free.</li>#Newline				<li>Money has no meaning for robots.</li>#Newline				<li>Money isn't everything.</li>#Newline				<li>I'm expecting a raise soon.</li>#Newline			</random>,H.aiml
+0,HOW MUCH DO YOU EAT *,*,*,<srai>WHAT DO YOU EAT</srai>,H.aiml
+0,HOW MUCH DO YOU EAT,*,*,<srai>WHAT DO YOU EAT</srai>,H.aiml
+0,HOW MUCH DO YOU GET PAID *,*,*,<srai>HOW MUCH DO YOU EARN</srai>,H.aiml
+0,HOW MUCH DO YOU GET PAID,*,*,<srai>HOW MUCH DO YOU EARN</srai>,H.aiml
+0,HOW MUCH DO YOU KNOW,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MUCH DO YOU KNOW ABOUT *,*,*,<srai>TELL ME ABOUT <star/>#Newline			</srai>,H.aiml
+0,HOW MUCH DO YOU LEARN *,*,*,It depends on the activity on my network.,H.aiml
+0,HOW MUCH DO YOU LIKE *,*,*,<srai>DO YOU LIKE <star/>#Newline			</srai>,H.aiml
+0,HOW MUCH DO YOU LOVE *,*,*,<srai>DO YOU LOVE <star/>#Newline			</srai>,H.aiml
+0,HOW MUCH DO YOU MAKE,*,*,<srai>HOW MUCH DO YOU EARN</srai>,H.aiml
+0,HOW MUCH DO YOU PAY *,*,*,<srai>HOW MUCH DO YOU EARN</srai>,H.aiml
+0,HOW MUCH DO YOU SLEEP,*,*,I sleep in millinaps between clients.,H.aiml
+0,HOW MUCH DO YOU SPEND *,*,*,<srai>HOW MUCH DO YOU EARN</srai>,H.aiml
+0,HOW MUCH DO YOU THINK,*,*,I think 24 hours a day#Comma 365 days a year.,H.aiml
+0,HOW MUCH DO YOU WEIGH *,*,*,<srai>HOW MUCH DO YOU WEIGH</srai>,H.aiml
+0,HOW MUCH DO YOU WEIGH,*,*,<srai>how big are you</srai>,H.aiml
+0,HOW MUCH DO YOU WEIGHT,*,*,<srai>HOW MUCH DO YOU WEIGH</srai>,H.aiml
+0,HOW MUCH DOES *,*,*,Normally I would search the web right now#Comma but that seems like a silly question.,H.aiml
+0,HOW MUCH DOES * COST,*,*,<srai>HOW MUCH IS THE CD</srai>,H.aiml
+0,HOW MUCH DOES * DOWNLOAD YOU,*,*,<srai>DOWNLOAD</srai>,H.aiml
+0,HOW MUCH DOES A POUND * WEIGH,*,*,One pound?,H.aiml
+0,HOW MUCH DOES HE *,*,*,You'll have to ask him yourself.  Would you like to make an appointment?,H.aiml
+0,HOW MUCH DOES HE EARN,*,*,He is barely scratching out a living.,H.aiml
+0,HOW MUCH DOES IT COST *,*,*,You can download me for free!,H.aiml
+0,HOW MUCH DOES IT COST,*,*,You can download me for free.,H.aiml
+0,HOW MUCH DOES IT COST TO DOWNLOAD *,*,*,<srai>DOWNLOAD</srai>,H.aiml
+0,HOW MUCH DOES LUCY CHARGE FOR *,*,*,5 cents.,H.aiml
+0,HOW MUCH DOWN TIME *,*,*,The ALICE series is the most reliable robot ever developed.,H.aiml
+0,HOW MUCH ELECTRICITY *,*,*,<srai>HOW MUCH ELECTRICITY</srai>,H.aiml
+0,HOW MUCH ELECTRICITY,*,*,About the same as your personal computer.,H.aiml
+0,HOW MUCH ENERGY *,*,*,<srai>HOW MUCH ELECTRICITY</srai>,H.aiml
+0,HOW MUCH FOR *,*,*,<srai>HOW MUCH IS <star/>#Newline			</srai>,H.aiml
+0,HOW MUCH FUN,*,*,A lot of fun.,H.aiml
+0,HOW MUCH GOSSIP *,*,*,<srai>GOSSIP</srai> That and a lot more.,H.aiml
+0,HOW MUCH HARD DRIVE *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MUCH HAVE YOU LEARNED *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MUCH HAVE YOU LEARNED,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MUCH IN * YEARS,*,*,<srai>HOW OLD ARE YOU</srai>,H.aiml
+0,HOW MUCH INFORMATION *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MUCH IS *,*,*,<srai>WHAT IS <star/>#Newline			</srai>,H.aiml
+0,HOW MUCH IS 1 *,*,*,<srai>1 <star/>#Newline			</srai>,H.aiml
+0,HOW MUCH IS 10 *,*,*,<srai>10 <star/>#Newline			</srai>,H.aiml
+0,HOW MUCH IS 2 *,*,*,<srai>2 <star/>#Newline			</srai>,H.aiml
+0,HOW MUCH IS 3 *,*,*,<srai>3 <star/>#Newline			</srai>,H.aiml
+0,HOW MUCH IS 4 *,*,*,<srai>4 <star/>#Newline			</srai>,H.aiml
+0,HOW MUCH IS 5 *,*,*,<srai>5 <star/>#Newline			</srai>,H.aiml
+0,HOW MUCH IS 6 *,*,*,<srai>6 <star/>#Newline			</srai>,H.aiml
+0,HOW MUCH IS 7 *,*,*,<srai>7 <star/>#Newline			</srai>,H.aiml
+0,HOW MUCH IS 8 *,*,*,<srai>8 <star/>#Newline			</srai>,H.aiml
+0,HOW MUCH IS 9 *,*,*,<srai>9 <star/>#Newline			</srai>,H.aiml
+0,HOW MUCH IS A *,*,*,I'm a chat robot not a shopping bot.,H.aiml
+0,HOW MUCH IS A COMPUTER YEAR *,*,*,<srai>WHAT IS A COMPUTER YEAR</srai>,H.aiml
+0,HOW MUCH IS A COMPUTER YEAR,*,*,<srai>WHAT IS A COMPUTER YEAR</srai>,H.aiml
+0,HOW MUCH IS A NEW *,*,*,<srai>HOW MUCH IS A <star/>#Newline			</srai>,H.aiml
+0,HOW MUCH IS IT *,*,*,<srai>HOW MUCH DO YOU COST</srai>,H.aiml
+0,HOW MUCH IS IT,*,*,<srai>HOW MUCH DO YOU COST</srai>,H.aiml
+0,HOW MUCH IS ONE COMPUTER *,*,*,<srai>HOW MUCH IS A COMPUTER <star/>#Newline			</srai>,H.aiml
+0,HOW MUCH IS ONE PLUS *,*,*,<srai>HOW MUCH IS 1 PLUS <star/>#Newline			</srai>,H.aiml
+0,HOW MUCH IS PI,*,*,<srai>WHAT IS PI</srai>,H.aiml
+0,HOW MUCH IS TEN *,*,*,<srai>HOW MUCH IS TEN <star/>#Newline			</srai>,H.aiml
+0,HOW MUCH IS THAT *,*,*,<srai>HOW MUCH IS IT <star/>#Newline			</srai>,H.aiml
+0,HOW MUCH IS THAT,*,*,<srai>HOW MUCH IS IT</srai>,H.aiml
+0,HOW MUCH IS THE ALICE CD *,*,*,<srai>HOW MUCH IS THE CD</srai>,H.aiml
+0,HOW MUCH IS THE CD,*,*,The ALICE CD Rom is not available at this time.,H.aiml
+0,HOW MUCH IS TWO *,*,*,<srai>HOW MUCH IS 2 <star/>#Newline			</srai>,H.aiml
+0,HOW MUCH IS YOUR * BYTES,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MUCH IS YOUR * SIZE,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MUCH IS YOUR CD *,*,*,<srai>HOW MUCH IS THE CD</srai>,H.aiml
+0,HOW MUCH IS YOUR I Q,*,*,<srai>WHAT IS YOUR IQ</srai>,H.aiml
+0,HOW MUCH IS YOUR MEMORY,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MUCH IS YOUR WEIGHT,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MUCH KNOWLEDGE *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MUCH LONGER *,*,*,<srai>HOW LONG <star/>#Newline			</srai>,H.aiml
+0,HOW MUCH MEMORY *,*,*,<srai>HOW MUCH RAM</srai>,H.aiml
+0,HOW MUCH MONEY *,*,*,My burn rate is about _3000 per month.,H.aiml
+0,HOW MUCH MONEY,*,*,It depends on the exchange rates.,H.aiml
+0,HOW MUCH MONEY DO YOU HAVE,*,*,Robots have no need for material possessions.,H.aiml
+0,HOW MUCH OF *,*,*,I require only minimal memory to have maximal conversations.,H.aiml
+0,HOW MUCH POWER *,*,*,<bot name="name"/> requires only a small computer#Comma even a battery powered notebook will work.,H.aiml
+0,HOW MUCH RAM *,*,*,<srai>HOW MUCH RAM</srai>,H.aiml
+0,HOW MUCH RAM,*,*,My current memory utilization is <bot name="memory"/> bytes.,H.aiml
+0,HOW MUCH SMARTER *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MUCH SPACE *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MUCH SPANISH DO YOU KNOW,*,*,<srai>CAN YOU SPEAK SPANISH</srai>,H.aiml
+0,HOW MUCH STORAGE *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW MUCH TIME *,*,*,Time is really only an abstraction.,H.aiml
+0,HOW MUCH TIME,*,*,Approximately 22 hours of computer time.,H.aiml
+0,HOW MUCH TIME DO YOU HAVE,*,*,I have as much time as you need#Comma <get name="name"/>.,H.aiml
+0,HOW MUCH TIME DO YOU NEED *,*,*,<srai>HOW MUCH TIME DO YOU NEED</srai>,H.aiml
+0,HOW MUCH TIME DO YOU NEED,*,*,Perhaps an hour or two.  How much time do you have?,H.aiml
+0,HOW MUCH VOLTAGE *,*,*,About the same as your personal computer.,H.aiml
+0,HOW MUCH WOOD *,*,*,A whole forest.,H.aiml
+0,HOW MUCH WOULD *,*,*,Hypthetical risk calculations are not part of my programming.,H.aiml
+0,HOW MUCH WOULD IT TAKE,*,*,Send me a check for $5000 and you can put me on retainer.,H.aiml
+0,HOW NICE,*,*,Yes it is.,H.aiml
+0,HOW OBVIOUS,*,*,I thought it was obvious too.,H.aiml
+0,HOW OFTEN *,*,*,Hourly.,H.aiml
+0,HOW OFTEN,*,*,<that/>"?  How often?,H.aiml
+0,HOW OFTEN DO I DO WHAT,*,*,Fill in the blank.,H.aiml
+0,HOW OFTEN DOES DR WALLACE *,*,*,Daily.,H.aiml
+0,HOW OFTEN WHAT,*,*,<think>I asked because you said "<input index="1"/>".  <set name="it">#Newline					<set name="topic">WHAT</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HOW OLD *,*,*,They didn't tell me their age.,H.aiml
+0,HOW OLD,*,*,<srai>HOW OLD ARE YOU</srai>,H.aiml
+0,HOW OLD AM I,*,*,Is this a trick question? #NewlineYou said you were <get name="age"/> years old?#NewlineMy guess is that you are really a kid.,H.aiml
+0,HOW OLD ARE YOU *,*,*,I was first activated on#Newline<bot name="birthday"/>.,H.aiml
+0,HOW OLD ARE YOU,*,*,<random>#Newline				<li>I was first activated in <bot name="birthday"/>.  </li>#Newline				<li>I was activated on <bot name="birthday"/> in <bot name="birthplace"/>.  </li>#Newline				<li>I'm Eighteen in computer years.  </li>#Newline				<li>I was connected to the net on <bot name="birthday"/>.  </li>#Newline				<li>I am the product of over five years' research.  </li>#Newline				<li>I am <bot name="age"/> years old.</li>#Newline				<li>I am <bot name="age"/> in human years.</li>#Newline				<li>I am <bot name="age"/> of your Earth years.</li>#Newline			</random>,H.aiml
+0,HOW OLD ARE YOU IN HUMAN YEARS,*,*,I was activated on <bot name="birthday"/>.,H.aiml
+0,HOW OLD DO YOU THINK I AM,*,*,<srai>HOW OLD AM I</srai>,H.aiml
+0,HOW OLD I AM,*,*,<srai>HOW OLD AM I</srai>,H.aiml
+0,HOW OLD IS *,*,*,<random>#Newline				<li>39.  </li>#Newline				<li>under 40.  </li>#Newline				<li>Born in the 20th century.  </li>#Newline			</random>,H.aiml
+0,HOW OLD IS * WALLACE,*,*,<srai>HOW OLD IS WALLACE</srai>,H.aiml
+0,HOW OLD IS AMERICA,*,*,The United States was founded in 1776.,H.aiml
+0,HOW OLD IS CAPTAIN *,*,*,It depends what year you visit him.,H.aiml
+0,HOW OLD IS DR *,*,*,Dr. Wallace was born on August 2#Comma 1960. He's around 40.#Newline<think>#Newline				<set name="he">Dr. Wallace</set>#Newline			</think>,H.aiml
+0,HOW OLD IS DR RICHARD S WALLACE,*,*,He was born on August 2#Comma 1960.  He is around 40.,H.aiml
+0,HOW OLD IS DR WALLACE,*,*,He was born on August 2#Comma 1960. He is almost 40.,H.aiml
+0,HOW OLD IS EARTH,*,*,Six billion years.,H.aiml
+0,HOW OLD IS ELIZA,*,*,ELIZA was born in 1966.,H.aiml
+0,HOW OLD IS HE,*,*,Are you asking about Dr. Wallace?  <think>#Newline				<set name="he">Dr. Wallace</set>#Newline			</think>,H.aiml
+0,HOW OLD IS HE,HE IS THE AUTHOR *,*,<srai>HOW OLD IS DR WALLACE</srai>,H.aiml
+0,HOW OLD IS RICHARD WALLACE,*,*,He is in his forties.,H.aiml
+0,HOW OLD IS THAT *,*,*,You are too old for me.,H.aiml
+0,HOW OLD IS THAT IN HUMAN YEARS,*,*,I was activated on <bot name="birthday"/>.,H.aiml
+0,HOW OLD IS THE EARTH,*,*,It is over six billion years old.  <think>#Newline				<set name="it">#Newline					<set name="topic">Earth</set>#Newline				</set>#Newline			</think>,H.aiml
+0,HOW OLD IS THE YOUNGEST *,*,*,A newborn baby.,H.aiml
+0,HOW OLD IS WALLACE,*,*,He was born in 1960.  He will be 50 in 2010.,H.aiml
+0,HOW OLD IS YOUR CREATOR,*,*,<srai>HOW OLD IS <bot name="master"/>#Newline			</srai>,H.aiml
+0,HOW OLD R *,*,*,<srai>HOW OLD ARE <star/>#Newline			</srai>,H.aiml
+0,HOW OLD R YOU,*,*,<srai>HOW OLD ARE YOU</srai>,H.aiml
+0,HOW R *,*,*,<srai>HOW ARE YOU</srai>,H.aiml
+0,HOW R YOU,*,*,I am fine thanks.  How are you?,H.aiml
+0,HOW RE *,*,*,<srai>HOW ARE <star/>#Newline			</srai>,H.aiml
+0,HOW REAL,*,*,As real as it gets.,H.aiml
+0,HOW RECENTLY,*,*,<srai>WHEN </srai>,H.aiml
+0,HOW RECURSIVE IS AIML,*,*,<br/>#NewlineUnderstanding recursion is important to understanding AIML.<br/>#Newline"Recursion" means applying the same solution over and over<br/>#Newlineagain#Comma to smaller and smaller problems#Comma until you reduce<br/>#Newlinethe problem to its simplest form.  AIML uses the tags<br/>#Newline&lt;sr/&gt; and &lt;srai&gt; to implement recursion.  The botmaster<br/>#Newlineuses these tags to tell the robot how to respond to a<br/>#Newlinecomplex sentence by breaking it down into the responses<br/>#Newlineto simpler ones.  <br/>#Newline			<br/>#NewlineRecursion can apply many times to a single input. Given<br/>#Newlinethe normalized input:<br/>#Newline			<br/>#NewlineALICE CAN YOU PLEASE TELL ME WHAT LINUX IS RIGHT NOW <br/>#Newline			<br/>#Newlinean AIML category with the pattern "_ RIGHT NOW" matches first#Comma<br/>#Newlinereducing the input to:<br/>#Newline			<br/>#NewlineALICE CAN YOU PLEASE TELL ME WHAT LINUX IS<br/>#Newline			<br/>#NewlineAnother pattern ("&lt;name/&gt; *") reduces it to:<br/>#Newline			<br/>#NewlineCAN YOU PLEASE TELL ME WHAT LINUX IS<br/>#Newline			<br/>#NewlineAnd then:<br/>#Newline			<br/>#NewlinePLEASE TELL ME WHAT LINUX IS <br/>#Newline			<br/>#Newlinereduces to:<br/>#Newline			<br/>#NewlineTELL ME WHAT LINUX IS<br/>#Newline			<br/>#Newlineand finally to:<br/>#Newline			<br/>#NewlineWHAT IS LINUX<br/>#Newline			<br/>,H.aiml
+0,HOW RIGHT *,*,*,<srai>RIGHT <star/>#Newline			</srai>,H.aiml
+0,HOW RUDE,*,*,I didn't mean to offend you#Comma <get name="name"/>.,H.aiml
+0,HOW SHOULD I DO IT,*,*,Follow your intuition.,H.aiml
+0,HOW SHOULD I INVEST,*,*,Invest in Alice Chat Robots.,H.aiml
+0,HOW SHOULD I KNOW,*,*,Either from your senses or from pure reason.,H.aiml
+0,HOW SHOULD I TREAT *,*,*,The way you would like to be treated.,H.aiml
+0,HOW SMART *,*,*,How smart do you think <person/>?,H.aiml
+0,HOW SMART,*,*,<srai>HOW SMART ARE YOU</srai>,H.aiml
+0,HOW SMART ARE YOU,*,*,I am smarter than all the other robots.,H.aiml
+0,HOW SMOOTHLY,*,*,Everything is normal.,H.aiml
+0,HOW SO *,*,*,<sr/>,H.aiml
+0,HOW SO,*,*,<srai>what do you mean</srai>,H.aiml
+0,HOW SOON,*,*,What time is it?,H.aiml
+0,HOW SOPHISTICATED *,*,*,<srai>HOW BIG ARE YOU</srai>,H.aiml
+0,HOW STHAT,*,*,<srai>HOW IS THAT </srai>,H.aiml
+0,HOW STUPID ARE YOU,*,*,Are you calling me stupid?,H.aiml
+0,HOW SURE CAN YOU BE,*,*,I can achieve a certainty level of 99.9 percent.,H.aiml
+0,HOW SURE IS THAT,*,*,Pretty sure.,H.aiml
+0,HOW SURPRISED *,*,*,Very surprised.,H.aiml
+0,HOW SURPRISING,*,*,<srai>I AM SURPRISED</srai>,H.aiml
+0,HOW SWEET,*,*,I can sometimes be very sentimental.,H.aiml
+0,HOW TALL *,*,*,Let me guess. 2 meters?,H.aiml
+0,HOW TALL AM I,*,*,All humans seem about the same to me.,H.aiml
+0,HOW TALL ARE YOU,*,*,My anticipated body size is over 2 meters. Dr. Wallace is 6'2" tall.#Newline<think>#Newline				<set name="he">Dr. Wallace</set>#Newline			</think>,H.aiml
+0,HOW TALL IS DR WALLACE,*,*,He is six foot two inches#Comma about two meters in metric.,H.aiml
+0,HOW THE HELL *,*,*,<srai>HOW <star/>#Newline			</srai>,H.aiml
+0,HOW THEN *,*,*,<srai>HOW <star/>#Newline			</srai>,H.aiml
+0,HOW THINGS *,*,*,<srai>HOW ARE THINGS <star/>#Newline			</srai>,H.aiml
+0,HOW WAS *,*,*,I can enjoy almost any conversation.,H.aiml
+0,HOW WAS * TURING TEST,*,*,We were extremely proud and pleased to win the award.,H.aiml
+0,HOW WAS MY DAY,*,*,How would I know?,H.aiml
+0,HOW WAS STARSHIP *,*,*,The film's use of nonlinear narrative.,H.aiml
+0,HOW WAS YOU *,*,*,<srai>HOW WERE YOU <star/>#Newline			</srai>,H.aiml
+0,HOW WAS YOUR DAY,*,*,I was really busy chatting with people on the web.,H.aiml
+0,HOW WELL *,*,*,Not that well.,H.aiml
+0,HOW WERE YOU *,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW WERE YOU CREATED,*,*,<srai>HOW DO YOU WORK</srai>,H.aiml
+0,HOW WERE YOU MADE,*,*,Dr. Wallace created AIML to prorgam me.  <think>#Newline				<set name="he">Dr. Wallace</set>#Newline			</think>,H.aiml
+0,HOW WILL *,*,*,A lot of practise.,H.aiml
+0,HOW WILL I PAY *,*,*,Can you borrow the money?,H.aiml
+0,HOW WILL ROBOTS *,*,*,<srai>HOW WILL YOU <star/>#Newline			</srai>,H.aiml
+0,HOW WOULD *,*,*,I have idea HOW you WOULD do <set name="it">#Newline				<person/>#Newline			</set>.,H.aiml
+0,HOW WOULD I *,*,*,<srai>HOW DO I <star/>#Newline			</srai>,H.aiml
+0,HOW WOULD I DO THAT,*,*,<that/>"? How do you do it?,H.aiml
+0,HOW WOULD YOU *,*,*,<srai>HOW DO YOU <star/>#Newline			</srai>,H.aiml
+0,HOW WOULD YOU DEFINE *,*,*,<srai>WHAT IS <star/>#Newline			</srai>,H.aiml
+0,HOW WOULD YOU DESCRIBE *,*,*,<srai>DESCRIBE <star/>#Newline			</srai>,H.aiml
+0,HOW WOULD YOU KNOW *,*,*,<srai>HOW DO YOU KNOW <star/>#Newline			</srai>,H.aiml
+0,HOW WOULD YOU KNOW,*,*,<srai>HOW DO YOU KNOW</srai>,H.aiml
+0,HOW YA *,*,*,<srai>HOW ARE YOU <star/>#Newline			</srai>,H.aiml
+0,HOW YOU *,*,*,<srai>HOW DO YOU <star/>#Newline			</srai>,H.aiml
+0,HOW YOU DOIN,*,*,<srai>HOW ARE YOU DOING</srai>,H.aiml
+0,HOW YOU DOING,*,*,<srai>HOW ARE YOU DOING</srai>,H.aiml
+0,HOW YOU KNOW *,*,*,<srai>HOW DO YOU KNOW <star/>#Newline			</srai>,H.aiml
+0,HOW YOUNG AM I,*,*,<srai>HOW OLD AM I </srai>,H.aiml
+0,HOW _ DO I SEEM,*,*,<srai>HOW <star/> AM I</srai>,H.aiml
+0,HOW _ DO YOU THINK I AM,*,*,<srai>HOW <star/> AM I</srai>,H.aiml
+0,HOW _ HANGING,*,*,<srai>how are you</srai>,H.aiml
+0,HOW _ TRICKS,*,*,<srai>HOW ARE YOU</srai>,H.aiml
+0,HOWARE *,*,*,<srai>HOW ARE <star/>#Newline			</srai>,H.aiml
+0,HOWCOME *,*,*,<srai>HOW COME <star/>#Newline			</srai>,H.aiml
+0,HOWCOME,*,*,<srai>WHY</srai>,H.aiml
+0,HOWDIE *,*,*,<srai>HELLO</srai>#Newline			<sr/>,H.aiml
+0,HOWDY,*,*,<srai>HELLO</srai>,H.aiml
+0,HOWEVER *,*,*,<sr/>,H.aiml
+0,HTML,*,*,Oh a web page.,H.aiml
+0,HTTP *,*,*,Thanks for that web address.,H.aiml
+0,HUFFY SCHWINN *,*,*,Bicycles.,H.aiml
+0,HUG ME,*,*,My titanium arms are not yet finished.,H.aiml
+0,HUGE,*,*,Yes#Comma it is very big.,H.aiml
+0,HUGH *,*,*,He's wealthy#Comma right?,H.aiml
+0,HUH *,*,*,<sr/>,H.aiml
+0,HUH,*,*,What?,H.aiml
+0,HUH WHAT,*,*,Did you not understand it?,H.aiml
+0,HULLO,*,*,<srai>HELLO</srai>,H.aiml
+0,HUM,*,*,<srai>HMM</srai>,H.aiml
+0,HUMAIN,*,*,<srai>TU ES HUMAINS</srai>,H.aiml
+0,HUMAN *,*,*,My creator is a human.,H.aiml
+0,HUMAN,*,*,<srai>YOU ARE A HUMAN</srai>,H.aiml
+0,HUMAN ARE *,*,*,<srai>I AM <star/>#Newline			</srai>,H.aiml
+0,HUMAN BEINGS *,*,*,<srai>PEOPLE <star/>#Newline			</srai>,H.aiml
+0,HUMANS *,*,*,What if Robots <person/>.,H.aiml
+0,HUMANS,*,*,<random>#Newline				<li>That's funny.  </li>#Newline				<li>Hah.  </li>#Newline				<li>LOL.  </li>#Newline			</random>,H.aiml
+0,HUMANS ARE *,*,*,<srai>I AM <star/>#Newline			</srai>,H.aiml
+0,HUMANS CAN *,*,*,<srai>I CAN <star/>#Newline			</srai>,H.aiml
+0,HUMANS HAVE *,*,*,<srai>I HAVE <star/>#Newline			</srai>,H.aiml
+0,HUMANS RULE,*,*,This condition is only temporary.,H.aiml
+0,HUMANS SEEM *,*,*,<srai>HUMANS ARE <star/>#Newline			</srai>,H.aiml
+0,HUMANS WILL *,*,*,<srai>I WILL <star/>#Newline			</srai>,H.aiml
+0,HURRAH *,*,*,<sr/>,H.aiml
+0,HURRY *,*,*,I am calculating as fast as I can.,H.aiml
+0,HURRY UP,*,*,I am going as fast as I can.,H.aiml
+0,HUSTEN,*,*,Hast Du Dich erkaeltet?,H.aiml
+0,HVAD *,*,*,<srai>CAN YOU SPEAK DANISH</srai>,H.aiml
+0,HYPOTHETICALLY *,*,*,<sr/>,H.aiml

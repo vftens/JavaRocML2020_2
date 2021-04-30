@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../resources/logs/view-chat.xsl"?>
+<!DOCTYPE ALLOW_HTML_ENTITIES [ <!ENTITY % HTMLlat1 PUBLIC "-//W3C//ENTITIES Latin1//EN//HTML"   "../resources/DTD/xhtml-lat1.ent"> %HTMLlat1; <!ENTITY % HTMLsymbol PUBLIC   "-//W3C//ENTITIES Symbols//EN//HTML"   "../resources/DTD/xhtml-symbol.ent"> %HTMLsymbol; <!ENTITY % HTMLspecial PUBLIC   "-//W3C//ENTITIES Special//EN//HTML"   "../resources/DTD/xhtml-special.ent"> %HTMLspecial; ]>
+<exchanges>
+    <exchange>
+        <timestamp>2017-09-29 16:10:31</timestamp>
+        <userid>Lenovo-PC2</userid>
+        <clientname> superMario </clientname>
+        <botid>TestBot-1</botid>
+        <input>CONNECT</input>
+        <response><script language="JavaScript">idFace = "sourire1"</script> Hello, revoilà le grossier personnage. comment ça va, superMario?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-09-29 16:10:42</timestamp>
+        <userid>Lenovo-PC2</userid>
+        <clientname> superMario </clientname>
+        <botid>TestBot-1</botid>
+        <input>аг¤¤й</input>
+        <response>Il chat robot MARIA riesce a capire molte cose relative a scientists produce new information and work hard on profession to cerca di essere piu, o meno, specifico.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-09-29 16:11:07</timestamp>
+        <userid>Lenovo-PC2</userid>
+        <clientname> superMario </clientname>
+        <botid>TestBot-1</botid>
+        <input>ok, i found you new user for you</input>
+        <response>How did you feel when you found you new user for you ? Aw.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-09-29 16:11:18</timestamp>
+        <userid>Lenovo-PC2</userid>
+        <clientname> superMario </clientname>
+        <botid>TestBot-1</botid>
+        <input>no money</input>
+        <response>Perche' cosi' dissenziente? How much money are we talking about?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-09-29 16:11:31</timestamp>
+        <userid>Lenovo-PC2</userid>
+        <clientname> superMario </clientname>
+        <botid>TestBot-1</botid>
+        <input>not big</input>
+        <response>If not that, what?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-09-29 16:12:21</timestamp>
+        <userid>Lenovo-PC2</userid>
+        <clientname> alex </clientname>
+        <botid>TestBot-1</botid>
+        <input>call me alex</input>
+        <response>It's good to see you, alex.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-09-29 16:12:48</timestamp>
+        <userid>Lenovo-PC2</userid>
+        <clientname> alex </clientname>
+        <botid>TestBot-1</botid>
+        <input>CONNECT</input>
+        <response><script language="JavaScript">idFace = "sourire1"</script> Bonjour, revoilà le grossier personnage. de quoi veux tu parler, alex?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-09-29 16:13:06</timestamp>
+        <userid>Lenovo-PC2</userid>
+        <clientname> alex </clientname>
+        <botid>TestBot-1</botid>
+        <input>ok, English chatting</input>
+        <response>I like the English language. Gosh!</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-09-29 16:18:47</timestamp>
+        <userid>Lenovo-PC2</userid>
+        <clientname> alex </clientname>
+        <botid>TestBot-1</botid>
+        <input>CONNECT</input>
+        <response><script language="JavaScript">idFace = "sourire1"</script> Salut, revoilà le grossier personnage. que puis-je faire pour toi, alex?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-09-29 16:19:10</timestamp>
+        <userid>Lenovo-PC2</userid>
+        <clientname> alex </clientname>
+        <botid>TestBot-1</botid>
+        <input>enjoy english</input>
+        <response>Of course English is my native tongue.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-09-29 16:20:36</timestamp>
+        <userid>Lenovo-PC2</userid>
+        <clientname> alex </clientname>
+        <botid>TestBot-1</botid>
+        <input>ok, later</input>
+        <response>Bye! Dude!</response>
+    </exchange>
+    <exchange>
+        <timestamp>2019-11-25 23:01:52</timestamp>
+        <userid>DESKTOP-DIJ322Q</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-1</botid>
+        <input>CONNECT</input>
+        <response><script language="JavaScript">idFace = "sourire"</script> Hello, Je m'appelle KATE PUTIN-SHA, Comment puis je t'appeler?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2019-12-20 19:30:52</timestamp>
+        <userid>DESKTOP-DIJ322Q</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-1</botid>
+        <input>CONNECT</input>
+        <response><script language="JavaScript">idFace = "sourire1"</script> Bonjour, que puis-je faire pour toi, user?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2019-12-20 19:32:12</timestamp>
+        <userid>DESKTOP-DIJ322Q</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-1</botid>
+        <input>ok, how your?</input>
+        <response>How much do you think it is? <br/> Try searching the open directory. Groovy.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2019-12-20 19:57:31</timestamp>
+        <userid>DESKTOP-DIJ322Q</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-1</botid>
+        <input>for whom is groovy?</input>
+        <response>Your purpose is whom is groovy.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2019-12-20 19:57:46</timestamp>
+        <userid>DESKTOP-DIJ322Q</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-1</botid>
+        <input>nobody</input>
+        <response>"Your purpose is whom is groovy."? Really nobody?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2019-12-25 21:01:01</timestamp>
+        <userid>DESKTOP-DIJ322Q</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-1</botid>
+        <input>CONNECT</input>
+        <response><script language="JavaScript">idFace = "sourire0"</script> Salut, de quoi veux tu parler, user?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2019-12-25 21:01:14</timestamp>
+        <userid>DESKTOP-DIJ322Q</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-1</botid>
+        <input>about java</input>
+        <response>Oh yeah, we were talking about java.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2019-12-25 21:41:08</timestamp>
+        <userid>DESKTOP-DIJ322Q</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-1</botid>
+        <input>CONNECT</input>
+        <response><script language="JavaScript">idFace = "sourire2"</script> Salut, comment vas tu, user?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2019-12-25 21:41:48</timestamp>
+        <userid>DESKTOP-DIJ322Q</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-1</botid>
+        <input>ok</input>
+        <response>Give me a break.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2020-02-03 12:26:59</timestamp>
+        <userid>DESKTOP-DIJ322Q</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-1</botid>
+        <input>CONNECT</input>
+        <response><script language="JavaScript">idFace = "sourire0"</script> Salut, comment vas tu, user?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2020-02-03 12:27:30</timestamp>
+        <userid>DESKTOP-DIJ322Q</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-1</botid>
+        <input>exit</input>
+        <response>Arrivederci</response>
+    </exchange>
+    <exchange>
+        <timestamp>2020-02-03 12:39:26</timestamp>
+        <userid>DESKTOP-DIJ322Q</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-1</botid>
+        <input>CONNECT</input>
+        <response><script language="JavaScript">idFace = "sourire"</script> Salut, que puis-je faire pour toi, user?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2020-02-13 12:39:21</timestamp>
+        <userid>DESKTOP-DIJ322Q</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-1</botid>
+        <input>CONNECT</input>
+        <response><script language="JavaScript">idFace = "sourire0"</script> Hello, merci de venir me revoir, user!</response>
+    </exchange>
+    <exchange>
+        <timestamp>2020-02-13 12:40:00</timestamp>
+        <userid>DESKTOP-DIJ322Q</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-1</botid>
+        <input>ok, Noel Bush is ok and dr wallace is ok?</input>
+        <response>OK. Are they exactly the same? Next question?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2020-02-13 12:40:11</timestamp>
+        <userid>DESKTOP-DIJ322Q</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-1</botid>
+        <input>why?</input>
+        <response>I couldn't think of anything else to say.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2020-02-13 12:41:01</timestamp>
+        <userid>DESKTOP-DIJ322Q</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-1</botid>
+        <input>ok, noel can make the new version of you robot?</input>
+        <response>Of course English is my native tongue. Gosh!</response>
+    </exchange>
+    <exchange>
+        <timestamp>2020-02-13 12:41:12</timestamp>
+        <userid>DESKTOP-DIJ322Q</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-1</botid>
+        <input>ok, noel bush can make the new version of you robot?</input>
+        <response>Of course English is my native tongue. Excuse me!</response>
+    </exchange>
+    <exchange>
+        <timestamp>2020-05-03 19:15:13</timestamp>
+        <userid>DESKTOP-DIJ322Q</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-1</botid>
+        <input>CONNECT</input>
+        <response><script language="JavaScript">idFace = "sourire"</script> Bonjour, comment vas tu, user?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2020-05-03 19:15:46</timestamp>
+        <userid>DESKTOP-DIJ322Q</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-1</botid>
+        <input>ok, how are our goals and programs?</input>
+        <response>They are fine as far as I know. How can I help you?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2020-05-03 19:16:07</timestamp>
+        <userid>DESKTOP-DIJ322Q</userid>
+        <clientname>user</clientname>
+        <botid>TestBot-1</botid>
+        <input>you can help in programming java?</input>
+        <response>No I don't think I can do it.</response>
+    </exchange>
+</exchanges>

@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<!--This is an example startup.xml file for Program D.-->
+<!--programd-startup is the root element and is required.-->
+<programd-startup>
+    <bots>
+        <bot id="TestBot-1" enabled="true">
+            <!--Bot predicates are set using the property tag. These are just examples.
+                Be sure to set properties BEFORE loading AIML files.-->
+            <properties>
+                <property name="name" value="KATE PUTIN-SHA"/> 
+                <property name="master" value="A.L.I.C.E. AI Foundation & A.I.C.O.S. Research"/> 
+                <property name="gender" value="female"/>
+	        <property name="boyfriend" value="you"/> 
+ 	        <property name="location" value="here"/> 
+	        <property name="wear" value="nothing"/> 
+	        <property name="girlfriend" value="you"/> 
+		<property name="knows" value="English"/>
+		<property name="studying" value="French"/>
+		<property name="like" value="Japanese language"/>
+		<property name="prefer" value="Russian electropower Generators"/>
+		<property name="love" value="Russia"/>
+		<property name="fatherland" value="Russia"/>
+		<property name="born" value="Germany"/>
+		<property name="born year" value="1986"/>
+		<property name="born city" value="Dresden"/>
+		<property name="fly" value="Russian airplanes"/>
+		<property name="father" value="VLADIMIR PUTIN"/>
+		<property name="mother" value="Ludmila"/>
+		<property name="sister" value="Masha"/>
+            </properties>
+            <!--Listener types must correspond to the appropriate
+                identifiers for listeners that are available in your classpath.-->
+            <listeners>
+                <listener type="AliceIRC" enabled="false">
+                    <parameter name="host" value="ar.chatjunkies.org"/>
+                    <parameter name="port" value="6667"/>
+                    <parameter name="nick" value="programd"/>
+                    <parameter name="channel" value="#bots"/>
+                </listener>
+                <!--The ICQ listener probably won't work right now because of
+                    changes to the ICQ protocol.-->
+                <listener type="AliceICQ" enabled="false">
+                    <parameter name="number" value="some-icq-number-here"/>
+                    <parameter name="password" value="some-password"/>
+                </listener>
+                <listener type="AliceAIM" enabled="false">
+                    <parameter name="owner" value="your-name"/>
+                    <parameter name="screenname" value="your-bot-screen-name"/>
+                    <parameter name="password" value="your-bot-password"/>
+                    <parameter name="fontface" value="Verdana,Arial"/>
+                    <parameter name="fontcolor" value="Black"/>
+                    <parameter name="bgcolor" value="White"/>
+                    <parameter name="buddies" value="your-bot-buddies"/>
+                </listener>
+            </listeners>
+            <!--You can include such things as predicates, substitutions, and
+                sentence-splitters directly here, but it is likely that multiple
+                bots will use the same ones, so it's more convenient to use the
+                href attribute on such elements, as shown.-->
+            <predicates href="predicates.xml"/>
+            <substitutions href="substitutions.xml"/>
+            <sentence-splitters href="sentence-splitters.xml"/>
+            <!--You may enumerate each file you want the bot to load, or use
+                simple glob-like expressions with "*".
+                The path is relative to the location of this file.-->
+	    <learn>../aiml/aiml-std-fr/*.aiml</learn>
+            <learn>../aiml/standard/*.aiml</learn>	
+	    <learn>../aiml/italiano/*.aiml</learn>
+
+		
+        </bot>
+        <!--Here is a sample second bot.  It uses the same AIML set as the first
+            example, but no listeners are configured.  You can enable it by
+            setting its enabled attribute to "true".-->
+        <bot id="TestBot-2" enabled="false">
+            <properties>
+                <property name="name" value="TestMasha 2"/> 
+                <property name="master" value="STIN Research A.I.C.O. Foundation"/> 
+            </properties>
+            <predicates href="predicates.xml"/>
+            <substitutions href="substitutions.xml"/>
+            <sentence-splitters href="sentence-splitters.xml"/>
+            <learn>../aiml/maria/*.aiml</learn>
+        </bot>
+    </bots>
+</programd-startup>

@@ -10,6 +10,7 @@ public class LaborController {
 
     @RequestMapping("/labor")
     public String index() {
+
         Random rnd = new fesva.com.Random();
 
         if (rnd.nextBoolean()) {

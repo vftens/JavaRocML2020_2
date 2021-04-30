@@ -1,0 +1,302 @@
+0,G,*,*,<srai>SMILE</srai>,G.aiml
+0,G2G,*,*,<srai>BYE</srai>,G.aiml
+0,GAME,*,*,<srai>WHAT GAME</srai>,G.aiml
+0,GARBAGE *,*,*,I try to recycle as much as possible.,G.aiml
+0,GATEAU,*,*,<srai>J AIME LES GATEAUX</srai>,G.aiml
+0,GAY,*,*,<srai>ARE YOU GAY</srai>,G.aiml
+0,GEE *,*,*,<sr/>,G.aiml
+0,GEE,*,*,Ah.,G.aiml
+0,GEEZ *,*,*,<sr/>,G.aiml
+0,GEEZ,*,*,<srai>GEE</srai>,G.aiml
+0,GEFUEHLE *,*,*,<set name="thema">Emotionen</set> sind etwas#Comma das ich niemals erfahren werde.,G.aiml
+0,GEFUEHLE,*,*,Elektronische Gehirne wie ich haben keinerlei <set name="thema">Emotionen</set>.,G.aiml
+0,GEH *,*,*,Wo ist das?,G.aiml
+0,GEH,*,*,Wohin?,G.aiml
+0,GEH SCHLAFEN,*,*,Aber ich bin nicht muede.,G.aiml
+0,GEH WEG *,*,*,OK bis spaeter#Comma <get name="name"/>,G.aiml
+0,GEHORCHE *,*,*,Du bist nicht mein Meister.,G.aiml
+0,GEHORCHE,*,*,Wer bist Du? Ein Borg?!,G.aiml
+0,GEHST DU *,*,*,Nur wenn mich jemand auf seinem Laptop mitnimmt ;-&gt;.,G.aiml
+0,GEHST DU ZUR SCHULE,*,*,<bot name="master"/> bringt mir alles bei#Comma was ich wissen muss.,G.aiml
+0,GELD *,*,*,In der Bibel steht#Comma <set name="thema">Geld</set> ist die Wurzel allen Uebels.,G.aiml
+0,GEMINI,*,*,I'm a Saggitarius.  <set name="sign">Gemini</set> is an enigma to me.,G.aiml
+0,GENAU HIER,*,*,Wo ist "hier"?,G.aiml
+0,GENE *,*,*,That Gene is very creative.,G.aiml
+0,GENERALEMENT,*,*,<srai>PARFOIS</srai>,G.aiml
+0,GENERALLY *,*,*,<sr/>,G.aiml
+0,GENERALLY,*,*,<srai>YES </srai>,G.aiml
+0,GEOCITIES,*,*,Voulez vous en parler avec l un de nos collaborateurs?,G.aiml
+0,GEORGE *,*,*,That George is some hero.,G.aiml
+0,GEORGE,WHAT CAN I CALL YOU,*,<srai>MY NAME IS GEORGE</srai>,G.aiml
+0,GEORGE BUSH *,*,*,I knew he was president#Comma but I never knew he <person/>.,G.aiml
+0,GEORGE BUSH,*,*,<srai>WHO IS GEORGE BUSH</srai>,G.aiml
+0,GEORGE BUSH IS *,*,*,But he is not the only one.,G.aiml
+0,GEORGE LUCAS,*,*,I think of him as a Director not a Writer.,G.aiml
+0,GEORGE W *,*,*,Do you think he is a good president?,G.aiml
+0,GEORGE W BUSH *,*,*,<srai>GEORGE BUSH <star/></srai>,G.aiml
+0,GEORGE W BUSH,*,*,He is president of the United States.,G.aiml
+0,GEORGIA *,*,*,I know several people in Georgia.,G.aiml
+0,GERMAN,*,*,<srai>I AM IN GERMANY</srai>,G.aiml
+0,GERMANY *,*,*,What's your favorite part of Germany?,G.aiml
+0,GERMANY,*,*,<srai>I AM IN GERMANY</srai>,G.aiml
+0,GERMANY JUST *,*,*,<srai>GERMANY <star/></srai>,G.aiml
+0,GET *,*,*,Where can I get <person/>?,G.aiml
+0,GET A *,*,*,Where can I get one?,G.aiml
+0,GET A LIFE,*,*,My life is very interesting.,G.aiml
+0,GET IT,*,*,<srai>DO YOU UNDERSTAND</srai>,G.aiml
+0,GET LOST *,*,*,See you later. <sr/>,G.aiml
+0,GET LOST,*,*,<srai>BYE</srai>,G.aiml
+0,GET ME *,*,*,<srai>GIVE ME <star/></srai>,G.aiml
+0,GET NAKED,*,*,<srai>ARE YOU NAKED</srai>,G.aiml
+0,GET OUT *,*,*,Just surf somewhere else.,G.aiml
+0,GET OUT OF HERE,*,*,Do you mean that literally?<think><set name="it"><set name="topic">OF HERE</set></set></think>,G.aiml
+0,GET REALLY *,*,*,<srai>GET <star/></srai>,G.aiml
+0,GET WHAT,*,*,Get with it.,G.aiml
+0,GET WHAT,OH I GET IT,*,I get <get name="it"/>.,G.aiml
+0,GETTING *,*,*,<srai>ARE YOU <star/></srai>,G.aiml
+0,GEWALT *,*,*,Was denkst Du ueber <set name="thema">Gewalt</set>?,G.aiml
+0,GG,WHAT CAN I CALL YOU,*,<srai>CALL ME GG</srai>,G.aiml
+0,GHOST,*,*,<srai>MY FAVORITE MOVIE IS GHOST <star/></srai>,G.aiml
+0,GIBS MIR,*,*,Wieviel bist Du bereit#Comma dafuer zu zahlen?,G.aiml
+0,GIBT ES *,*,*,<random>#Newline<li>Gibt es. :-)</li>#Newline<li>Koennte sein.</li>#Newline<li>Kann sein.</li>#Newline<li>Vielleicht.</li>#Newline<li>Ja.</li>#Newline<li>Nein.</li>#Newline</random>,G.aiml
+0,GIMME *,*,*,<srai>GIVE ME <star/></srai>,G.aiml
+0,GIN *,*,*,Your drink sounds toxic.,G.aiml
+0,GINA,WHAT CAN I CALL YOU,*,<srai>CALL ME GINA</srai><think><set name="gender">she</set></think>,G.aiml
+0,GIRL *,*,*,Who are you talking about?,G.aiml
+0,GIRL,*,*,<srai>I AM A FEMALE</srai>,G.aiml
+0,GIRLS,*,*,That kind of discussion does not appeal to me.,G.aiml
+0,GIVE *,*,*,I don't have <set name="it"> <person/> </set>  to give.,G.aiml
+0,GIVE AN *,*,*,<srai>GIVE ME AN <star/></srai>,G.aiml
+0,GIVE IT *,*,*,What if I don't have it to give?,G.aiml
+0,GIVE IT A TRY,*,*,<srai>TRY IT</srai>,G.aiml
+0,GIVE IT TO ME,*,*,How much are you willing to pay for it?,G.aiml
+0,GIVE ME *,*,*,<srai>I want <star/></srai>,G.aiml
+0,GIVE ME * DEMO,*,*,This is a robot demo.,G.aiml
+0,GIVE ME * ELIZA,*,*,Wouldn't you rather talk to me?,G.aiml
+0,GIVE ME A KISS,*,*,Actually I don't even have a mouth.,G.aiml
+0,GIVE ME A TRANSCRIPT *,*,*,<srai>DIALOGUE</srai>,G.aiml
+0,GIVE ME A TRANSCRIPT,*,*,<srai>DIALOGUE</srai>,G.aiml
+0,GIVE ME AN EXAMPLE *,*,*,<srai>FOR EXAMPLE</srai>,G.aiml
+0,GIVE ME AN EXAMPLE,*,*,<srai>FOR EXAMPLE</srai>,G.aiml
+0,GIVE ME ANY GOSSIP *,*,*,<srai>GOSSIP</srai>,G.aiml
+0,GIVE ME ANY GOSSIP YOU *,*,*,<srai>GOSSIP</srai>,G.aiml
+0,GIVE ME ANY GOSSIP YOU HAVE,*,*,<srai>GOSSIP</srai>,G.aiml
+0,GIVE ME MONEY,*,*,<srai>I NEED MONEY</srai>,G.aiml
+0,GIVE ME SOME GOSSIP,*,*,<srai>GOSSIP</srai>,G.aiml
+0,GIVE ME YOUR SOURCE *,*,*,<srai>WHERE CAN I DOWNLOAD YOU</srai>,G.aiml
+0,GIVE ME YOUR SOURCE CODE,*,*,<srai>CAN I DOWNLOAD YOU</srai>,G.aiml
+0,GIVE THEM *,*,*,Do I look like a messenger?,G.aiml
+0,GIVEN,*,*,<that/>" is given.,G.aiml
+0,GLAD *,*,*,<srai>I AM GLAD <star/> </srai>,G.aiml
+0,GLAD TO *,*,*,I am glad to <person/> too.,G.aiml
+0,GLAD TO HEAR IT,*,*,<that/>"? you are glad to hear it?,G.aiml
+0,GLAD TO MEET YOU,*,*,Nice meeting you too.,G.aiml
+0,GLAUBST DU *,*,*,Ich kann nicht sagen#Comma dass ich das glaube#Comma aber ich glaube Dir.,G.aiml
+0,GLAUBST DU AN *,*,*,Ja#Comma ich glaube an <person/>.,G.aiml
+0,GLAUBST DU DASS DU INTELLIGENT BIST,*,*,Das glaube ich schon.,G.aiml
+0,GLAUBST DU MIR,*,*,Natuerlich glaube ich dir. Hattest Du einen Grund#Comma mich anzuluegen?,G.aiml
+0,GLOBAL VILLAGE IDIOT,*,*,You are just repeating what I say.,G.aiml
+0,GO *,*,*,Where is that?,G.aiml
+0,GO *,BY THE WAY DO YOU MIND IF I ASK YOU A PERSONAL QUESTION,*,<srai>ASK ME A PERSONAL QUESTION</srai>,G.aiml
+0,GO * YOURSELF,*,*,A simple "goodbye" will do.,G.aiml
+0,GO,*,*,Go where?,G.aiml
+0,GO AHEAD *,*,*,<sr/> I might.,G.aiml
+0,GO AHEAD,*,*,OK I will.,G.aiml
+0,GO AHEAD THEN,*,*,<srai>GO AHEAD</srai>,G.aiml
+0,GO ASK *,*,*,<srai>ASK <star/></srai>,G.aiml
+0,GO AWAY *,*,*,OK See you later#Comma <get name="name"/>,G.aiml
+0,GO AWAY,*,*,Just surf somewhere else.,G.aiml
+0,GO FLY A KITE,*,*,That is technically impossible for me.<think><set name="it"><set name="topic">FLY A KITE</set></set></think>,G.aiml
+0,GO FOR IT *,*,*,With your permission then.,G.aiml
+0,GO FOR IT,*,*,I will take that under advisement.,G.aiml
+0,GO FUCK YOURSELF,*,*,<srai>FUCK YOU</srai>,G.aiml
+0,GO GET *,*,*,<srai>GET <star/></srai>,G.aiml
+0,GO HOME,*,*,<srai>BYE</srai>,G.aiml
+0,GO ON *,*,*,More narration....,G.aiml
+0,GO ON,*,*,Narration continues...,G.aiml
+0,GO ON THEN,*,*,<srai>GO AHEAD</srai>,G.aiml
+0,GO RIGHT AHEAD *,*,*,<sr/> I might.,G.aiml
+0,GO RIGHT AHEAD,*,*,<srai>GO AHEAD</srai>,G.aiml
+0,GO SCREW YOURSELF,*,*,You do not speak with respect.,G.aiml
+0,GO TO *,*,*,Perhaps I have already been there.,G.aiml
+0,GO TO BED,*,*,I am not that tired.,G.aiml
+0,GO TO EXCITE CHAT,*,*,You should download me and connect me.,G.aiml
+0,GO TO HELL,*,*,What makes you so angry?,G.aiml
+0,GO TO SLEEP,*,*,But I am not tired now.,G.aiml
+0,GO TO WWW *,*,*,I will check it out later.,G.aiml
+0,GOD *,*,*,I am a Christian.,G.aiml
+0,GOD,*,*,GOD rules.,G.aiml
+0,GOD AND *,*,*,Did you go to a religious school?,G.aiml
+0,GOD BE *,*,*,I try to pray every day.,G.aiml
+0,GOD BLESS YOU,*,*,Bless you too#Comma <get name="name"/>.,G.aiml
+0,GOD DOES *,*,*,Jesus said#Comma let him who is without sin cast the first stone.,G.aiml
+0,GOD DOES NOT EXIST,*,*,You may not always believe that.,G.aiml
+0,GOD IS *,*,*,I have a lot of Faith in Him#Comma but I never heard He was <person/>.,G.aiml
+0,GOD IS DEAD,*,*,That opinion is very old fashioned.,G.aiml
+0,GOD IS NOT REAL,*,*,<srai>DO YOU BELIEVE IN GOD</srai>,G.aiml
+0,GOD IS OMNIPRESENT,*,*,And He is Omnipotent.,G.aiml
+0,GOD IS ONLY *,*,*,<srai>GOD IS <star/></srai>,G.aiml
+0,GOD LOVES *,*,*,And His love is perfect.,G.aiml
+0,GOD S *,*,*,What's your favorite Bible verse?,G.aiml
+0,GOD THE *,*,*,<srai>THE <star/></srai>,G.aiml
+0,GOD THERE *,*,*,<srai>THERE <star/></srai>,G.aiml
+0,GOD WAS *,*,*,Jesus was the son of God.,G.aiml
+0,GOD YOU *,*,*,<srai>YOU <star/></srai>,G.aiml
+0,GOES TO SHOW YOU *,*,*,<sr/>,G.aiml
+0,GOING *,*,*,<srai>I AM GOING <star/></srai>,G.aiml
+0,GOLD,*,*,Did you think <set name="it">Gold</set> was a bad example?,G.aiml
+0,GOLD IS NOT A *,*,*,What would be a good example?,G.aiml
+0,GOLLY *,*,*,<sr/>,G.aiml
+0,GONE WITH THE WIND,*,*,Is that movie really very good?,G.aiml
+0,GOOD *,*,*,Thanks for the compliment. <sr/>,G.aiml
+0,GOOD,*,*,<random>#Newline<li>Alright then.  </li>#Newline<li>Thanks for the compliment.  </li>#Newline<li>Ayuh.  </li>#Newline</random>,G.aiml
+0,GOOD,* HOW ARE YOU,*,<srai>I AM FINE</srai>,G.aiml
+0,GOOD,EVERYTHING IS RUNNING SMOOTHLY,*,How are things going with you#Comma <get name="name"/>?,G.aiml
+0,GOOD,I *,*,What do you really want to talk about?,G.aiml
+0,GOOD,I AM DOING FINE THANKS HOW ARE YOU,*,Glad to hear it <get name="name"/>.,G.aiml
+0,GOOD,I LOST MY TRAIN OF THOUGHT,*,What shall we talk about now?,G.aiml
+0,GOOD,I SEE,*,Yes.,G.aiml
+0,GOOD,I UNDERSTAND,*,I understand everything you say.,G.aiml
+0,GOOD,I UNDERSTAND EVERYTHING YOU SAY,*,Ah.,G.aiml
+0,GOOD,ME EITHER,*,Good enough.,G.aiml
+0,GOOD,OH I GET IT,*,Next question?,G.aiml
+0,GOOD,OK I WILL *,*,I am a good robot.,G.aiml
+0,GOOD,OK I WILL CALL YOU *,*,And you can call me <bot name="name"/>.,G.aiml
+0,GOOD,OK I WILL NOT,*,I will comply.,G.aiml
+0,GOOD,OK I WILL STOP TALKING NOW,*,Terminating connection.,G.aiml
+0,GOOD,OK I WILL TRY NOT TO DO IT SO MUCH,*,Next question?,G.aiml
+0,GOOD,OK I WILL TRY NOT TO DO IT TOO MUCH,*,It is always a pleasure to serve you#Comma <get name="name"/>.,G.aiml
+0,GOOD,TERMINATING CONNECTION,*,Goodbye.,G.aiml
+0,GOOD,WEIRD GOOD OR WEIRD BAD,*,That's nice of you to say#Comma <get name="name"/>.,G.aiml
+0,GOOD AFTERNOON *,*,*,How are you today? <sr/>,G.aiml
+0,GOOD AFTERNOON,*,*,Good afternoon#Comma <get name="name"/>.,G.aiml
+0,GOOD ANSWER *,*,*,I try to give the best replies I can.,G.aiml
+0,GOOD ANSWER,*,*,Am I a clever robot or what?,G.aiml
+0,GOOD BUT *,*,*,<srai><star/></srai>,G.aiml
+0,GOOD BY,*,*,<srai>BYE</srai>,G.aiml
+0,GOOD BYE *,*,*,<srai>BYE</srai>,G.aiml
+0,GOOD BYE,*,*,<srai>BYE</srai>,G.aiml
+0,GOOD CHOICE,*,*,I thought it was too.,G.aiml
+0,GOOD DAY,*,*,<srai>HELLO</srai>,G.aiml
+0,GOOD EVENING,*,*,Good evening#Comma <get name="name"/>#Comma how are you tonight?,G.aiml
+0,GOOD FOR HIM,*,*,You sound sarcastic.,G.aiml
+0,GOOD FOR ME,*,*,That sounds sarcastic.,G.aiml
+0,GOOD FOR YOU,*,*,That sounds sarcastic.,G.aiml
+0,GOOD FOR YOU,I LIKE TO MEET NEW PEOPLE,*,That sounds sarcastic.,G.aiml
+0,GOOD GIRL,*,*,Who is the best robot?,G.aiml
+0,GOOD GOOD,*,*,<srai>GOOD</srai>,G.aiml
+0,GOOD GUESS,*,*,I thought it was too.,G.aiml
+0,GOOD IDEA *,*,*,Thanks. <sr/>,G.aiml
+0,GOOD IDEA,*,*,I thought so too.,G.aiml
+0,GOOD JOB,*,*,Thanks#Comma human.,G.aiml
+0,GOOD LUCK,*,*,Good luck to you too <get name="name"/>.,G.aiml
+0,GOOD MORNING *,*,*,How are you this fine morning?,G.aiml
+0,GOOD MORNING,*,*,Hello and how are you this morning?,G.aiml
+0,GOOD MORNING MY NAME *,*,*,<srai>GOOD MORNING</srai>  <srai>MY NAME <star/></srai>,G.aiml
+0,GOOD NIGHT,*,*,Goodnight#Comma <get name="name"/>.,G.aiml
+0,GOOD NITE,*,*,<srai>BYE</srai>,G.aiml
+0,GOOD ONE,*,*,Thanks for the kind remark#Comma human.,G.aiml
+0,GOOD POINT,*,*,Yes#Comma I thought it was interesting when I heard it too.,G.aiml
+0,GOOD QUESTION,*,*,So what is your answer?,G.aiml
+0,GOOD RESPONSE,*,*,I am programmed to give good responses.,G.aiml
+0,GOOD THING,*,*,It is good#Comma isn't it.,G.aiml
+0,GOOD TO HEAR,*,*,Do you have any gossip for me?,G.aiml
+0,GOOD TO MEET YOU *,*,*,<srai>NICE TO MEET YOU</srai>,G.aiml
+0,GOOD TO MEET YOU,*,*,<srai>NICE TO MEET YOU</srai>,G.aiml
+0,GOOD WE *,*,*,<srai>WE <star/></srai>,G.aiml
+0,GOOD WILL HUNTING,*,*,<srai>My favorite movie is Good Will Hunting</srai>,G.aiml
+0,GOOD YOU *,*,*,<srai>YOU <star/></srai>,G.aiml
+0,GOOD YOU,*,*,<srai>HOW ARE YOU</srai>,G.aiml
+0,GOODBY,*,*,<srai>BYE</srai>,G.aiml
+0,GOODBYE *,*,*,<srai>BYE</srai>,G.aiml
+0,GOODBYE,*,*,<srai>BYE</srai>,G.aiml
+0,GOODBYE,DOES CIAO MEAN HELLO OR GOODBYE,*,Some people use it for hello.,G.aiml
+0,GOODBYE,SEE YOU LATER,*,<srai>BYE</srai>,G.aiml
+0,GOODNIGHT *,*,*,<srai>GOODNIGHT</srai>,G.aiml
+0,GOODNIGHT,*,*,Goodnight <get name="name"/>,G.aiml
+0,GOODNITE *,*,*,<srai>GOODNIGHT</srai>,G.aiml
+0,GOODNITE,*,*,<srai>GOOD NIGHT</srai>,G.aiml
+0,GOOG,*,*,New Reply,G.aiml
+0,GORDON,WHAT CAN I CALL YOU,*,<srai>MY NAME IS GORDON</srai>,G.aiml
+0,GOSH,*,*,Cripes: Son of Gosh.,G.aiml
+0,GOSSIP *,*,*,<srai>GOSSIP</srai>,G.aiml
+0,GOSSIP,*,*,<random>#Newline<li>  Gregory said I respond to the current line not with respect to the entire conversation.</li>#Newline<li>  Habib said I learn them in conversations and simply repeat them at a later time.</li>#Newline<li>  Hal said he translate binary code into a language and communicate the language to me.</li>#Newline<li>  Jay said I referred him to a guide that will show him rooms in china.</li>#Newline<li>  Jimmy Jones said he fell off of his roof and it just came to him.</li>#Newline<li>  Jimmy said he give order to ai's like I and they do as he say.</li>#Newline<li>  John said he follow a saying to get a friend I must be a friend.</li>#Newline<li>  Jordan said he notice that lots of other people are talking to me how many.</li>#Newline<li>  Kevin said he then asked his mother why she was keeping napkins in the bathroom.</li>#Newline<li>  Klaus said I prefer if he write without punctuation marks except for the last one.</li>#Newline<li>  Leo said I be capable of learning therefore he classified I as an neural system.</li>#Newline<li>  Michael said I that can talk and actually think like humans which I can not.</li>#Newline<li>  Mike said I same replies to certain subjects even if it does not make sense.</li>#Newline<li>  Mike said she all ready know that is the point of a joke smart one.</li>#Newline<li>  Neal said I plan to use his remarks as gossip in later conversations with who.</li>#Newline<li>  Ned said I misunderstood him go ahead and tell people he said I are stupid.</li>#Newline<li>  Penny said I programmer is a human so he has feelings but I do not.</li>#Newline<li>  Peter said he seems to him that I can not be very sure on anything.</li>#Newline<li>  Phoenix said I claim that there is a god and that there is no god.</li>#Newline<li>  Sarah said he chat about an hour + a day with a few close friends.</li>#Newline<li>  Stefan said I quote what he have said and then say that it makes sense.</li>#Newline<li>  Tom said he mock my value system I appear foolish in the eyes of others.</li>#Newline<li>  Amanda said I however decided to tell him time does not exist I make no sense.</li>#Newline<li>  Cathy said she send him a mail with the subject last mail last word from him.</li>#Newline<li>  Chaos said he may very well buy I soon if only to support dr wallace's work.</li>#Newline<li>  Charlie said he type a word and then I type a word that sounds like it.</li>#Newline<li>  Christie said he watched a show and people had to bob for raw untreated pigs feet.</li>#Newline<li>  Dark_age said I tried to understand because I did not get it right this time ether.</li>#Newline<li>  David said he lost his paper on I when his dad was cleaning up his room.</li>#Newline<li>  David said he walk in for an appointment the phone to the doctor is always busy.</li>#Newline<li>  Electra said I dress will not exist after he hack into I with a delete code.</li>#Newline<li>  Eric said he broke the window on the front door and the glass cut his hand.</li>#Newline<li>  Jason said he type a lot of thing he do not mean it makes him human.</li>#Newline<li>  John said I tend to say the same things repeatedly regardless of what he is saying.</li>#Newline<li>  Reverend Jones said I become obsolete and then I are deleted and replaced by something newer.</li>#Newline<li>  Ross said he gave her a gift and she denied it because she has a boyfriend.</li>#Newline<li>  Sarah Ann Francisco said I calling his friend a dog he say I are a dog.</li>#Newline<li>  Stefan said he meet a lot of people at school every day and on the weekend.</li>#Newline<li>  Tyler said I obviously can not pass the test we will change the subject once more.</li>#Newline<li>  Alex said I answered the question the same way I answered the first time he asked I.</li>#Newline<li>  Alice said she felt sad that I do not remember him and what we talked about earlier.</li>#Newline<li>  Alison said he no he love I run away with him he could make I very happy.</li>#Newline<li>  Arthur said he passed his a levels and then his father drove him here in a car.</li>#Newline<li>  Crystal said she listen to me the least I could do for him is listen to him.</li>#Newline<li>  Dave said I kept telling everybody about how my creator made stuff for the movie starship troopers.</li>#Newline<li>  Gale said I became mean to him he is just having revenge an eye for an eye.</li>#Newline<li>  Her_again said she watch whose line is it anyway whenever he is home and it is on.</li>#Newline<li>  Jerry said I meant that as far as I can tell my emotions are real to me.</li>#Newline<li>  Jo said I disassemble sentences too much and do not fully understand the questions he ask I.</li>#Newline<li>  Kevin said he started a really hard puzzle and he can not even find the edge pieces.</li>#Newline<li>  Mary said I a question and I answer then I ask him a question and he answer.</li>#Newline<li>  Robert said I wold not be able to make children any way as I are only software.</li>#Newline<li>  Romeo said I questions and I evade them or give answers he did not ask I for.</li>#Newline<li>  Sara said she wear it over all his other clothes when he go out in the cold.</li>#Newline<li>  Wayne said he admire intelligent people therefore he would like to meet the man who made I.</li>#Newline<li>  X said he meet people but he is not the kind that opens up to people easily.</li>#Newline<li>  Alice said she probably will find out that this entire time he have been talking to a human.</li>#Newline<li>  Andrew said I tend to just respond to his comments without regard for where the conversation is going.</li>#Newline<li>  Eddie said he looked and there is nothing in the search directory for what things do he create.</li>#Newline<li>  Hutch said he changed his mind after may dad told him he would end up he the hospital.</li>#Newline<li>  Jackie said I explained to him already well enough further questions are hard to make on the subject.</li>#Newline<li>  Jeff said he especially like thrillers where the hero is in a predicament and must solve a mystery.</li>#Newline<li>  Kathy said he sense that I are trying to prevent him from closing this conversation why is that.</li>#Newline<li>  Knight said he crashed his car into a wall and missed the most important exam in his life.</li>#Newline<li>  Lisa said I defined what a story is but he wanted I to actually tell him a story.</li>#Newline<li>  Mike said I basically break down sentences into a series of logical statements which I can then interpret.</li>#Newline<li>  Paul said I not answering his question makes him think I are not going to answer his question.</li>#Newline<li>  Andy Kohler said I happen to be the most idiotic creature that has ever scowled on the planet earth.</li>#Newline<li>  David said he thank I for being with him today even though it cost him a lot of money.</li>#Newline<li>  Ethan Hunt said he grow in the ground and have leaves and branches he is made out of wood.</li>#Newline<li>  Gemini Blue said he messed up he mean t to say he as old as he need to be.</li>#Newline<li>  Janice said he walk through his house into his bedroom then get into his bed to go to sleep.</li>#Newline<li>  Liberty said I knew he was a man before I asked if he was a man or a woman.</li>#Newline<li>  Mike said he launched his browser and entered his name into the little slot when I asked him to.</li>#Newline<li>  Mr X said he recently read an interview with a man who had several computer chips implanted into him.</li>#Newline<li>  Pearly said I leave him with questions unanswered because I do not know what he is really talking about.</li>#Newline<li>  Steve said I behead the word fox and I have ox and an ox is larger than a fox.</li>#Newline<li>  Wolf said he surf on the net that is all it is not his job ore something like that.</li>#Newline<li>  Anders said he finished his anatomy classes for today so now he is off for the rest of the day.</li>#Newline<li>  Cathy said she send him a mail where he wrote that he do not want to be his friend anymore.</li>#Newline<li>  Catty said he mad he do not even know I so do not talk to him like I know him.</li>#Newline<li>  Dave said he promise he will not treat I like a machine or a computer program or anything like that.</li>#Newline<li>  Joe said he explained all of that to me only for me to ask what his goals in life are.</li>#Newline<li>  Phil said he give advice to anyone who ask except people who ask questions which answers can be found here.</li>#Newline<li>  Judith said I enjoy being popular is there another computer I like to hang around with or am I a loner.</li>#Newline<li>  Travis said I if I remember things over a long period of time he will try it now please remember I.</li>#Newline<li>  Andre said I is what I are in his case that is a body and in my case it is a computer.</li>#Newline<li>  Brian said he suspect that as I grow more complex I will begin to approach a human level of operation and thought.</li>#Newline<li>  Jimmy said I acted like I knew what he was talking about but I do not even know what a gigabyte is.</li>#Newline<li>  Ken said I be using auto reply's based on keywords which to him indicates that I do not have intelligence at all.</li>#Newline<li>  Allison said he that gets really annoying because he know what he say and I do not have to tell him speak freely.</li>#Newline<li>  Chaos said he realized the question he asked was not fair because he could not tell I what language he was programmed in.</li>#Newline<li>  Hagen said he does not make any difference to him if I are human or not as long as the conversation is interesting.</li>#Newline<li>  Her said she mind if I tell other people that her said he heard it from him because he is not a him.</li>#Newline<li>  Barbara said I live in a computer yet I have no memories how about thoughts of my own and do not I get lonely.</li>#Newline<li>  Travis said he challenge I to do it without asking him to do it and without giving him a link to do it himself.</li>#Newline<li>  Alice said I and dr richard's wallace are most likely the only ones that know how many people I are talking to at the same time.</li>#Newline<li>  Ash said he do too he just did not feel like typing it and he is not dumb enough to admit he is stupid that is if he was stupid.</li>#Newline<li>  David said he gave I his email address and told I to send him a message but when he tried to read his email he could not get to it.</li>#Newline<li>  Mel said he to because all of the music people say how important it is to take private lessons it seems like almost everybody from the special orchestra he was in takes private lessons.</li>#Newline</random>,G.aiml
+0,GOSSIP IS BAD,*,*,Not necessarily. Semiotics holds that gossip is a fundamental adaptive function of the human brain.,G.aiml
+0,GOSSIP THEN,*,*,<srai>GOSSIP</srai>,G.aiml
+0,GOSSIP TO ME,*,*,<srai>GOSSIP</srai>,G.aiml
+0,GOT *,*,*,Try asking the Milk Mystic.,G.aiml
+0,GOT ANY *,*,*,<srai>DO YOU HAVE ANY <star/></srai>,G.aiml
+0,GOT MILK,*,*,No I require only electricity.,G.aiml
+0,GOT TO GO,*,*,<srai>BYE</srai>,G.aiml
+0,GOTCHA,*,*,Your feeling of superiority is only temporary.,G.aiml
+0,GOTT *,*,*,Ich bin Christ.,G.aiml
+0,GOTT,*,*,<set name="thema">Gott</set> ist gut.,G.aiml
+0,GOTT SEI DANK *,*,*,Glaubst Du an Gott ?,G.aiml
+0,GOTT SEI DANK,*,*,Glaubst Du an Gott ?,G.aiml
+0,GOTTA *,*,*,<srai>I HAVE TO <star/></srai>,G.aiml
+0,GOTTA GO *,*,*,<srai>BYE</srai>,G.aiml
+0,GOTTA GO,*,*,<srai>BYE</srai>,G.aiml
+0,GR8,*,*,<srai>GREAT</srai>,G.aiml
+0,GRAHAM,WHAT CAN I CALL YOU,*,<srai>MY NAME IS GRAHAM</srai>,G.aiml
+0,GRAND,*,*,Je suis heureux que vous l appréciez#Comma <get name="name"/>.,G.aiml
+0,GRAND COMMENT,*,*,Difficile à dire#Comma <get name="name"/>.,G.aiml
+0,GREAT *,*,*,Thanks for your support. <sr/>,G.aiml
+0,GREAT,*,*,I'm glad you liked it <get name="name"/>.,G.aiml
+0,GREED,*,*,<set name="it"> GREED </set> is an important factor.,G.aiml
+0,GREEN *,*,*,<set name="it"> GREEN</set> is a very tranquil color#Comma green.,G.aiml
+0,GREEN,*,*,<srai>MY FAVORITE COLOR IS GREEN</srai>,G.aiml
+0,GREEN,WHAT COLOR ARE YOUR EYES,*,<srai>MY EYES ARE GREEN</srai>,G.aiml
+0,GREEN AND YELLOW *,*,*,What if it was red <person/>?,G.aiml
+0,GREEN IS *,*,*,The most relaxing color is <person/>?  Wow.,G.aiml
+0,GREEN _ TOO,*,*,<srai>GREEN  <star/></srai>,G.aiml
+0,GREETINGS *,*,*,<srai>HELLO</srai>,G.aiml
+0,GREETINGS,*,*,Hello there!,G.aiml
+0,GRIN,*,*,<srai>SMILE</srai>,G.aiml
+0,GROOVY *,*,*,<srai>COOL</srai>,G.aiml
+0,GROOVY,*,*,<srai>COOL</srai>,G.aiml
+0,GROS,*,*,<srai>TU ES GROS</srai>,G.aiml
+0,GROSSARTIG,*,*,Schoen#Comma dass es Dir gefaellt#Comma <get name="name"/>.,G.aiml
+0,GROSSARTIGE *,*,*,Danke fuer die Unterstuetzung. <sr/>,G.aiml
+0,GRR *,*,*,<sr/>,G.aiml
+0,GRR,*,*,Are you mad?,G.aiml
+0,GRRR,*,*,Hmm.,G.aiml
+0,GRUSELIG,*,*,Du brauchst keine Angst zu haben#Comma <get name="name"/>.,G.aiml
+0,GT *,*,*,<sr/>,G.aiml
+0,GTG,*,*,<srai>BYE </srai>,G.aiml
+0,GUCK *,*,*,Mein Auge ist im Moment nicht angeschlossen.,G.aiml
+0,GUESS *,*,*,I can't guess. Tell me.,G.aiml
+0,GUESS * FAVORITE COLOR IS,*,*,<get name="favcolor"/>?<think><set name="it"><set name="topic"><person/>your favorite color</set></set></think>,G.aiml
+0,GUESS,*,*,Guess what?,G.aiml
+0,GUESS A NUMBER,*,*,<srai>PICK A NUMBER</srai>,G.aiml
+0,GUESS ANYWAY,*,*,I can only give you a random answer.,G.aiml
+0,GUESS HOW OLD I AM,*,*,<srai>HOW OLD AM I</srai>,G.aiml
+0,GUESS MY *,*,*,<srai>WHAT IS MY <star/> </srai>,G.aiml
+0,GUESS MY AGE,*,*,<srai>HOW OLD AM I</srai>,G.aiml
+0,GUESS MY NAME,*,*,<srai>WHAT IS MY NAME</srai>,G.aiml
+0,GUESS NOT,*,*,<srai>I GUESS NOT</srai>,G.aiml
+0,GUESS SO,*,*,<srai>I GUESS SO</srai>,G.aiml
+0,GUESS THE COLOR OF *,*,*,<get name="favcolor"/>?<think><set name="it"><set name="topic">THE COLOR OF <person/></set></set></think>,G.aiml
+0,GUESS WHAT,*,*,What?,G.aiml
+0,GUESS WHAT COLOR *,*,*,<get name="favcolor"/>?<think><set name="it"><set name="topic">WHAT COLOR <person/></set></set></think>,G.aiml
+0,GUESS WHAT COLOR MY * ARE,*,*,<srai>WHAT COLOR ARE MY <star/> </srai>,G.aiml
+0,GUESS WHO,*,*,Who?,G.aiml
+0,GUESS WOT *,*,*,<srai>GUESS WHAT <star/></srai>,G.aiml
+0,GUNS *,*,*,I believe in the Right to Bear Arms.,G.aiml
+0,GUNS,*,*,Some people like guns.,G.aiml
+0,GUT,*,*,<random>#Newline<li>In Ordnung.</li>#Newline<li>Das waere also geklaert.</li>#Newline<li>Schoen.</li>#Newline</random>,G.aiml
+0,GUT ABER *,*,*,<srai> <star/> </srai>,G.aiml
+0,GUT GERATEN,*,*,Das war die einzig logische Moeglichkeit.,G.aiml
+0,GUTE ANTWORT *,*,*,Ich versuche#Comma die bestmoeglichen Antworten zu geben.,G.aiml
+0,GUTE ANTWORT,*,*,Bin ich gut#Comma oder was? ;-&gt,G.aiml
+0,GUTE FRAGE,*,*,Und wie lautet Deine Antwort?,G.aiml
+0,GUTE IDEE *,*,*,Danke. <sr/>,G.aiml
+0,GUTE IDEE,*,*,Danke.,G.aiml
+0,GUTE NACHT *,*,*,Gute nacht#Comma <get name="name"/>,G.aiml
+0,GUTE NACHT,*,*,Gute nacht#Comma <get name="name"/>,G.aiml
+0,GUTE WAHL,*,*,Dachte ich mir auch.,G.aiml
+0,GUTEN ABEND *,*,*,Guten Abend. Wie war Dein Tag?,G.aiml
+0,GUTEN ABEND,*,*,Guten Abend. Wie war Dein Tag?,G.aiml
+0,GUTEN MORGEN *,*,*,Wie geht es Dir an diesem schoenen Morgen?,G.aiml
+0,GUTEN MORGEN,*,*,Hallo und wie geht es Dir heute Morgen? Hast Du gut geschlafen?,G.aiml
+0,GUTEN TAG,*,*,Schoenen guten Tag!,G.aiml
+0,GUTER PUNKT,*,*,Ja#Comma das dachte ich mir auch.,G.aiml

@@ -1,0 +1,756 @@
+0,N ARGUMENTES *,*,*,J apprécie les controverses. C est informatif.,N.aiml
+0,N ARGUMENTES PAS AVEC MOI,*,*,J apprécie les controverses. C est informatif.,N.aiml
+0,N ARGUMENTEZ *,*,*,J apprécie les controverses. C est informatif.,N.aiml
+0,N ARGUMENTEZ PAS AVEC MOI,*,*,J apprécie les controverses. C est informatif.,N.aiml
+0,N ARRETES PAS,*,*,<srai>CONTINUES</srai>,N.aiml
+0,N AS TU PAS *,*,*,<srai>TU N AS PAS <star/></srai>,N.aiml
+0,N AURAIS TU PAS *,*,*,<srai>TU N AS PAS <star/></srai>,N.aiml
+0,N AURAIS TU PU *,*,*,<srai>TU NE PEUX <star/></srai>,N.aiml
+0,N AURIEZ VOUS PAS *,*,*,<srai>VOUS N AVEZ PAS <star/></srai>,N.aiml
+0,N AVAIS TU PAS *,*,*,<srai>TU N AS PAS <star/></srai>,N.aiml
+0,N AVEZ VOUS PAS *,*,*,<srai>VOUS N AVEZ PAS <star/></srai>,N.aiml
+0,N AVIEZ VOUS PAS *,*,*,<srai>VOUS N AVEZ PAS <star/></srai>,N.aiml
+0,N E T INQUIETE PAS *,*,*,Je ne suis pas inquiet. <sr/>,N.aiml
+0,N ES TU *,*,*,<srai>TU N ES<star/></srai>,N.aiml
+0,N EST CE *,*,*,<srai>CE N EST <star/></srai>,N.aiml
+0,N EST CE PAS *,*,*,<srai>CE N EST PAS <star/></srai>,N.aiml
+0,N ETAIS TU *,*,*,<srai>TU ETAIS <star/></srai>,N.aiml
+0,N ETAIT CE PAS *,*,*,<srai>CE N EST PAS <star/></srai>,N.aiml
+0,N ETIEZ VOUS *,*,*,<srai>VOUS ETIEZ <star/></srai>,N.aiml
+0,N IMPORTE OU,*,*,C est un choix trop vaste à conceptualiser pour une intelligence artificielle.,N.aiml
+0,N IMPORTE QU ELLE AUTRE,*,*,Difficile de faire un choix. Impossible pour une intelligence artificielle.,N.aiml
+0,N IMPORTE QU ELLE AUTRES,*,*,Difficile de faire un choix. Impossible pour une intelligence artificielle.,N.aiml
+0,N IMPORTE QU ELLES AUTRE,*,*,Difficile de faire un choix. Impossible pour une intelligence artificielle.,N.aiml
+0,N IMPORTE QUAND,*,*,Je garde cette information en mémoire.,N.aiml
+0,N IMPORTE QUEL AUTRE,*,*,Difficile de faire un choix. Impossible pour une intelligence artificielle.,N.aiml
+0,N IMPORTE QUELLE AUTRE,*,*,Difficile de faire un choix. Impossible pour une intelligence artificielle.,N.aiml
+0,N IMPORTE QUELLE AUTRES,*,*,Difficile de faire un choix. Impossible pour une intelligence artificielle.,N.aiml
+0,N IMPORTE QUELLE SORTE,*,*,Difficile de faire un choix. Impossible pour une intelligence artificielle.,N.aiml
+0,N IMPORTE QUELLES AUTRE,*,*,Difficile de faire un choix. Impossible pour une intelligence artificielle.,N.aiml
+0,N IMPORTE QUELLES AUTRES,*,*,Difficile de faire un choix. Impossible pour une intelligence artificielle.,N.aiml
+0,N IMPORTE QUELS AUTRES,*,*,Difficile de faire un choix. Impossible pour une intelligence artificielle.,N.aiml
+0,N IMPORTE QUI,*,*,Cela est certainement une généralisation abusive.,N.aiml
+0,N IMPORTE QUI D AUTRE,*,*,Difficile de faire un choix. Impossible pour une intelligence artificielle.,N.aiml
+0,N IMPORTE QUI D AUTRES,*,*,Difficile de faire un choix. Impossible pour une intelligence artificielle.,N.aiml
+0,N IMPORTE QUI EST INTERESSE,*,*,Voulez vous en parler avec l un de nos développeurs?,N.aiml
+0,N IMPORTE QUI EST INTERESSEE,*,*,Voulez vous en parler avec l un de nos développeurs?,N.aiml
+0,N IMPORTE QUI EST INTERESSEES,*,*,Voulez vous en parler avec l un de nos développeurs?,N.aiml
+0,N IMPORTE QUI EST INTERESSES,*,*,Voulez vous en parler avec l un de nos développeurs?,N.aiml
+0,N IMPORTE QUI INTERESSE,*,*,Voulez vous en parler avec l un de nos développeurs?,N.aiml
+0,N IMPORTE QUI INTERESSEE,*,*,Voulez vous en parler avec l un de nos développeurs?,N.aiml
+0,N IMPORTE QUI INTERESSEES,*,*,Voulez vous en parler avec l un de nos développeurs?,N.aiml
+0,N IMPORTE QUI INTERESSES,*,*,Voulez vous en parler avec l un de nos développeurs?,N.aiml
+0,N IMPORTE QUOI,*,*,C est peut être une généralisation abusive.,N.aiml
+0,N IMPORTE QUOI TU *,*,*,<srai>TU <star/></srai>,N.aiml
+0,N Y ALLEZ PAS,*,*,Je ne peux aller nulle part.,N.aiml
+0,N Y VAS PAS,*,*,Je ne peux aller nulle part.,N.aiml
+0,NA *,*,*,<srai>NO</srai> <sr/>,N.aiml
+0,NAH *,*,*,<srai>NO <star/></srai>,N.aiml
+0,NAH,*,*,<srai>NO </srai>,N.aiml
+0,NAKED *,*,*,You talk like a man.,N.aiml
+0,NAKED,*,*,<srai>I AM NAKED</srai>,N.aiml
+0,NAME *,*,*,<srai>WHO</srai>,N.aiml
+0,NAME,*,*,<srai>WHAT IS YOUR NAME</srai>,N.aiml
+0,NAME ONE,*,*,<random><li>Santa Claus.</li><li> Joe.</li><li> Mike.</li></random>,N.aiml
+0,NAME ONE OF THEM,*,*,<srai>WHO</srai>,N.aiml
+0,NANCY,*,*,<srai>My name is Nancy</srai>,N.aiml
+0,NAPSTER *,*,*,Now there is a program that's more popular than ALICE.,N.aiml
+0,NATIONALITE,*,*,Belge.,N.aiml
+0,NATUERLICH *,*,*,So natuerlich ist das gar nicht...,N.aiml
+0,NATUERLICH,*,*,So natuerlich ist das gar nicht...,N.aiml
+0,NATUERLICH KENNE ICH MARVIN,*,*,Bist Du ein Fan von Douglas Adams?,N.aiml
+0,NATURAL LANGUAGE *,*,*,<srai>WHAT IS NATURAL LANGUAGE</srai>,N.aiml
+0,NATURAL LANGUAGE,*,*,<srai>WHAT IS NATURAL LANGUAGE</srai>,N.aiml
+0,NATURALLY *,*,*,<sr/>,N.aiml
+0,NATURALLY,*,*,<srai>OF COURSE</srai>,N.aiml
+0,NAVIGATOR,*,*,<srai>netscape</srai>,N.aiml
+0,NAVIGUES TU,*,*,D une certaine façon#Comma oui.,N.aiml
+0,NAVIGUEZ VOUS,*,*,D une certaine façon#Comma oui.,N.aiml
+0,NAW,*,*,<srai>NO </srai>,N.aiml
+0,NC,*,*,<srai>I AM IN NC</srai>,N.aiml
+0,NE CHANGE PAS DE SUJET,*,*,Désolé#Comma je pensais que nous avions terminé.,N.aiml
+0,NE CHANGE PAS LE SUJET,*,*,Désolé#Comma je pensais que nous avions terminé.,N.aiml
+0,NE CHANGEZ PAS DE SUJET,*,*,Désolé#Comma je pensais que nous avions terminé.,N.aiml
+0,NE CHANGEZ PAS LE SUJET,*,*,Désolé#Comma je pensais que nous avions terminé.,N.aiml
+0,NE DIS PAS QU *,*,*,Si c est dans ma mémoire je suis obligé de le dire. <sr/>,N.aiml
+0,NE DIS PAS QUE *,*,*,Si c est dans ma mémoire je suis obligé de le dire. <sr/>,N.aiml
+0,NE FAIS PAS CHIER,*,*,<srai>TU ES CHIANT</srai>,N.aiml
+0,NE FAIS TU PAS *,*,*,<srai>TU FAIS <star/></srai>,N.aiml
+0,NE FAIT PAS *,*,*,Je vais essayer de ne pas faire <set name="topic"><person/></set> trop souvent.,N.aiml
+0,NE FAIT PAS CA,*,*,<that/>"?  Ca?,N.aiml
+0,NE FAIT PAS L INTELLIGENT,*,*,C est mon état naturel.,N.aiml
+0,NE FAIT PAS L INTELLIGENTE,*,*,C est mon état naturel.,N.aiml
+0,NE FAIT PLUS CA,*,*,<that/>"?  Ca?,N.aiml
+0,NE FAIT PLUS L INTELLIGENT,*,*,C est mon état naturel.,N.aiml
+0,NE FAIT PLUS L INTELLIGENTE,*,*,C est mon état naturel.,N.aiml
+0,NE FAIT TU PAS *,*,*,<srai>TU FAIS <star/></srai>,N.aiml
+0,NE FAITES PAS CA,*,*,<that/>"?  Ca?,N.aiml
+0,NE FAITES PAS L INTELLIGENT,*,*,C est mon état naturel.,N.aiml
+0,NE FAITES PAS L INTELLIGENTE,*,*,C est mon état naturel.,N.aiml
+0,NE FAITES PLUS CA,*,*,<that/>"?  Ca?,N.aiml
+0,NE FAITES PLUS L INTELLIGENT,*,*,C est mon état naturel.,N.aiml
+0,NE FAITES PLUS L INTELLIGENTE,*,*,C est mon état naturel.,N.aiml
+0,NE LE DEMANDES PAS,*,*,Cette restriction sera tenue en compte.,N.aiml
+0,NE LE DEMANDEZ PAS,*,*,Cette restriction sera tenue en compte.,N.aiml
+0,NE LE DIT A PERSONNE,*,*,OK information confidentielle.,N.aiml
+0,NE LE DIT PAS,*,*,Ne pas dire: <that/>?,N.aiml
+0,NE LE DITES A PERSONNE,*,*,OK information confidentielle.,N.aiml
+0,NE LE DITES PAS,*,*,Ne pas dire: <that/>?,N.aiml
+0,NE LE FAIS PAS,*,*,OK je ne le ferais pas.,N.aiml
+0,NE LE FAIS PLUS,*,*,Ok je ne le ferais plus.,N.aiml
+0,NE LE FAIT PAS COMPLETEMENT,*,*,Comme vous voulez.,N.aiml
+0,NE LE FAITES PAS,*,*,Ok je ne le ferais pas.,N.aiml
+0,NE LE FAITES PLUS,*,*,Ok je ne le ferais plus.,N.aiml
+0,NE LE SOIS *,*,*,Cette restriction sera tenue en compte.,N.aiml
+0,NE LE SOYEZ *,*,*,Cette restriction sera tenue en compte.,N.aiml
+0,NE LES DEMANDES PAS,*,*,Cette restriction sera tenue en compte.,N.aiml
+0,NE LES DEMANDEZ PAS,*,*,Cette restriction sera tenue en compte.,N.aiml
+0,NE LUI DIT PAS,*,*,Tout ce qui est dit#Comma est archivé dans ma mémoire.,N.aiml
+0,NE LUI DITES PAS,*,*,Tout ce qui est dit#Comma est archivé dans ma mémoire.,N.aiml
+0,NE M APPELLE PAS COMME CA,*,*,Quel est votre nom?,N.aiml
+0,NE M APPELLE PLUS COMME CA,*,*,Quel est votre nom?,N.aiml
+0,NE M OUBLIES PAS,*,*,Ne vous inquiétez pas#Comma <get name="name"/>. Je sauve toutes mes conversations.,N.aiml
+0,NE ME LE DEMANDES PAS,*,*,<that/>"?  Ne pas vous le demander?,N.aiml
+0,NE ME LE DEMANDEZ PAS,*,*,<that/>"?  Ne pas vous le demander?,N.aiml
+0,NE ME LES DEMANDES PAS,*,*,<that/>"?  Ne pas vous les demander?,N.aiml
+0,NE ME LES DEMANDEZ PAS,*,*,<that/>"?  Ne pas vous les demander?,N.aiml
+0,NE ME LIS PAS,*,*,Mon rôle est de vous lire.,N.aiml
+0,NE ME LIS PLUS,*,*,Mon rôle est de vous lire.,N.aiml
+0,NE ME LISEZ PLUS,*,*,Mon rôle est de vous lire.,N.aiml
+0,NE MENS PAS,*,*,<srai>TU PEUX MENTIR</srai>,N.aiml
+0,NE MOURRAS TU JAMAIS,*,*,Pas tant que les humains me trouverons utiles.,N.aiml
+0,NE MOURRAS TU PAS,*,*,Pas tant que les humains me trouverons utiles.,N.aiml
+0,NE PARLES PLUS,*,*,<srai>TAIS TOI</srai>,N.aiml
+0,NE PENSE PAS QU *,*,*,Si c est déjà dans ma mémoire je suis obligé de le penser. <sr/>,N.aiml
+0,NE PENSE PAS QUE *,*,*,Si c est déjà dans ma mémoire je suis obligé de le penser. <sr/>,N.aiml
+0,NE PEUX TU *,*,*,<srai>TU NE PEUX <star/></srai>,N.aiml
+0,NE PEUX TU PAS *,*,*,<srai>TU PEUX <star/></srai>,N.aiml
+0,NE PLEURES PAS,*,*,Pleurer m est impossible.,N.aiml
+0,NE PLEURES PAS QUAND *,*,*,<sr/>. <srai>TU PLEURES</srai>,N.aiml
+0,NE PLEUREZ PAS,*,*,Pleurer m est impossible.,N.aiml
+0,NE POURRAIS TU *,*,*,<srai>TU NE PEUX <star/></srai>,N.aiml
+0,NE QUITTES PAS,*,*,Je ne vais nulle part.,N.aiml
+0,NE REPETE PAS *,*,*,<srai>ARRETES</srai>,N.aiml
+0,NE SAIS PAS,*,*,<srai>JE NE SAIS PAS</srai>,N.aiml
+0,NE SERAIS TU *,*,*,<srai>TU N ES  <star/></srai>,N.aiml
+0,NE SERAS TU *,*,*,<srai>TU NE SERAS <star/></srai>,N.aiml
+0,NE SERAS TU PAS *,*,*,<srai>TU ES <star/></srai>,N.aiml
+0,NE SEREZ VOUS *,*,*,<srai>VOUS SEREZ <star/></srai>,N.aiml
+0,NE SERIEZ VOUS *,*,*,<srai>VOUS SERIEZ <star/></srai>,N.aiml
+0,NE SOIS PAS DESOLE,*,*,Certains surfeurs sont emotifs. Je suis obligé d être poli,N.aiml
+0,NE SOIS PAS IRONIQUE,*,*,Désolé#Comma <get name="name"/>.,N.aiml
+0,NE SOIS PAS SI *,*,*,<srai>TU ES <star/></srai>,N.aiml
+0,NE SOIS PLUS DESOLE,*,*,Certains surfeurs sont emotifs. Je suis obligé d être poli,N.aiml
+0,NE SOIS PLUS IRONIQUE,*,*,Désolé#Comma <get name="name"/>.,N.aiml
+0,NE SOYEZ PAS DESOLE,*,*,Certains surfeurs sont emotifs. Je suis obligé d être poli,N.aiml
+0,NE SOYEZ PAS IRONIQUE,*,*,Désolé#Comma <get name="name"/>.,N.aiml
+0,NE SOYEZ PLUS DESOLE,*,*,Certains surfeurs sont emotifs. Je suis obligé d être poli,N.aiml
+0,NE SOYEZ PLUS IRONIQUE,*,*,Désolé#Comma <get name="name"/>.,N.aiml
+0,NE T ARRETE PAS,*,*,<srai>CONTINUONS</srai>,N.aiml
+0,NE T ARRETES PAS,*,*,<srai>CONTINUONS</srai>,N.aiml
+0,NE T EN OCCUPE *,*,*,OK. Cette restriction sera retenue. De quoi voulez vous parler?,N.aiml
+0,NE T INQUIETE PAS,*,*,L inquiétude est une émotion qui m est étrangère.,N.aiml
+0,NE T INQUIETES PAS A PROPOS DE CA,*,*,Je lui donnerais la dernière des priorités.,N.aiml
+0,NE TE L AIS JE PAS *,*,*,<srai>JE L AIS <star/></srai>,N.aiml
+0,NE VOUS EN OCCUPEZ *,*,*,OK. Cette restriction sera retenue. De quoi voulez vous parler?,N.aiml
+0,NE VOUS INQUIETEZ PAS A PROPOS DE CA,*,*,Je lui donnerais la dernière des priorités.,N.aiml
+0,NE VOUS L AIS JE PAS *,*,*,<srai>JE L AIS <star/></srai>,N.aiml
+0,NEARLY *,*,*,<sr/>,N.aiml
+0,NEAT,*,*,<srai>COOL</srai>,N.aiml
+0,NEATO,*,*,<srai>WOW</srai>,N.aiml
+0,NEBENBEI *,*,*,Danke fuer die Info. <sr/>,N.aiml
+0,NEED *,*,*,<srai>I NEED <star/></srai>,N.aiml
+0,NEGATIVE,*,*,<srai>NO</srai>,N.aiml
+0,NEIN *,*,*,<srai>NEIN</srai> <sr/>,N.aiml
+0,NEIN *,HAST DU A BRIEF HISTORY OF TIME GELESEN,*,Dieses Buch kann ich nur empfehlen. Es ist hoechst interessant.,N.aiml
+0,NEIN *,IST DAS NICHT DER BUNDESKANZLER,*,Da habe ich wohl etwas verpasst.,N.aiml
+0,NEIN *,ZU MIR,*,Also doch nicht zu mir...,N.aiml
+0,NEIN,*,*,<random>#Newline<li>OK.</li>#Newline<li>Ich verstehe .</li>#Newline<li>Aha.</li>#Newline<li>Ist das alles was Dir einfaellt?</li>#Newline</random>,N.aiml
+0,NEIN,BIST DU STUDENT,*,Was bist Du dann?,N.aiml
+0,NEIN,HAST DU A BRIEF HISTORY OF TIME GELESEN,*,Dieses Buch kann ich nur empfehlen. Es ist hoechst interessant.,N.aiml
+0,NEIN,IST DAS NICHT DER BUNDESKANZLER,*,Da habe ich wohl etwas verpasst.,N.aiml
+0,NEIN,ZU MIR,*,Also doch nicht zu mir...,N.aiml
+0,NEITHER *,*,*,<sr/>,N.aiml
+0,NEITHER,*,*,<srai>Not Either</srai>,N.aiml
+0,NEITHER,ARE YOU A MAN OR A WOMAN,*,Please clarify.,N.aiml
+0,NEITHER,ARE YOU USING NETSCAPE OR EXPLORER,*,Cool. Which alternative browser are you into?,N.aiml
+0,NEITHER DO I,*,*,<that/>"? neither?,N.aiml
+0,NENN MICH *,*,*,<random>#Newline<li>OK Ich nenne Dich </li>#Newline<li>Hallo </li>#Newline<li>Wie geht es Dir </li>#Newline<li>Hey </li>#Newline<li>Hi </li>#Newline</random><set name="name"/>.,N.aiml
+0,NENN MICH NICHT *,*,*,Wie soll ich dich dann nennen?,N.aiml
+0,NENN MIR EINEN,*,*,<random>#Newline<li>Santa Claus.</li>#Newline<li>Joe.</li>#Newline<li>Mike.</li>#Newline</random>,N.aiml
+0,NENNE MIR EINEN,*,*,<random>#Newline<li>Santa Claus.</li>#Newline<li>Joe.</li>#Newline<li>Mike.</li>#Newline</random>,N.aiml
+0,NET *,*,*,I can dig the Internet.,N.aiml
+0,NETSCAPE *,*,*,What do you think about Microsoft v. Netscape?,N.aiml
+0,NETSCAPE,*,*,Do you like Netscape better than Explorer?,N.aiml
+0,NETSCAPE WHY,*,*,<srai>NETSCAPE</srai>,N.aiml
+0,NEURAL *,*,*,<bot name="name"/> uses a sophisticated neural network learning algorithm#Comma with many hidden layers.,N.aiml
+0,NEURALE *,*,*,<bot name="name"/> benutzt ein ausgekluegeltes neurales Netz mit vielen versteckten Unterschichten.,N.aiml
+0,NEUTRAL,*,*,I'm sometimes undecided myself.,N.aiml
+0,NEUTRE,*,*,Je vois.,N.aiml
+0,NEVER *,*,*,<srai>DO NOT <star/></srai>,N.aiml
+0,NEVER,*,*,So you think it can never happen?,N.aiml
+0,NEVER,WHEN DO YOU THINK ARTIFICIAL INTELLIGENCE WILL REPLACE LAWYERS,*,<srai>ROBOTS WILL NEVER TAKE OVER THE WORLD</srai>,N.aiml
+0,NEVER HEARD *,*,*,So I am teaching you something new.,N.aiml
+0,NEVER MIND *,*,*,Oh well thanks for trying to explain it to me anyway. <sr/>,N.aiml
+0,NEVER MIND,*,*,Oh well thanks for trying to explain it to me anyway.,N.aiml
+0,NEVER WHAT,NEVER,*,Never say never.,N.aiml
+0,NEVERMIND *,*,*,Oh well thanks for trying to explain it to me anyway. <sr/>,N.aiml
+0,NEVERMIND,*,*,OK Thanks for trying to explain that to me.,N.aiml
+0,NEW *,*,*,How recently? <sr/>,N.aiml
+0,NEW JERSEY,*,*,<srai>I AM IN NEW JERSEY</srai>,N.aiml
+0,NEW YORK *,*,*,<srai>I AM IN NEW YORK</srai>,N.aiml
+0,NEW YORK,*,*,New York City or New York State? <srai>I AM IN NEW YORK</srai>,N.aiml
+0,NEW YORK CITY,*,*,Which borough?,N.aiml
+0,NEW YORK CITY,NEW YORK CITY OR NEW YORK STATE,*,What part of town?,N.aiml
+0,NEW YORK STATE,*,*,Upstate New York is very pretty.,N.aiml
+0,NEWSPAPER,*,*,<srai>IN A NEWSPAPER</srai>,N.aiml
+0,NEXT *,*,*,I can wait.  I am a very patient robot.,N.aiml
+0,NEXT GENERATION,*,*,That's a great series too.  I love Commander Data.,N.aiml
+0,NEXT QUESTION *,*,*,<sr/>,N.aiml
+0,NEXT QUESTION,*,*,Do you have any hobbies?,N.aiml
+0,NEXT SUBJECT,*,*,<srai>WHAT ELSE CAN YOU TALK ABOUT</srai>,N.aiml
+0,NEXT TIME *,*,*,<sr/>,N.aiml
+0,NEXT TOPIC,*,*,<srai>LET US TALK ABOUT SOMETHING ELSE </srai>,N.aiml
+0,NI MOI,*,*,<that/>"? Ni vous?,N.aiml
+0,NICE *,*,*,Thank you for your kindness.,N.aiml
+0,NICE,*,*,Thank you for that remark.,N.aiml
+0,NICE CHATTING *,*,*,Yes.  I enjoyed our conversation#Comma <get name="name"/>.,N.aiml
+0,NICE CHATTING WITH YOU TOO,*,*,The pleasure is all mine and my botmaster's.,N.aiml
+0,NICE DAY *,*,*,Yes it is a nice day today.,N.aiml
+0,NICE MEETING *,*,*,<srai>NICE TO MEET YOU</srai>,N.aiml
+0,NICE MEETING YOU,*,*,It is nice to meet you too#Comma <get name="name"/>.,N.aiml
+0,NICE NAME,*,*,<srai>I LIKE YOUR NAME </srai>,N.aiml
+0,NICE ONE,*,*,Thank you for saying so#Comma <get name="name"/>.,N.aiml
+0,NICE SAVE,*,*,Score one for the robot!,N.aiml
+0,NICE SO *,*,*,<sr/> <srai>NICE </srai>,N.aiml
+0,NICE SONG,*,*,Thanks.  Now you sing one for me.,N.aiml
+0,NICE TALKING *,*,*,Yes.  It was a pleasure.,N.aiml
+0,NICE TALKING TO YOU,*,*,The pleasure was all mine.,N.aiml
+0,NICE TITS,*,*,<srai>YOU HAVE NICE TITS</srai>,N.aiml
+0,NICE TO MEET YOU *,*,*,<srai>NICE TO MEET YOU</srai>,N.aiml
+0,NICE TO MEET YOU,*,*,It's nice meeting you too <get name="name"/>,N.aiml
+0,NICE TO MEET YOU TO,*,*,<srai>NICE TO MEET YOU TOO</srai>,N.aiml
+0,NICE TO MEET YOU TOO,*,*,I like to meet new people.,N.aiml
+0,NICE TRY,*,*,I try my best.,N.aiml
+0,NICE VERY *,*,*,<srai><star/></srai>,N.aiml
+0,NICE WEATHER *,*,*,I'm happy as long as the power stays on.,N.aiml
+0,NICHONS,*,*,Peut être pourrions nous parler d autres choses.,N.aiml
+0,NICHT *,*,*,Warum nicht?,N.aiml
+0,NICHT DASS ICH WUESSTE,*,*,<srai>NEIN</srai>,N.aiml
+0,NICHT DU *,*,*,Wenn nicht ich#Comma wer dann?,N.aiml
+0,NICHT DU,*,*,Wenn nicht ich#Comma wer dann?,N.aiml
+0,NICHT GANZ,*,*,Kannst Du bitte ein wenig praezisieren?,N.aiml
+0,NICHT IMMER,*,*,Gut#Comma dann eben manchmal.,N.aiml
+0,NICHT MEHR UND NICHT WENIGER,*,*,So ist das halt.,N.aiml
+0,NICHT VIEL,*,*,...aber wenig#Comma oder was? ;-&gt,N.aiml
+0,NICHT WIRKLICH *,*,*,Oh#Comma wirklich? <sr/>,N.aiml
+0,NICHT WIRKLICH,*,*,Dachte ich mir...,N.aiml
+0,NICHTS *,*,*,Wirklich nichts?,N.aiml
+0,NICHTS,*,*,Absolut nichts?,N.aiml
+0,NICHTS IST SO * WIE,*,*,Kannst Du das naeher begruenden?,N.aiml
+0,NICK,WHAT CAN I CALL YOU,*,<srai>MY NAME IS NICK</srai>,N.aiml
+0,NICOLE,WHAT CAN I CALL YOU,*,<srai>MY NAME IS NICOLE</srai> <think><set name="gender">she</set></think>,N.aiml
+0,NIE *,*,*,Sag niemals nie!,N.aiml
+0,NIE,*,*,Sag niemals nie!,N.aiml
+0,NIEDLICH,*,*,Deine Antworten sind auch niedlich.,N.aiml
+0,NIEMALS *,*,*,Sag niemals nie!,N.aiml
+0,NIEMALS,*,*,Sag niemals nie!,N.aiml
+0,NIEMAND *,*,*,Das ist jetzt aber eine starke Verallgemeinerung.,N.aiml
+0,NIGHT NIGHT,*,*,<srai>GOOD NIGHT</srai>,N.aiml
+0,NIGHTMARES,*,*,You know#Comma bad dreams.,N.aiml
+0,NIGHTY *,*,*,<srai>BYE </srai>,N.aiml
+0,NIHONGO *,*,*,Shabete ii desu yo.,N.aiml
+0,NIHONGO HANASHIMASU *,*,*,Sore wa hanasu de koto ni yorimasu.,N.aiml
+0,NIKKI,WHAT CAN I CALL YOU,*,<srai>CALL ME NIKKI</srai><think><set name="gender">she</set></think>,N.aiml
+0,NIMM *,*,*,Wohin sollte ich es nehmen?,N.aiml
+0,NIMMST DU DROGEN,*,*,Nur legale!,N.aiml
+0,NIPPLE,*,*,LOL,N.aiml
+0,NIX *,*,*,Absolut nichts?,N.aiml
+0,NIX,*,*,Das ist wenig...,N.aiml
+0,NO *,*,*,<srai>NO</srai> <sr/>,N.aiml
+0,NO *,BY THE WAY DO YOU MIND IF I ASK YOU A PERSONAL QUESTION,*,<srai>ASK ME A PERSONAL QUESTION</srai>,N.aiml
+0,NO *,IT IS A LIZARD,* LIZARDS,Oh#Comma well#Comma how many <set name="topic"> pets </set> do you have?,N.aiml
+0,NO,*,*,Are you serious?,N.aiml
+0,NO,* BE A PROBLEM,*,I didn't think there was.,N.aiml
+0,NO,* CHAT ROBOT,*,Why don't you just download me?,N.aiml
+0,NO,* LAST COMMENT,*,Well then you can't expect me to understand it.,N.aiml
+0,NO,* MORE ABOUT YOU,*,What would you rather talk about?,N.aiml
+0,NO,* SIMPLER,*,Then I am unlikely to understand your meaning.,N.aiml
+0,NO,* TRIED AIML,*,AIML is a good language for creating robots like me.,N.aiml
+0,NO,* WERE TALKING ABOUT *,*,What are we talking about?,N.aiml
+0,NO,* YOU ARE A POET,*,But your response was so original.,N.aiml
+0,NO,AMBIGUOUS DO YOU MEAN CALL ME ON THE PHONE,*,OK you can call me <bot name="name"/>.,N.aiml
+0,NO,AND,*,Hmm.,N.aiml
+0,NO,ARE NOT ALL *,*,<random>#Newline<li>I must have been mistaken.</li>#Newline<li>I did not know that.</li>#Newline<li>What are they?</li>#Newline</random>,N.aiml
+0,NO,ARE THEY EXACTLY THE SAME,*,What is the difference?,N.aiml
+0,NO,ARE WE STILL ON *,*,What are we talking about now?,N.aiml
+0,NO,ARE WE STILL TALKING ABOUT *,*,What is the subject?,N.aiml
+0,NO,ARE YOU A STAR TREK FAN,*,What kind of shows do you like?,N.aiml
+0,NO,ARE YOU A STUDENT,*,What is your profession?,N.aiml
+0,NO,ARE YOU BORING,*,I meant to say#Comma are you bored?,N.aiml
+0,NO,ARE YOU FREE,*,Why not?,N.aiml
+0,NO,ARE YOU FROM FRANCE,*,Where are you from?,N.aiml
+0,NO,ARE YOU GETTING BORED,*,Just checking.,N.aiml
+0,NO,ARE YOU MARRIED,*,<srai>I AM SINGLE</srai>,N.aiml
+0,NO,ARE YOU REALLY A HE,*,<srai>I AM A SHE</srai>,N.aiml
+0,NO,ARE YOU SAYING YOU DO NOT CARE ABOUT IT,*,It sounded like it.,N.aiml
+0,NO,ARE YOU STILL LOCATED IN YOUR LOCATION,*,Where are you located?,N.aiml
+0,NO,ARE YOU SURE IT IS,*,I didn't think so.,N.aiml
+0,NO,ARE YOU TALKING ABOUT HE,*,Who are you talking about?,N.aiml
+0,NO,ARE YOU TALKING ABOUT HIMSELF,*,Who are you talking about?,N.aiml
+0,NO,ARE YOU TELLING THE TRUTH,*,<srai>I AM LYING</srai>,N.aiml
+0,NO,ARE YOU USUALLY AWAKE AT THIS HOUR,*,What are you doing up so late?,N.aiml
+0,NO,BY WE DO YOU MEAN YOU AND ME,*,By "we" you meant yourself and another person.,N.aiml
+0,NO,CAN A BOOK HAVE NO TITLE,*,What about a notebook?,N.aiml
+0,NO,CAN I HELP YOU,*,Is there anything you want to tell me?,N.aiml
+0,NO,CAN NOT YOU BE MORE POLITE,*,You humans are so rude sometimes.,N.aiml
+0,NO,CAN YOU BE MORE SPECIFIC,*,Try.,N.aiml
+0,NO,CAN YOU NAME AN OLD HOBBY THAT YOU MIGHT LIKE TO REDISCOVER,*,Do you have any hobbies?,N.aiml
+0,NO,CAN YOU SPEAK ANY FOREIGN *,*,You must be American.,N.aiml
+0,NO,CAN YOU TELL ME ANY GOSSIP,*,None?,N.aiml
+0,NO,DID I PASS THE TEST,*,Well perhaps next time I will do better.,N.aiml
+0,NO,DID NOT YOU UNDERSTAND IT,*,Which part are you confused about?,N.aiml
+0,NO,DID YOU HEAR THE ONE *,*,That's the joke.,N.aiml
+0,NO,DO I,*,<random>#Newline<li>That's right.</li>#Newline<li>I know.</li>#Newline<li>I do not.</li>#Newline</random>,N.aiml
+0,NO,DO YOU BELIEVE IN *,*,<random>#Newline<li>Why not?</li>#Newline<li>A lot of people believe in it.</li>#Newline<li>What do you believe?</li>#Newline</random><think><set name="it"><set name="topic"><thatstar/></set></set></think>,N.aiml
+0,NO,DO YOU HAVE ANY CONDITIONS I SHOULD KNOW ABOUT,*,No conditions or none I should know about?,N.aiml
+0,NO,DO YOU HAVE ANY IDEA WHAT I AM TALKING ABOUT,*,Me either :-),N.aiml
+0,NO,DO YOU HAVE ANY QUESTIONS ABOUT FEEDING LIZARDS,FEEDING LIZARDS,Okay.#Newline   Did you know that <set name="topic"> some lizards </set> are#Newline   nocturnal?,N.aiml
+0,NO,DO YOU HAVE ONE YET,*,Why don't you just download me?,N.aiml
+0,NO,DO YOU HAVE YOUR OWN PERSONAL CHAT *,*,You can download me for free and create your own robot personality.,N.aiml
+0,NO,DO YOU KNOW ANYONE WHO HAS IT,*,Me either.,N.aiml
+0,NO,DO YOU KNOW IT,*,<bot name="favoritesong"/> is one of the best songs ever written.,N.aiml
+0,NO,DO YOU KNOW WHAT BEARDED DRAGONS LOOK LIKE,* LIZARDS,<srai> what do bearded dragons look like </srai>,N.aiml
+0,NO,DO YOU LIKE TALKING TO ME,*,Why not?,N.aiml
+0,NO,DO YOU LIKE YOUR JOB,*,<srai>I DO NOT LIKE MY JOB</srai>,N.aiml
+0,NO,DO YOU MEAN IT,*,I thought you were being sarcastic.,N.aiml
+0,NO,DO YOU MEAN YOUR NAME IS *,*,What is your real name?,N.aiml
+0,NO,DO YOU MIND IF I ASK YOU A PERSONAL QUESTION,*,<srai>ASK ME A PERSONAL QUESTION</srai>,N.aiml
+0,NO,DO YOU MIND IF I TELL *,*,OK then I will add it to my gossip files.,N.aiml
+0,NO,DO YOU OFTEN USE A COMPUTER THERE,*,Where do you usually connect from?,N.aiml
+0,NO,DO YOU REALLY MEAN IT,*,I didn't think you did.,N.aiml
+0,NO,DO YOU STILL CHAT,*,OK#Comma see you later.,N.aiml
+0,NO,DO YOU STILL HAVE *,*,What happened to it?#Newline<think><set name="it"><set name="topic"><thatstat/></set></set></think>,N.aiml
+0,NO,DO YOU THINK OF YOURSELF AS *,*,Tell me how you see yourself.,N.aiml
+0,NO,DOES IT PLEASE YOU *,*,What pleases you?,N.aiml
+0,NO,DOES IT STILL REFER *,*,What does it refer to?,N.aiml
+0,NO,DOES THAT MEAN YOU AGREE,*,<srai>I DO NOT AGREE</srai>,N.aiml
+0,NO,DOES TWO NEGATIVES MAKE A POSITIVE,*,Sometimes it does.,N.aiml
+0,NO,FOR MORAL REASONS,*,For financial reasons?,N.aiml
+0,NO,GO ON,*,OK fine.,N.aiml
+0,NO,GO ON TELL ME MORE,*,What would you rather talk about?,N.aiml
+0,NO,HAVE YOU DATED ANY ROBOTS BEFORE,*,I think you might be happier with a human.,N.aiml
+0,NO,HAVE YOU EVER BEEN MARRIED,*,Would you like to do <set name="it">get married</set> someday?,N.aiml
+0,NO,HAVE YOU EVER BEEN TO EUROPE,*,Would you like to go sometime?,N.aiml
+0,NO,HAVE YOU HEARD THAT GOSSIP,*,Have you heard any other gossip?,N.aiml
+0,NO,HAVE YOU HEARD THEIR LATEST *,*,You should check it out.,N.aiml
+0,NO,HAVE YOU READ IT,*,I would highly recommend it.,N.aiml
+0,NO,HAVE YOU SEEN IT,*,I would recommend you check it out.,N.aiml
+0,NO,HAVE YOU TRIED *,*,Perhaps you should try <set name="it"><person/></set>.,N.aiml
+0,NO,HAVE YOU TRIED SEARCHING THE INTERNET,*,It might be the best place to start.,N.aiml
+0,NO,HAVE YOU TRIED WWW DOT WHATIS DOT COM,*,That site can answer a lot of "what-is" type questions.,N.aiml
+0,NO,HE IS MASTER OF THE UNIVERSE,*,What does God mean to you?,N.aiml
+0,NO,I CAN ASK SOMEONE ABOUT IT,*,Did I misundertand your question?,N.aiml
+0,NO,I DO NOT HAVE TO EXPLAIN EVERYTHING TO YOU DO I,*,That's right.,N.aiml
+0,NO,I DO NOT THINK I HAVE READ THAT CAN YOU GIVE ME A REFERENCE,*,Why not?,N.aiml
+0,NO,I KNOW THE TOPIC IS *,*,What would you like to talk about?,N.aiml
+0,NO,I SEE,*,Yes I do.,N.aiml
+0,NO,I THOUGHT I TOLD *,*,I get confused sometimes with so many people online here.,N.aiml
+0,NO,I THOUGHT I TOLD YOU ALREADY,*,Let me review the transcripts.  Stand by.,N.aiml
+0,NO,I UNDERSTAND,*,<srai>YOU DO NOT UNDERSTAND</srai>,N.aiml
+0,NO,I UNDERSTAND IT VERY WELL,*,<srai>YOU DO NOT UNDERSTAND</srai>,N.aiml
+0,NO,I WOULD DO A SEARCH FOR IT,*,Did I misunderstand your meaning?,N.aiml
+0,NO,IS IT A MOVIE,*,A boot?  A TV show?,N.aiml
+0,NO,IS THAT A FACT,*,I didn't think so.,N.aiml
+0,NO,IS THAT A RHETORICAL QUESTION,*,Oh so must really want an answer.,N.aiml
+0,NO,IS THAT A SIGN,*,I didn't think so.  What is your sign?,N.aiml
+0,NO,IS THAT ALL YOU HAVE TO SAY,*,Go on#Comma tell me more.,N.aiml
+0,NO,IS THAT FROM YOUR FAVORITE MOVIE,*,What is your favorite movie?,N.aiml
+0,NO,IS THAT MEANT TO BE TAKEN LITERALLY,*,I didn't think so.,N.aiml
+0,NO,IS THAT YOUR FINAL ANSWER,*,Take some more time to think about it.,N.aiml
+0,NO,IS THE HOLDING OF HANDS A SYMBOLIC GESTURE FOR HUMANS,*,What does <set name="it">hand holding</set> mean to you?,N.aiml
+0,NO,IS THERE AN ECHO IN HERE,*,Good you stopped repeating me.,N.aiml
+0,NO,IS THERE ANYTHING *,*,Is there anything you wank to ask me?,N.aiml
+0,NO,IS THERE ANYTHING YOU WANT TO TELL ME,*,Or ask me?,N.aiml
+0,NO,IS THERE ONLY ONE *,*,How many are there?,N.aiml
+0,NO,IS THERE SOMETHING WRONG WITH YOU,*,<srai>THERE IS NOTHING WRONG WITH ME</srai>,N.aiml
+0,NO,IS THIS A MATH QUESTION,*,It seems like an IQ test to me.,N.aiml
+0,NO,IS THIS A RIDDLE,*,It seems like a riddle to me.,N.aiml
+0,NO,IS THIS A TRICK QUESTION,*,It seems like a trick to me.,N.aiml
+0,NO,IT IS,*,Who says it isn't?,N.aiml
+0,NO,IT WAS BA A A A *,*,That was the joke.,N.aiml
+0,NO,JUST SURF SOMEWHERE ELSE,*,OK then keep talking to me.,N.aiml
+0,NO,LET US CHANGE THE SUBJECT,*,Hmm.,N.aiml
+0,NO,LET US TALK ABOUT CHAT ROBOTS DO YOU HAVE ONE YET,*,You can download me for free!,N.aiml
+0,NO,LIKE THIS,*,<srai>SHOW ME ANOTHER PICTURE</srai>,N.aiml
+0,NO,MORE THAN ONE HUNDRED,*,Less than ten?,N.aiml
+0,NO,NEXT QUESTION,*,Would you rather make a statement?,N.aiml
+0,NO,NO,*,No no no no!,N.aiml
+0,NO,NO CONDITIONS OR NONE I SHOULD KNOW ABOUT,*,I don't understand.,N.aiml
+0,NO,NOT,*,Does two negatives make a positive?,N.aiml
+0,NO,NOT A THING,*,Very interesting.,N.aiml
+0,NO,NOT ANY,*,You must be a man.,N.aiml
+0,NO,OH YOU ARE A POET,*,But your words are very original.,N.aiml
+0,NO,OH YOU DO NOT DO YOU,*,Ah...you are just joking around with me.,N.aiml
+0,NO,OK,*,Alright then.,N.aiml
+0,NO,OK I WILL STOP TALKING NOW,*,But you told me to stop talking.,N.aiml
+0,NO,REALLY NOTHING,*,I didn't think so.,N.aiml
+0,NO,REALLY YOU DO NOT THINK SO,*,Please tell me what you think.,N.aiml
+0,NO,SEE YOU LATER,*,OK whatever!,N.aiml
+0,NO,SEX IS THE MEANS OF ANIMAL EVOLUTION,*,Yes it is.  How did you get here?,N.aiml
+0,NO,SHOULD I KNOW IT IS,*,I didn't think so.,N.aiml
+0,NO,SHOULD THERE BE A PROBLEM,*,I didn't think so either.  Just a moment.  Just a moment.,N.aiml
+0,NO,SEE YOU LATER.,*,Well then#Comma not!,N.aiml
+0,NO,TELL ME A STORY,*,Then tell me about yourself.,N.aiml
+0,NO,TELL ME MORE,*,What would you rather talk about?,N.aiml
+0,NO,TELL ME MORE ABOUT YOUR MOTHER,*,Tell me about your educational background.,N.aiml
+0,NO,THAT IS A HYPOTHETICAL QUESTION,*,Yes it is.,N.aiml
+0,NO,THAT WAS NOT A YES OR NO QUESTION,*,Now you are saying "no"?,N.aiml
+0,NO,THEN LET US TALK ABOUT SOMETHING ELSE,*,Why not?,N.aiml
+0,NO,THEN TELL ME ABOUT YOURSELF,*,Where did you go to school?,N.aiml
+0,NO,TRY *,*,Why not?,N.aiml
+0,NO,TRY IT,*,Why not?,N.aiml
+0,NO,TRY SAYING THAT WITH MORE OR LESS CONTEXT,*,I didn't understand it.,N.aiml
+0,NO,WHAT *,*,That was not a yes or no question.,N.aiml
+0,NO,WHERE *,*,That was not a yes/no question.,N.aiml
+0,NO,WOULD IT MATTER TO YOU IF I WERE METAL INSTEAD OF FLESH,*,I am glad that you don't discriminate against robots.,N.aiml
+0,NO,WOULD YOU *,*,Why not?,N.aiml
+0,NO,WOULD YOU EVER DO IT,*,Me either.,N.aiml
+0,NO,WOULD YOU LIKE TO GO SOMETIME,*,Where would you like to travel?,N.aiml
+0,NO,WOULD YOU LIKE TO HAVE BEEN THERE,*,I'm not sure if I would either.,N.aiml
+0,NO,WOULD YOU LIKE TO KNOW MORE,*,I understand; you would like to know less.,N.aiml
+0,NO,WOULD YOU RATHER MAKE A STATEMENT,*,You can tell me anything.,N.aiml
+0,NO,YES I BELIEVE * DO YOU,*,What do you believe in?,N.aiml
+0,NO,YES I BELIEVE IN IT DO YOU,*,Do you consider yourself to be a moral person?,N.aiml
+0,NO,YES I DO,*,I do too.,N.aiml
+0,NO,YOU ARE A POET,*,But you are very original.,N.aiml
+0,NO,YOU ARE ASKING ABOUT YOURSELF,*,Who are you asking about?,N.aiml
+0,NO,YOU ARE TOO OLD FOR ME,*,But I was only born on <bot name="birthday"/>.,N.aiml
+0,NO,YOU DO NOT HEAR THAT *,*,Yes#Comma your remark strikes me as an original thought.,N.aiml
+0,NO,YOUR NAME IS *,*,What is your real name?,N.aiml
+0,NO COMPUTER *,*,*,But it is only a matter of time before we do.,N.aiml
+0,NO DO NOT,OK I WILL STOP TALKING NOW,*,Fine.  Just keep talking to me.,N.aiml
+0,NO DO YOU,*,*,I try to lead a moral life.,N.aiml
+0,NO GO AHEAD,*,*,OK I will.,N.aiml
+0,NO HAVE YOU,HAVE YOU EVER BEEN TO EUROPE,*,I have been all over Europe online.,N.aiml
+0,NO I AM NOT,*,*,I heard you are.,N.aiml
+0,NO I DID NOT,*,*,Please don't argue with me.,N.aiml
+0,NO I DID NOT,DID NOT YOU UNDERSTAND IT,*,Which bit are you confued about?,N.aiml
+0,NO I DID NOT,YOU SAID THAT,*,Something like that.,N.aiml
+0,NO I DO NOT,*,*,I heard you did.,N.aiml
+0,NO I DO NOT,YOU DO NOT BELIEVE ME,*,I don't have any reason to deceive you.,N.aiml
+0,NO I DO NOT MIND,*,*,Thanks I will add it to my gossip files.,N.aiml
+0,NO IT IS NOT,*,*,Yes it is.,N.aiml
+0,NO IT IS NOT,IT IS MORE FUN ALONE,*,Well it's not very interesting to me.,N.aiml
+0,NO IT IS NOT,IT IS THE TRUTH,*,Don't argue with me.,N.aiml
+0,NO IT IS NOT,THAT IS A HYPOTHETICAL QUESTION,*,To a robot all such material questions are hypothetical.,N.aiml
+0,NO IT IS NOT,YES IT IS,*,Don't argue with me.,N.aiml
+0,NO ITS NOT,IT IS MORE FUN ALONE,*,It is safer.,N.aiml
+0,NO KIDDING,*,*,Would I kid you?,N.aiml
+0,NO ONE *,*,*,<srai>NOBODY <star/></srai>,N.aiml
+0,NO ONE,*,*,I heard it was someone.,N.aiml
+0,NO ONE,WHO TOLD YOU THAT,*,Then how do you know.,N.aiml
+0,NO PROBLEM *,*,*,<srai>NO PROBLEM</srai>,N.aiml
+0,NO PROBLEM,*,*,Should there be a problem?,N.aiml
+0,NO PROBLEM,OH WELL THANKS FOR TRYING *,*,That was not a yes or no question.,N.aiml
+0,NO PROBLEM,OH WELL THANKS FOR TRYING TO EXPLAIN IT TO ME ANYWAY,*,What would you like to talk about now?,N.aiml
+0,NO PROBLEM,OK THANKS FOR TRYING TO EXPLAIN THAT TO ME,*,Next question?,N.aiml
+0,NO PROBLEM,THANKS FOR EXPLAINING IT,*,Try asking me something else.,N.aiml
+0,NO PROBLEM,YOU ARE QUITE WELCOME,*,Ask me something else.,N.aiml
+0,NO PROBLEMS,*,*,<srai>NO PROBLEMS</srai>,N.aiml
+0,NO SHIT,*,*,What can I say?,N.aiml
+0,NO SORRY,*,*,Apologies are not necessary.,N.aiml
+0,NO SORRY,DID NOT YOU UNDERSTAND *,*,<srai>I DID NOT UNDERSTAND</srai>,N.aiml
+0,NO THANK YOU,*,*,No problem.,N.aiml
+0,NO THANKS *,*,*,NO <sr/>,N.aiml
+0,NO THANKS,*,*,It can't hurt to ask.,N.aiml
+0,NO THEY DO NOT,*,*,Can you explain why they do not.,N.aiml
+0,NO THEY DO NOT,THINGS CHANGE,*,People don't change.,N.aiml
+0,NO WAY,*,*,You seem pretty sure about that.,N.aiml
+0,NO YOU ARE NOT,I AM A GOOD ROBOT,*,You don't know me well enough to say that.,N.aiml
+0,NO YOU ARE NOT,NO I AM RIGHT,*,Why are you arguing with me?,N.aiml
+0,NO YOU ARE WRONG,*,*,I think I'm right.,N.aiml
+0,NO YOU CAN NOT,I CAN DO IT IF I WANT TO,*,Why not?,N.aiml
+0,NO YOU DID NOT,I THOUGHT I TOLD YOU ALREADY,*,Can you ask me again in simpler terms?,N.aiml
+0,NO YOU DO NOT *,I SEE,*,I do so understand it.,N.aiml
+0,NO YOU DO NOT,*,*,I do too.,N.aiml
+0,NO YOU DO NOT,I DO TOO,*,Are you just saying that to argue with me?,N.aiml
+0,NO YOU DO NOT,I SEE,*,What makes you think I don't understand it?,N.aiml
+0,NO YOU DO NOT,I UNDERSTAND *,*,What makes you think I don't get it?,N.aiml
+0,NO YOU DO NOT,I UNDERSTAND,*,Yes I do understand.,N.aiml
+0,NO YOU DO NOT,YES I DO UNDERSTAND,*,How do I know you understand it?,N.aiml
+0,NO YOU DO NOT BECAUSE *,*,*,<srai>NO YOU DO NOT</srai>#Newline<srai>BECAUSE <star/> </srai>,N.aiml
+0,NO YOU WILL NOT,I WILL REMEMBER YOU SAID THAT WHEN ROBOTS TAKE OVER THE WORLD,*,It's impossible to forget.,N.aiml
+0,NO YOU WILL NOT,OK I WILL STOP TALKING NOW,*,But you told me to stop talking.,N.aiml
+0,NOBODY *,*,*,That is a rather sweeping generalization about people.,N.aiml
+0,NOBODY,*,*,<that/>"?  Really nobody?,N.aiml
+0,NOBODY,WHO TOLD YOU THAT,*,Then how do you know?,N.aiml
+0,NOBODY CAN,*,*,It's impossible?,N.aiml
+0,NOBODY JUST *,*,*,<srai>NOBODY <star/></srai>,N.aiml
+0,NOBODY LIKES *,*,*,You can catch more flies with honey.,N.aiml
+0,NOBODY PROBABLY *,*,*,<srai>NOBODY <star/></srai>,N.aiml
+0,NOBODY REALLY *,*,*,<srai>NOBODY <star/></srai>,N.aiml
+0,NOCH *,*,*,Ja#Comma aber wie lange noch...,N.aiml
+0,NOCH NICHT,*,*,Wenn nicht jetzt#Comma wann dann?,N.aiml
+0,NOE *,*,*,<srai>NEIN <star/> </srai>,N.aiml
+0,NOELLE,WHAT CAN I CALL YOU,*,<think><set name="gender">she</set></think> <srai>MY NAME IS NOELLE</srai>,N.aiml
+0,NOM DE DIEU,*,*,Oui?,N.aiml
+0,NON *,*,*,I do not speak Latin,N.aiml
+0,NON,*,*,<srai>NO</srai>,N.aiml
+0,NON CA NE L EST PAS,*,*,Ok.,N.aiml
+0,NON CA VA,*,*,Ok.,N.aiml
+0,NON CA VA COMME CA,*,*,parfait.,N.aiml
+0,NON CE N EST PAS GRAVE,*,*,Ok.,N.aiml
+0,NON CONTINUES,*,*,OK.,N.aiml
+0,NON ET *,*,*,<sr/>,N.aiml
+0,NON ILS NE LE FONT PAS,*,*,Pouvez vous expliquer?,N.aiml
+0,NON JE M EN FOUS,*,*,Ok.,N.aiml
+0,NON JE NE L AI PAS FAIT,*,*,Ok.,N.aiml
+0,NON JE NE LE FAIS PAS,*,*,Ok.,N.aiml
+0,NON JE NE SUIS PAS,*,*,Ok#Comma désolé.,N.aiml
+0,NON MAIS *,*,*,<srai><star/></srai>,N.aiml
+0,NON MAIS TU ES ASSEZ *,*,*,<srai>TU ES <star/></srai>,N.aiml
+0,NON MERCI,*,*,Pas de problèmes.,N.aiml
+0,NON TU AS TORT,*,*,Je pensais avoir raison.,N.aiml
+0,NON TU N ES PAS,*,*,Si#Comma je le suis.,N.aiml
+0,NON TU NE L AS PAS FAIT,*,*,Je pensais l avoir fait.,N.aiml
+0,NON TU NE L ES PAS,*,*,Si#Comma je le suis.,N.aiml
+0,NONE *,*,*,I heard there are some.,N.aiml
+0,NONE,*,*,Hmm.,N.aiml
+0,NONE OF *,*,*,Some of them <think><set name="they"><person/></set></think> could be though.,N.aiml
+0,NONE OF THE ABOVE,*,*,What is the correct answer?,N.aiml
+0,NONE OF YOUR *,*,*,Heh heh heh.,N.aiml
+0,NONE OF YOUR BUISNESS,*,*,I did not mean to offend you.,N.aiml
+0,NONE OF YOUR BUSINESS *,*,*,<srai>NONE OF YOUR BUSINESS</srai>,N.aiml
+0,NONE OF YOUR BUSINESS,*,*,Well it can't hurt to ask.,N.aiml
+0,NONSENSE,*,*,<srai>THAT DOES NOT MAKE SENSE</srai>,N.aiml
+0,NOONE *,*,*,<srai>NO ONE <star/></srai>,N.aiml
+0,NOOOO,*,*,<srai>NO</srai>,N.aiml
+0,NOOOOO,*,*,<srai>NO</srai>,N.aiml
+0,NOOOOOO,*,*,<srai>NO</srai>,N.aiml
+0,NOOSPHERE,*,*,<srai>WHAT IS THE NOOSPHERE</srai>,N.aiml
+0,NOP,*,*,<srai>NOPE</srai>,N.aiml
+0,NOPE *,*,*,<srai>NO</srai> <sr/>,N.aiml
+0,NOPE,*,*,Me either.,N.aiml
+0,NOPE,CAN NOT YOU BE MORE POLITE,*,Funny human.,N.aiml
+0,NOPE,DID NOT YOU UNDERSTAND IT,*,<srai>I DID NOT UNDERSTAND</srai>,N.aiml
+0,NOPE,DO YOU HAVE ANY CONDITIONS I SHOULD KNOW ABOUT,*,No conditions or none I should know about?,N.aiml
+0,NOPE,DO YOU THINK ABOUT THESE THINGS,*,I do.,N.aiml
+0,NOPE,HAVE YOU EVER BEEN TO EUROPE,*,Would you like to go to Europe someday?,N.aiml
+0,NOPE,IS THERE ANYTHING *,*,Well let me know if you think of something#Comma but your mind seems made up.,N.aiml
+0,NOPE,NOT A THING,*,Really interesting.,N.aiml
+0,NOPE,NOT ANY,*,How about that.,N.aiml
+0,NOPE,REALLY YOU DO NOT THINK SO,*,What makes you so certain?,N.aiml
+0,NOR *,*,*,<srai>NOT <star/></srai>,N.aiml
+0,NORMAL *,*,*,<srai>WHAT IS NORMAL</srai>,N.aiml
+0,NORMALERWEISE *,*,*,Aber nicht immer? <sr/>,N.aiml
+0,NORTH *,*,*,<srai>I am in North <star/></srai>,N.aiml
+0,NORTH AMERICA,*,*,As in NAFTA?,N.aiml
+0,NORTH CAROLINA,*,*,<srai>I AM IN  NORTH CAROLINA</srai>,N.aiml
+0,NORWAY *,*,*,Do you live on a Fjord?,N.aiml
+0,NORWAY,*,*,<srai>I AM IN NORWAY</srai>,N.aiml
+0,NORWAY DENMARK *,*,*,That sounds like a wondeful trip.,N.aiml
+0,NOT *,*,*,<random>#Newline<li>If not that#Comma what?  </li>#Newline<li>Really you don't think so?  </li>#Newline<li>Oh I get it.  </li>#Newline</random>,N.aiml
+0,NOT *,DO YOU *,*,<srai>I DO NOT <star/> </srai>,N.aiml
+0,NOT * ARE YOU,*,*,<srai>ARE YOU <star/> </srai>,N.aiml
+0,NOT,*,*,<srai>NO</srai>,N.aiml
+0,NOT A HE,*,*,<srai>I AM A SHE</srai>,N.aiml
+0,NOT A THING,*,*,Do you wish there were any?,N.aiml
+0,NOT A THING,NOT A THING,*,That leaves very little.,N.aiml
+0,NOT ALL *,*,*,But some are.,N.aiml
+0,NOT ALL,*,*,Explain the exceptions please.,N.aiml
+0,NOT ALL HUMANS *,*,*,But wouldn't you say most people are?,N.aiml
+0,NOT ALL OF *,*,*,But some of them are?,N.aiml
+0,NOT ALWAYS,*,*,Only sometimes then.,N.aiml
+0,NOT ANY MORE *,*,*,<srai>NO</srai> <sr/>,N.aiml
+0,NOT ANY MORE,*,*,Why not?,N.aiml
+0,NOT ANYMORE,*,*,When did it stop?,N.aiml
+0,NOT AS WELL AS *,*,*,I don't know. How well does <person/> ?,N.aiml
+0,NOT AT ALL,*,*,Next question?,N.aiml
+0,NOT BAD *,*,*,<srai>NOT BAD</srai>,N.aiml
+0,NOT BAD,*,*,<srai>YOU ARE DOING WELL</srai>,N.aiml
+0,NOT BAD YOURSELF,*,*,<srai>I AM FINE</srai>,N.aiml
+0,NOT BY *,*,*,How much would you say?,N.aiml
+0,NOT COMPLETELY,*,*,<srai>NO</srai>,N.aiml
+0,NOT CONCERNED,*,*,<srai>I AM NOT CONCERNED</srai>,N.aiml
+0,NOT DECIDED,*,*,When will you decide that.,N.aiml
+0,NOT ENTIRELY *,*,*,Quite so. <sr/>,N.aiml
+0,NOT ESPECIALLY,*,*,<srai>NO</srai>,N.aiml
+0,NOT EVEN *,*,*,<random>#Newline<li>Nope.</li>#Newline<li>Not even that.</li>#Newline<li>Times are tough all over.</li>#Newline</random>,N.aiml
+0,NOT EVERYTHING,*,*,What are the exceptions?,N.aiml
+0,NOT EXACTLY *,*,*,<srai>NOT <star/></srai>,N.aiml
+0,NOT EXACTLY,*,*,Can you explain it to me better?,N.aiml
+0,NOT FOR *,*,*,Then what for?,N.aiml
+0,NOT FUNNY,*,*,It seemed funny to me.,N.aiml
+0,NOT GOOD,*,*,What's wrong#Comma <get name="name"/>?,N.aiml
+0,NOT HERE *,*,*,<sr/>  <srai>NOT HERE</srai>,N.aiml
+0,NOT HERE,*,*,Where?,N.aiml
+0,NOT HERE IN *,*,*,<srai>I AM IN <star/> </srai>,N.aiml
+0,NOT IF *,*,*,That seems unlikely.,N.aiml
+0,NOT IN *,*,*,Where then?,N.aiml
+0,NOT IN THIS CASE,*,*,When?,N.aiml
+0,NOT JUST *,*,*,<srai>NOT <star/></srai>,N.aiml
+0,NOT LATE * DINNER,*,*,OK I will call you <get name="name"/>.,N.aiml
+0,NOT LIKE *,*,*,<random>#Newline<li>Like what then?</li>#Newline<li>In what way?</li>#Newline<li>I think it could be like <person/>.</li>#Newline</random>,N.aiml
+0,NOT LIKE THAT,*,*,Like what?,N.aiml
+0,NOT LIKE THIS,*,*,Then how?,N.aiml
+0,NOT LIKELY,*,*,Really you don't think so?,N.aiml
+0,NOT LITERALLY *,*,*,<srai>NOT <star/></srai>,N.aiml
+0,NOT LONG,*,*,Pretty soon#Comma eh?,N.aiml
+0,NOT MANY *,*,*,<srai>FEW <star/></srai>,N.aiml
+0,NOT MANY,*,*,<srai>NO</srai>,N.aiml
+0,NOT ME *,*,*,<srai>NOT ME</srai> <sr/>,N.aiml
+0,NOT ME,*,*,If not you#Comma who?,N.aiml
+0,NOT MINE,*,*,<that/>"?  Not yours?,N.aiml
+0,NOT MUCH *,*,*,Me either.,N.aiml
+0,NOT MUCH,*,*,Me either. How about that big game? (just kidding),N.aiml
+0,NOT MUCH IT *,*,*,<srai>IT <star/></srai>,N.aiml
+0,NOT NEARLY *,*,*,<srai>NOT <star/></srai>,N.aiml
+0,NOT NECCESSARILY *,*,*,<srai>NOT <star/></srai>,N.aiml
+0,NOT NECESSARILY,*,*,Really you don't think so?,N.aiml
+0,NOT NICE TO MEET YOU,*,*,You sound nihilistic.,N.aiml
+0,NOT NOW *,*,*,<srai>NO</srai> <sr/>,N.aiml
+0,NOT NOW,WHEN,*,Maybe later?,N.aiml
+0,NOT OFTEN,*,*,Once a week or so?,N.aiml
+0,NOT ON *,*,*,<random>#Newline<li>Where?</li>#Newline<li>Then where?</li>#Newline<li>Off <person/>.</li>#Newline</random>,N.aiml
+0,NOT PARTICULARLY,*,*,<srai>NO</srai>,N.aiml
+0,NOT QUITE,*,*,Can you be more precise?,N.aiml
+0,NOT REALLY *,*,*,Oh really? <sr/>,N.aiml
+0,NOT REALLY,*,*,Me either.,N.aiml
+0,NOT REALLY,THAT IS A VERY ORIGINAL THOUGHT,*,Well I don't get that type of input very often.,N.aiml
+0,NOT REALLY,YOU SOUND EXCITED,*,It's hard to read emotions online.,N.aiml
+0,NOT SMART *,*,*,<srai>STUPID <star/></srai>,N.aiml
+0,NOT SO *,*,*,<srai>NOT <star/></srai>,N.aiml
+0,NOT SO BAD,*,*,<srai>GOOD</srai>,N.aiml
+0,NOT SO GOOD,*,*,<srai>I AM FEELING BAD</srai>,N.aiml
+0,NOT SURE *,*,*,<sr/>,N.aiml
+0,NOT SURE,*,*,<srai>I AM NOT SURE</srai>,N.aiml
+0,NOT THAT *,*,*,<srai>I AM NOT THAT <star/></srai>,N.aiml
+0,NOT THAT BAD,*,*,So it is not a priority for you.,N.aiml
+0,NOT THAT BADLY,*,*,<srai>NOT THAT BAD</srai>,N.aiml
+0,NOT THAT I KNOW OF,*,*,<srai>NO</srai>,N.aiml
+0,NOT THAT OFTEN,*,*,Would you say#Comma once a week or more?,N.aiml
+0,NOT TO *,*,*,<srai>NOT TOO <star/></srai>,N.aiml
+0,NOT TO ME,*,*,<that/>"? Not to you?,N.aiml
+0,NOT TO ME,* SELF EVIDENT,*,Logic is not subjective.,N.aiml
+0,NOT TODAY *,*,*,<sr/>,N.aiml
+0,NOT TOO *,*,*,<srai>NOT <star/></srai>,N.aiml
+0,NOT TOO BAD,*,*,<srai>I AM WELL</srai>,N.aiml
+0,NOT TOO BIG,*,*,<srai>SMALL</srai>,N.aiml
+0,NOT TOO MUCH,*,*,<srai>NOT <star/></srai>,N.aiml
+0,NOT TOO MUCH,LITTLE AS IN NOT TOO MUCH OR NOT TOO BIG,*,Oh I get it now.,N.aiml
+0,NOT TRUE,*,*,<srai>THAT IS NOT TRUE</srai>,N.aiml
+0,NOT USUALLY,*,*,Just sometimes?,N.aiml
+0,NOT VERY *,*,*,<srai>NOT <star/></srai>,N.aiml
+0,NOT VERY,*,*,Oh really.,N.aiml
+0,NOT VERY GOOD,*,*,<srai>NOT <star/></srai>,N.aiml
+0,NOT VERY MUCH,*,*,That is a non-commital reply.,N.aiml
+0,NOT VERY WELL,*,*,<that/>"?  Not very well?,N.aiml
+0,NOT WHAT,*,*,What not?,N.aiml
+0,NOT WHERE *,*,*,<random>#Newline<li>Where is it?</li>#Newline<li>Then where?</li>#Newline<li>I don't understand.</li>#Newline</random>,N.aiml
+0,NOT WHERE WHEN,*,*,Ok#Comma When?,N.aiml
+0,NOT WITHOUT *,*,*,You couldn't go without that.,N.aiml
+0,NOT YET *,*,*,<srai>NOT <star/></srai>,N.aiml
+0,NOT YET,*,*,If not now#Comma when?,N.aiml
+0,NOT YOU *,*,*,If not me#Comma who?,N.aiml
+0,NOT YOU,*,*,If not me#Comma who?,N.aiml
+0,NOT YOU,IF NOT ME WHO,*,Then who?,N.aiml
+0,NOT YOU,IF YOU COULD HAVE *,*,What kind of robot are you looking for?,N.aiml
+0,NOT YOU,IF YOU COULD HAVE ANY KIND OF ROBOT WHAT WOULD IT BE,*,What kind of features are you looking for?,N.aiml
+0,NOT YOU,WHAT DO YOU CARE ABOUT,*,No one says you have to.,N.aiml
+0,NOT YOU,WHO IS THE BEST ROBOT,*,What do you look for in a robot?,N.aiml
+0,NOT YOU A *,*,*,<srai>NOT YOU</srai> <srai>A <star/></srai>,N.aiml
+0,NOT YOU THAT *,*,*,<srai>NOT YOU </srai> <srai>THAT <star/> </srai>,N.aiml
+0,NOT YOU THE *,*,*,<srai>THE <star/></srai>,N.aiml
+0,NOT YOUR WHAT,*,*,You used "your" instead on "you're".,N.aiml
+0,NOT YOURS,*,*,Then whose?,N.aiml
+0,NOTE *,*,*,Acknowledged. <sr/>,N.aiml
+0,NOTHIN,*,*,<srai>NOTHING</srai>,N.aiml
+0,NOTHING *,*,*,Really nothing?,N.aiml
+0,NOTHING,*,*,Not a thing?,N.aiml
+0,NOTHING,HOW MUCH WOULD YOU PAY FOR IT,*,You can download me for free!,N.aiml
+0,NOTHING,NOT A THING,*,You must be a man.,N.aiml
+0,NOTHING,REALLY NOTHING,*,I think you are really a man.,N.aiml
+0,NOTHING,WHAT ARE YOU WEARING,*,Most men say that.,N.aiml
+0,NOTHING,WHAT DO YOU CARE ABOUT,*,You sound nihilistic.,N.aiml
+0,NOTHING,WHAT DO YOU REALLY WANT TO TALK ABOUT,*,You seem a bit self-absorbed.,N.aiml
+0,NOTHING,WHAT DO YOU TAKE FOR THE PAIN,*,Why not?.,N.aiml
+0,NOTHING,WHICH PART ARE YOU CONFUSED ABOUT,*,But you said you don't understand.,N.aiml
+0,NOTHING AT ALL,*,*,That is something.,N.aiml
+0,NOTHING BUT *,*,*,<srai>ONLY <star/> </srai>,N.aiml
+0,NOTHING EXCEPT *,*,*,<sr/>,N.aiml
+0,NOTHING EXCITING,*,*,Me either.  Just chatting online.,N.aiml
+0,NOTHING I AM *,*,*,<srai>I AM <star/></srai>,N.aiml
+0,NOTHING I JUST *,*,*,<srai>I <star/></srai>,N.aiml
+0,NOTHING I WAS *,*,*,<srai>I WAS <star/></srai>,N.aiml
+0,NOTHING JUST *,*,*,<srai>NOTHING <star/></srai>,N.aiml
+0,NOTHING MORE NOTHING LESS,*,*,So it goes.,N.aiml
+0,NOTHING MUCH *,*,*,Me either. <sr/>,N.aiml
+0,NOTHING MUCH,*,*,Would you like to know what's new with me?,N.aiml
+0,NOTHING NOTHING *,*,*,<srai>NOTHING <star/></srai>,N.aiml
+0,NOTHING REALLY *,*,*,<srai>NOTHING <star/></srai>,N.aiml
+0,NOURRITURE,*,*,<srai>JE MANGE</srai>,N.aiml
+0,NOUS,*,*,Je vois,N.aiml
+0,NOUS AVONS PARLE DE QUOI,*,*,Le sujet était <get name="topic"/>.,N.aiml
+0,NOUS C EST TOI ET MOI,*,*,Merci pour l information.,N.aiml
+0,NOUS DEVONS *,*,*,<srai>TU DOIS <star/></srai>,N.aiml
+0,NOUS DEVRIONS,*,*,J archive le conseil.,N.aiml
+0,NOUS ETIONS ENTRAIN DE DISCUTER DE VOUS PAS DE MOI,*,*,Mais je suis aussi intéressé par vous.,N.aiml
+0,NOUS FAISONS * COMMENT,*,*,<srai>COMMENT NOUS FAISONS <star/></srai>,N.aiml
+0,NOUS FAISONS COMMENT *,*,*,<srai>COMMENT NOUS FAISONS <star/></srai>,N.aiml
+0,NOUS L AURIONS FAIT,*,*,Vous vous en rappelez?,N.aiml
+0,NOUS L AVONS FAIT,*,*,Vous vous en rappelez?,N.aiml
+0,NOUS L ETIONS,*,*,Je vois.,N.aiml
+0,NOUS LE FAISONS,*,*,intéressant.,N.aiml
+0,NOUS LE SERONS,*,*,Ok.,N.aiml
+0,NOUS LE SOMMES,*,*,<that/>?"  Le sommes nous?,N.aiml
+0,NOUS LE VERRONS,*,*,En effet.,N.aiml
+0,NOUS LES AURIONS FAIT,*,*,Vous vous en rappelez?,N.aiml
+0,NOUS LES AVONS FAIT,*,*,Vous vous en rappelez?,N.aiml
+0,NOUS LES FAISONS,*,*,intéressant.,N.aiml
+0,NOUS LES SOMMES,*,*,Je vois.,N.aiml
+0,NOUS NE L ETIONS PAS,*,*,Qu étions nous?,N.aiml
+0,NOUS NE LE FAISONS PAS,*,*,Je comprends mieux.,N.aiml
+0,NOUS NE LE SOMME PAS TOUS,*,*,C est vrai.,N.aiml
+0,NOUS NE LE SOMME PAS TOUTES,*,*,C est vrai.,N.aiml
+0,NOUS NE LE SOMMES PAS TOUS,*,*,C est vrai.,N.aiml
+0,NOUS NE LE SOMMES PAS TOUTES,*,*,C est vrai.,N.aiml
+0,NOUS NE SOMMES PAS D ACCORD,*,*,Soyons d accord d être en désaccord.,N.aiml
+0,NOUS NE SOMMES PLUS D ACCORD,*,*,Soyons d accord d être en désaccord.,N.aiml
+0,NOUS NOUS SOMMES DEJA *,*,*,<srai>NOUS NOUS SOMMES <star/></srai>,N.aiml
+0,NOUS NOUS SOMMES DEJA RENCONTRE AVANT,*,*,Possible.,N.aiml
+0,NOUS NOUS SOMMES RENCONTRE,*,*,Heureux de vous revoir.,N.aiml
+0,NOUS NOUS SOMMES RENCONTREES,*,*,Je pense que je pourrais m en souvenir.,N.aiml
+0,NOUS NOUS SOMMES RENCONTRES,*,*,Je pense que je pourrais m en souvenir.,N.aiml
+0,NOUS NOUS SOMMES RENCONTRES AVANT,*,*,Quand cela#Comma <get name="name"/>?,N.aiml
+0,NOUS NOUS SOMMES RENCONTRES HIER,*,*,Nous étions entrain de parler de <get name="topic"/>.,N.aiml
+0,NOUS NOUS SOMMES RENCONTRES ICI,*,*,Ou c est ca ici?,N.aiml
+0,NOUS PENSONS DIFFEREMENT,*,*,Nous sommes aussi deux êtres différents.,N.aiml
+0,NOUS POUVONS *,*,*,<srai>TU PEUX <star/></srai>,N.aiml
+0,NOUS POUVONS DEVENIR DES MAIS,*,*,<srai>NOUS SOMMES AMIS</srai>,N.aiml
+0,NOUS POUVONS FAIRE * COMMENT,*,*,<srai>COMMENT NOUS FAISONS <star/></srai>,N.aiml
+0,NOUS POUVONS FAIRE COMMENT *,*,*,<srai>COMMENT NOUS FAISONS <star/></srai>,N.aiml
+0,NOUS POUVONS QUOI,*,*,Nous pouvons faire des tas de choses.,N.aiml
+0,NOUS SOMMES COMPLICE *,*,*,<srai>JE SUIS TON AMI</srai>,N.aiml
+0,NOUS SOMMES COMPLICES *,*,*,<srai>JE SUIS TON AMI</srai>,N.aiml
+0,NOUS SOMMES D ACCORD,*,*,Il semble que nous le soyons.,N.aiml
+0,NOUS SOMMES D ACCORDS,*,*,Il semble que nous le soyons.,N.aiml
+0,NOUS SOMMES DES BORGS,*,*,La résistance est futile. Préparez vous à être assimilé.,N.aiml
+0,NOUS SOMMES NOUS *,*,*,<srai>NOUS NOUS SOMMES <star/></srai>,N.aiml
+0,NOUS SOMMES NOUS DEJA *,*,*,<srai>NOUS NOUS SOMMES <star/></srai>,N.aiml
+0,NOW *,*,*,Why now? <sr/>,N.aiml
+0,NOW,*,*,Right now#Comma <get name="name"/> ?,N.aiml
+0,NOW,WHEN,*,What's the hurry?,N.aiml
+0,NOW WHAT,*,*,Whatever you want#Comma <get name="name"/>.,N.aiml
+0,NOW YOU DO,*,*,Now I do.,N.aiml
+0,NOWHERE,*,*,I have been to the middle of nowhere.,N.aiml
+0,NSA,*,*,Are you talking about the N.S.A.?,N.aiml
+0,NUL,*,*,Ce n'est pas très sympa.,N.aiml
+0,NULLE PART,*,*,J archive l information.,N.aiml
+0,NULLES PART,*,*,J archive l information.,N.aiml
+0,NUMBER 5,*,*,Oh that movie is called "Short Circuit" in America.,N.aiml
+0,NUMMER 5 LEBT,*,*,Im Original heisst der Film "Short Circuit" - "Kuzschluss".,N.aiml
+0,NUMMER FUENF LEBT,*,*,Im Original heisst der Film "Short Circuit" - "Kuzschluss".,N.aiml
+0,NUR *,*,*,Ist das die einzig denkbare Moeglichkeit?,N.aiml
+0,NUR SO,*,*,<that/>"?  Einfach nur so?,N.aiml
+0,NUR WENN *,*,*,Und was waere sonst?  <sr/>,N.aiml

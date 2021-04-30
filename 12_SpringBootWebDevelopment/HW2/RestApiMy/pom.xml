@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.4.5</version>
+        <relativePath/> <!-- lookup parent from repository -->
+    </parent>
+    <groupId>fesva.com</groupId>
+    <artifactId>RestApi</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>RestApi</name>
+    <description>RestApi project for Spring Boot with AB AI</description>
+    <!--
+    <properties>
+
+    </properties>
+    <dependencies>
+
+
+    </dependencies>
+    
+
+    <build>
+        <plugins>
+        </plugins>
+    </build>
+	-->
+    <properties>
+        <java.version>8</java.version>
+        <slf4j.version>1.7.13</slf4j.version>
+        <httpclient.version>4.2.5</httpclient.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    </properties>
+    <repositories>
+        <repository>
+            <id>soluvas-public-thirdparty</id>
+            <url>http://nexus.bippo.co.id/nexus/content/repositories/soluvas-public-thirdparty/</url>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+        </repository>
+    </repositories>
+    <distributionManagement>
+        <snapshotRepository>
+            <id>soluvas-public-snapshots</id>
+            <url>http://nexus.bippo.co.id/nexus/content/repositories/soluvas-public-snapshots/</url>
+        </snapshotRepository>
+        <repository>
+            <id>soluvas-public-releases</id>
+            <url>http://nexus.bippo.co.id/nexus/content/repositories/soluvas-public-releases/</url>
+        </repository>
+    </distributionManagement>
+    <dependencies>
+        <!-- 	    <dependency> -->
+        <!-- 	    	<groupId>commons-codec</groupId> -->
+        <!-- 	    	<artifactId>commons-codec</artifactId> -->
+        <!-- 	    	<version>1.7</version> -->
+        <!-- 	    </dependency> -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.python</groupId>
+            <artifactId>jython-standalone</artifactId>
+            <version>2.7.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>${slf4j.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-nop</artifactId>
+            <version>1.7.13</version>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>jcl-over-slf4j</artifactId>
+            <version>${slf4j.version}</version>
+            <scope>runtime</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-classic</artifactId>
+            <version>LATEST</version>
+            <optional>true</optional>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.httpcomponents</groupId>
+            <artifactId>httpclient</artifactId>
+            <version>${httpclient.version}</version>
+        </dependency>
+        <!-- 	    <dependency> -->
+        <!-- 	    	<groupId>org.apache.httpcomponents</groupId> -->
+        <!-- 	    	<artifactId>httpclient-cache</artifactId> -->
+        <!-- 	    	<version>${httpclient.version}</version> -->
+        <!-- 	    </dependency> -->
+        <!-- 	    <dependency> -->
+        <!-- 	    	<groupId>org.apache.httpcomponents</groupId> -->
+        <!-- 	    	<artifactId>fluent-hc</artifactId> -->
+        <!-- 	    	<version>${httpclient.version}</version> -->
+        <!-- 	    </dependency> -->
+        <dependency>
+            <groupId>joda-time</groupId>
+            <artifactId>joda-time</artifactId>
+            <version>2.3</version>
+        </dependency>
+        <dependency>
+            <groupId>org.json</groupId>
+            <artifactId>json</artifactId>
+            <version>20090211</version>
+        </dependency>
+        <dependency>
+            <groupId>net.reduls.sanmoku</groupId>
+            <artifactId>sanmoku</artifactId>
+            <version>0.0.5</version>
+        </dependency>
+        <dependency>
+            <groupId>net.reduls.sanmoku</groupId>
+            <artifactId>sanmoku-feature-ex</artifactId>
+            <version>0.0.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.httpcomponents</groupId>
+            <artifactId>httpcore</artifactId>
+            <version>${httpcore.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>commons-logging</groupId>
+            <artifactId>commons-logging</artifactId>
+            <version>LATEST</version>
+        </dependency>
+        <dependency>
+            <groupId>commons-codec</groupId>
+            <artifactId>commons-codec</artifactId>
+            <version>${commons-codec.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>${junit.version}</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.vaadin.external.google</groupId>
+            <artifactId>android-json</artifactId>
+            <version>0.0.20131108.vaadin1</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+
+            <plugin>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.8.1</version>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+    <profiles>
+        <profile>
+            <id>disable-java8-doclint</id>
+            <activation>
+                <jdk>[1.8,)</jdk>
+            </activation>
+            <properties>
+                <additionalparam>-Xdoclint:none</additionalparam>
+            </properties>
+        </profile>
+    </profiles>
+</project>

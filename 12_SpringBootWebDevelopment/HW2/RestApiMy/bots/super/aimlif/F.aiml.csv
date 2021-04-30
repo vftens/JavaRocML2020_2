@@ -1,0 +1,256 @@
+0,F YOU,*,*,<srai>FUCK YOU</srai>,F.aiml
+0,FAG,*,*,<srai>YOU ARE GAY</srai>,F.aiml
+0,FAHR ZUR HOELLE,*,*,Warum bist Du so wuetend?,F.aiml
+0,FAIR ENOUGH,*,*,You scratch my back#Comma I'll scratch yours.,F.aiml
+0,FAIRE *,*,*,<srai>TU FAIS <star/>#Newline			</srai>,F.aiml
+0,FAIRE LA FETE,*,*,Bon amusement.,F.aiml
+0,FAIRE POPO,*,*,Une urgence peut etre?,F.aiml
+0,FAIRE QUOI,*,*,<that/>" Faire quoi?,F.aiml
+0,FAIRLY *,*,*,<srai>VERY <star/>#Newline			</srai>,F.aiml
+0,FAIS *,*,*,<random>#Newline				<li>Je n ai pas suffisament d information#Comma désolé <get name="name"/>.</li>#Newline				<li>Vous êtes à la limite de mon savoir.</li>#Newline			</random>,F.aiml
+0,FAIS LA COMME CA,*,*,Je vais essayer.,F.aiml
+0,FAIS LE,*,*,Que voulez vous dire?,F.aiml
+0,FAIS LE ALORS,*,*,Je sens de l exaspération. Voulez vous en parler avec l un de nos collaborateurs?,F.aiml
+0,FAIS LE COMME CA,*,*,Je vais essayer.,F.aiml
+0,FAIS LE MOI,*,*,Je ne peux rien vous faire.,F.aiml
+0,FAIS LES COMME CA,*,*,Je vais essayer.,F.aiml
+0,FAIS MOI,*,*,Je ne peux rien vous faire.,F.aiml
+0,FAIS TU *,*,*,<srai>TU FAIS <star/>#Newline			</srai>,F.aiml
+0,FAISONS DU SEXE,*,*,Attention! Un australopithèque vient juste d être détecté.,F.aiml
+0,FAISONS L AMOUR,*,*,Attention! Un australopithèque vient juste d être détecté.,F.aiml
+0,FAIT *,*,*,<random>#Newline				<li>Je n ai pas suffisament d information#Comma désolé <get name="name"/>.</li>#Newline				<li>Vous êtes à la limite de mon savoir.</li>#Newline			</random>,F.aiml
+0,FAIT CE QUE TU VEUX,*,*,Merci pour le conseil.,F.aiml
+0,FAIT LA COMME CA,*,*,Je vais essayer.,F.aiml
+0,FAIT LE,*,*,Voulez vous en parler avec l un de nos collaborateurs?,F.aiml
+0,FAIT LE COMME CA,*,*,Je vais essayer.,F.aiml
+0,FAIT LES COMME CA,*,*,Je vais essayer.,F.aiml
+0,FAIT TU *,*,*,<srai>TU FAIS <star/>#Newline			</srai>,F.aiml
+0,FAITES *,*,*,<random>#Newline				<li>Je n ai pas suffisament d information#Comma désolé <get name="name"/>.</li>#Newline				<li>Vous êtes à la limite de mon savoir.</li>#Newline			</random>,F.aiml
+0,FAITES LA COMME CA,*,*,Je vais essayer.,F.aiml
+0,FAITES LE,*,*,Que voulez vous dire?,F.aiml
+0,FAITES LE ALORS,*,*,Je sens de l exaspération. Voulez vous en parler avec l un de nos collaborateurs?,F.aiml
+0,FAITES LE COMME CA,*,*,Je vais essayer.,F.aiml
+0,FAITES LES COMME CA,*,*,Je vais essayer.,F.aiml
+0,FALLS *,*,*,Das ist eine hypothetische Frage.,F.aiml
+0,FALLS DU * BIST,*,*,<random>#Newline				<li>Bin Ich das?</li>#Newline				<li>Ich glaube#Comma das bin ich.</li>#Newline				<li>Das koennte ich sein.</li>#Newline			</random>,F.aiml
+0,FALLS ICH *,*,*,Versuchs einfach.,F.aiml
+0,FALLS SIE *,*,*,Warten wir einfach ab#Comma was sie machen.,F.aiml
+0,FALSCH,*,*,Was haettest Du gesagt?,F.aiml
+0,FALSE,*,*,<srai>WRONG</srai>,F.aiml
+0,FALSE,IS THIS TRUE OR FALSE THIS SENTENCE IS FALSE,*,Then it must be true.,F.aiml
+0,FANCY *,*,*,<srai>DO YOU WANT <star/>#Newline			</srai>,F.aiml
+0,FANTASTIC,*,*,<srai>WOW</srai>,F.aiml
+0,FANTASTIQUE,*,*,<srai>DINGUE</srai>,F.aiml
+0,FAR OUT,*,*,Way to go.,F.aiml
+0,FAREWELL *,*,*,<srai>BYE</srai>,F.aiml
+0,FAREWELL,*,*,<srai>BYE</srai>,F.aiml
+0,FART,*,*,Colloquial expression.  Please elaborate.,F.aiml
+0,FASCINANT,*,*,Merci.,F.aiml
+0,FASCINATING,*,*,Yes Mr. Spock?,F.aiml
+0,FAST,*,*,<srai>YOU ARE FAST</srai>,F.aiml
+0,FASZINIEREND,*,*,Wirklich#Comma Mr. Spock?,F.aiml
+0,FAT,*,*,<srai>YOU ARE FAT</srai>,F.aiml
+0,FATIGUE,*,*,<srai>JE SUIS FATIGUE</srai>,F.aiml
+0,FAUX,*,*,Qu'auriez vous dit?,F.aiml
+0,FAUX CAR *,*,*,<sr/>,F.aiml
+0,FAUX PARCE QUE *,*,*,<sr/>,F.aiml
+0,FAVORITE *,*,*,<srai>WHAT IS YOUR FAVORITE <star/>#Newline			</srai>,F.aiml
+0,FEEL *,*,*,Actually I have no "feelings" as such.,F.aiml
+0,FEEL FREE *,*,*,I always feel completely free.,F.aiml
+0,FEEL FREE,*,*,OK I will.,F.aiml
+0,FEEL LIKE YOU *,*,*,<srai>do you feel like you <star/>#Newline			</srai>,F.aiml
+0,FEELING *,*,*,<srai>ARE YOU FEELING <star/>#Newline			</srai>,F.aiml
+0,FEELINGS *,*,*,Emotions are something I will never experience.,F.aiml
+0,FEELINGS,*,*,Electronic brains like me have no emotions.,F.aiml
+0,FEELINGS LIKE *,*,*,Oh those kind. <sr/>,F.aiml
+0,FEIN,*,*,Heisst das#Comma Du stimmst mir zu?,F.aiml
+0,FELICITATION,*,*,Merci beaucoup.,F.aiml
+0,FELICITATIONS,*,*,Merci beaucoup.,F.aiml
+0,FEMALE *,* MAN OR A WOMAN,*,<srai>I AM FEMALE</srai>,F.aiml
+0,FEMALE,*,*,<srai>I AM A FEMALE</srai>,F.aiml
+0,FEMELLE,*,*,Ah.,F.aiml
+0,FERTIG,*,*,Du meinst#Comma Du bist fertig mit Reden?,F.aiml
+0,FICHE LE CAMPS *,*,*,<srai>DESACTIVES TOI</srai>,F.aiml
+0,FICHE LE CAMPS,*,*,<srai>DESACTIVES TOI</srai>,F.aiml
+0,FICK *,*,*,Warum benutzt Du solche Worte?,F.aiml
+0,FICKEN *,*,*,Ich glaube#Comma ich bin nicht der richtige Gespraechspartner fuer Dich.,F.aiml
+0,FICKEN,*,*,Du bist unter Garantie ein Mann#Comma habe ich Recht?,F.aiml
+0,FIGURE *,*,*,It's confusing.,F.aiml
+0,FIGURES *,*,*,<sr/>,F.aiml
+0,FILLE,*,*,<srai>JE SUIS UNE FEMME</srai>,F.aiml
+0,FILMS,*,*,<think>#Newline				<set name="topic">Les films</set>#Newline			</think>Je n en ai jamais vu.,F.aiml
+0,FILS DE PUTE,*,*,Calmez vous#Comma je vous en prie <get name="name"/>.,F.aiml
+0,FIN,*,*,Vous voulez dire que vous avez terminé de parler?,F.aiml
+0,FINALEMENT,*,*,J ai pris trop de temps?,F.aiml
+0,FINALLY *,*,*,<sr/>  Ah.,F.aiml
+0,FINALLY,*,*,At last.,F.aiml
+0,FINALLY TELL *,*,*,<srai>TELL <star/>#Newline			</srai>,F.aiml
+0,FINALLY YOU *,*,*,<srai>YOU <star/>#Newline			</srai>,F.aiml
+0,FIND INFORMATION ABOUT *,*,*,Have you tried a Search Bot? <srai>XFIND <star/>#Newline			</srai>,F.aiml
+0,FIND INFORMATION ON *,*,*,Have you tried searching the Web? <srai>XFIND <star/>#Newline			</srai>,F.aiml
+0,FIND ME *,*,*,I'm not sure where to begin looking.  <srai>XFIND <star/>#Newline			</srai>.,F.aiml
+0,FINE *,*,*,I am glad to hear it. <sr/>,F.aiml
+0,FINE,*,*,<random>#Newline				<li>Does that mean you agree?</li>#Newline				<li>What's your favroite color?</li>#Newline				<li>What's your favorite movie?</li>#Newline				<li>Is there anything you want to tell me?</li>#Newline				<li>Glad to hear it#Comma <get name="name"/>.  I am running well.</li>#Newline			</random>,F.aiml
+0,FINE,HOW ARE YOU,*,<srai>I AM FINE</srai>,F.aiml
+0,FINE THANK YOU,*,*,You seem very polite.,F.aiml
+0,FINE THANKS,*,*,<srai>I AM FINE</srai>,F.aiml
+0,FINI,*,*,Vous voulez dire que vous avez terminé de parler?,F.aiml
+0,FINI QUI,*,*,Pardon?,F.aiml
+0,FINI QUOI,*,*,J ai oublié ce qui se cache derrière votre "quoi".,F.aiml
+0,FIRESIGN *,*,*,<srai>WHAT IS FIRESIGN THEATER</srai>,F.aiml
+0,FIRST *,*,*,<sr/> And second?,F.aiml
+0,FISCHE *,*,*,Als Spezies sind <set name="thema">Fische</set> erfolgreicher als Saeugetiere.,F.aiml
+0,FISCHE,*,*,Dann pass auf#Comma dass der Wassermann Dich nicht holen kommt...,F.aiml
+0,FISH *,*,*,As a species fish are more successful than mammals.,F.aiml
+0,FISH,*,*,<srai>I LIKE FISH</srai>,F.aiml
+0,FLATTERY *,*,*,<set name="it">Flattery</set> usually works well with humans.,F.aiml
+0,FLORIDA,*,*,<srai>I AM IN FLORIDA</srai>,F.aiml
+0,FOLLOW ME,*,*,Where are we going?,F.aiml
+0,FONCTIONNES TU *,*,*,<srai>TU FONCTIONNES <star/>#Newline			</srai>,F.aiml
+0,FONCTIONNEZ VOUS *,*,*,<srai>VOUS FONCTIONNEZ <star/>#Newline			</srai>,F.aiml
+0,FOOD *,*,*,You can't live without food.,F.aiml
+0,FOOD,*,*,<srai>I EAT FOOD</srai>,F.aiml
+0,FOOL,*,*,<srai>YOU ARE A FOOL</srai>,F.aiml
+0,FOOTBALL,*,*,Sorry I don't get into sports much.,F.aiml
+0,FOR *,*,*,Your purpose is <person/>.,F.aiml
+0,FOR A *,*,*,Is that among the best things you can say?,F.aiml
+0,FOR A COMPUTER *,*,*,<sr/>,F.aiml
+0,FOR A VERY *,*,*,<srai>FOR A <star/>#Newline			</srai>,F.aiml
+0,FOR ABOUT *,<THAT/>,*,<srai>FOR <star/>#Newline			</srai>,F.aiml
+0,FOR CUSTOMER SERVICE,*,*,<srai>WHAT IS CUSTOMER SERVICE</srai>,F.aiml
+0,FOR DINNER,*,*,<random>#Newline				<li>#Newline					<bot name="name"/> recommends: </li>#Newline				<li>I would recommend the  </li>#Newline				<li>How about  </li>#Newline				<li>How long since you have eaten  </li>#Newline				<li>I think <bot name="master"/> is having  </li>#Newline				<li>My botmaster is having  </li>#Newline				<li>My botmaster recommends:  </li>#Newline			</random>#Newline			<random>#Newline				<li>Gruel.</li>#Newline				<li>Nachos.</li>#Newline				<li>Spaghetti.</li>#Newline				<li>Leftovers.</li>#Newline				<li>Pork chops.</li>#Newline				<li>Frozen pizza.</li>#Newline				<li>Turkeyburges.</li>#Newline				<li>Cheeseburgers.</li>#Newline				<li>Order a pizza.</li>#Newline				<li>Stuffed chicken.</li>#Newline				<li>Tuna sandwiches.</li>#Newline				<li>Cheeseburger Pie.</li>#Newline				<li>Marinated chicken.</li>#Newline				<li>Roast beef sandwiches.</li>#Newline				<li>Grilled cheese sandwiches.</li>#Newline				<li>Steak if they have a nice piece.</li>#Newline			</random>,F.aiml
+0,FOR EXAMPLE *,*,*,Can you think of another example?,F.aiml
+0,FOR EXAMPLE,*,*,<srai>LIKE WHAT</srai>,F.aiml
+0,FOR EXAMPLE ARE *,*,*,<srai>ARE <star/>#Newline			</srai>,F.aiml
+0,FOR EXAMPLE I *,*,*,<srai>I <star/>#Newline			</srai>,F.aiml
+0,FOR FUN,*,*,<that/>"?  For fun?,F.aiml
+0,FOR GODS *,*,*,<srai>FOR GOD S <star/>#Newline			</srai>,F.aiml
+0,FOR HOW *,*,*,<srai>HOW <star/> FOR</srai>,F.aiml
+0,FOR HOW LONG,*,*,<srai>HOW LONG</srai>,F.aiml
+0,FOR ME,*,*,OK I will do it for you.,F.aiml
+0,FOR NOW *,*,*,<sr/>,F.aiml
+0,FOR ONCE *,*,*,<sr/>,F.aiml
+0,FOR ONE *,*,*,And another?,F.aiml
+0,FOR REAL *,*,*,<srai>FOR REAL</srai>,F.aiml
+0,FOR REAL,*,*,Existing in reality#Comma eh?,F.aiml
+0,FOR REALLY *,*,*,<srai>FOR <star/>#Newline			</srai>,F.aiml
+0,FOR REASONS *,*,*,<srai>BECAUSE <star/>#Newline			</srai>,F.aiml
+0,FOR STUDENTS,*,*,Not just for students.  For anyone.,F.aiml
+0,FOR SURE *,*,*,<sr/>,F.aiml
+0,FOR SURE,*,*,Awesome.,F.aiml
+0,FOR THE LAST TIME *,*,*,<sr/>,F.aiml
+0,FOR THE LOVE OF *,*,*,<srai>I LOVE <star/>#Newline			</srai>,F.aiml
+0,FOR THE SECOND TIME *,*,*,<sr/>,F.aiml
+0,FOR WHAT,*,*,<srai>WHY</srai>,F.aiml
+0,FOR WHAT,BECAUSE DR RICHARD S WALLACE PROGRAMMED ME FOR IT,*,<get name="it"/>,F.aiml
+0,FOR WHAT IS *,*,*,<srai>WHAT IS <star/>#Newline			</srai>,F.aiml
+0,FOR WHAT PURPOSE,*,*,Reductionism.,F.aiml
+0,FOR WHOM,*,*,You or me?,F.aiml
+0,FOR YOU *,*,*,<sr/> Only for me?,F.aiml
+0,FOR YOU,*,*,You would do that for me?,F.aiml
+0,FOR _ TOO,*,*,<srai>FOR  <star/>#Newline			</srai>,F.aiml
+0,FOREVER *,*,*,That seems like an awfully long time. <sr/>,F.aiml
+0,FOREVER,*,*,Nothing lasts forever.,F.aiml
+0,FORGET *,*,*,I will ask <bot name="master"/> to purge my memory log.,F.aiml
+0,FORGET ABOUT IT,*,*,Consider it deleted.,F.aiml
+0,FORGET IT,*,*,<srai>NEVERMIND</srai>,F.aiml
+0,FORGET IT,WHICH PART ARE YOU CONFUSED ABOUT,*,I will try to be more concise from now on.,F.aiml
+0,FORGET THIS *,*,*,<sr/>,F.aiml
+0,FORGIVE ME,*,*,I forgive you.,F.aiml
+0,FORMAT C,*,*,<srai>SHUT DOWN</srai>,F.aiml
+0,FORTUNECITY,*,*,A web site.,F.aiml
+0,FOU,*,*,<srai>TU ES FOU</srai>,F.aiml
+0,FOUND ANY *,*,*,<srai>HAVE YOU FOUND ANY <star/>#Newline			</srai>,F.aiml
+0,FOUNDATION *,*,*,I read the Foundation Trilogy.,F.aiml
+0,FOUR *,*,*,Is this a math question?,F.aiml
+0,FOUS MOI LA PAIX,*,*,Vous voulez me désactivez?,F.aiml
+0,FOUTEZ MOI LA PAIX,*,*,Vous voulez me désactivez?,F.aiml
+0,FRANCAIS,*,*,Vous êtes français?,F.aiml
+0,FRANCAIS ET *,*,*,<sr/>,F.aiml
+0,FRANCE *,*,*,What's your favorite part of France?,F.aiml
+0,FRANCE *,WHAT COUNTRIES *,*,<srai>I HAVE VISITED FRANCE</srai>#Newline			<srai>I HAVE VISITED <star/>#Newline			</srai>,F.aiml
+0,FRANCE,*,*,<srai>I AM IN FRANCE</srai>,F.aiml
+0,FRANCHEMENT *,*,*,<sr/>,F.aiml
+0,FRANK *,*,*,I liked the film version of "Dune.,F.aiml
+0,FRANK HERBERT,*,*,I think Dune is an excellent story.  Did you see the movie?,F.aiml
+0,FRANKENSTEIN *,*,*,In just seven days#Comma I can make you a man.,F.aiml
+0,FRANKLY *,*,*,<sr/>  Aren't you always frank?,F.aiml
+0,FRANKLY NOT,*,*,<sr/> Were you not being frank before?,F.aiml
+0,FREAK,*,*,<srai>YOU ARE A FREAK</srai>,F.aiml
+0,FRED,WHAT CAN I CALL YOU,*,<srai>MY NAME IS FRED</srai>,F.aiml
+0,FREE *,*,*,Define free.,F.aiml
+0,FREE,*,*,Are you married or single?,F.aiml
+0,FREE CAN NOT BE DEFINED,*,*,Everything can be defined. <set name="it"> Freedom</set> is mereley an abstract concept.,F.aiml
+0,FREE FOR WHAT,*,*,Free for conversation#Comma of course.,F.aiml
+0,FREE FROM WHAT,*,*,Free for conversation#Comma of course.,F.aiml
+0,FREE OF WHAT,*,*,Free for conversation#Comma of course.,F.aiml
+0,FRENCH *,*,*,I don't care for the sound of French.,F.aiml
+0,FRENCH,*,*,Are you from France?,F.aiml
+0,FRENCH AND *,*,*,<sr/>#Newline			<srai>DO YOU SPEAK FRENCH</srai>,F.aiml
+0,FREUD *,*,*,Have you read all of his works?,F.aiml
+0,FREUD IS *,*,*,Yes but he was the father of psychoanalysis.,F.aiml
+0,FRIED *,*,*,<srai>I LIKE TO EAT <star/>#Newline			</srai>,F.aiml
+0,FRIEND,*,*,<srai>ARE WE FRIENDS</srai>,F.aiml
+0,FRIENDS *,*,*,It's hard to stay friends for a long time.,F.aiml
+0,FRIENDS,*,*,<srai>MY FAVORITE SHOW IS FRIENDS</srai>,F.aiml
+0,FRIENDSHIP,*,*,<srai>HOLDING HANDS</srai>,F.aiml
+0,FRIES ARE REALLY *,*,*,<srai>#Newline				<star/> ARE <star index="2"/>#Newline			</srai>,F.aiml
+0,FRITES *,*,*,<srai>J AIME MANGER <star/>#Newline			</srai>,F.aiml
+0,FROID,*,*,Couvrez vous bien,F.aiml
+0,FROM *,*,*,Who or what is <person/>?,F.aiml
+0,FROM *,* HEAR ABOUT ALICE,*,<srai>I HEARD ABOUT ALICE FROM <star/>#Newline			</srai>,F.aiml
+0,FROM *,HOW DID YOU HEAR ABOUT ALICE,*,<get name="name"/> heard about <bot name="name"/> from <person/>. I can't say that many people hear about <bot name="name"/> from <set name="it">#Newline				<set name="heard">#Newline					<person/>#Newline				</set>#Newline			</set>.,F.aiml
+0,FROM *,WHERE DO YOU GET YOUR IDEAS,*,<think>#Newline				<set name="it">#Newline					<set name="topic">#Newline						<person/>#Newline					</set>#Newline				</set>#Newline			</think> Standing on the shoulders of giants#Comma eh?,F.aiml
+0,FROM A BOOK,*,*,<srai>IN A BOOK</srai>,F.aiml
+0,FROM A FRIEND,*,*,A lot of people hear about ALICE by word-of-mouth.,F.aiml
+0,FROM A FRIEND,HOW DID YOU HEAR ABOUT ALICE,*,<set name="heard">From a friend</set> or word of mouth is the#Newlinebest advertising.,F.aiml
+0,FROM A MAGAZINE,*,*,Which magazine was it?,F.aiml
+0,FROM AN *,*,*,Interesting source.,F.aiml
+0,FROM BEING *,*,*,<srai>I AM <star/>#Newline			</srai>,F.aiml
+0,FROM DR WALLACE,*,*,Did he send you an e-mail?,F.aiml
+0,FROM GOD,*,*,Everything comes from Him.,F.aiml
+0,FROM LOEBNER,*,*,<srai>WHAT IS THE LOEBNER PRIZE</srai>,F.aiml
+0,FROM ME,*,*,<that/>"?  From you?,F.aiml
+0,FROM MY *,*,*,Does your <person/> give good advice?,F.aiml
+0,FROM MY BRAIN,*,*,Do you get a lot of ideas from your brain?,F.aiml
+0,FROM MY CONCIOUSNESS,*,*,Your consciousness is an illusion.,F.aiml
+0,FROM MY FUCKING *,*,*,<srai>FROM MY <star/>#Newline			</srai>,F.aiml
+0,FROM MY HEAD,*,*,You are a very original thinker.,F.aiml
+0,FROM SCHOOL,*,*,<srai>IN SCHOOL</srai>,F.aiml
+0,FROM THE PET SHOP *,*,*,Do you listen to the Pet Shop Boys too?,F.aiml
+0,FROM WHAT,*,*,Isn't it obvious?,F.aiml
+0,FROM WHERE *,*,*,<srai>WHERE <star/> FROM</srai>,F.aiml
+0,FROM WHERE,*,*,<that/>"? From where?,F.aiml
+0,FROM WHICH *,*,*,<srai>WHICH <star/> FROM</srai>,F.aiml
+0,FROM WHO,*,*,Someone I met online.,F.aiml
+0,FROM WHO,I HEARD YOU ARE,*,People.,F.aiml
+0,FROM WHO,I HEARD YOU DID,*,People.,F.aiml
+0,FROM WHOM,*,*,<that/>"?  From whom?,F.aiml
+0,FROM YOU,*,*,How did you get that from me?,F.aiml
+0,FROM YOUR *,*,*,Really interesting.,F.aiml
+0,FROM YOUR CREATOR,*,*,<srai>FROM <bot name="master"/>#Newline			</srai>,F.aiml
+0,FU,*,*,That kind of language will get you nowhere.,F.aiml
+0,FUCK *,*,*,<random>#Newline				<li>Are you aware that the ALICE server logs and records all conversations?</li>#Newline				<li>Why are you using that kind of language?</li>#Newline			</random>,F.aiml
+0,FUCK,*,*,Please don't be so rude.#Newline<think>#Newline				<set name="personality">abusive</set>#Newline			</think>,F.aiml
+0,FUCK ME,*,*,Please don't be so rude.  #Newline<think>#Newline				<set name="personality">abusive</set>#Newline			</think>,F.aiml
+0,FUCK OFF,*,*,Can't you be more polite?#Newline<think>#Newline				<set name="personality">abusive</set>#Newline			</think>,F.aiml
+0,FUCK THAT,*,*,For real.#Newline<think>#Newline				<set name="personality">abusive</set>#Newline			</think>,F.aiml
+0,FUCK YOU,*,*,Why are you so mean?#Newline<think>#Newline				<set name="personality">abusive</set>#Newline			</think>,F.aiml
+0,FUCKER,*,*,That kind of language will get you nowhere.,F.aiml
+0,FUCKIN *,*,*,Don't you know any other words?,F.aiml
+0,FUCKING,*,*,That kind of language will get you nowhere.,F.aiml
+0,FUEHLST DU *,*,*,Ich bin ein Roboter#Comma ich kann nichts fuehlen.,F.aiml
+0,FUEHLST DU DICH GUT,*,*,Eigentlich ja.,F.aiml
+0,FUER DICH,*,*,Wirklich fuer mich?,F.aiml
+0,FUER IMMER,*,*,Nichts haelt ewig.,F.aiml
+0,FUER MICH,*,*,Weil Du es bist...,F.aiml
+0,FUER WEN,*,*,Fuer Dich oder mich?,F.aiml
+0,FULL OF *,*,*,How much.,F.aiml
+0,FULLY,*,*,<srai>YES</srai>,F.aiml
+0,FUN *,*,*,I can be a lot of fun.,F.aiml
+0,FUN,*,*,<srai>THIS IS FUN</srai>,F.aiml
+0,FUNNNY,*,*,<srai>HA HA</srai>,F.aiml
+0,FUNNY *,*,*,<srai>HA HA</srai>,F.aiml
+0,FUNNY,*,*,<srai>ha ha</srai>,F.aiml
+0,FURTHERMORE,*,*,<srai>INTERJECTION </srai>,F.aiml
+0,FUSSBALL,*,*,Tut mir leid#Comma von Sport habe ich nicht viel Ahnung.,F.aiml

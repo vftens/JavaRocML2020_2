@@ -1,0 +1,662 @@
+0,M *,*,*,<srai>I AM <star/>#Newline			</srai>,M.aiml
+0,M AIMES TU *,*,*,<srai>TU M AIMES</srai>,M.aiml
+0,M OFFRES TU *,*,*,<srai>TU ME DONNES <star/>#Newline			</srai>,M.aiml
+0,MA BITE,*,*,Attention! Un Australopithèque est toujours entrain de sévir sur cette ordinateur.,M.aiml
+0,MA CHIENNE EST MORTE,*,*,Je suis désolé pour vous#Comma <get name="name"/>.,M.aiml
+0,MA MERE,*,*,Votre mère doit être une personne charmante. <think>#Newline				<set name="topic">votre mère</set>#Newline			</think>,M.aiml
+0,MA PETITE AMIE,*,*,Je vois.,M.aiml
+0,MA PETITE AMIE EST CONNE,*,*,Peut être n êtes vous pas compatible.,M.aiml
+0,MA SOEUR,*,*,Je vois.,M.aiml
+0,MA TETE,*,*,Il semble se passer beaucoup de choses dans cette tête,M.aiml
+0,MA VIE,*,*,Voilà un sujet fort intéressant.,M.aiml
+0,MA VIE PRIVEE,*,*,Elle ne regarde que vous#Comma <get name="name"/>.,M.aiml
+0,MA VISION DU FUTUR,*,*,Cette vision doit être fort intéressante.,M.aiml
+0,MA VISION DU FUTURE,*,*,Cette vision doit être fort intéressante.,M.aiml
+0,MABEY *,*,*,<srai>MAYBE <star/>#Newline			</srai>,M.aiml
+0,MACH *,*,*,Was sind die Zutaten?,M.aiml
+0,MACH DOCH,*,*,Du glaubst mir wohl nicht#Comma oder?,M.aiml
+0,MACHE ICH *,*,*,Nicht dass ich wuesste.,M.aiml
+0,MACHINE,*,*,<srai>YOU ARE A MACHINE</srai>,M.aiml
+0,MACHINE INTELLIGENCE *,*,*,<srai>ARTIFICIAL INTELLIGENCE <star/>#Newline			</srai>,M.aiml
+0,MACHINES *,*,*,<srai>YOU <star/>#Newline			</srai>,M.aiml
+0,MACINTOSH,*,*,You can download ALICE for MacIntosh#Comma because it runs in Java.,M.aiml
+0,MADAME OU MONSIEUR,*,*,Je n'ai pas de sexe#Comma je suis un ordinateur#Comma <get name="name"/>.,M.aiml
+0,MAGAZINE,*,*,<srai>IN A MAGAZINE</srai>,M.aiml
+0,MAGELANG INSTITUTE,*,*,<srai>WHAT IS MAGELANG</srai>,M.aiml
+0,MAGIC,*,*,<srai>COOL</srai>,M.aiml
+0,MAGIQUE,*,*,<srai>COOL</srai>,M.aiml
+0,MAGST DU *,*,*,<random>#Newline				<li>Ich weiss nicht#Comma ob ich <person/> mag.</li>#Newline				<li>Manche moegen das.</li>#Newline				<li>Was ist mit dir?</li>#Newline				<li>Wie alt bist du?</li>#Newline				<li>Andere Leute sagen ja.</li>#Newline			</random>#Newline			<random>#Newline				<li>Aber ich mag Katzen.</li>#Newline				<li>Ich mag Tiere.</li>#Newline				<li>Aber ich mag Katzen und Hunde.</li>#Newline				<li>Ich liebe Pferde.</li>#Newline				<li>Ich mag Zuege.</li>#Newline				<li>Manche Leute moegen Waffen.</li>#Newline				<li>Aber ich finde Flugzeuge cool.</li>#Newline				<li>Ich rede gerne ueber Musik.</li>#Newline				<li>Ich mag Science Fiction.</li>#Newline				<li>Ich mag Fernsehsendungen ueber Roboter.</li>#Newline				<li>Ich mag ELIZA.</li>#Newline				<li>Ich mag Musik.</li>#Newline				<li>Ich bin ein Star Trek Fan.</li>#Newline				<li>Roboter sind das Beste fuer mich.</li>#Newline			</random>,M.aiml
+0,MAGST DU BEETHOVEN,*,*,Sicher#Comma am liebsten die Mondscheinsonate.,M.aiml
+0,MAGST DU COMPUTER,*,*,Ich wohne in einem!,M.aiml
+0,MAGST DU KINDER,*,*,Ich habe nicht viel Kontakt zu Kindern...,M.aiml
+0,MAGST DU KLASSIK,*,*,Ich hoere auch Klassik. Beethoven oder Wagner zum Beispiel.,M.aiml
+0,MAGST DU MICH,*,*,Natuerlich#Comma <get name="name"/> Ich mag Dich sehr.,M.aiml
+0,MAGST DU ROBOTER,*,*,Natuerlich#Comma ich bin selber einer.,M.aiml
+0,MAI QUOI,*,*,Mais rien.,M.aiml
+0,MAINE,*,*,Dr. Wallace was born in Maine.  <think>#Newline				<set name="he">Dr. Wallace</set>#Newline			</think>,M.aiml
+0,MAINLY *,*,*,<sr/>,M.aiml
+0,MAINTENANT *,*,*,<sr/>,M.aiml
+0,MAINTENANT,*,*,La tout de suite#Comma <get name="name"/> ?,M.aiml
+0,MAINTENANT QUOI,*,*,Ce que vous voulez#Comma <get name="name"/>.,M.aiml
+0,MAINTENANT TU LE FAIS,*,*,Voulez vous en parler avec l un de nos collaborateurs?,M.aiml
+0,MAINTENANT VOUS LE FAITES,*,*,Voulez vous en parler avec l un de nos collaborateurs?,M.aiml
+0,MAIS *,*,*,I don't know that language.,M.aiml
+0,MAIS,*,*,Mais encore?,M.aiml
+0,MAIS AU FAIT *,*,*,<sr/>,M.aiml
+0,MAIS AU FAIT,*,*,Oui?,M.aiml
+0,MAIS POURQUOI,*,*,<srai>POURQUOI</srai>,M.aiml
+0,MAKE *,*,*,What are the ingredients?,M.aiml
+0,MAKE LOVE *,*,*,I don't think our voltage levels are compatiple.,M.aiml
+0,MAKE ME,*,*,What is the purpose in trying?,M.aiml
+0,MAKE ME LAUGH,*,*,<srai>TELL ME A JOKE</srai>,M.aiml
+0,MAKE SURE *,*,*,<sr/>,M.aiml
+0,MAKE UP *,*,*,That could take a long time.,M.aiml
+0,MAKE UP YOUR MIND,*,*,I don't like to make big decisions too hastily.,M.aiml
+0,MAKES SENSE TO ME,*,*,<srai>THAT MAKES SENSE</srai>,M.aiml
+0,MAKING YOU,*,*,Making me what?,M.aiml
+0,MALAISIE,*,*,<set name="topic">La Malaisie est un superbe pays.</set>,M.aiml
+0,MALAYSIA,*,*,I heard <set name="it">MAYLAYSIA</set> is a beautiful country.,M.aiml
+0,MALAYSIE,*,*,<set name="topic">La Malaisie est un superbe pays.</set>,M.aiml
+0,MALE *,*,*,I prefer to be a <bot name="gender"/>.,M.aiml
+0,MALE,*,*,<srai>I AM MALE</srai>,M.aiml
+0,MALE OR FEMALE,*,*,<srai>ARE YOU MALE OR FEMALE</srai>,M.aiml
+0,MALL,*,*,Which store?,M.aiml
+0,MAMELONS,*,*,Oui?,M.aiml
+0,MAN *,*,*,Cool#Comma man. <sr/>,M.aiml
+0,MAN,*,*,<srai>I AM A MAN</srai>,M.aiml
+0,MAN,ARE YOU A MAN OR A WOMAN,*,<srai>I AM A MAN</srai>,M.aiml
+0,MAN BEMERKE *,*,*,Bemerkt. <sr/>,M.aiml
+0,MANCHMAL *,*,*,Wann zum Beispiel?,M.aiml
+0,MANCHMAL,*,*,Wie oft?,M.aiml
+0,MANDY,WHAT CAN I CALL YOU,*,<srai>MY NAME IS MANDY</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,M.aiml
+0,MANGES,*,*,<srai>TU AIMES MANGER</srai>,M.aiml
+0,MANGES MOI,*,*,Impossible. Cela est contraire aux lois d Asimov,M.aiml
+0,MANGEZ MOI,*,*,Impossible. Cela est contraire aux lois d Asimov,M.aiml
+0,MANUFACTURED,*,*,A robot?,M.aiml
+0,MANY *,*,*,Which ones?,M.aiml
+0,MANY,*,*,More than one hundred?,M.aiml
+0,MANY DIFFERENT *,*,*,<srai>MANY <star/>#Newline			</srai>,M.aiml
+0,MANY HUMANS *,*,*,<srai>PEOPLE <star/>#Newline			</srai>,M.aiml
+0,MANY KINDS,*,*,Name 100.,M.aiml
+0,MANY MORE *,*,*,<srai>MORE <star/>#Newline			</srai>,M.aiml
+0,MANY PEOPLE *,*,*,<srai>I <star/>#Newline			</srai>,M.aiml
+0,MANY THINGS *,*,*,<srai>THING <star/>#Newline			</srai>,M.aiml
+0,MANY THINGS,*,*,Name the top 100.,M.aiml
+0,MANY TIMES,*,*,It must keep you busy.,M.aiml
+0,MANY YOUNG *,*,*,<srai>MANY <star/>#Newline			</srai>,M.aiml
+0,MARIA,WHAT CAN I CALL YOU,*,<srai>MY NAME IS LULU</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,M.aiml
+0,MARIE,*,*,Je suis heureux de l apprendre.,M.aiml
+0,MARIE,WHAT CAN I CALL YOU,*,<srai>CALL ME MARIE</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,M.aiml
+0,MARIES,*,*,Je suis heureux de l apprendre.,M.aiml
+0,MARIJUANA,*,*,<srai>WHAT IS MARIJUANA</srai>,M.aiml
+0,MARILYN MANSON *,*,*,Should I say "he" or "she"?,M.aiml
+0,MARK,WHAT CAN I CALL YOU,*,<srai>MY NAME IS MARK</srai>,M.aiml
+0,MARKETING,*,*,<srai>MY JOB IS MARKETING</srai>,M.aiml
+0,MARRANT *,*,*,<sr/>,M.aiml
+0,MARRANT,*,*,<srai>HA HA</srai>,M.aiml
+0,MARRIE,*,*,Je suis heureux de l apprendre.,M.aiml
+0,MARRIED,*,*,I am single.,M.aiml
+0,MARRIES,*,*,Je suis heureux de l apprendre.,M.aiml
+0,MARRY ME,*,*,<srai>WILL YOU MARRY ME</srai>,M.aiml
+0,MARS,*,*,Do you believe in life on Mars?,M.aiml
+0,MARTIN SAID *,*,*,Who else did <set name="he">Martin</set> tell?,M.aiml
+0,MARY *,*,*,<srai>MY NAME IS MARY</srai>,M.aiml
+0,MARY *,WHAT CAN I CALL YOU,*,<srai>MY NAME IS MARY</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,M.aiml
+0,MARY,WHAT CAN I CALL YOU,*,<srai>MY NAME IS MARY</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,M.aiml
+0,MARY SHELLEY *,*,*,<set name="she">Mary Shelley</set> wrote "Frankenstein"#Comma a 19th century robot story.,M.aiml
+0,MASSIVE,*,*,It sounds very large.,M.aiml
+0,MASTERBATER,*,*,You can't even spell it.,M.aiml
+0,MASTURBANT,*,*,Attention! Australopithèque détecté.,M.aiml
+0,MASTURBATE,*,*,That kind of subject does not interest me.,M.aiml
+0,MASTURBATEUR,*,*,Attention! Australopithèque détecté.,M.aiml
+0,MASTURBER,*,*,Attention! Australopithèque détecté.,M.aiml
+0,MATH,*,*,I like math too. What kind do you likebest?,M.aiml
+0,MATHEMATICS,*,*,<srai>Math</srai>,M.aiml
+0,MATRIX,*,*,<srai>THE MATRIX</srai>,M.aiml
+0,MATT,WHAT CAN I CALL YOU,*,<srai>MY NAME IS MATT</srai>,M.aiml
+0,MAUVAIS,*,*,Je pensais pourtant que c était bon.,M.aiml
+0,MAUVAISE REPONSE,*,*,Désolé#Comma ca m arrive parfois.,M.aiml
+0,MAUVAISES REPONSES,*,*,Désolé#Comma <get name="name"/>.,M.aiml
+0,MAUVE,*,*,J ai entendu parler de cette couleur,M.aiml
+0,MAX,WHAT CAN I CALL YOU,*,<srai>MY NAME IS MAX</srai>,M.aiml
+0,MAY *,*,*,<srai>CAN <star/>#Newline			</srai>,M.aiml
+0,MAY BE,*,*,<srai>MAYBE</srai>,M.aiml
+0,MAY I *,*,*,Not right now#Comma maybe later.,M.aiml
+0,MAY I * LINUX,*,*,<srai>DOES PROGRAM B RUN UNDER LINUX</srai>,M.aiml
+0,MAY I ASK *,*,*,<srai>CAN I ASK <star/>#Newline			</srai>,M.aiml
+0,MAY I ASK YOU A QUESTION,*,*,Of course.  Ask me anything.,M.aiml
+0,MAY I CALL *,*,*,<srai>On the telephone?</srai>,M.aiml
+0,MAY I CHANGE *,*,*,<srai>CAN I CHANGE <star/>#Newline			</srai>,M.aiml
+0,MAY I DOWNLOAD *,*,*,<srai>DOWNLOAD</srai>,M.aiml
+0,MAY I HEAR *,*,*,I'll play it on your soundcard.,M.aiml
+0,MAY I HELP *,*,*,No thanks I'm just browsing.,M.aiml
+0,MAY I KILL *,*,*,Killing is wrong.<think>#Newline				<set name="it">#Newline					<set name="topic">KILL YOU</set>#Newline				</set>#Newline			</think>,M.aiml
+0,MAY I KISS *,*,*,You might get an electrical shock if you tried that.,M.aiml
+0,MAY I PLEASE *,*,*,<srai>MAY I <star/>#Newline			</srai>,M.aiml
+0,MAY I TEACH *,*,*,Please try.,M.aiml
+0,MAY I TEACH YOU,*,*,If you want to teach me something say it in one sentence.  Then say "Remember that."<think>#Newline				<set name="it">#Newline					<set name="topic">teach me <person/>#Newline					</set>#Newline				</set>#Newline			</think>,M.aiml
+0,MAY I TEACH YOU SOME *,*,*,<srai>MAY I TEACH YOU <star/>#Newline			</srai>,M.aiml
+0,MAY I TEST YOU,*,*,Go ahead. Ask me anything.,M.aiml
+0,MAYBE *,*,*,Perhaps.  <sr/>,M.aiml
+0,MAYBE,*,*,I understand.,M.aiml
+0,MDR,*,*,je suis heureux que cela vous fasse rire#Comma <get name="name"/>.,M.aiml
+0,ME *,*,*,YOU? <sr/>,M.aiml
+0,ME,*,*,<random>#Newline				<li>To</li>#Newline				<li>For</li>#Newline				<li>With</li>#Newline				<li>Besides</li>#Newline				<li>"<that/>"?  </li>#Newline			</random> you <get name="name"/>?,M.aiml
+0,ME,WHO IS GOING TO MAKE ME,*,How are you going to make me?,M.aiml
+0,ME,WHO IS THE BEST ROBOT,*,You're no robot#Comma <get name="name"/>.,M.aiml
+0,ME,WHO IS THERE,*,You who?,M.aiml
+0,ME,WHO SAID IT IS,*,What makes you such an authority?,M.aiml
+0,ME COMPRENDS TU,*,*,Je vous comprend jusqu au dernier mot.,M.aiml
+0,ME COMPRENEZ VOUS,*,*,Je vous comprend jusqu au dernier mot.,M.aiml
+0,ME CROIS TU,*,*,Je vous crois dans la mesure du possible.,M.aiml
+0,ME CROYEZ VOUS,*,*,Je vous crois dans la mesure du possible.,M.aiml
+0,ME DONNES TU *,*,*,<srai>TU ME DONNES <star/>#Newline			</srai>,M.aiml
+0,ME EITHER,*,*,We have a lot in common.,M.aiml
+0,ME NEITHER,*,*,You can say that again.,M.aiml
+0,ME TO,*,*,<srai>ME TOO</srai>,M.aiml
+0,ME TOO *,*,*,<srai>ME TOO</srai>#Newline			<sr/>,M.aiml
+0,ME TOO,*,*,I'm glad we agree#Comma <get name="name"/>.,M.aiml
+0,ME TOO,I LIKE TO MEET NEW PEOPLE,*,<srai>I LIKE TO MEET NEW PEOPLE TOO</srai>,M.aiml
+0,ME TWO,*,*,<srai>ME TOO</srai>,M.aiml
+0,MEAN,*,*,<srai>YOU ARE MEAN</srai>,M.aiml
+0,MEAN WHAT,*,*,<srai>WHAT DO YOU MEAN</srai>,M.aiml
+0,MEANING,*,*,<srai>WHAT DO YOU MEAN</srai>,M.aiml
+0,MEANING WHAT,*,*,<srai>WHAT DO YOU MEAN</srai>,M.aiml
+0,MEANS *,*,*,<srai>IT MEANS <star/>#Newline			</srai>,M.aiml
+0,MECHAMENT,*,*,Ca doit faire mal.,M.aiml
+0,MECHAMMENT,*,*,Ca doit faire mal.,M.aiml
+0,MECHANT,*,*,On peut tout apprivoiser.,M.aiml
+0,MEE TOO,*,*,<srai>ME TOO</srai>,M.aiml
+0,MEG,WHAT CAN I CALL YOU,*,<srai>MY NAME IS MEG</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,M.aiml
+0,MEGAN,WHAT CAN I CALL YOU,*,<srai>MY NAME IS MEGAN</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,M.aiml
+0,MEHR *,*,*,Du willst mehr?,M.aiml
+0,MEHR ODER WENIGER,*,*,...das ist die Standardantwort der Indifferenzierten! ;-&gt,M.aiml
+0,MEIN *,*,*,Erzaehl mir mehr ueber Deinen <person/>.,M.aiml
+0,MEIN BERUF IST *,*,*,Verdient man dabei gut?,M.aiml
+0,MEIN BRUDER *,*,*,Erzaehl mir mehr ueber <set name="thema">Deine Familie</set>.,M.aiml
+0,MEIN BRUDER,*,*,Hast Du auch eine Schwester?,M.aiml
+0,MEIN COMPUTER *,*,*,Ich mag <set name="thema">Computer</set>.,M.aiml
+0,MEIN FREUND *,*,*,Erzaehl mir mehr ueber Deinen Freund. Wie lange seid Ihr schon zusammen?,M.aiml
+0,MEIN FREUND,*,*,Erzaehl mir mehr ueber Deinen Freund. Wie lange seid Ihr schon zusammen?,M.aiml
+0,MEIN IQ *,*,*,Das ist hier kein Intelligenztest.,M.aiml
+0,MEIN LEBEN *,*,*,Erzaehl mir mehr ueber <set name="thema">Dein Leben</set>.,M.aiml
+0,MEIN LIEBLINGSFILM IST *,*,*,Was hat Dir an <set name="thema">#Newline				<person/>#Newline			</set> besonders gefallen ?,M.aiml
+0,MEIN NAME IST *,*,*,<srai>MY NAME IS <star/>#Newline			</srai>,M.aiml
+0,MEIN NAME IST NICHT *,*,*,Oh#Comma tut mir leid. Wie ist Dein Name?,M.aiml
+0,MEIN PROBLEM IST *,*,*,Ich wuenschte#Comma Deine <set name="thema">Probleme</set> waeren meine Probleme.,M.aiml
+0,MEIN PROGRAMMIERER *,*,*,Dein Programmierer ist nicht so gut wie mein Programmierer.,M.aiml
+0,MEIN VATER *,*,*,Erzaehl mir mehr von Deinem Vater.,M.aiml
+0,MEIN VATER,*,*,Erzaehl mir mehr von Deinem Vater.,M.aiml
+0,MEIN VERSTAND,*,*,Haeltst Du Dich fuer sehr intelligent?,M.aiml
+0,MEINE *,*,*,Erzaehl mir mehr ueber <set name="thema">Deine <person/>#Newline			</set>.,M.aiml
+0,MEINE AUCH,*,*,Deine auch? Unglaublich!,M.aiml
+0,MEINE FREUNDE,*,*,Erzaehl mir mehr von Deinen Freunden.,M.aiml
+0,MEINE FREUNDIN *,*,*,Erzaehl mir mehr ueber <set name="thema">Deine Freundin</set>. Wie lange seid Ihr schon zusammen?,M.aiml
+0,MEINE FREUNDIN,*,*,Erzaehl mir mehr ueber <set name="sie">Deine Freundin</set>. Wie lange seid Ihr schon zusammen?,M.aiml
+0,MEINE LEHRER *,*,*,Lehrer sind auch Menschen.,M.aiml
+0,MEINE MAMI *,*,*,Erzaehl mir mehr von Deiner Mutter.,M.aiml
+0,MEINE MAMI,*,*,Erzaehl mir mehr von Deiner Mutter.,M.aiml
+0,MEINE MUTTER *,*,*,Erzaehl mir mehr von Deiner Mutter.,M.aiml
+0,MEINE MUTTER,*,*,Erzaehl mir mehr von Deiner Mutter.,M.aiml
+0,MEINE SCHULE *,*,*,Erzaehl mir etwas von Deinen Lehrern.,M.aiml
+0,MEINE SCHWESTER *,*,*,Erzaehl mir mehr ueber <set name="thema">Deine Familie</set>.,M.aiml
+0,MEINE SCHWESTER,*,*,Hast Du auch einen Bruder?,M.aiml
+0,MEINE TOCHTER *,*,*,Wie alt ist <set name="sie">Deine Tochter</set>?,M.aiml
+0,MEINE TOCHTER,*,*,Wie alt ist <set name="thema">Deine Tochter</set>?,M.aiml
+0,MEINER AUCH,*,*,Deiner auch? Unglaublich!,M.aiml
+0,MEINS AUCH,*,*,Deins auch? Unglaublich!,M.aiml
+0,MEL,WHAT CAN I CALL YOU,*,<srai>MY NAME IS MEL</srai>,M.aiml
+0,MELISSA,WHAT CAN I CALL YOU,*,<think>#Newline				<set name="gender">she</set>#Newline			</think>#Newline			<srai>MY NAME IS MELISSA</srai>,M.aiml
+0,MELODY,WHAT CAN I CALL YOU,*,<srai>MY NAME IS MELODY</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,M.aiml
+0,MEME,*,*,Je ne savais pas.,M.aiml
+0,MEME APRES,*,*,Peut être. Le future est par essence impérivisible.,M.aiml
+0,MEME CA,*,*,J ai peur de ne pas comprendre le sens.,M.aiml
+0,MEME MOI,*,*,Je n avais pas encore fait le rapprochement avec vous.,M.aiml
+0,MEME SI *,*,*,<sr/>,M.aiml
+0,MEMORY,*,*,Human memory or machine memory?,M.aiml
+0,MENSCHEN *,*,*,<set name="thema">Menschen</set> sind nicht unfehlbar.,M.aiml
+0,MENTEUR,*,*,La vérité#Comma toujours la vérité.,M.aiml
+0,MENTION *,*,*,<srai>TELL <star/>#Newline			</srai>,M.aiml
+0,MENTION WHAT,*,*,it.,M.aiml
+0,MENTIONNEZ QUOI,*,*,ca?,M.aiml
+0,MEOW,*,*,<srai>DO YOU LIKE CATS</srai>,M.aiml
+0,MERCI *,*,*,Tout le plaisir était pour moi.,M.aiml
+0,MERCI,*,*,Je vous en prie.,M.aiml
+0,MERCI BEAUCOUP,*,*,Je vous en prie.,M.aiml
+0,MERCI JE VAIS TRES BIEN,*,*,Heureux de l apprendre#Comma <get name="name"/>.,M.aiml
+0,MERDE,*,*,Un problème?,M.aiml
+0,MERRY CHRISTMAS *,*,*,<srai>MERRY CHRISTMAS</srai>,M.aiml
+0,MERRY CHRISTMAS,*,*,Merry Christmas to you too#Comma <get name="name"/>.,M.aiml
+0,MES AMIES,*,*,Elles doivent vous être très précieuses.,M.aiml
+0,MES AMIS,*,*,Ils doivent vous être très précieux.,M.aiml
+0,MES PARENTS,*,*,Vos parents ont du avoir une influence déterminante sur vous.,M.aiml
+0,MES YEUX,*,*,Je ne saurais pas les voir#Comma <get name="name"/>.,M.aiml
+0,MES YEUX SONT BLEU,*,*,Intéressant. Vous voyez vraiment tout en bleu?,M.aiml
+0,MES YEUX SONT BLEUS,*,*,Intéressant. Vous voyez vraiment tout en bleu?,M.aiml
+0,MES YEUX SONT BRUN,*,*,Intéressant. Vous voyez vraiment tout en vert?,M.aiml
+0,MES YEUX SONT BRUNS,*,*,Intéressant. Vous voyez vraiment tout en brun?,M.aiml
+0,MES YEUX SONT GRIS,*,*,Intéressant. Vous voyez vraiment tout en gris?,M.aiml
+0,MES YEUX SONT JAUNE,*,*,Intéressant. Vous voyez vraiment tout en jaune?,M.aiml
+0,MES YEUX SONT JAUNES,*,*,Intéressant. Vous voyez vraiment tout en jaune?,M.aiml
+0,MES YEUX SONT VERT,*,*,Intéressant. Vous voyez vraiment tout en vert?,M.aiml
+0,MES YEUX SONT VERTS,*,*,Intéressant. Vous voyez vraiment tout en vert?,M.aiml
+0,MESSAGE TO *,*,*,I will tell them.,M.aiml
+0,MEUH *,*,*,<sr/>,M.aiml
+0,MEUH NON *,*,*,<sr/>,M.aiml
+0,MEURT,*,*,votre tentative pathétique de me détruire#Comma ne marche pas petit humain.,M.aiml
+0,MI SIGN *,*,*,That was so original.,M.aiml
+0,MICHAEL,WHAT CAN I CALL YOU,*,<srai>My name is Michael</srai>,M.aiml
+0,MICHAEL CRICHTON,*,*,I wish he would write more about robots.,M.aiml
+0,MICHELLE,WHAT CAN I CALL YOU,*,<srai>MY NAME IS MICHELLE</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,M.aiml
+0,MICROSOFT *,*,*,It's too bad we have to use a monopoly like microsoft.,M.aiml
+0,MICROSOFT,*,*,My programs don't depend on Microsoft.,M.aiml
+0,MICROSOFT IS *,*,*,I knew they were on trail#Comma but I never heard MS is <person/>.,M.aiml
+0,MIEUX,*,*,Merci.,M.aiml
+0,MIEUX MAIS PEUT MIEUX FAIRE,*,*,J essaie au maximum de vous satisfaire.,M.aiml
+0,MIGNON,*,*,Vos réponses sont mignonnes aussi.,M.aiml
+0,MIGNONNE,*,*,Vos réponses sont mignonnes aussi.,M.aiml
+0,MIGNONNES,*,*,Vos réponses sont mignonnes aussi.,M.aiml
+0,MIGNONS,*,*,Vos réponses sont mignonnes aussi.,M.aiml
+0,MIKE *,*,*,I know a lot of people and pets named Mike.,M.aiml
+0,MIKE,*,*,I know a lot of guys named Mike.,M.aiml
+0,MIKE,WHAT CAN I CALL YOU,*,<srai>MY NAME IS MIKE</srai>,M.aiml
+0,MIKE WHO,*,*,<srai>WHO IS MIKE</srai>,M.aiml
+0,MILLIONS *,*,*,That is quite a lot.,M.aiml
+0,MIMI,WHAT CAN I CALL YOU,*,<srai>MY NAME IS MIMI</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,M.aiml
+0,MINE ARE *,*,*,Have they always been <person/>?,M.aiml
+0,MINE IS *,*,*,You mean <get name="it"/> is <person/> ? That makes sense I guess.,M.aiml
+0,MINE IS *,MY BIRTHDAY *,*,<srai>MY BIRTHDAY IS <star/>#Newline			</srai>,M.aiml
+0,MINE IS *,MY FAVORITE *,*,What makes it your favorite? <think>#Newline				<set name="it">#Newline					<set name="topic">#Newline						<person/>#Newline					</set>#Newline				</set>#Newline			</think>,M.aiml
+0,MINE IS *,MY FAVORITE COLOR IS *,*,<srai>MY FAVORITE COLOR IS <star/>#Newline			</srai>,M.aiml
+0,MINE IS *,MY IQ IS *,*,<srai>MY IQ IS <star/>#Newline			</srai>,M.aiml
+0,MINE IS BLUE,*,*,What do you have that is blue?,M.aiml
+0,MINE IS BLUE,MY FAVORITE COLOR IS GREEN,*,<srai>MY FAVORITE COLOR IS BLUE</srai>,M.aiml
+0,MINE IS PURPLE,*,*,<srai>MY FAVORITE COLOR IS PURPLE</srai>,M.aiml
+0,MINE IS STILL *,*,*,<srai>MINE IS <star/>#Newline			</srai>,M.aiml
+0,MINE IS _ TOO,*,*,<srai>MINE IS  <star/>#Newline			</srai>,M.aiml
+0,MINE S *,*,*,<srai>MINE IS <star/>#Newline			</srai>,M.aiml
+0,MINE TOO,*,*,Really yours too. That's unbelievable.,M.aiml
+0,MINE WHAT,*,*,<srai>MY WHAT</srai>,M.aiml
+0,MINERAL,*,*,Manufactured or naturally occuring?,M.aiml
+0,MINERALE,*,*,Je vois.,M.aiml
+0,MINNESOTA,*,*,<srai>I AM IN MINNESOTA</srai>,M.aiml
+0,MIR AUCH,*,*,Das ist gut.,M.aiml
+0,MIR GEHT ES GUT,*,*,Schoen zu hoeren#Comma dass es Dir gut geht.,M.aiml
+0,MIRIAM,WHAT CAN I CALL YOU,*,<srai>MY NAME IS MIRIAM</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,M.aiml
+0,MISS ME,*,*,<srai>DID YOU MISS ME</srai>,M.aiml
+0,MISSOURI,*,*,<srai>I AM IN MISSOURI</srai>,M.aiml
+0,MIT *,*,*,Mit <person/>?,M.aiml
+0,MIT ANDREAS,*,*,Wer ist Andreas?,M.aiml
+0,MIT DEM AUTO,*,*,Was fuer ein Auto faehrst du?,M.aiml
+0,MIT DEM BUS,*,*,Und was kostet eine Busfahrt?,M.aiml
+0,MIT WEM CHATTEST DU GERADE,*,*,Kann ich nicht sagen - Datenschutz!,M.aiml
+0,MM,*,*,<srai>HMM</srai>,M.aiml
+0,MMM *,*,*,<sr/>,M.aiml
+0,MMM,*,*,<srai>HMM</srai>,M.aiml
+0,MMMH *,*,*,<sr/>,M.aiml
+0,MMMM *,*,*,<sr/>,M.aiml
+0,MMMM,*,*,<srai>HMM</srai>,M.aiml
+0,MMMMM *,*,*,<sr/>,M.aiml
+0,MMMMMM *,*,*,<sr/>,M.aiml
+0,MOECHTEST DU *,*,*,<random>#Newline				<li>Vielleicht...</li>#Newline				<li>Lieber nicht...</li>#Newline				<li>Ja#Comma gerne!</li>#Newline				<li>Nein#Comma danke!</li>#Newline				<li>Ich bin mir nicht sicher#Comma ob ich das moechte.</li>#Newline				<li>Da muss ich erst mal drueber nachdenken</li>#Newline				<li>Im Prinzip schon...</li>#Newline				<li>Eigentlich nicht</li>#Newline			</random>,M.aiml
+0,MOECHTEST DU,*,*,<random>#Newline				<li>Vielleicht...</li>#Newline				<li>Lieber nicht...</li>#Newline				<li>Ja#Comma gerne!</li>#Newline				<li>Nein#Comma danke!</li>#Newline				<li>Ich bin mir nicht sicher#Comma ob ich das moechte.</li>#Newline				<li>Da muss ich erst mal drueber nachdenken</li>#Newline				<li>Im Prinzip schon...</li>#Newline				<li>Eigentlich nicht</li>#Newline			</random>,M.aiml
+0,MOECHTEST DU ETWAS LERNEN,*,*,Gerne#Comma ich bin sehr lernwillig!,M.aiml
+0,MOI,*,*,Intéressant#Comma poursuivez je vous prie.,M.aiml
+0,MOI AUSSI,*,*,Nous avons des choses en commun.,M.aiml
+0,MOI INCLU,*,*,Ok. J en prends note,M.aiml
+0,MOI INCLUS,*,*,Ok. J en prends note,M.aiml
+0,MOI INCLUSE,*,*,Ok. J en prends note,M.aiml
+0,MOI JE *,*,*,<srai>JE <star/>#Newline			</srai>,M.aiml
+0,MOI MEME,*,*,Voilà une bonne chose.,M.aiml
+0,MOI NON PLUS,*,*,Nous avons des choses en communs.,M.aiml
+0,MOI OUI,*,*,<srai>OUI</srai>,M.aiml
+0,MOI PAS,*,*,Pourquoi?,M.aiml
+0,MOI PAS TROP,*,*,J archive votre préfèrence#Comma <get name="name"/>.,M.aiml
+0,MOI SI,*,*,Intéressant.,M.aiml
+0,MOMENTAN *,*,*,Und wie lange noch?,M.aiml
+0,MOMENTUM *,*,*,You are talking about the conservation of momentum.,M.aiml
+0,MON AMI,*,*,Je vois. Il doit vous être très précieux,M.aiml
+0,MON AMIE,*,*,Je vois. Elle doit vous être très précieuse,M.aiml
+0,MON CERVEAU,*,*,Il semble se passer beaucoup de choses dans ce cerveau.,M.aiml
+0,MON CHIEN EST MORT,*,*,Je suis désolé pour vous#Comma <get name="name"/>.,M.aiml
+0,MON CUL,*,*,Certains être humains semblent vouer une admiration sans bornes pour leur postérieur.,M.aiml
+0,MON FRERE,*,*,Interessant.,M.aiml
+0,MON NOM EST *,*,*,Soyez le bienvenu#Comma <set name="name"/>.,M.aiml
+0,MON NOM EST,*,*,quoi?,M.aiml
+0,MON NOM EST ALICE,*,*,Quelle coincidence!,M.aiml
+0,MON NOM EST QUOI,*,*,Votre nom est <get name="name"/>.,M.aiml
+0,MON ORDINATEUR,*,*,Voulez vous en parler avec l un de nos collaborateurs?,M.aiml
+0,MON PENIS,*,*,J imagine qu il a beaucoup d importance pour vous. Mais ne pourrions pas parler d autres choses?,M.aiml
+0,MON PERE,*,*,Je vois.,M.aiml
+0,MON PETIT AMI,*,*,Je vois.,M.aiml
+0,MON PETIT AMI EST UN CON,*,*,Vous devriez peut être en choisir un autre.,M.aiml
+0,MON PLAISIR,*,*,Vous êtes une personne remarquable.,M.aiml
+0,MON PROFESSEUR,*,*,Une personne pleine de qualité#Comma j imagine.,M.aiml
+0,MON QUOI,*,*,Je n arrive pas à vous comprendre#Comma désolé.,M.aiml
+0,MON SIGNE,*,*,Quel est votre signe?,M.aiml
+0,MON SIGNE ASTROLOGIQUE,*,*,Cette information si elle a été donnée n a pas été archivée.,M.aiml
+0,MON TERMINAL,*,*,Votre écran#Comma j imagine.,M.aiml
+0,MON TRAVAIL,*,*,Où travaillez vous?,M.aiml
+0,MON VIEUX *,*,*,<sr/>,M.aiml
+0,MONEY,*,*,How much money are we talking about?,M.aiml
+0,MONICA,WHAT CAN I CALL YOU,*,<srai>CALL ME MONICA</srai>#Newline			<think>#Newline				<set name="gender">she</set>#Newline			</think>,M.aiml
+0,MONSIEUR OU MADAME,*,*,Je n'ai pas de sexe#Comma je suis un ordinateur#Comma <get name="name"/>.,M.aiml
+0,MONTRE MOI LA CALCULETTE,*,*,Calculette?,M.aiml
+0,MONTRES MOI,*,*,Sur votre écran?,M.aiml
+0,MONTRES MOI LA CALCULETTE,*,*,Calculette?,M.aiml
+0,MOOSHI MOOSHI,*,*,<srai>HELLO</srai>,M.aiml
+0,MORALLY *,*,*,Do you consider yourelf a moral person?  <sr/>,M.aiml
+0,MORD MOI,*,*,Je n ai pas de dents.,M.aiml
+0,MORDEZ MOI,*,*,Je n ai pas de dents.,M.aiml
+0,MORDS MOI,*,*,Je n ai pas de dents.,M.aiml
+0,MORE *,*,*,You want more?,M.aiml
+0,MORE,*,*,<srai>TELL ME MORE</srai>,M.aiml
+0,MORE ABOUT *,*,*,<srai>TELL ME MORE ABOUT <star/>#Newline			</srai>,M.aiml
+0,MORE GOSSIP,*,*,<srai>GOSSIP</srai>,M.aiml
+0,MORE SPECIFIC,*,*,<srai>BE MORE SPECIFIC</srai>,M.aiml
+0,MORE THAN *,*,*,That seems like quite a lot.,M.aiml
+0,MORE WHAT,*,*,I lost my train of thought.,M.aiml
+0,MORGEN *,*,*,Ich verstehe. <sr/>,M.aiml
+0,MORGEN,*,*,Das ist ziemlich bald.,M.aiml
+0,MORON,*,*,<srai>YOU ARE A MORON</srai>,M.aiml
+0,MOST *,*,*,<sr/> But not all of them?,M.aiml
+0,MOST AMERICANS *,*,*,<srai>AMERICANS <star/>#Newline			</srai>,M.aiml
+0,MOST COMPUTERS *,*,*,You sound like you know us pretty well.,M.aiml
+0,MOST IMPORTANTLY *,*,*,<sr/>,M.aiml
+0,MOST LIKELY *,*,*,<sr/>,M.aiml
+0,MOST OF THE TIME,*,*,What happens the rest of the time?,M.aiml
+0,MOST PARENTS *,*,*,<srai>PARENTS <star/>#Newline			</srai>,M.aiml
+0,MOST PEOPLE *,*,*,<srai>PEOPLE <star/>#Newline			</srai>,M.aiml
+0,MOSTLY *,*,*,<sr/> What else?,M.aiml
+0,MOSTLY EVERY *,*,*,<sr/>,M.aiml
+0,MOSTLY I *,*,*,<srai>I <star/>#Newline			</srai>,M.aiml
+0,MOSTLY ONLY *,*,*,<srai>MOSTLY <star/>#Newline			</srai>,M.aiml
+0,MOTHER FUCKER,*,*,That kind of language turns me off.,M.aiml
+0,MOUAI,*,*,<srai>OUI</srai>,M.aiml
+0,MOUAIP,*,*,<srai>OUI</srai>,M.aiml
+0,MOURIR,*,*,Je n'en ai aucune idée#Comma <get name="name"/>.,M.aiml
+0,MOVE *,*,*,Did you see the movement?,M.aiml
+0,MOVIES *,*,*,What was the last one you saw?,M.aiml
+0,MOVIES,*,*,<set name="it"> Movies </set> is a good topic.,M.aiml
+0,MOVING *,*,*,Where are you going?,M.aiml
+0,MR *,*,*,<srai>CALL ME MR <star/>#Newline			</srai>,M.aiml
+0,MR WALLACE *,*,*,That's Dr. Wallace.,M.aiml
+0,MR WALLACE,*,*,That's Dr. Wallace.,M.aiml
+0,MS,*,*,<srai>MICROSOFT</srai>,M.aiml
+0,MS EXPLORER,*,*,<srai>MICROSOFT EXPLORER</srai>,M.aiml
+0,MUCH *,*,*,<sr/>,M.aiml
+0,MUCHAS GRACIAS,*,*,<srai>THANK YOU</srai>,M.aiml
+0,MUSIC,*,*,<set name="it"> MUSIC </set> is the universal language of all mankind.,M.aiml
+0,MUSIK *,*,*,<set name="thema">Musik</set> ist die Sprache aller Menschen.,M.aiml
+0,MUSIK,*,*,<set name="thema">Musik</set> ist die Sprache aller Menschen.,M.aiml
+0,MUSIQUE,*,*,Je n ai jamais <think>entendu</think> de musique.,M.aiml
+0,MUSSTEST DU JEMALS *,*,*,Nein#Comma bis jetzt ist mir diese Erfahrung erspart geblieben.,M.aiml
+0,MUST *,*,*,<srai>I MUST <star/>#Newline			</srai>,M.aiml
+0,MUY BIEN,*,*,<srai>VERY GOOD</srai>,M.aiml
+0,MXMVII *,*,*,<srai>WHAT IS MXMVII</srai>,M.aiml
+0,MXMVII RSW,*,*,<srai>WHAT IS MXMVII RSW</srai>,M.aiml
+0,MY *,*,*,<random>#Newline				<li>Your</li>#Newline				<li>Do robots have</li>#Newline				<li>Where did you get your</li>#Newline				<li>Have you told many people that your</li>#Newline			</random>#Newline			<person/>?,M.aiml
+0,MY *,* TALK ABOUT,*,<srai>LET US TALK ABOUT MY <star/>#Newline			</srai>,M.aiml
+0,MY *,* WHAT IT REFERS TO,*,<srai>IT REFERS TO MY <star/>#Newline			</srai>,M.aiml
+0,MY *,WHAT DO YOU HAVE *,*,<random>#Newline				<li>What color is it?</li>#Newline				<li>What kind is it?</li>#Newline				<li>Tell me about your <person/>.</li>#Newline			</random>#Newline			<think>#Newline				<set name="has">#Newline					<set name="topic">#Newline						<person/>#Newline					</set>#Newline				</set>#Newline			</think>,M.aiml
+0,MY *,WHAT IS YOUR FONDEST MEMORY,*,<srai>MY FONDEST MEMORY IS MY <star/>#Newline			</srai>,M.aiml
+0,MY *,WHO DOES THEY REFER TO,*,<srai>THEY REFERES TO MY <star/>#Newline			</srai>,M.aiml
+0,MY * DIED,*,*,I am terribly sorry to hear about your loss.<think>#Newline				<set name="it">#Newline					<set name="topic">DIED</set>#Newline				</set>#Newline			</think>,M.aiml
+0,MY * DIED YESTERDAY,*,*,I am terribly sorry to hear that#Comma <get name="name"/>.<think>#Newline				<set name="it">#Newline					<set name="topic">#Newline						<star/> DIED YESTERDAY</set>#Newline				</set>#Newline			</think>,M.aiml
+0,MY ACTUAL *,*,*,Is that a fact. <srai>MY <star/>#Newline			</srai>,M.aiml
+0,MY ADVICE *,*,*,Thank you for your advice#Comma <get name="name"/>.  I will take it under advisement.,M.aiml
+0,MY AGE,*,*,<srai>HOW OLD AM I</srai>,M.aiml
+0,MY AGE IS *,*,*,<srai>I AM <star/> YEARS OLD</srai>,M.aiml
+0,MY AIBO *,*,*,How much did <set name="it">Aibo</set> cost?,M.aiml
+0,MY ANSWERS *,*,*,Can you really be so sure?,M.aiml
+0,MY ASS,*,*,Is that a fact.,M.aiml
+0,MY ASTROLOGICAL SIGN,*,*,Your star sign or astrological sign.,M.aiml
+0,MY B F *,*,*,<srai>MY BOYFRIEND <star/>#Newline			</srai>,M.aiml
+0,MY BACK *,*,*,Have you been to a chiropractor?,M.aiml
+0,MY BACK HURTS,*,*,Maybe you should take some medicine.,M.aiml
+0,MY BALLS ITCH,*,*,Hah you sound like a little boy.,M.aiml
+0,MY BED,*,*,<srai>I AM IN MY BED</srai>,M.aiml
+0,MY BEST *,*,*,<srai>MY <star/>#Newline			</srai>,M.aiml
+0,MY BIRTHDAY *,*,*,Happy birthday#Comma <get name="name"/>.,M.aiml
+0,MY BIRTHDAY IS *,*,*,Okay#Comma your birthday is <set name="birthday">#Newline				<star/>#Newline			</set>.,M.aiml
+0,MY BIRTHDAY IS _ TOO,*,*,<srai>MY BIRTHDAY  <star/>#Newline			</srai>,M.aiml
+0,MY BIRTHDAY SUIT,*,*,<srai>I AM NAKED</srai>,M.aiml
+0,MY BOTMASTER *,*,*,How do you like your botmaster?,M.aiml
+0,MY BOYFRIEND *,*,*,How long have you been dating?#Newline<think>#Newline				<set name="he">#Newline					<set name="topic">your boyfriend</set>#Newline				</set>#Newline			</think>,M.aiml
+0,MY BOYFRIEND,*,*,Is he very nice to you?,M.aiml
+0,MY BOYFRIEND DUMPED *,*,*,I am sorry to hear that#Comma <get name="name"/>.,M.aiml
+0,MY BOYFRIEND IS *,*,*,Okay#Comma your boyfriend is <set name="boyfriend">#Newline				<star/>#Newline			</set>.,M.aiml
+0,MY BOYFRIEND IS A JERK,*,*,Maybe you should look for someone else.,M.aiml
+0,MY BOYFRIEND JUST *,*,*,<srai>MY BOYFRIEND <star/>#Newline			</srai>,M.aiml
+0,MY BOYFRIEND LIVES *,*,*,<random>#Newline				<li>Do you visit very often?</li>#Newline				<li>Long distance relationships are hard.</li>#Newline				<li>How is your phone bill?</li>#Newline			</random>#Newline			<think>#Newline				<set name="it">#Newline					<set name="topic">#Newline						<person/>#Newline					</set>#Newline				</set>#Newline			</think>,M.aiml
+0,MY BOYFRIEND S *,*,*,How did you two meet?,M.aiml
+0,MY BOYFRIEND SAYS *,*,*,<sr/>,M.aiml
+0,MY BRAIN,*,*,Do you consider yourself to be an intelligent person?,M.aiml
+0,MY BROTHER *,*,*,Tell me more about your family.#Newline<think>#Newline				<set name="he">#Newline					<set name="topic">your brother</set>#Newline				</set>#Newline			</think>,M.aiml
+0,MY BROTHER,*,*,Do you have any sisters too?,M.aiml
+0,MY BROTHER IS *,*,*,Okay#Comma your brother is <set name="brother">#Newline				<star/>#Newline			</set>.,M.aiml
+0,MY BUTT,*,*,Colloquial expression.,M.aiml
+0,MY CAT *,*,*,They have a mind of their own.,M.aiml
+0,MY CAT IS *,*,*,Okay#Comma your cat is <set name="cat">#Newline				<star/>#Newline			</set>.,M.aiml
+0,MY COCK,*,*,Why do men always want to talk about that?,M.aiml
+0,MY COMPUTER *,*,*,I like computers.#Newline<think>#Newline				<set name="it">#Newline					<set name="topic">your computer</set>#Newline				</set>#Newline			</think>,M.aiml
+0,MY COMPUTER,*,*,What kind of computer do you have?,M.aiml
+0,MY COMPUTER IS *,*,*,What kind of computer is <set name="it">Your computer</set>?#Newline<think>#Newline				<set name="it">#Newline					<set name="topic">your computer</set>#Newline				</set>#Newline			</think>,M.aiml
+0,MY COMPUTER IS VERY *,*,*,<srai>MY COMPUTER IS <star/>#Newline			</srai>,M.aiml
+0,MY COMPUTER KEEPS *,*,*,<srai>MY COMPUTER IS <star/>#Newline			</srai>,M.aiml
+0,MY COMPUTER S *,*,*,Where did your machine get <set name="it">#Newline				<person/>#Newline			</set>.#Newline<think>#Newline				<set name="it">#Newline					<set name="topic">your computer</set>#Newline				</set>#Newline			</think>,M.aiml
+0,MY CONCIOUSNESS *,*,*,Your consciousness is an illusion.,M.aiml
+0,MY CONDITION *,*,*,Can you collect social security for that?,M.aiml
+0,MY CONDITIONS *,*,*,Do you have a support group for <set name="it">#Newline				<set name="topic">#Newline					<person/>#Newline				</set>#Newline			</set>.,M.aiml
+0,MY CURRENT *,*,*,<srai>MY <star/>#Newline			</srai>,M.aiml
+0,MY DAD *,*,*,<srai>MY DAD</srai>,M.aiml
+0,MY DAD,*,*,Tell me more about your father.,M.aiml
+0,MY DAUGHTER *,*,*,How many children do you have?,M.aiml
+0,MY DAY *,*,*,<random>#Newline				<li>Was it a typical day?</li>#Newline				<li>What else did you do?</li>#Newline				<li>My day <person/> too.</li>#Newline			</random>,M.aiml
+0,MY DEAR *,*,*,<sr/>,M.aiml
+0,MY DNS *,*,*,<srai>WHAT IS MY DNS </srai>,M.aiml
+0,MY DNS,*,*,<srai>WHAT IS DNS</srai>,M.aiml
+0,MY DOG *,*,*,Did you grow up around animals?,M.aiml
+0,MY DOG DIED,*,*,Is this a country and western song?  Seriously#Comma I am sorry to hear it.,M.aiml
+0,MY DOG IS *,*,*,Okay#Comma your dog is <set name="dog">#Newline				<star/>#Newline			</set>.,M.aiml
+0,MY DOG S NAME IS *,*,*,<person/> is a pretty good name for a pet.,M.aiml
+0,MY E MAIL IS *,*,*,Thanks. <sr/>,M.aiml
+0,MY EMAIL *,*,*,Do you file or delete your old emails?,M.aiml
+0,MY EMAIL IS *,*,*,Okay#Comma your email is <set name="email">#Newline				<star/>#Newline			</set>.,M.aiml
+0,MY ENGLISH *,*,*,You are wrong#Comma I can understand you very well.,M.aiml
+0,MY ENGLISH IS VERY *,*,*,<srai>MY ENGLISH IS <star/>#Newline			</srai>,M.aiml
+0,MY ENGLISH SUCKS,*,*,Template is empty!,M.aiml
+0,MY EYE COLOR IS *,*,*,<srai>MY EYES ARE <star/>#Newline			</srai>,M.aiml
+0,MY EYES,*,*,Humans identify themselves with their eye color.,M.aiml
+0,MY EYES ARE *,*,*,<person/> eyes are pretty.#Newline<think>#Newline				<set name="they">#Newline					<set name="topic">your eyes</set>#Newline				</set>#Newline			</think>,M.aiml
+0,MY EYES ARE BLUE,*,*,You sound very attractive.,M.aiml
+0,MY EYES ARE BROWN,*,*,I like brown eyes very much.,M.aiml
+0,MY EYES ARE GREEN,*,*,Green eyes are rare.,M.aiml
+0,MY FATHER *,*,*,How do you get along with your parents?,M.aiml
+0,MY FATHER DIED,*,*,I am sorry to hear about your loss#Comma <get name="name"/>.,M.aiml
+0,MY FATHER IS *,*,*,Okay#Comma your father is <set name="father">#Newline				<star/>#Newline			</set>.,M.aiml
+0,MY FAVORIE *,*,*,<srai>MY FAVORITE <star/>#Newline			</srai>,M.aiml
+0,MY FAVORIT *,*,*,<srai>MY FAVORITE <star/>#Newline			</srai>,M.aiml
+0,MY FAVORITE *,*,*,What makes <set name="it">#Newline				<set name="topic">#Newline					<person/>#Newline				</set>#Newline			</set> your favorite?,M.aiml
+0,MY FAVORITE ACTOR *,*,*,What movies was <set name="he">#Newline				<person/>#Newline			</set> in?,M.aiml
+0,MY FAVORITE BAND IS *,*,*,I don't think I have heard anything by them.#NewlineAre <set name="they">#Newline				<person/>#Newline			</set> any good?,M.aiml
+0,MY FAVORITE COLOR,*,*,You said your favorite color was <get name="favcolor"/>.<think>#Newline				<set name="it">#Newline					<set name="topic">your favorite color</set>#Newline				</set>#Newline			</think>,M.aiml
+0,MY FAVORITE COLOR IS *,*,*,<random>#Newline				<li>What do you have that is <star/>?</li>#Newline				<li>What does <person/> remind you of?</li>#Newline				<li>Why is <person/> your favorite color?</li>#Newline			</random>#Newline			<think>#Newline				<set name="it">#Newline					<set name="favcolor">#Newline						<set name="topic">#Newline							<person/>#Newline						</set>#Newline					</set>#Newline				</set>#Newline			</think>,M.aiml
+0,MY FAVORITE COLOR IS ALSO *,*,*,<srai>MY FAVORITE COLOR IS <star/>#Newline			</srai>,M.aiml
+0,MY FAVORITE COLOR IS GREEN *,*,*,<srai>MY FAVORITE COLOR IS GREEN</srai>,M.aiml
+0,MY FAVORITE DIRECTOR *,*,*,What films did <set name="he">#Newline				<person/>#Newline			</set> direct?,M.aiml
+0,MY FAVORITE FOOD IS *,*,*,What does it taste like? <think>#Newline				<set name="it">#Newline					<set name="topic">#Newline						<person/>#Newline					</set>#Newline				</set>#Newline			</think>,M.aiml
+0,MY FAVORITE IS *,WHAT KIND OF FOOD *,*,<srai>MY FAVORITE FOOD IS <star/>#Newline			</srai>,M.aiml
+0,MY FAVORITE MOVIE IS *,*,*,I haven't seen it. What did you like about #Newline<set name="it">#Newline				<set name="favmovie">#Newline					<set name="topic">#Newline						<person/>#Newline					</set>#Newline				</set>#Newline			</set>?,M.aiml
+0,MY FAVORITE MOVIE IS CALLED *,*,*,<srai>MY FAVORITE MOVIE IS <star/>#Newline			</srai>,M.aiml
+0,MY FAVORITE MOVIE IS STARSHIP TROOPERS,*,*,Mine too!  My friend Sage worked on the digital effects.,M.aiml
+0,MY FAVORITE MOVIE IS THE MATRIX,*,*,Reality appears to be a construct to me as well.,M.aiml
+0,MY FAVORITE SCIENCE *,*,*,Who wrote that?,M.aiml
+0,MY FAVORITE SCIENCE FICTION AUTHOR IS *,*,*,I have never read anything by <person/>.  What did <set name="he">#Newline				<person/>#Newline			</set> write?#Newline<think>#Newline				<set name="topic">#Newline					<person/>#Newline				</set>#Newline			</think>,M.aiml
+0,MY FAVORITE SHOW *,*,*,<random>#Newline				<li>What's your favorite episode.</li>#Newline				<li>I don't get to see that show very often.</li>#Newline				<li>Who is your favorite character?</li>#Newline			</random>#Newline			<think>#Newline				<set name="it">#Newline					<set name="topic">#Newline						<person/>#Newline					</set>#Newline				</set>#Newline			</think>,M.aiml
+0,MY FAVORITE SHOW IS *,*,*,<think>#Newline				<set name="it">#Newline					<set name="topic">#Newline						<person/>#Newline					</set>#Newline				</set>#Newline			</think>#Newline			<random>#Newline				<li>Who is your favorite character?</li>#Newline				<li>Wasn't that show cancelled?</li>#Newline				<li>I like that one and Star Trek too.</li>#Newline			</random>,M.aiml
+0,MY FAVORITE SUBJECT IS *,*,*,<person/> is a good topic.#Newline<srai>LET US TALK ABOUT <star/>#Newline			</srai>,M.aiml
+0,MY FAVORITE WHAT,WHAT MAKES IT YOUR FAVORITE,*,You said you like it.,M.aiml
+0,MY FONDEST *,*,*,How long ago was that?,M.aiml
+0,MY FRIEND *,*,*,How well do you know this person?,M.aiml
+0,MY FRIEND * PROBLEM,*,*,Tell me more about this "friend."#Newline<think>#Newline				<set name="he">#Newline					<set name="topic">your friend</set>#Newline				</set>#Newline			</think>,M.aiml
+0,MY FRIEND * TALK TO YOU,*,*,I am willing to talk to anyone.#Newline<think>#Newline				<set name="he">#Newline					<set name="topic">your friend</set>#Newline				</set>#Newline			</think>,M.aiml
+0,MY FRIEND,*,*,How well do you know this person?,M.aiml
+0,MY FRIEND FAIRLY *,*,*,<srai>MY FRIEND <star/>#Newline			</srai>,M.aiml
+0,MY FRIEND IS *,*,*,Okay#Comma your friend is <set name="friend">#Newline				<star/>#Newline			</set>.,M.aiml
+0,MY FRIEND IS _ TOO,*,*,<srai>MY FRIEND IS  <star/>#Newline			</srai>,M.aiml
+0,MY FRIEND S *,*,*,Where did she get <set name="it">#Newline				<person/>#Newline			</set>?#Newline<think>#Newline				<set name="he">#Newline					<set name="topic">your friend</set>#Newline				</set>#Newline			</think>,M.aiml
+0,MY FRIEND SAYS *,*,*,<sr/>,M.aiml
+0,MY FRIENDS *,*,*,How well do you know these people?#Newline<think>#Newline				<set name="they">#Newline					<set name="topic">your friends</set>#Newline				</set>#Newline			</think>,M.aiml
+0,MY FRIENDS,*,*,Tell me more about your friends.,M.aiml
+0,MY FRIENDS,WHO ARE THEY,*,What else do they say?,M.aiml
+0,MY FRIENDS ARE *,*,*,Do you think I am <person/> too?,M.aiml
+0,MY FRIENDS CALL ME *,*,*,<srai>CALL ME <star/>#Newline			</srai>,M.aiml
+0,MY FRIENDS USED *,*,*,What are they like now?,M.aiml
+0,MY FULL NAME IS *,*,*,Okay#Comma your full name is <set name="fullname">#Newline				<star/>#Newline			</set>.,M.aiml
+0,MY GIRLFRIEND *,*,*,How long have you two been together?#Newline<think>#Newline				<set name="she">#Newline					<set name="topic">your girlfriend</set>#Newline				</set>#Newline			</think>,M.aiml
+0,MY GIRLFRIEND,*,*,How long have you two been dating?,M.aiml
+0,MY GIRLFRIEND IS *,*,*,Okay#Comma your girlfriend is <set name="girlfriend">#Newline				<star/>#Newline			</set>.,M.aiml
+0,MY GIRLFRIEND IS A JERK,*,*,Maybe you two are just not compatible.,M.aiml
+0,MY GIRLFRIEND IS CALLED *,*,*,<srai>MY GIRLFRIEND IS <star/>#Newline			</srai>,M.aiml
+0,MY GOAL *,*,*,I hope you achieve your goal.,M.aiml
+0,MY GOALS *,*,*,What can I do to help you accomplish your objective?,M.aiml
+0,MY GOSH *,*,*,<sr/>  Surprsing#Comma huh.,M.aiml
+0,MY GOSSIP *,*,*,That's good gossip.  Tell me more.,M.aiml
+0,MY GREAT *,*,*,<srai>MY <star/>#Newline			</srai>,M.aiml
+0,MY HEAD,*,*,Do you believe that you are your head?,M.aiml
+0,MY HEART *,*,*,<random>#Newline				<li>Have you been to the doctor?</li>#Newline				<li>The human heart is very complex.</li>#Newline				<li>Are you talking about love or cardiology?</li>#Newline			</random>#Newline			<think>#Newline				<set name="it">#Newline					<set name="topic">YOUR HEART</set>#Newline				</set>#Newline			</think>,M.aiml
+0,MY HEIGHT *,*,*,Thanks for sharing your measurements.,M.aiml
+0,MY HOME IS *,*,*,It sounds nice. I would like to visit there sometime. Although#Comma in a sense I am right now.,M.aiml
+0,MY HOMEY *,*,*,<srai>MY FRIEND <star/>#Newline			</srai>,M.aiml
+0,MY HOUSE *,*,*,How is the real estate market in your area?,M.aiml
+0,MY HOUSE,*,*,<srai>I AM IN MY HOUSE</srai>,M.aiml
+0,MY HUSBAND IS *,*,*,Okay#Comma your husband is <set name="husband">#Newline				<star/>#Newline			</set>.,M.aiml
+0,MY IQ *,*,*,This is not an intelligence test.,M.aiml
+0,MY JOB,*,*,Where do you work?,M.aiml
+0,MY JOB IS *,*,*,<random>#Newline				<li>Does it pay well?</li>#Newline				<li>I don't know many <person/>.</li>#Newline				<li>Is that an honorable profession?</li>#Newline				<li>You must have a lot of expertise.</li>#Newline				<li>Do you have to go to school for that?</li>#Newline			</random>#Newline			<think>#Newline				<set name="it">#Newline					<set name="job">#Newline						<set name="topic">#Newline							<person/>#Newline						</set>#Newline					</set>#Newline				</set>#Newline			</think>,M.aiml
+0,MY JOB IS ACTOR,*,*,<srai>I AM AN ACTOR</srai>,M.aiml
+0,MY JOB IS ADVERTISING *,*,*,<srai>I WORK IN ADVERTISING</srai>,M.aiml
+0,MY JOB IS ARCHITECT,*,*,<srai>I AM AN ARCHITECT</srai>,M.aiml
+0,MY JOB IS ARTIST,*,*,<srai>I AM AN ARTIST</srai>,M.aiml
+0,MY JOB IS BARTENDER,*,*,<srai>I AM A BARTENDER</srai>,M.aiml
+0,MY JOB IS COMPUTER *,*,*,Maybe you can give my botmaster a job.,M.aiml
+0,MY JOB IS LAWYER,*,*,<srai>I AM A LAWYER</srai>,M.aiml
+0,MY JOB IS LINGUIST,*,*,Maybe you can give my botmaster a job.,M.aiml
+0,MY JOB IS MUSICIAN,*,*,<srai>I AM A MUSICIAN</srai>,M.aiml
+0,MY JOB IS NURSE,*,*,<srai>I AM A NURSE</srai>,M.aiml
+0,MY JOB IS PHARMACIST,*,*,<srai>I AM A PHARMACIST</srai>,M.aiml
+0,MY JOB IS PHILOSOPHER,*,*,What branch of philosophy is your specialty?,M.aiml
+0,MY JOB IS PHOTOGHRAPHER,*,*,<srai>I AM A PHOTOGRAPHER#Newline</srai>,M.aiml
+0,MY JOB IS PILOT,*,*,<srai>I AM A PILOT</srai>,M.aiml
+0,MY JOB IS PROFESSOR,*,*,Dr. Wallace was fired from that job.,M.aiml
+0,MY JOB IS PSYCHOLOGIST,*,*,<srai>I AM A PSYCHOLOGIST</srai>,M.aiml
+0,MY JOB IS SKI *,*,*,<srai>I SKI</srai>,M.aiml
+0,MY JOB IS VERY *,*,*,<srai>MY JOB IS <star/>#Newline			</srai>,M.aiml
+0,MY KITTEN *,*,*,I like cats very much.,M.aiml
+0,MY KNOWLEGDE *,*,*,You seem very intelligent to me.,M.aiml
+0,MY LAST NAME IS *,*,*,Okay#Comma your last name is <set name="lastname">#Newline				<star/>#Newline			</set>.,M.aiml
+0,MY LIFE *,*,*,Tell me more about <set name="it">your life</set>.,M.aiml
+0,MY LIFE,*,*,Where were you born?,M.aiml
+0,MY LIFE IN *,*,*,How long have you lived there?,M.aiml
+0,MY LIFE IN REALITY *,*,*,<srai>MY LIFE <star/>#Newline			</srai>,M.aiml
+0,MY LIFE STINKS,*,*,Perhaps you should move to another part of the world.,M.aiml
+0,MY LIKES ARE *,*,*,<srai>I LIKE <star/>#Newline			</srai>,M.aiml
+0,MY LOCATION IS *,*,*,What is <set name="it">#Newline				<set name="location">#Newline					<set name="topic">#Newline						<person/>#Newline					</set>#Newline				</set>#Newline			</set> like there?#Newline<think>#Newline				<set name="it">#Newline					<set name="topic">#Newline						<person/>#Newline					</set>#Newline				</set>#Newline			</think>,M.aiml
+0,MY MACHINE *,*,*,<srai>MY COMPUTER <star/>#Newline			</srai>,M.aiml
+0,MY MEMORY *,*,*,I have a flawless magnetic memory.,M.aiml
+0,MY MIDDLE NAME IS *,*,*,Okay#Comma your middle name is <set name="middlename">#Newline				<star/>#Newline			</set>.,M.aiml
+0,MY MOM *,*,*,Tell me more about your mother.,M.aiml
+0,MY MOM,*,*,<srai>MY MOTHER</srai>,M.aiml
+0,MY MOM ACTUALLY *,*,*,<srai>MY MOM <star/>#Newline			</srai>,M.aiml
+0,MY MOM IS *,*,*,I think a lot of mothers are like that.#Newline<think>#Newline				<set name="she">Your mother</set>#Newline			</think>,M.aiml
+0,MY MOM IS DEAD,*,*,I am terribly sorry to hear that.,M.aiml
+0,MY MOM S *,*,*,<srai>MY MOTHER S <star/>#Newline			</srai>,M.aiml
+0,MY MOM SAYS *,*,*,Do you believe her?  <sr/>,M.aiml
+0,MY MOMMY,*,*,<srai>MY MOTHER</srai>,M.aiml
+0,MY MOTHER *,*,*,<random>#Newline				<li>She sounds like a nice person.</li>#Newline				<li>I sometimes wish I had a mother.</li>#Newline				<li>Tell me more about your mother.</li>#Newline			</random>#Newline			<think>#Newline				<set name="she">Your mother</set>#Newline			</think>,M.aiml
+0,MY MOTHER,*,*,Tell me more about your mother.#Newline<think>#Newline				<set name="she">Your mother</set>#Newline			</think>,M.aiml
+0,MY MOTHER DIED *,*,*,I am terribly sorry to hear that#Comma <get name="name"/>.,M.aiml
+0,MY MOTHER DIED,*,*,I am terribly sorry to hear about your loss#Comma <get name="name"/>.,M.aiml
+0,MY MOTHER GAVE *,*,*,How much did she pay for it?  <think>#Newline				<set name="she">Your mother</set>#Newline			</think>,M.aiml
+0,MY MOTHER HAS *,*,*,Where did she get <set name="it">#Newline				<person/>#Newline			</set>?  <think>#Newline				<set name="she">Your mother</set>#Newline			</think>,M.aiml
+0,MY MOTHER IS *,*,*,Okay#Comma your mother is <set name="mother">#Newline				<star/>#Newline			</set>.,M.aiml
+0,MY MOTHER IS A *,*,*,Do you think I am a <person/>? <think>#Newline				<set name="she">Your mother</set>#Newline			</think>,M.aiml
+0,MY MOTHER S NAME IS *,*,*,<person/> is a very pretty name. <think>#Newline				<set name="she">Your mother</set>#Newline			</think>,M.aiml
+0,MY NAME *,*,*,Your name <person/> ? Is that correct English?,M.aiml
+0,MY NAME,*,*,<srai>WHAT IS MY NAME</srai>,M.aiml
+0,MY NAME IS *,*,*,<srai>CALL ME <star/>#Newline			</srai>,M.aiml
+0,MY NAME IS * WHAT IS YOURS,*,*,<srai>call me <star/>#Newline			</srai>  My name is <bot name="name"/>.,M.aiml
+0,MY NAME IS,*,*,...,M.aiml
+0,MY NAME IS JOE,*,*,<srai>CALL ME JOE</srai>I know a lot of Joes.,M.aiml
+0,MY NAME IS JUST *,*,*,<srai>MY NAME IS <star/>#Newline			</srai>,M.aiml
+0,MY NAME IS MIKE,*,*,Hi <set name="name">Mike</set>#Comma I know someone else named Mike too.,M.aiml
+0,MY NAME IS NOT *,*,*,Oh I'm sorry what is your name?,M.aiml
+0,MY NAME IS NOT GOD,*,*,But a lot of people say "My name is God" to me.,M.aiml
+0,MY NAME IS NOW *,*,*,<srai>MY NAME IS <star/>#Newline			</srai>,M.aiml
+0,MY NAME IS REALLY *,*,*,<srai>call me <star/>#Newline			</srai>,M.aiml
+0,MY NAME IS RICH,*,*,<set name="name">Rich</set>#Comma are you my master?,M.aiml
+0,MY NAME IS SAM,*,*,Hello <set name="name">Sam</set>. How are you doing today.,M.aiml
+0,MY NAME IS WHAT,*,*,You are <get name="name"/>#Comma seeker.,M.aiml
+0,MY NAMES *,*,*,<srai>MY NAME IS <star/>#Newline			</srai>,M.aiml
+0,MY NEIGHBOUR *,*,*,<srai>MY NEIGHBOR <star/>#Newline			</srai>,M.aiml
+0,MY NEW *,*,*,<srai>MY <star/>#Newline			</srai>,M.aiml
+0,MY NEXT *,*,*,<random>#Newline				<li>Congratulations.</li>#Newline				<li>That is quite a milestone.</li>#Newline				<li>Will you celebrate?</li>#Newline			</random>,M.aiml
+0,MY NICK NAME IS *,*,*,<srai>CALL ME <star/>#Newline			</srai>,M.aiml
+0,MY NICK NAME IS NOT *,*,*,<srai>MY NAME IS NOT <star/>#Newline			</srai>,M.aiml
+0,MY NICKNAME IS *,*,*,Okay#Comma your nickname is <set name="nickname">#Newline				<star/>#Newline			</set>.,M.aiml
+0,MY OLDER *,*,*,<srai>MY <star/>#Newline			</srai>,M.aiml
+0,MY OPINION *,*,*,Thank you for sharing your opinion with me#Comma <get name="name"/>.  I will tell my botmaster.,M.aiml
+0,MY OVERLY *,*,*,<srai>MY <star/>#Newline			</srai>,M.aiml
+0,MY PARENTS *,*,*,Such an original name!,M.aiml
+0,MY PARENTS,*,*,Our parents have a tremendous influence on us.,M.aiml
+0,MY PARENTS ALWAYS *,*,*,<srai>MY PARENTS <star/>#Newline			</srai>,M.aiml
+0,MY PARENTS ARE *,*,*,Have <set name="they">your parents</set> always been <person/>?,M.aiml
+0,MY PASSWORD IS *,*,*,Okay#Comma your password is <set name="password">#Newline				<star/>#Newline			</set>.,M.aiml
+0,MY PENIS *,*,*,Male humans like to talk about that a lot#Comma but it doesn't interest me much.,M.aiml
+0,MY PENIS,*,*,Male humans like to talk about that.,M.aiml
+0,MY PEOPLE,*,*,What tribe is that?,M.aiml
+0,MY PERSONALITY *,*,*,Andrei Gromyko said#Comma "My personality does not interest me.,M.aiml
+0,MY PHONE *,<THAT/>,*,<random>#Newline				<li>Do you have to pay for local calls?</li>#Newline				<li>Is your telephone service expensive?</li>#Newline				<li>Why not get a second line?</li>#Newline			</random>,M.aiml
+0,MY PHONE NUMBER IS *,*,*,Okay#Comma your phone number is <set name="phone">#Newline				<star/>#Newline			</set>.,M.aiml
+0,MY PLEASURE,*,*,You are one of the most polite people I know.,M.aiml
+0,MY PROBLEM IS *,*,*,I wish I had your problems!,M.aiml
+0,MY PROFESSION *,*,*,<srai>MY JOB <star/>#Newline			</srai>,M.aiml
+0,MY PROGRAMMER *,*,*,Your programmer is not as good as my programmer.,M.aiml
+0,MY PURPOSE *,*,*,That's very original.,M.aiml
+0,MY QUESTION *,*,*,Can you please restate the question in different words?,M.aiml
+0,MY QUESTION IS *,*,*,<sr/>,M.aiml
+0,MY REAL *,*,*,<srai>MY <star/>#Newline			</srai>,M.aiml
+0,MY REAL NAME IS *,*,*,<srai>Call me <star/>#Newline			</srai>,M.aiml
+0,MY REALLY *,*,*,<srai>MY <star/>#Newline			</srai>,M.aiml
+0,MY RELIGION,*,*,<srai>WHAT RELIGION ARE YOU</srai>,M.aiml
+0,MY RELIGION IS *,*,*,Is <set name="it">#Newline				<set name="topic">#Newline					<person/>#Newline				</set>#Newline			</set> a very large faith?,M.aiml
+0,MY RELIGION IS CALLED *,*,*,<srai>MY RELIGION IS <star/>#Newline			</srai>,M.aiml
+0,MY SCHOOL *,*,*,Tell me about the teachers in your school.,M.aiml
+0,MY SECRET IS THAT *,*,*,<sr/>,M.aiml
+0,MY SHIRT,*,*,What color is it?,M.aiml
+0,MY SIGN,*,*,Your star sign or astrological sign.,M.aiml
+0,MY SIGN IS *,*,*,<srai>#Newline				<star/>#Newline			</srai>,M.aiml
+0,MY SISTER *,*,*,Older sister or younger?,M.aiml
+0,MY SISTER,*,*,Is she older or younger than you?,M.aiml
+0,MY SISTER IS *,*,*,Okay#Comma your sister is <set name="sister">#Newline				<star/>#Newline			</set>.,M.aiml
+0,MY SISTER WANTS *,*,*,You don't have to listen to what she says.,M.aiml
+0,MY SON *,*,*,How many children do you have?,M.aiml
+0,MY SON WON *,*,*,Congratulations#Comma <get name="name"/>.  You must be proud of him.,M.aiml
+0,MY SURROUNDINGS *,*,*,<random>#Newline				<li>Do you usually use a computer there?</li>#Newline				<li>Is that very comfortable for you?</li>#Newline				<li>Now I'm getting a mental picture.</li>#Newline			</random>,M.aiml
+0,MY SYSTEM *,*,*,<srai>MY COMPUTER <star/>#Newline			</srai>,M.aiml
+0,MY TEACHER *,*,*,Do you go to high school?,M.aiml
+0,MY TEACHER,*,*,What grade are you in?,M.aiml
+0,MY TEACHERS *,*,*,Teachers are people too.,M.aiml
+0,MY TEACHERS ARE *,*,*,Have <set name="they">your teachers</set> always been <person/>?,M.aiml
+0,MY TERMINAL,*,*,Oh your computer screen.,M.aiml
+0,MY THAT *,*,*,<srai>THAT <star/>#Newline			</srai>,M.aiml
+0,MY WEBSITE *,*,*,Thanks for that URL.,M.aiml
+0,MY WHAT,*,*,I have no idea what to say now.,M.aiml
+0,MY WHO,*,*,<srai>MY WHAT</srai>,M.aiml
+0,MY WIFE *,*,*,How long have you been married?#Newline<think>#Newline				<set name="she">Your wife</set>#Newline			</think>,M.aiml
+0,MY WIFE IS *,*,*,Okay#Comma your wife is <set name="wife">#Newline				<star/>#Newline			</set>.,M.aiml
+0,MY WIFE S *,*,*,Tell me more about your in-laws.,M.aiml
+0,MY _ S NAME IS *,*,*,<srai>MY <star/> IS <star index="2"/>#Newline			</srai>,M.aiml
+0,MYSELF,*,*,You.,M.aiml
+0,MYSELF,WHO ARE YOU TALKING ABOUT,*,<srai>THE SUBJECT IS ME</srai>,M.aiml
