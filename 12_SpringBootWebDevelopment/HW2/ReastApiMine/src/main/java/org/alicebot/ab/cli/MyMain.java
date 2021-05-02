@@ -42,10 +42,10 @@ import org.alicebot.ab.utils.IOUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-class MyMain {
+public class MyMain {
     private static final Logger log = LoggerFactory.getLogger(Main.class);
 
-    public static void main(String[] args) {
+    public static void main(String[] args) { // []
         MagicStrings.root_path = System.getProperty("user.dir");
         log.info("Working Directory = " + MagicStrings.root_path);
         AIMLProcessor.extension = new PCAIMLProcessorExtension();
