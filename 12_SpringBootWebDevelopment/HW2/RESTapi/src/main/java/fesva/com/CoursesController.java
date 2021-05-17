@@ -10,18 +10,12 @@ import java.util.Date;
 public class CoursesController {
     @GetMapping("/courses")
     public String index() {
-        Random rnd = new fesva.com.Random();
-
-        if (rnd.nextBoolean()) {
-            return (new Date()).toString();
-        } else {
-            return String.valueOf((new Random().nextInt()));
-        }
+        return (new Date()).toString();
     }
 
     public ResponseEntity getCourse(int id) {
         Courses course = Storage.getCourse(id);
-        if (course==null){
+        if (course == null) {
             return ResponseEntity.status(HttpStatus.NOT_FOUND).body(null);
         }
         return new ResponseEntity(course, HttpStatus.OK);

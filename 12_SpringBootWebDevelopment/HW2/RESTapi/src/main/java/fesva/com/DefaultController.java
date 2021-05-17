@@ -11,13 +11,7 @@ public class DefaultController {
 
     @RequestMapping("/")
     public String index() {
-        Random rnd = new fesva.com.Random();
-
-        if (rnd.nextBoolean()) {
-            return (new Date()).toString();
-        } else {
-            return String.valueOf((new Random().nextInt()));
-        }
+        return (new Date()).toString();
     }
 
     @RequestMapping(method = {RequestMethod.OPTIONS,

@@ -13,4 +13,9 @@
       <module name="program-ab" target="1.9" />
     </bytecodeTargetLevel>
   </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="program-ab" options="" />
+    </option>
+  </component>
 </project>
