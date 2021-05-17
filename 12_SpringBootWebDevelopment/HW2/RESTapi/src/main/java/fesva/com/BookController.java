@@ -23,9 +23,9 @@ public class BookController {
     }
 
     @GetMapping("/books/{id}")
-    public ResponseEntity get(@PathVariable int id){
-        Book book =Storage.getBook(id);
-        if(book==null){
+    public ResponseEntity get(@PathVariable int id) {
+        Book book = Storage.getBook(id);
+        if (book == null) {
             return ResponseEntity.status(HttpStatus.NOT_FOUND).body(null);
         }
         return new ResponseEntity(book, HttpStatus.OK);
