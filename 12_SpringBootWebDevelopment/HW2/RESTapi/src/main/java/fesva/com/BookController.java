@@ -22,6 +22,11 @@ public class BookController {
         return Storage.addBook(book);
     }
 
+    @DeleteMapping("/delete")
+    public void deleteDocument(@RequestParam(value="id") Integer id){
+        Storage.deleteById(id);
+    }
+
     @GetMapping("/books/{id}")
     public ResponseEntity get(@PathVariable int id) {
         Book book = Storage.getBook(id);

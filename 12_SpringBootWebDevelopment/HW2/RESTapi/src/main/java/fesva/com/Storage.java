@@ -50,4 +50,8 @@ public class Storage {
         return id;
     }
 
+    public static void deleteById(Integer id) {
+        //TODO: process DELETE request
+
+    }
 }
