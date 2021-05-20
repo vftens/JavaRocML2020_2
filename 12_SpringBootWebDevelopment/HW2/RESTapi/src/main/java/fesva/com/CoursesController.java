@@ -21,6 +21,17 @@ public class CoursesController {
         return new ResponseEntity(course, HttpStatus.OK);
     }
 
+    @DeleteMapping("/courses/delete/{id}")
+    public ResponseEntity deleteCourse(@PathVariable int id){
+        Courses course = Storage.getCourse(id);
+        if (course == null) {
+            return ResponseEntity.status(HttpStatus.NOT_FOUND).body(null);
+        }
+        Storage.deleteById(id);     // Удаляем по id
+        return new ResponseEntity(course, HttpStatus.OK); //.body(null);
+    }
+
+
     @PostMapping("/courses")
     public int add(Courses course) {
         return Storage.addCourse(course);
