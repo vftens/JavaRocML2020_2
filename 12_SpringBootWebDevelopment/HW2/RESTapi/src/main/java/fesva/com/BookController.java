@@ -10,6 +10,7 @@ import java.util.List;
 
 
 @RestController
+@RequestMapping("/books")
 public class BookController {
 
     @RequestMapping(value = "/books/", method = RequestMethod.GET)
@@ -22,7 +23,7 @@ public class BookController {
         return Storage.addBook(book);
     }
 
-    @DeleteMapping("/books/delete")
+    @DeleteMapping("/delete")
     public void deleteDocument(@RequestParam(value="id") Integer id){
         Storage.deleteById(id);
     }

@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.Date;
 
 @RestController
+@RequestMapping("/courses")
 public class CoursesController {
     @GetMapping("/courses")
     public String index() {
@@ -30,7 +31,6 @@ public class CoursesController {
         Storage.deleteById(id);     // Удаляем по id
         return new ResponseEntity(course, HttpStatus.OK); //.body(null);
     }
-
 
     @PostMapping("/courses")
     public int add(Courses course) {
