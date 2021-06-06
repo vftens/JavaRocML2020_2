@@ -7,24 +7,29 @@ import org.springframework.web.bind.annotation.*;
 import java.util.Date;
 
 @RestController
+@RequestMapping("/courses")
 public class CoursesController {
     @GetMapping("/courses")
     public String index() {
-        Random rnd = new fesva.com.Random();
-
-        if (rnd.nextBoolean()) {
-            return (new Date()).toString();
-        } else {
-            return String.valueOf((new Random().nextInt()));
-        }
+        return (new Date()).toString();
     }
 
     public ResponseEntity getCourse(int id) {
         Courses course = Storage.getCourse(id);
-        if (course==null){
+        if (course == null) {
             return ResponseEntity.status(HttpStatus.NOT_FOUND).body(null);
         }
         return new ResponseEntity(course, HttpStatus.OK);
+    }
+
+    @DeleteMapping("/courses/delete/{id}")
+    public ResponseEntity deleteCourse(@PathVariable int id){
+        Courses course = Storage.getCourse(id);
+        if (course == null) {
+            return ResponseEntity.status(HttpStatus.NOT_FOUND).body(null);
+        }
+        Storage.deleteById(id);     // Удаляем по id
+        return new ResponseEntity(course, HttpStatus.OK); //.body(null);
     }
 
     @PostMapping("/courses")

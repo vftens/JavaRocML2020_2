@@ -6,19 +6,13 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.Date;
 
 @RestController
+@RequestMapping("/labor")
 public class LaborController {
 
     @RequestMapping("/labor")
     public String index() {
-        Random rnd = new fesva.com.Random();
-
-        if (rnd.nextBoolean()) {
-            return (new Date()).toString();
-        } else {
-            return String.valueOf((new Random().nextInt()));
-        }
+        return ("index");
     }
-
 }
 
 
