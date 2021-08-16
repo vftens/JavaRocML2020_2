@@ -46,7 +46,11 @@ public class Main {
             s.setChatId(msg.getChatId()); // Боту может писать не один человек, и поэтому чтобы отправить сообщение, грубо говоря нужно узнать куда его отправлять
             s.setText(text);
             //Чтобы не крашнулась программа при вылете Exception
-            sendMessage(s);
+            try {
+                sendMessage(s);
+            } catch (Exception telegramApiException) {
+                telegramApiException.printStackTrace();
+            }
         }
 
         private void sendMessage(SendMessage s) {
