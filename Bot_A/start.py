@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-import functions
+import functions as funcs
 import time
 import datetime
 
