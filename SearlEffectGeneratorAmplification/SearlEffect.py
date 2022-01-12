@@ -1,4 +1,4 @@
-# copyright (C) Vitaly Feskov, 2021
+# copyright (C) Vitaly A. Feskov, 2021, 2022
 
 
 pi = 3.14159265358979323846
