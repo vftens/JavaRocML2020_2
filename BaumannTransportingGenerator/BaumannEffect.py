@@ -1,1 +1,1 @@
-# Copyryght (C) Vitaly A. Feskov, 2022
+# Copyright (C) Vitaly A. Feskov, 2022
