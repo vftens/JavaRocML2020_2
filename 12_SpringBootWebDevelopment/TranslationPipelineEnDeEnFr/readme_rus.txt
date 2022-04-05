@@ -1,0 +1,2 @@
+Вот работающий Переводчик с английского на Немецкий и Французский: 
+https://github.com/vftens/JavaRocML2020_2/blob/master/12_SpringBootWebDevelopment/TranslationPipelineEnDeEnFr/translationPipeline_de_fr.py
