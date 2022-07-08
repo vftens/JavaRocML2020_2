@@ -88,7 +88,7 @@ print('Um='+ str(Um)+' kVolt')
 print('Ntau='+ str(N_tau)+' time dilation')
 if debug: print('my_n='+str(my_n)+' fields')
 print('Feq='+ str(Feq)+' kN')
-print('F1rol='+str(F1rol)+' N')
-print('Wrot='+str(Wrot)+' kWt')
+print('F1roll='+str(F1rol)+' N')
+print('Wrotor='+str(Wrot)+' kWt')
 
 
