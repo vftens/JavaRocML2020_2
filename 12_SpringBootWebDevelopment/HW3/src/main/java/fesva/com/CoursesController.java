@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Date;
 
+// This class implements the controller for the list of users that are available with the coursesController
 @RestController
 @RequestMapping("/courses")
 public class CoursesController {

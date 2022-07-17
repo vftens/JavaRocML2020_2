@@ -9,13 +9,32 @@
 **/.idea/**/dictionaries
 **/.idea/**/shelf
 
+**/.idea/**/
+
 # Generated files
 **/.idea/**/contentModel.xml
 
 out/
 target/
+.idea/
+.bin/
+node_modules/**
 
+**/node_modules/**
+#HW3/node_modules/
+#HW4/node_modules/
+
+**/.bin/**
+
+# Files
+*.js
+*.pyc
 *.zip
+*.xml
+*.jar
+*.war
+*.ps1
+
 tensorflow*
 libtensorflow*
 

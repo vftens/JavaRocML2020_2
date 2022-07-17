@@ -39,3 +39,7 @@ public class BookController {
 
 
 }
+
+// tHIS method definition example for /delete in controller bookstore
+//
+

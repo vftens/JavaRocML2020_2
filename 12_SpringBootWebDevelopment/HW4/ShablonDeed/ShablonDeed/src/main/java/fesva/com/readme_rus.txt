@@ -40,5 +40,6 @@ spring.datasource.url=jdbc:mysql://127.0.0.1:3306/tasks?useUnicode=true&characte
 
 Такая ошибка возникает по причине отсутствия по умолчанию библиотеки JAXB в версиях JDK 11 и выше.
 
+****
 
 

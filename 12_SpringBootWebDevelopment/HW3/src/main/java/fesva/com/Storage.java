@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 import java.util.HashMap;
 import java.util.List;
-
+// This class is used for Book creation from Scratch.
 
 public class Storage {
     private static int currentId = 1;

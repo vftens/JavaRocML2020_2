@@ -22,3 +22,6 @@ Ucr = (pi/4)*( (2*Wcr*Nc*ht/((1-mu)*m*c*c*H*ln_R_a))**0.5 )
 
 
 print("Ucr="+str(Ucr)+str(' Volt'))
+
+# Schemes for Baumann Disc with parameters given in this file, and the parameters for power generation in such a way,
+# that allowed by the specification of the Grid Condensors Transformators (see generating power details)

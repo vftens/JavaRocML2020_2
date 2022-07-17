@@ -2,6 +2,9 @@ package fesva.com;
 
 import java.util.Date;
 
+// This class implements the interface for retrieving and setting the current state of the Job object and the current Salary.
+
+// ----------------------------------------------------------------
 public class Job {
     private int id;
     private String site;

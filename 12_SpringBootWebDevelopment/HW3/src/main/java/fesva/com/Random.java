@@ -1,5 +1,5 @@
 package fesva.com;
-
+// This was for Random generator
 public class Random extends java.util.Random {
 
     public nextInt random() {

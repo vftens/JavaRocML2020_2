@@ -5,7 +5,7 @@ import wave  # создание и чтение аудиофайлов форм�
 import json  # работа с json-файлами и json-строками
 import os  # работа с файловой системой
 
-
+# This is the VoiceAssistant for the languages supported EN, RU
 class VoiceAssistant:
     """
     Настройки голосового ассистента, включающие имя, пол, язык речи
@@ -150,3 +150,4 @@ if __name__ == "__main__":
         if command == "привет":
             play_voice_assistant_speech("Здравствуй")
 
+# This file is for testing purposes only now, not for production and sales purposes.

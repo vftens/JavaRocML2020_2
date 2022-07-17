@@ -1,5 +1,6 @@
 package fesva.com;
 
+// class for handling the events from the application of the books library
 public class Courses {
     private int id;
     private String name;

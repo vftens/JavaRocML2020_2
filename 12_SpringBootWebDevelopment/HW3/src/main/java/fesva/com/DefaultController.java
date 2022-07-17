@@ -13,6 +13,7 @@ public class DefaultController {
     public String index() {
         return ("index");
 
+
         /*
         Random rnd = new fesva.com.Random();
 
@@ -23,6 +24,7 @@ public class DefaultController {
         }
         */
     }
+    
 
     @RequestMapping(method = {RequestMethod.OPTIONS,
             RequestMethod.GET}, value = "/**/{path:[^\\\\.]*}")
@@ -30,3 +32,6 @@ public class DefaultController {
         return "forward:/";
     }
 }
+
+// tHIS RequestMethod value can cause issues with the request method being called with it
+//class fesva.com.Random {

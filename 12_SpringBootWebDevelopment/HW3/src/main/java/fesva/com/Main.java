@@ -21,3 +21,5 @@ public class Main{
         TimeZone.setDefault(TimeZone.getDefault());
     }
 }
+
+// This Program is for testing purposes in course only

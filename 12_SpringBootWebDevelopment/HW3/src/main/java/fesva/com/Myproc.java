@@ -10,3 +10,5 @@ public class Myproc {
         Process p = pb.start();
     }
 }
+
+// tHIS pYTHon CALLING SCRIPT FOR TEST OF PROC - START WITH PYTHON PROC AND AI
