@@ -117,7 +117,7 @@ def use_offline_recognition():
 
     return recognized_data
 
-
+# print(record_and_recognize_audio()) # запись и распознавание аудио
 if __name__ == "__main__":
 
     # инициализация инструментов распознавания и ввода речи

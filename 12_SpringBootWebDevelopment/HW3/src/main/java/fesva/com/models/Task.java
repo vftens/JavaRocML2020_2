@@ -8,6 +8,7 @@ import org.hibernate.annotations.UpdateTimestamp;
 import javax.persistence.*;
 import java.time.LocalDateTime;
 
+// 	this is needed for Hibernate 	to work properly in task for
 @Entity
 @Data
 @Table(name = "task")
