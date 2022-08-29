@@ -11,7 +11,7 @@
     </description>
     <properties>
         <slf4j.version>1.7.30</slf4j.version>
-        <httpclient.version>4.2.5</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
