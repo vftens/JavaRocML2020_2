@@ -22,3 +22,5 @@ that will make it easier to grow and make transition from money liquidation to m
 2.2.4.1) Addate the filter in neuronet to the dictionary of incremental event:
 2.2.6.2) Add a subdictionary for the interactive stored array in Java subprogram:
 
+1.1) Trying to ADD Py
+1.1) 

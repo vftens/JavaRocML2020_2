@@ -24,7 +24,7 @@ NUM_TRAIN_DATA_POINTS = 266
 NUM_TEST_DATA_POINTS = 22
 
 LEARNING_RATE = 0.1
-NUM_EPOCHS = 100
+NUM_EPOCHS = 100 # 100
 
 
 # Function to load data that we want from csv files and return final and opening prices and volume for each day
