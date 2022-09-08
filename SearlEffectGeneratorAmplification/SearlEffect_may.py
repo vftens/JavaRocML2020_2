@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # copyright (C) Vitaly A. Feskov, 2021, 2022
 
 debug=False
