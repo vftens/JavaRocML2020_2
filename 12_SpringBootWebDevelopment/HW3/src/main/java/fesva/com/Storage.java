@@ -54,4 +54,24 @@ public class Storage {
         //TODO: process DELETE request
 
     }
+
+    public static void deleteAllBooks() {
+        //TODO: process DELETE request
+        books.clear();
+
+    }
+
+    public static void deleteBookById(int id) {
+        //TODO: process DELETE request
+        books.remove(id);
+    }
+
+    public static Book getBookById(int id) {
+        return books.get(id);
+    }
+
+    public static void updateBook(Book currentBook) {
+        books.put(currentBook.getId(), currentBook);
+        //TODO: process PUT request
+    }
 }
