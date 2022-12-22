@@ -17,13 +17,17 @@ import java.util.List;
 public class BookController {
 // Организуйте хранение данных списка дел приложения ToDoList, используя базу данных.
 //Должны быть реализованы все запросы: создание дела, удаление дела, обновление дела, получение списка, удаление всего списка.
+
+
     private static final Logger LOG = LoggerFactory.getLogger(BookController.class);
     @Autowired
     private final BookRepository bookRepository;
 
+
     public BookController() {
         bookRepository = null;
     }
+
 
     @RequestMapping(value = "/books/", method = RequestMethod.GET)
     public List<Book> list() {

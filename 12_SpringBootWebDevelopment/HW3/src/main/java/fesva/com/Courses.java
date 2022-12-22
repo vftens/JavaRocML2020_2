@@ -2,7 +2,7 @@ package fesva.com;
 
 import static org.python.bouncycastle.asn1.x500.style.RFC4519Style.c;
 
-// class for handling the events from the application of the books library
+// class for handling the events from the application of the books library 
 public class Courses {
     private int id;
     private String name;

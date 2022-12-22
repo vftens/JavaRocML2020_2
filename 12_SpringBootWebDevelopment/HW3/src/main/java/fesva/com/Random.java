@@ -8,6 +8,7 @@ public class Random extends java.util.Random {
 
     private class nextInt {
         public nextInt(int i) {
+            // TODO Auto-generated constructor stub
         }
     }
 }
